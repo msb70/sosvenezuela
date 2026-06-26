@@ -116,6 +116,24 @@
   .card.proto{cursor:pointer}
   .card .ordernum{position:absolute;top:18px;right:20px;font-size:40px;font-weight:900;color:#eef1f6;line-height:1}
 
+  /* recaudo de insumos */
+  .orglogos{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:34px}
+  .logo-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);height:120px;display:flex;align-items:center;justify-content:center;padding:22px}
+  .logo-card img{max-width:100%;max-height:100%;object-fit:contain}
+  .recaudo-grid{display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:start}
+  .insumos{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .insumo{display:flex;align-items:flex-start;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:12px 14px;font-size:13.8px;box-shadow:var(--shadow)}
+  .insumo .ic{color:var(--ve-blue2);flex:none;font-size:16px;line-height:1.3}
+  .acopio{display:flex;flex-direction:column;gap:14px}
+  .acopio-city{font-size:12.5px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--ve-red);margin:6px 0 2px}
+  .acopio .card{cursor:default}
+  .acopio .card:hover{transform:none;box-shadow:var(--shadow);border-color:var(--line)}
+  .acopio h3{font-size:15.5px}
+  .acopio .addr{font-size:13.3px;color:var(--ink-soft)}
+  .acopio .hr{font-size:12.5px;color:var(--ve-blue2);font-weight:650;margin-top:4px;display:flex;align-items:center;gap:6px}
+  @media(max-width:760px){.orglogos{grid-template-columns:1fr 1fr}.recaudo-grid{grid-template-columns:1fr}.insumos{grid-template-columns:1fr 1fr}}
+  @media(max-width:480px){.insumos{grid-template-columns:1fr}}
+
   /* sub-step for platforms */
   .substep{display:none}
   .substep.show{display:block;animation:fade .3s ease}
@@ -190,6 +208,7 @@
       <a href="#organismos">Organismos de ayuda</a>
       <a href="#plataformas">Plataformas de información</a>
       <a href="#protocolo">Priorización y protocolo</a>
+      <a href="#recaudo">Recaudo de insumos</a>
     </nav>
   </div>
 </header>
@@ -314,6 +333,75 @@
   </div>
 </section>
 
+<!-- RECAUDO DE INSUMOS -->
+<section id="recaudo">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">04 · Recaudo de insumos de primera necesidad</span>
+      <h2>Campaña “Fuerza Venezuela”</h2>
+      <p>El Dividendo Voluntario para la Comunidad (DVC) y Cáritas, junto a VenAmCham y United Way Venezuela, se unen para recaudar insumos de primera necesidad ante la emergencia. Aquí encontrarás qué se requiere y los centros de acopio habilitados.</p>
+    </div>
+
+    <div class="orglogos">
+      <div class="logo-card"><img src="logos/dvc.png" alt="Dividendo Voluntario para la Comunidad" loading="lazy"></div>
+      <div class="logo-card"><img src="logos/caritas.png" alt="Cáritas Venezuela" loading="lazy"></div>
+      <div class="logo-card"><img src="logos/venamcham.png" alt="VenAmCham" loading="lazy"></div>
+      <div class="logo-card"><img src="logos/unitedway.png" alt="United Way Venezuela" loading="lazy"></div>
+    </div>
+
+    <div class="recaudo-grid">
+      <div>
+        <h3 style="font-size:19px;font-weight:780;margin-bottom:16px">Qué se requiere</h3>
+        <div class="insumos">
+          <div class="insumo"><span class="ic">🥫</span><span>Alimentos no perecederos (aceite, enlatados, granos)</span></div>
+          <div class="insumo"><span class="ic">💧</span><span>Agua potable</span></div>
+          <div class="insumo"><span class="ic">🧼</span><span>Productos de higiene personal</span></div>
+          <div class="insumo"><span class="ic">🧷</span><span>Pañales para niños y adultos, toallas sanitarias</span></div>
+          <div class="insumo"><span class="ic">💊</span><span>Medicamentos para el malestar y el resfriado</span></div>
+          <div class="insumo"><span class="ic">🩺</span><span>Insumos médicos</span></div>
+          <div class="insumo"><span class="ic">🧰</span><span>Botiquines de primeros auxilios</span></div>
+          <div class="insumo"><span class="ic">🔦</span><span>Velas, linternas, baterías</span></div>
+          <div class="insumo"><span class="ic">🧹</span><span>Artículos de limpieza (escobas, cloro, tobos, desinfectantes)</span></div>
+          <div class="insumo"><span class="ic">🛏️</span><span>Colchonetas o hamacas</span></div>
+          <div class="insumo"><span class="ic">🧣</span><span>Mantas, sábanas y cobijas</span></div>
+        </div>
+      </div>
+
+      <div>
+        <h3 style="font-size:19px;font-weight:780;margin-bottom:16px">Centros de acopio</h3>
+        <div class="acopio">
+          <div class="acopio-city">Caracas</div>
+          <div class="card">
+            <h3>G3 Logística</h3>
+            <div class="addr">Av. Principal de Los Cortijos de Lourdes, Edificio Maploca, Los Cortijos de Lourdes, Caracas.</div>
+            <div class="hr">🕘 9:00 am – 12:00 pm y 2:00 pm – 3:30 pm · lunes a viernes</div>
+          </div>
+          <div class="card">
+            <h3>Cáritas Venezuela — Sede Montalbán</h3>
+            <div class="addr">Av. Teherán, a 200 mts de la UCAB, frente a la Urb. Juan Pablo II. Sede de la Conferencia Episcopal Venezolana. Montalbán, Caracas.</div>
+          </div>
+
+          <div class="acopio-city">Valencia</div>
+          <div class="card">
+            <h3>G3 Logística</h3>
+            <div class="addr">Calle La Pedrera, Fundo Los Marines, Lote S/N, Zona Industrial San Diego, Edo. Carabobo.</div>
+            <div class="hr">🕘 9:00 am – 12:00 pm y 2:00 pm – 3:30 pm · lunes a viernes</div>
+          </div>
+
+          <div class="acopio-city">Barquisimeto</div>
+          <div class="card">
+            <h3>G3 Logística</h3>
+            <div class="addr">Zona Industrial II, Av. Principal con Calle 6, Locales 110-111-112, Municipio Iribarren, Distrito Iribarren, Barquisimeto, Edo. Lara.</div>
+            <div class="hr">🕘 9:00 am – 12:00 pm y 2:00 pm – 3:30 pm · lunes a viernes</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="muted" style="font-size:13px;margin-top:26px;border-top:1px solid var(--line);padding-top:16px">Campaña de las organizaciones mencionadas. La Fundación Eugenio Mendoza solo difunde esta información de recaudo de insumos físicos; no gestiona pagos ni donaciones monetarias a través de esta página.</p>
+  </div>
+</section>
+
 <!-- FOOTER -->
 <footer>
   <div class="wrap">
@@ -335,6 +423,7 @@
         <a href="#organismos">Organismos de ayuda</a>
         <a href="#plataformas">Plataformas de información</a>
         <a href="#protocolo">Priorización y protocolo</a>
+        <a href="#recaudo">Recaudo de insumos</a>
       </div>
       <div>
         <h4>Fundación Eugenio Mendoza</h4>
