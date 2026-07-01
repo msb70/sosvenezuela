@@ -279,7 +279,7 @@
 
     <div class="stats">
       <div class="stat r"><div class="num">7,2 / 7,5</div><div class="lbl">Magnitud del doblete sísmico</div><div class="sublbl">24 jun 2026 · 18:04 hora local</div></div>
-      <div class="stat"><div class="num">+100</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">Estado más afectado</div></div>
+      <div class="stat"><div class="num">158</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">De 189 en todo el país · estado más afectado</div></div>
       <div class="stat y"><div class="num">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
       <div class="stat g"><div class="num">11</div><div class="lbl">Plataformas de información</div><div class="sublbl">Búsqueda, mapas y vinculación</div></div>
     </div>
@@ -910,26 +910,101 @@ function showModal(){ $("#modalBg").classList.add("show"); document.body.style.o
 function closeModal(){ $("#modalBg").classList.remove("show"); document.body.style.overflow=""; }
 document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeModal(); });
 
-/* ====================== CHARTS ====================== */
+/* ====================== CHARTS 3D ====================== */
+function shade(hex,f){
+  const c=hex.replace('#','');
+  let r=parseInt(c.substr(0,2),16),g=parseInt(c.substr(2,2),16),b=parseInt(c.substr(4,2),16);
+  r=Math.max(0,Math.min(255,Math.round(r*f)));g=Math.max(0,Math.min(255,Math.round(g*f)));b=Math.max(0,Math.min(255,Math.round(b*f)));
+  return `rgb(${r},${g},${b})`;
+}
+/* Barras 3D isométricas + valores encima */
+const bar3D={
+  id:'bar3D',
+  afterDatasetsDraw(chart){
+    const ctx=chart.ctx, d=chart.$dep||10, ky=0.55;
+    chart.getDatasetMeta(0).data.forEach((bar,i)=>{
+      const v=chart.data.datasets[0].data[i];
+      const p=bar.getProps(['x','y','base','width'],true);
+      const half=p.width/2, lx=p.x-half, rx=p.x+half;
+      const col=chart.data.datasets[0].backgroundColor[i]||'#0033A0';
+      ctx.save();
+      // cara superior
+      ctx.beginPath();
+      ctx.moveTo(lx,p.y);ctx.lineTo(rx,p.y);ctx.lineTo(rx+d,p.y-d*ky);ctx.lineTo(lx+d,p.y-d*ky);ctx.closePath();
+      ctx.fillStyle=shade(col,1.32);ctx.fill();
+      // cara derecha
+      ctx.beginPath();
+      ctx.moveTo(rx,p.y);ctx.lineTo(rx,p.base);ctx.lineTo(rx+d,p.base-d*ky);ctx.lineTo(rx+d,p.y-d*ky);ctx.closePath();
+      ctx.fillStyle=shade(col,0.70);ctx.fill();
+      ctx.restore();
+      // valor
+      if(v!=null){
+        ctx.save();
+        ctx.fillStyle='#16202e';ctx.font='800 13px "Segoe UI",system-ui,sans-serif';
+        ctx.textAlign='center';ctx.textBaseline='bottom';
+        ctx.fillText(v,p.x+d/2,p.y-d*ky-4);
+        ctx.restore();
+      }
+    });
+  }
+};
+/* Doughnut con grosor 3D + valores en cada segmento */
+const doughnut3D={
+  id:'doughnut3D',
+  beforeDatasetsDraw(chart){
+    const ctx=chart.ctx, meta=chart.getDatasetMeta(0), depth=12;
+    for(let z=depth;z>0;z--){
+      meta.data.forEach((arc,i)=>{
+        const col=chart.data.datasets[0].backgroundColor[i];
+        const p=arc.getProps(['x','y','startAngle','endAngle','outerRadius','innerRadius'],true);
+        ctx.save();ctx.beginPath();
+        ctx.arc(p.x,p.y+z,p.outerRadius,p.startAngle,p.endAngle);
+        ctx.arc(p.x,p.y+z,p.innerRadius,p.endAngle,p.startAngle,true);
+        ctx.closePath();ctx.fillStyle=shade(col,0.55);ctx.fill();ctx.restore();
+      });
+    }
+  },
+  afterDatasetsDraw(chart){
+    const ctx=chart.ctx, meta=chart.getDatasetMeta(0), ds=chart.data.datasets[0];
+    meta.data.forEach((arc,i)=>{
+      const v=ds.data[i];if(!v)return;
+      const mid=(arc.startAngle+arc.endAngle)/2, r=(arc.outerRadius+arc.innerRadius)/2;
+      const x=arc.x+Math.cos(mid)*r, y=arc.y+Math.sin(mid)*r;
+      ctx.save();ctx.fillStyle='#fff';ctx.font='800 15px "Segoe UI",system-ui,sans-serif';
+      ctx.textAlign='center';ctx.textBaseline='middle';
+      ctx.shadowColor='rgba(0,0,0,.35)';ctx.shadowBlur=3;
+      ctx.fillText(v,x,y);ctx.restore();
+    });
+  }
+};
+
 function charts(){
   if(typeof Chart==="undefined") return;
   Chart.defaults.font.family="'Segoe UI',system-ui,sans-serif";
   Chart.defaults.color="#475467";
+  const barOpts=(extra={})=>({responsive:true,maintainAspectRatio:false,layout:{padding:{top:26,right:20}},
+    plugins:{legend:{display:false},...extra},
+    scales:{y:{beginAtZero:true,grace:'18%',ticks:{precision:0},grid:{color:"#eef1f5"}},x:{grid:{display:false},ticks:{font:{size:16}}}}});
 
   const rbLabels=RUBROS.map(r=>r.nombre);
   const rbCounts=RUBROS.map(r=>ORGANISMOS.filter(o=>o.rubros.includes(r.key)).length);
-  new Chart($("#chPrioridad"),{type:"bar",data:{labels:RUBROS.map(r=>r.icon),datasets:[{data:rbCounts,backgroundColor:["#00247D","#0033A0","#1668a8","#1d72c2","#3f8fd0","#6ba8dd","#9cc0e8"],borderRadius:7,maxBarThickness:42}]},
-    options:{plugins:{legend:{display:false},tooltip:{callbacks:{title:(it)=>rbLabels[it[0].dataIndex]}}},scales:{y:{beginAtZero:true,ticks:{stepSize:2,precision:0},grid:{color:"#eef1f5"}},x:{grid:{display:false},ticks:{font:{size:18}}}}}});
+  const c1=new Chart($("#chPrioridad"),{type:"bar",plugins:[bar3D],
+    data:{labels:RUBROS.map(r=>r.icon),datasets:[{data:rbCounts,backgroundColor:["#00247D","#0033A0","#1668a8","#1d72c2","#3f8fd0","#6ba8dd","#9cc0e8"],borderRadius:2,maxBarThickness:40}]},
+    options:barOpts({tooltip:{callbacks:{title:(it)=>rbLabels[it[0].dataIndex]}}})});
+  c1.$dep=9;
 
-  const ambLabels=["Venezuela","Colombia","Internacional"];
+  const ambLabels=["Venezuela","Colombia","México","Internacional"];
   const ambCounts=ambLabels.map(a=>ORGANISMOS.filter(o=>o.ambito.includes(a)).length);
-  new Chart($("#chAmbito"),{type:"bar",data:{labels:ambLabels,datasets:[{data:ambCounts,backgroundColor:["#CF142B","#FCDD09","#0033A0"],borderRadius:8,maxBarThickness:54}]},
-    options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true,ticks:{stepSize:1,precision:0},grid:{color:"#eef1f5"}},x:{grid:{display:false}}}}});
+  const c2=new Chart($("#chAmbito"),{type:"bar",plugins:[bar3D],
+    data:{labels:ambLabels,datasets:[{data:ambCounts,backgroundColor:["#CF142B","#FCDD09","#1f9d55","#0033A0"],borderRadius:2,maxBarThickness:48}]},
+    options:barOpts()});
+  c2.$dep=11;
 
   const ok=PLATAFORMAS.filter(p=>p.verifLvl==="ok").length;
   const other=PLATAFORMAS.length-ok;
-  new Chart($("#chVerif"),{type:"doughnut",data:{labels:["Ciudadana / por verificar","Oficial / institucional"],datasets:[{data:[other,ok],backgroundColor:["#CF142B","#177a3a"],borderWidth:2,borderColor:"#fff"}]},
-    options:{plugins:{legend:{position:"bottom",labels:{padding:14,usePointStyle:true,pointStyle:"circle"}}},cutout:"62%"}});
+  new Chart($("#chVerif"),{type:"doughnut",plugins:[doughnut3D],
+    data:{labels:["Ciudadana / por verificar","Oficial / institucional"],datasets:[{data:[other,ok],backgroundColor:["#CF142B","#177a3a"],borderWidth:2,borderColor:"#fff"}]},
+    options:{responsive:true,maintainAspectRatio:false,layout:{padding:{bottom:12}},plugins:{legend:{position:"bottom",labels:{padding:14,usePointStyle:true,pointStyle:"circle"}}},cutout:"58%"}});
 }
 
 /* ====================== INIT ====================== */
