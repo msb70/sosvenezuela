@@ -1,3 +1,4 @@
 *.zip
 .DS_Store
 assets_tmp/
+_prev/

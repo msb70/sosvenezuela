@@ -33,7 +33,7 @@
   .femlogo{display:inline-flex;align-items:center}
   .femlogo img,.femlogo svg{display:block;width:auto}
   .femlogo.nav{background:#fff;padding:5px 9px;border-radius:7px}
-  .femlogo.nav img,.femlogo.nav svg{height:30px}
+  .femlogo.nav img,.femlogo.nav svg{height:44px}
   .nav-logo .flag{width:34px;height:23px;border-radius:4px;box-shadow:var(--shadow);flex:none}
   .nav-links{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
   .nav-links a{padding:9px 14px;border-radius:10px;text-decoration:none;color:var(--ink-soft);font-weight:600;font-size:14.5px}
@@ -41,28 +41,33 @@
   .nav-toggle{display:none;margin-left:auto;background:none;border:1px solid var(--line);border-radius:10px;padding:8px 11px;font-size:18px;cursor:pointer}
 
   /* HERO */
-  .hero{position:relative;color:#fff;overflow:hidden;background:#0a1a3a}
-  .hero-img{position:absolute;inset:0;background-size:cover;background-position:center;filter:saturate(1.02)}
-  .hero-img::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,17,40,.55) 0%,rgba(7,17,40,.72) 45%,rgba(7,17,40,.92) 100%)}
-  .hero-in{position:relative;z-index:2;padding:74px 0 56px}
-  .hero-badge{display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);padding:7px 14px;border-radius:999px;font-size:13px;font-weight:600;letter-spacing:.4px}
-  .hero-badge .dot{width:8px;height:8px;border-radius:50%;background:var(--ve-red);box-shadow:0 0 0 4px rgba(207,20,43,.3);animation:pulse 1.8s infinite}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(207,20,43,.5)}70%{box-shadow:0 0 0 9px rgba(207,20,43,0)}100%{box-shadow:0 0 0 0 rgba(207,20,43,0)}}
-  .hero h1{font-size:clamp(44px,8vw,92px);font-weight:900;letter-spacing:-1.5px;margin:20px 0 6px;text-shadow:0 2px 30px rgba(0,0,0,.4)}
-  .hero h1 .flagbar{display:inline-block;width:auto}
-  .hero-sub{font-size:clamp(17px,2.4vw,22px);max-width:720px;color:#e9eef7;font-weight:500}
-  .hero-flag{display:inline-flex;vertical-align:middle;width:62px;height:42px;border-radius:6px;box-shadow:0 4px 14px rgba(0,0,0,.35);margin-left:6px}
-  .hero-cta{margin-top:30px;display:flex;gap:13px;flex-wrap:wrap}
-  .btn{display:inline-flex;align-items:center;gap:9px;padding:13px 22px;border-radius:12px;font-weight:700;text-decoration:none;font-size:15px;border:1px solid transparent;cursor:pointer;transition:transform .12s ease, box-shadow .12s}
-  .btn:active{transform:translateY(1px)}
-  .btn-primary{background:var(--ve-yellow);color:#3a2e00}
-  .btn-primary:hover{box-shadow:0 8px 22px rgba(252,221,9,.35)}
-  .btn-ghost{background:rgba(255,255,255,.1);color:#fff;border-color:rgba(255,255,255,.3)}
-  .btn-ghost:hover{background:rgba(255,255,255,.18)}
-  .hero-credit{position:absolute;right:12px;bottom:8px;z-index:2;font-size:10.5px;color:rgba(255,255,255,.6)}
-  .hero-logo{position:absolute;top:20px;right:22px;z-index:4;background:#fff;border:1px solid rgba(0,0,0,.10);border-radius:13px;padding:11px 16px;box-shadow:0 10px 30px rgba(0,0,0,.30)}
-  .hero-logo .femlogo img,.hero-logo .femlogo svg{height:46px}
-  @media(max-width:640px){.hero-logo{top:12px;right:12px;padding:7px 11px}.hero-logo img{height:30px}}
+  .hero{position:relative;overflow:hidden;background:#faf8f3;color:#16243f}
+  .hero-split{display:grid;grid-template-columns:1fr 1fr;min-height:clamp(460px,72vh,680px)}
+  .hero-media{position:relative;background-size:cover;background-position:62% 50%;filter:saturate(1.18) contrast(1.04)}
+  .hero-media::after{content:"";position:absolute;top:0;right:0;bottom:0;width:80px;background:linear-gradient(90deg,rgba(250,248,243,0),rgba(250,248,243,.92))}
+  .hero-panel{position:relative;display:flex;flex-direction:column;justify-content:center;padding:60px 56px;color:#16243f;background:radial-gradient(125% 85% at 88% 12%,rgba(169,130,42,.16),transparent 58%),radial-gradient(115% 95% at 4% 104%,rgba(22,36,63,.12),transparent 56%),linear-gradient(135deg,#fdfbf5 0%,#f1e8d6 100%)}
+  .hero-deco{position:absolute;right:8px;bottom:0;width:44%;max-width:300px;opacity:.09;color:#16243f;pointer-events:none;z-index:1}
+  .hero-in{position:relative;z-index:2;max-width:620px}
+  .hero-logobar{margin:0 0 22px}
+  .hero-logo-inline{display:inline-flex}
+  .hero-logo-inline img{height:auto;width:auto;max-height:104px;max-width:280px;display:block;filter:drop-shadow(0 6px 14px rgba(22,36,63,.18))}
+  .hero-eyebrow{display:block;font-size:clamp(12.5px,1.4vw,15px);font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#16243f}
+  .hero h1{font-size:clamp(28px,3.2vw,44px);font-weight:900;line-height:1.08;letter-spacing:-.3px;margin:8px 0 16px;color:#a9822a;text-transform:uppercase}
+  .hero-sub{font-size:clamp(14.5px,1.6vw,18px);max-width:560px;color:#26344f;font-weight:600;text-transform:uppercase;letter-spacing:.3px;line-height:1.4}
+  .hero-sub strong{color:#16243f;font-weight:800}
+  .hero-note{margin-top:13px;font-size:13.5px;color:#566481;font-weight:500}
+  .hero-actions{margin-top:26px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;max-width:560px}
+  .hero-navbtn{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:11px;padding:18px 16px 16px;border-radius:18px;background:linear-gradient(180deg,#ffffff 0%,#f5efe1 100%);border:1px solid #ece0c4;text-decoration:none;color:#16243f;box-shadow:0 6px 0 #e3d5b4,0 16px 24px -10px rgba(22,36,63,.40);transition:transform .13s ease,box-shadow .13s}
+  .hero-navbtn:hover{transform:translateY(-3px);box-shadow:0 9px 0 #e3d5b4,0 26px 34px -10px rgba(22,36,63,.46)}
+  .hero-navbtn:active{transform:translateY(3px);box-shadow:0 3px 0 #e3d5b4,0 10px 16px -8px rgba(22,36,63,.4)}
+  .hero-navbtn .nb-ico-img{width:66px;height:66px;flex:none;filter:drop-shadow(0 5px 10px rgba(22,36,63,.32))}
+  .hero-navbtn .nb-ico-img img,.hero-navbtn .nb-ico-img svg{width:100%;height:100%;object-fit:contain;display:block}
+  .hero-navbtn .nb-txt{display:flex;flex-direction:column;gap:2px}
+  .hero-navbtn .nb-num{font-size:12px;font-weight:800;letter-spacing:1.5px;color:#a9822a}
+  .hero-navbtn .nb-label{font-size:14px;font-weight:800;line-height:1.2;color:#16243f}
+  .hero-credit{position:absolute;left:12px;bottom:10px;z-index:3;font-size:10.5px;color:#fff;background:rgba(0,0,0,.5);padding:4px 9px;border-radius:6px;max-width:62%;line-height:1.3}
+  @media(max-width:860px){.hero-split{grid-template-columns:1fr}.hero-media{min-height:230px}.hero-media::after{display:none}.hero-panel{padding:38px 22px 44px}}
+  @media(max-width:520px){.hero-actions{grid-template-columns:1fr}.hero-navbtn{flex-direction:row;align-items:center;gap:13px}}
 
   /* DISCLAIMER */
   .disclaimer{background:#fff8e6;border-top:3px solid var(--ve-yellow);border-bottom:1px solid #f1e4b8}
@@ -156,6 +161,9 @@
   .field .k{font-size:11.5px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--ve-blue2);margin-bottom:6px;display:flex;align-items:center;gap:7px}
   .field .v{font-size:14.8px;color:var(--ink)}
   .field .v.fem{background:#fff8e6;border:1px solid #f1e4b8;border-radius:10px;padding:12px 14px;color:#5b4d12}
+  .field .v.don{background:#eef6ff;border:1px solid #cfe0f7;border-radius:10px;padding:12px 14px;color:#123a6b}
+  .field .v.don .contact-line{margin:5px 0}
+  .field .v.don a{word-break:break-all}
   .links a{display:block;font-size:13.5px;margin:4px 0;word-break:break-all}
   .contact-line{display:block;margin:3px 0;font-size:14px}
 
@@ -179,11 +187,13 @@
     .grid{grid-template-columns:1fr 1fr}
     footer .f-grid{grid-template-columns:1fr 1fr}
   }
-  @media(max-width:640px){
+  @media(max-width:1080px){
     .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:#fff;flex-direction:column;padding:10px 16px;border-bottom:1px solid var(--line);box-shadow:var(--shadow)}
     .nav-links.open{display:flex}
     .nav-links a{padding:12px 10px}
     .nav-toggle{display:block}
+  }
+  @media(max-width:640px){
     .grid{grid-template-columns:1fr}
     .stats{grid-template-columns:1fr 1fr}
     .hero-in{padding:54px 0 44px}
@@ -208,27 +218,46 @@
       <a href="#organismos">Organismos de ayuda</a>
       <a href="#plataformas">Plataformas de información</a>
       <a href="#protocolo">Priorización y protocolo</a>
-      <a href="#recaudo">Recaudo de insumos</a>
     </nav>
   </div>
 </header>
 
 <!-- HERO -->
 <section class="hero" id="inicio" style="padding:0">
-  <div class="hero-img" style="background-image:url('https://media.elestimulo.com/uploads/2026/06/image-1782386823.webp')"></div>
-  <div class="hero-logo"><span class="femlogo hero"><img src="logos/fem-75.jpg" alt="Fundación Eugenio Mendoza" onerror="this.closest('.hero-logo').style.display='none'"></span></div>
-  <div class="wrap hero-in">
-    <span class="hero-badge"><span class="dot"></span> Terremoto de Venezuela · La Guaira · 24 de junio de 2026</span>
-    <h1>SOS Venezuela
-      <svg class="hero-flag" viewBox="0 0 60 40" aria-hidden="true"><rect width="60" height="40" fill="#00247D"/><rect width="60" height="13.33" fill="#FCDD09"/><rect y="26.66" width="60" height="13.34" fill="#CF142B"/><g fill="#fff"><circle cx="20" cy="22" r="1.4"/><circle cx="25" cy="20.8" r="1.4"/><circle cx="30" cy="20.4" r="1.4"/><circle cx="35" cy="20.8" r="1.4"/><circle cx="40" cy="22" r="1.4"/></g></svg>
-    </h1>
-    <p class="hero-sub">Centro de información de la <strong>Fundación Eugenio Mendoza</strong> para orientar la ayuda humanitaria tras el terremoto: organismos confiables, plataformas de búsqueda de personas y un protocolo de priorización responsable.</p>
-    <div class="hero-cta">
-      <a class="btn btn-primary" href="#organismos">Ver organismos de ayuda</a>
-      <a class="btn btn-ghost" href="#plataformas">Buscar personas / información</a>
+  <div class="hero-split">
+  <div class="hero-media" style="background-image:url('img/portada-catia.jpg')">
+    <span class="hero-credit">Sede de Salud y Familia Catia La Mar · Escuela de Emprendedores · Fundación Eugenio Mendoza</span>
+  </div>
+  <div class="hero-panel">
+  <svg class="hero-deco" viewBox="0 0 200 140" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">
+    <path d="M8 132 V70 l30 -18 30 18 V132"/><path d="M38 52 V40"/>
+    <path d="M72 132 V58 h44 v74"/><rect x="82" y="70" width="11" height="11"/><rect x="100" y="70" width="11" height="11"/><rect x="82" y="92" width="11" height="11"/><rect x="100" y="92" width="11" height="11"/>
+    <path d="M120 132 V82 l27 -15 27 15 V132"/><path d="M174 132 V66"/>
+    <path d="M0 132 H200"/>
+  </svg>
+  <div class="hero-in">
+    <div class="hero-logobar"><span class="hero-logo-inline"><img src="logos/fem-logo.png" alt="Fundación Eugenio Mendoza · 75 años" onerror="this.closest('.hero-logobar').style.display='none'"></span></div>
+    <span class="hero-eyebrow">Plataforma institucional</span>
+    <h1>SOS Venezuela — Emergencia Sísmica Junio 2026</h1>
+    <p class="hero-sub">Su centro de <strong>información</strong>, <strong>orientación</strong> y <strong>protocolo</strong> para la <strong>mitigación</strong>.</p>
+    <p class="hero-note">Nota: Esta plataforma no recauda fondos monetarios.</p>
+    <div class="hero-actions">
+      <a class="hero-navbtn" href="#organismos" aria-label="Ir a organismos de ayuda">
+        <span class="nb-ico-img"><svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="n1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3e64"/><stop offset="1" stop-color="#0c1830"/></linearGradient><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd96"/><stop offset=".5" stop-color="#d2ab53"/><stop offset="1" stop-color="#a07828"/></linearGradient></defs><circle cx="36" cy="36" r="33" fill="url(#n1)" stroke="url(#g1)" stroke-width="3"/><ellipse cx="36" cy="23" rx="22" ry="10" fill="#fff" opacity=".08"/><path d="M36 31.5c-2.1-4-8.4-3.1-8.4 1.8 0 3.4 4.5 6.1 8.4 8.7 3.9-2.6 8.4-5.3 8.4-8.7 0-4.9-6.3-5.8-8.4-1.8z" fill="#f3dc92"/><path d="M23 45.5c2.3-2.1 5.7-2.1 8 0M41 45.5c2.3-2.1 5.7-2.1 8 0" fill="none" stroke="#f3dc92" stroke-width="3.2" stroke-linecap="round"/></svg></span>
+        <span class="nb-txt"><span class="nb-num">01</span><span class="nb-label">Organismos de ayuda</span></span>
+      </a>
+      <a class="hero-navbtn" href="#plataformas" aria-label="Ir a plataformas de información">
+        <span class="nb-ico-img"><svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="n2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3e64"/><stop offset="1" stop-color="#0c1830"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd96"/><stop offset=".5" stop-color="#d2ab53"/><stop offset="1" stop-color="#a07828"/></linearGradient></defs><circle cx="36" cy="36" r="33" fill="url(#n2)" stroke="url(#g2)" stroke-width="3"/><ellipse cx="36" cy="23" rx="22" ry="10" fill="#fff" opacity=".08"/><circle cx="33" cy="33" r="11" fill="none" stroke="#f3dc92" stroke-width="3.4"/><line x1="28.5" y1="31" x2="37.5" y2="31" stroke="#f3dc92" stroke-width="2.2" stroke-linecap="round"/><line x1="28.5" y1="35" x2="37.5" y2="35" stroke="#f3dc92" stroke-width="2.2" stroke-linecap="round"/><line x1="41" y1="41" x2="50" y2="50" stroke="#f3dc92" stroke-width="4" stroke-linecap="round"/></svg></span>
+        <span class="nb-txt"><span class="nb-num">02</span><span class="nb-label">Plataformas de información</span></span>
+      </a>
+      <a class="hero-navbtn" href="#protocolo" aria-label="Ir a priorización y protocolo">
+        <span class="nb-ico-img"><svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="n3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3e64"/><stop offset="1" stop-color="#0c1830"/></linearGradient><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd96"/><stop offset=".5" stop-color="#d2ab53"/><stop offset="1" stop-color="#a07828"/></linearGradient></defs><circle cx="36" cy="36" r="33" fill="url(#n3)" stroke="url(#g3)" stroke-width="3"/><ellipse cx="36" cy="23" rx="22" ry="10" fill="#fff" opacity=".08"/><rect x="25" y="23" width="22" height="27" rx="3.5" fill="none" stroke="#f3dc92" stroke-width="3.2"/><rect x="30.5" y="19" width="11" height="7" rx="2" fill="#f3dc92"/><path d="M30 38.5l4 4 8.5-8.5" fill="none" stroke="#f3dc92" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        <span class="nb-txt"><span class="nb-num">03</span><span class="nb-label">Priorización y protocolo</span></span>
+      </a>
     </div>
   </div>
-  <span class="hero-credit">Imagen referencial: edificio en Tanaguarena, La Guaira · cortesía El Estímulo</span>
+  </div>
+  </div>
 </section>
 
 <!-- DISCLAIMER -->
@@ -251,8 +280,8 @@
     <div class="stats">
       <div class="stat r"><div class="num">7,2 / 7,5</div><div class="lbl">Magnitud del doblete sísmico</div><div class="sublbl">24 jun 2026 · 18:04 hora local</div></div>
       <div class="stat"><div class="num">+100</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">Estado más afectado</div></div>
-      <div class="stat y"><div class="num">11</div><div class="lbl">Organismos de ayuda mapeados</div><div class="sublbl">Por la FEM, con uso recomendado</div></div>
-      <div class="stat g"><div class="num">8</div><div class="lbl">Plataformas de información</div><div class="sublbl">Búsqueda y localización de personas</div></div>
+      <div class="stat y"><div class="num">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
+      <div class="stat g"><div class="num">11</div><div class="lbl">Plataformas de información</div><div class="sublbl">Búsqueda, mapas y vinculación</div></div>
     </div>
 
     <div class="charts">
@@ -281,7 +310,7 @@
     <div class="sec-head">
       <span class="eyebrow">01 · Organismos de ayuda</span>
       <h2>Quién es quién en la respuesta humanitaria</h2>
-      <p>Elige primero el rubro de ayuda que necesitas; según el rubro aparecerán las organizaciones. Selecciona una para ver su ficha completa: contacto, país de acción, responsable de coordinación, rubro, experiencia y uso recomendado por la FEM.</p>
+      <p>Elige primero el rubro de ayuda que necesitas; según el rubro aparecerán las organizaciones. Selecciona una para ver su ficha completa: contacto, país de acción, responsable de coordinación, rubro, experiencia y uso recomendado por la FEM. Las fichas marcadas con <strong>💳 Canal de donación</strong> incluyen la vía de donación difundida por CEMEFI (plataforma en línea y datos bancarios). Verifique siempre los datos antes de transferir.</p>
     </div>
 
     <!-- step 1: rubros -->
@@ -333,75 +362,6 @@
   </div>
 </section>
 
-<!-- RECAUDO DE INSUMOS -->
-<section id="recaudo">
-  <div class="wrap">
-    <div class="sec-head">
-      <span class="eyebrow">04 · Recaudo de insumos de primera necesidad</span>
-      <h2>Campaña “Fuerza Venezuela”</h2>
-      <p>El Dividendo Voluntario para la Comunidad (DVC) y Cáritas, junto a VenAmCham y United Way Venezuela, se unen para recaudar insumos de primera necesidad ante la emergencia. Aquí encontrarás qué se requiere y los centros de acopio habilitados.</p>
-    </div>
-
-    <div class="orglogos">
-      <div class="logo-card"><img src="logos/dvc.png" alt="Dividendo Voluntario para la Comunidad" loading="lazy"></div>
-      <div class="logo-card"><img src="logos/caritas.png" alt="Cáritas Venezuela" loading="lazy"></div>
-      <div class="logo-card"><img src="logos/venamcham.png" alt="VenAmCham" loading="lazy"></div>
-      <div class="logo-card"><img src="logos/unitedway.png" alt="United Way Venezuela" loading="lazy"></div>
-    </div>
-
-    <div class="recaudo-grid">
-      <div>
-        <h3 style="font-size:19px;font-weight:780;margin-bottom:16px">Qué se requiere</h3>
-        <div class="insumos">
-          <div class="insumo"><span class="ic">🥫</span><span>Alimentos no perecederos (aceite, enlatados, granos)</span></div>
-          <div class="insumo"><span class="ic">💧</span><span>Agua potable</span></div>
-          <div class="insumo"><span class="ic">🧼</span><span>Productos de higiene personal</span></div>
-          <div class="insumo"><span class="ic">🧷</span><span>Pañales para niños y adultos, toallas sanitarias</span></div>
-          <div class="insumo"><span class="ic">💊</span><span>Medicamentos para el malestar y el resfriado</span></div>
-          <div class="insumo"><span class="ic">🩺</span><span>Insumos médicos</span></div>
-          <div class="insumo"><span class="ic">🧰</span><span>Botiquines de primeros auxilios</span></div>
-          <div class="insumo"><span class="ic">🔦</span><span>Velas, linternas, baterías</span></div>
-          <div class="insumo"><span class="ic">🧹</span><span>Artículos de limpieza (escobas, cloro, tobos, desinfectantes)</span></div>
-          <div class="insumo"><span class="ic">🛏️</span><span>Colchonetas o hamacas</span></div>
-          <div class="insumo"><span class="ic">🧣</span><span>Mantas, sábanas y cobijas</span></div>
-        </div>
-      </div>
-
-      <div>
-        <h3 style="font-size:19px;font-weight:780;margin-bottom:16px">Centros de acopio</h3>
-        <div class="acopio">
-          <div class="acopio-city">Caracas</div>
-          <div class="card">
-            <h3>G3 Logística</h3>
-            <div class="addr">Av. Principal de Los Cortijos de Lourdes, Edificio Maploca, Los Cortijos de Lourdes, Caracas.</div>
-            <div class="hr">🕘 9:00 am – 12:00 pm y 2:00 pm – 3:30 pm · lunes a viernes</div>
-          </div>
-          <div class="card">
-            <h3>Cáritas Venezuela — Sede Montalbán</h3>
-            <div class="addr">Av. Teherán, a 200 mts de la UCAB, frente a la Urb. Juan Pablo II. Sede de la Conferencia Episcopal Venezolana. Montalbán, Caracas.</div>
-          </div>
-
-          <div class="acopio-city">Valencia</div>
-          <div class="card">
-            <h3>G3 Logística</h3>
-            <div class="addr">Calle La Pedrera, Fundo Los Marines, Lote S/N, Zona Industrial San Diego, Edo. Carabobo.</div>
-            <div class="hr">🕘 9:00 am – 12:00 pm y 2:00 pm – 3:30 pm · lunes a viernes</div>
-          </div>
-
-          <div class="acopio-city">Barquisimeto</div>
-          <div class="card">
-            <h3>G3 Logística</h3>
-            <div class="addr">Zona Industrial II, Av. Principal con Calle 6, Locales 110-111-112, Municipio Iribarren, Distrito Iribarren, Barquisimeto, Edo. Lara.</div>
-            <div class="hr">🕘 9:00 am – 12:00 pm y 2:00 pm – 3:30 pm · lunes a viernes</div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <p class="muted" style="font-size:13px;margin-top:26px;border-top:1px solid var(--line);padding-top:16px">Campaña de las organizaciones mencionadas. La Fundación Eugenio Mendoza solo difunde esta información de recaudo de insumos físicos; no gestiona pagos ni donaciones monetarias a través de esta página.</p>
-  </div>
-</section>
-
 <!-- FOOTER -->
 <footer>
   <div class="wrap">
@@ -423,7 +383,6 @@
         <a href="#organismos">Organismos de ayuda</a>
         <a href="#plataformas">Plataformas de información</a>
         <a href="#protocolo">Priorización y protocolo</a>
-        <a href="#recaudo">Recaudo de insumos</a>
       </div>
       <div>
         <h4>Fundación Eugenio Mendoza</h4>
@@ -435,7 +394,7 @@
     </div>
     <div class="f-bottom">
       <span>© 2026 Fundación Eugenio Mendoza · Página de carácter informativo. No constituye canal oficial de donaciones ni de registro de personas.</span>
-      <span>Actualizado: 26/06/2026 · Verificar antes de difundir.</span>
+      <span>Actualizado: 01/07/2026 · Verificar antes de difundir.</span>
     </div>
   </div>
 </footer>
@@ -462,7 +421,8 @@ const ORGANISMOS = [
   rubro:"Coordinación interagencial, clusters, evaluaciones, 3W/5W, priorización de necesidades y fondos humanitarios",
   experiencia:"OCHA coordina el Plan de Respuesta Humanitaria y el Venezuela Humanitarian Fund; útil para no duplicar ayuda y alinear rubros con necesidades oficiales.",
   fem:"Primer punto de alineación institucional antes de movilizar ayuda desde Colombia; pedir matriz de necesidades y contactos de clúster.",
-  fuentes:["https://www.unocha.org/venezuela","https://response.reliefweb.int/es/venezuela","https://www.unocha.org/publications/report/venezuela-bolivarian-republic/venezuela-contactos-de-coordinacion-humanitaria-mayo-2026"]},
+  vinculacion:["Reportes Humanitarios 24/7 vía ReliefWeb (reportes de situación diarios).","Reporte de situación No. 3 — 26/06/2026: https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-no-3-26-de-junio-de-2026-hora-300-pm"],
+  fuentes:["https://www.unocha.org/venezuela","https://response.reliefweb.int/es/venezuela","https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-no-3-26-de-junio-de-2026-hora-300-pm"]},
 
  {prioridad:1, ambito:"Colombia", org:"Cruz Roja Colombiana",
   contacto:["donaciones@cruzrojacolombiana.org","ayuda.cruzrojacolombiana.org","RCF Colombia: 132","WhatsApp 324 530 9495","rcf@cruzrojabogota.org.co"],
@@ -516,7 +476,8 @@ const ORGANISMOS = [
   rubro:"Protección infantil, apoyo psicosocial, agua segura, salud, espacios seguros, reunificación familiar con salvaguarda",
   experiencia:"UNICEF declaró prioridad de protección de niños, niñas y adolescentes; monitorea la situación y apoya esfuerzos nacionales.",
   fem:"Coordinar información y derivación de casos de NNA; evitar publicar nombres/fotos de menores en bases abiertas.",
-  fuentes:["https://www.unicef.org/chile/comunicados-prensa/declaraci%C3%B3n-de-unicef-sobre-los-terremotos-de-magnitud-75-y-72-en-venezuela"]},
+  donacion:["UNICEF está presente desde las primeras horas para proteger a la infancia afectada.","Donaciones en línea (plataforma UNICEF México):","https://help.unicef.org/mexico/emergencia-venezuela-terremoto"],
+  fuentes:["https://www.unicef.org/chile/comunicados-prensa/declaraci%C3%B3n-de-unicef-sobre-los-terremotos-de-magnitud-75-y-72-en-venezuela","https://help.unicef.org/mexico/emergencia-venezuela-terremoto"]},
 
  {prioridad:2, ambito:"Venezuela / Internacional", org:"Save the Children Venezuela",
   contacto:["savethechildren.net","Directora país mencionada: Fatima Andraca"],
@@ -525,7 +486,8 @@ const ORGANISMOS = [
   rubro:"Protección infantil, refugio, alimentos, agua, atención médica y apoyo a familias desplazadas",
   experiencia:"Trabaja con socios en áreas afectadas, evalúa necesidades urgentes y alerta riesgos de separación familiar, explotación y abuso infantil.",
   fem:"Aliado especializado si la FEM activa información/atención para NNA y familias, con protocolo de salvaguarda.",
-  fuentes:["https://www.savethechildren.net/news/venezuela-earthquake-rescuers-race-free-people-trapped-rubble-children-forced-their-homes"]},
+  donacion:["Trabaja urgentemente con equipos y socios en las zonas afectadas para evaluar necesidades y apoyar a niños y familias.","Donación en línea (Save the Children México):","https://apoyo.savethechildren.mx/emergencias-humanitarias"],
+  fuentes:["https://www.savethechildren.net/news/venezuela-earthquake-rescuers-race-free-people-trapped-rubble-children-forced-their-homes","https://apoyo.savethechildren.mx/emergencias-humanitarias"]},
 
  {prioridad:2, ambito:"Venezuela / Internacional", org:"Médicos Sin Fronteras (MSF)",
   contacto:["msf.es/emergencia-terremoto-venezuela","msf.org.co"],
@@ -534,7 +496,8 @@ const ORGANISMOS = [
   rubro:"Kits de trauma, suministros médicos, oxígeno, medicamentos, apoyo logístico hospitalario",
   experiencia:"MSF evaluó La Guaira y donó kits de traumatología para aproximadamente 200 pacientes al Hospital José María Vargas.",
   fem:"Derivar necesidades hospitalarias críticas; no enviar medicamentos sin lista validada por hospital/MSF/autoridad sanitaria.",
-  fuentes:["https://www.msf.es/emergencia-terremoto-venezuela"]},
+  donacion:["Fondo de Emergencias para llevar atención médica a Venezuela; por ahora se donan kits de trauma a hospitales para reforzar su capacidad ante heridos graves.","Donación en línea (MSF México):","https://dona.msf.mx/form/fondo-de-emergencia-masivo-migra"],
+  fuentes:["https://www.msf.es/emergencia-terremoto-venezuela","https://dona.msf.mx/form/fondo-de-emergencia-masivo-migra"]},
 
  {prioridad:3, ambito:"Colombia", org:"Acción contra el Hambre Colombia",
   contacto:["Tel gratuito: 01800 5189758","pqr@co.acfspain.org","accioncontraelhambre.co"],
@@ -552,7 +515,118 @@ const ORGANISMOS = [
   rubro:"Protección infantil, apoyo psicosocial, ayuda humanitaria, educación en emergencias, familias migrantes",
   experiencia:"Organización de desarrollo y ayuda humanitaria enfocada en bienestar y protección de la niñez; experiencia con crisis migratoria venezolana.",
   fem:"Aliado de segundo nivel para protección de NNA, apoyo psicosocial y rutas con familias venezolanas en Colombia.",
-  fuentes:["https://worldvision.co/","https://www.wvi.org/es/publications/report/venezuela-crisis"]}
+  donacion:["Responde a las emergencias en menos de 36 horas, llevando ayuda humanitaria donde más se necesita.","Donación en línea:","https://worldvision.co/emergencia-venezuela","Nota: Visión Mundial de México AC participa únicamente difundiendo la causa; no recibe ni administra recursos. El donativo llega directamente a la entidad de World Vision Internacional que atiende la emergencia."],
+  fuentes:["https://worldvision.co/","https://www.wvi.org/es/publications/report/venezuela-crisis"]},
+
+ {prioridad:2, ambito:"Internacional", org:"CADENA — Ayuda humanitaria internacional",
+  contacto:["Plataforma de donaciones: donate.cadena.ngo/venezuelaearthquake","cadena.ngo"],
+  pais:"Internacional (respuesta a Venezuela)",
+  responsable:"CADENA Foundation Inc. / equipos de respuesta a emergencias",
+  rubro:"Respuesta a emergencias y desastres, búsqueda y rescate, ayuda humanitaria y logística en crisis",
+  experiencia:"Organización humanitaria internacional que responde a emergencias, desastres y crisis; activó plataforma de donación específica para el terremoto de Venezuela.",
+  fem:"Canal internacional para donación monetaria trazable; útil si se articulan donantes fuera de la región.",
+  donacion:["Plataforma de donaciones en línea:","https://donate.cadena.ngo/venezuelaearthquake","Transferencia bancaria — Beneficiario: CADENA FOUNDATION INC.","Banco: JP MORGAN CHASE, NA","Cuenta: 871990391","Dirección del banco: P O BOX 182051","SWIFT: CHASUS33XXX","ABA: 267084131","Dirección: 520 S Dixie Hwy Hallandale Beach FL 33009"],
+  fuentes:["https://donate.cadena.ngo/venezuelaearthquake","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"México", org:"Cáritas Mexicana – Federación Nacional",
+  contacto:["caritasmexicana.org"],
+  pais:"México (apoyo a Venezuela)",
+  responsable:"Cáritas Mexicana IAP",
+  rubro:"Colecta económica para ayuda humanitaria, alimentos y acompañamiento a población afectada",
+  experiencia:"Organismo de la Iglesia católica en México; organiza una colecta económica para apoyar a los afectados por los sismos en Venezuela.",
+  fem:"Aliado eclesial mexicano para donaciones económicas trazables; recibo y concepto claros por transferencia.",
+  donacion:["Se reciben donativos en la cuenta:","Institución: Cáritas Mexicana IAP","Banco: BBVA","Cuenta: 0123456781","CLABE: 0121 8000 12345678 15","Concepto: Emergencia Venezuela"],
+  fuentes:["https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"México", org:"Cruz Roja Mexicana",
+  contacto:["cruzrojamexicana.org.mx","Orientación a familias con familiares en Venezuela: 56 4585 3274"],
+  pais:"México (apoyo a Venezuela)",
+  responsable:"Cruz Roja Mexicana",
+  rubro:"Ayuda humanitaria, atención en emergencias y orientación a familias que buscan a un ser querido en Venezuela",
+  experiencia:"Sociedad Nacional de la Cruz Roja en México; abrió donativo por transferencia y campaña en Mercado Pago, y habilitó un teléfono de orientación para quienes buscan información de familiares en Venezuela.",
+  fem:"Canal mexicano de donación y, además, línea de orientación para familias; distinto de las Cruz Roja Colombiana y Venezolana (cuentas propias).",
+  donacion:["Donativo por transferencia bancaria — Institución: Cruz Roja Mexicana","Banco: BBVA","Cuenta: 0404 0404 6","CLABE: 0121 8000 4040 404062","También campaña de recaudación en Mercado Pago (botón Donar):","https://mpago.li/1cLriWn"],
+  fuentes:["https://www.cruzrojamexicana.org.mx/","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:1, ambito:"Venezuela / Internacional", org:"Fondo Humanitario de Venezuela — Naciones Unidas",
+  contacto:["crisisrelief.un.org/en/donate-venezuela-crisis","Transferencia directa o cheque: crisisrelief@un.org"],
+  pais:"Venezuela / internacional",
+  responsable:"Naciones Unidas — Fondo Humanitario / crisis relief",
+  rubro:"Ayuda vital, atención sanitaria, agua potable, educación y medios de vida a través de ONG locales de confianza",
+  experiencia:"Las donaciones proporcionan ayuda vital mediante decenas de ONG locales que trabajan en coordinación con las autoridades del país.",
+  fem:"Canal oficial multilateral para donación monetaria; máxima trazabilidad y cobertura vía ONG locales.",
+  donacion:["Done en línea:","https://crisisrelief.un.org/en/donate-venezuela-crisis","Para transferencia bancaria directa o cheque, escriba a:","crisisrelief@un.org"],
+  fuentes:["https://crisisrelief.un.org/en/donate-venezuela-crisis","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"México / Venezuela", org:"Fundación Origen",
+  contacto:["origenac.org","Recibo deducible: rcossu@origenac.org"],
+  pais:"México, con socios en Venezuela",
+  responsable:"Pro Ayuda a la Mujer Origen AC",
+  rubro:"Ayuda directa a familias vía socios locales (Hogar Bambi Venezuela y We Love Foundation)",
+  experiencia:"Trabaja con organizaciones en Venezuela para que la ayuda llegue directamente a las familias que lo necesitan.",
+  fem:"Aliado mexicano con socios en Venezuela y recibo deducible; útil para donantes que buscan deducibilidad en México.",
+  donacion:["Banco: Banorte","RFC: PAM-990907-AP1","Beneficiaria: Pro Ayuda A la Mujer Origen AC","Cuenta: 8001491070","CLABE: 072180080014910708","Solicite su recibo deducible a: rcossu@origenac.org","Donación en línea:","https://donorbox.org/donativo-venezuela"],
+  fuentes:["https://donorbox.org/donativo-venezuela","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"Internacional", org:"GlobalGiving",
+  contacto:["globalgiving.org/projects/venezuela-earthquake-relief-fund"],
+  pais:"Internacional (más de 50 aliados en el país)",
+  responsable:"GlobalGiving — Venezuela Earthquake Relief Fund",
+  rubro:"Fondo de respuesta que canaliza recursos a organizaciones aliadas en terreno",
+  experiencia:"Lanzó un fondo de respuesta y trabaja con más de 50 aliados en el país para atender la emergencia; las OSC que se activen podrían tenerlo como aliado.",
+  fem:"Plataforma internacional de intermediación de fondos; opción para OSC que buscan un aliado de canalización de recursos.",
+  donacion:["Más información y donación al fondo de respuesta:","https://www.globalgiving.org/projects/venezuela-earthquake-relief-fund/"],
+  fuentes:["https://www.globalgiving.org/projects/venezuela-earthquake-relief-fund/","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"Internacional", org:"OXFAM México",
+  contacto:["oxfam.mx"],
+  pais:"Internacional / México",
+  responsable:"OXFAM — respuesta a la emergencia",
+  rubro:"Ayuda humanitaria para salvar vidas y reducir el sufrimiento en la emergencia",
+  experiencia:"Prioriza salvar vidas y evitar el mayor sufrimiento posible; hace un llamado a donar y actuar antes de que la emergencia cobre más vidas.",
+  fem:"Canal internacional de donación monetaria; enfoque en respuesta rápida a la emergencia.",
+  donacion:["Donativos en línea:","https://oxfam.mx/?form=TerremotoVenezuela"],
+  fuentes:["https://oxfam.mx/?form=TerremotoVenezuela","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"México", org:"Red Unidos por Ellos (CENACED)",
+  contacto:["unidosporellxs.org.mx","#UnidosporVenezuela"],
+  pais:"México (apoyo a Venezuela)",
+  responsable:"Centro Nacional de Apoyo para Contingencias Epidemiológicas y Desastres, A.C.",
+  rubro:"Recaudación y coordinación de ayuda ante contingencias y desastres",
+  experiencia:"Red mexicana de respuesta a desastres; activó recaudación por transferencia y Mercado Pago, y difunde otras maneras de ayudar.",
+  fem:"Aliado mexicano de coordinación y recaudación; apoyar difusión con redes sociales #UnidosporVenezuela.",
+  donacion:["Banco: Santander — Cuenta: 65-50380462-1 — CLABE: 014180655038046216 — Referencia: Sismos Venezuela","Banco: Banamex (MN) — Cuenta: 9325010352 — CLABE: 002180700456248799 — Referencia: Sismos Venezuela","Campaña en Mercado Pago:","https://mpago.li/1cLriWn","Otras formas de ayudar:","https://unidosporellxs.org.mx/"],
+  fuentes:["https://unidosporellxs.org.mx/","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"México / Venezuela", org:"Rescate Internacional Topos A.C.",
+  contacto:["Movilización humanitaria en terreno (búsqueda y rescate)"],
+  pais:"México, con despliegue a Venezuela",
+  responsable:"Rescate Internacional Topos A.C.",
+  rubro:"Búsqueda y rescate urbano, personal especializado y equipo en terreno",
+  experiencia:"En proceso de movilización humanitaria: llevan personal especializado y equipo de búsqueda y rescate para apoyar en terreno.",
+  fem:"Donativo orientado a logística de traslado, operación y respuesta de búsqueda y rescate.",
+  donacion:["Banco: Banorte","CLABE: 072 180 00276 7828 060","Cuenta: 0276 7828 06","Concepto: Apoyo Venezuela"],
+  fuentes:["https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"México / Venezuela", org:"Unired — Red Universitaria (Universidad Panamericana)",
+  contacto:["up.edu.mx"],
+  pais:"México (solidaridad con Universidad Monteávila, Venezuela)",
+  responsable:"Red Universitaria para la prevención y atención de desastres (Unired) / Universidad Panamericana",
+  rubro:"Recaudación universitaria para ayuda a personas y familias afectadas",
+  experiencia:"La Red Universitaria (Unired), a través de su presidencia (Universidad Panamericana), se une en solidaridad con la Universidad Monteávila en Venezuela y activó una campaña de recaudación.",
+  fem:"Canal universitario de recaudación; útil para movilizar comunidades académicas.",
+  donacion:["Transferencia bancaria — Nombre: Centros Culturales de México","Banco: Santander","Cuenta: 014180655101127648","Concepto: Z000700"],
+  fuentes:["https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:2, ambito:"Internacional", org:"World Central Kitchen (WCK)",
+  contacto:["wck.org/news/caracas-venezuela-earthquakes"],
+  pais:"Internacional (respuesta en Venezuela)",
+  responsable:"World Central Kitchen — equipo de ayuda (Relief Team)",
+  rubro:"Comidas frescas y asistencia alimentaria a comunidades afectadas",
+  experiencia:"Proporciona comidas frescas a comunidades necesitadas en Venezuela; su equipo trabaja con socios de larga trayectoria en el país.",
+  fem:"Aliado internacional especializado en alimentación en emergencias; donación monetaria en línea.",
+  donacion:["Donación en línea:","https://wck.org/news/caracas-venezuela-earthquakes/"],
+  fuentes:["https://wck.org/news/caracas-venezuela-earthquakes/","https://www.cemefi.org/solidaridad-con-venezuela/"]}
 ];
 
 /* Catálogo de rubros y mapeo de cada organismo a sus rubros */
@@ -576,7 +650,18 @@ const ORG_RUBROS = [
  ["proteccion","refugio","alimentos","wash","salud"],// Save the Children
  ["salud"],                                          // MSF
  ["wash","alimentos","salud"],                       // Acción contra el Hambre
- ["proteccion"]                                       // World Vision
+ ["proteccion"],                                      // World Vision
+ ["salud","refugio","alimentos","busqueda"],          // CADENA
+ ["alimentos","refugio","proteccion"],                // Cáritas Mexicana
+ ["salud","busqueda","alimentos","refugio"],          // Cruz Roja Mexicana
+ ["coord","salud","wash","alimentos"],                // Fondo Humanitario ONU
+ ["proteccion","alimentos","refugio"],                // Fundación Origen
+ ["coord"],                                           // GlobalGiving
+ ["wash","alimentos","proteccion"],                   // OXFAM
+ ["coord","refugio","alimentos"],                     // Red Unidos por Ellos
+ ["busqueda","refugio"],                              // Topos
+ ["coord","alimentos","refugio"],                     // Unired
+ ["alimentos"]                                        // World Central Kitchen
 ];
 ORGANISMOS.forEach((o,i)=> o.rubros = ORG_RUBROS[i] || []);
 const rubroName = k => (RUBROS.find(r=>r.key===k)||{}).nombre || k;
@@ -610,6 +695,13 @@ const PLATAFORMAS = [
   fem:"Usar como mapa operacional preliminar para ubicar hospitales, acopios y solicitudes; validar antes de asignar recursos.",
   obs:"La página indica que es plataforma de reporte ciudadano y aconseja contactar servicios oficiales en peligro inmediato."},
 
+ {tipo:"Mapa integral", nombre:"Esri — Programa de Respuesta a Desastres (ArcGIS)", url:"https://www.esri.com/en-us/disaster-response/overview",
+  contiene:"Plataforma GIS institucional para gestión de emergencias: mapas interactivos y paneles de control en tiempo real con la ubicación de daños estructurales, fallas en servicios básicos (agua) y alertas prioritarias de rescate. Las encuestas móviles se validan automáticamente contra los puntos geográficos circundantes para asegurar datos reales antes de decidir. Incluye datos del ArcGIS Living Atlas, software, apps configurables y soporte técnico de Esri durante la activación.",
+  verif:"Plataforma profesional e institucional con validación automática de datos; orientada a uso oficial e interinstitucional.", verifLvl:"ok",
+  poblacion:"Datos operativos y geográficos agregados; menor exposición de datos personales que las plataformas ciudadanas, aunque las alertas de rescate pueden contener ubicaciones sensibles.",
+  fem:"Recomendada como plataforma común para que agencias internacionales, sociedad civil y autoridades de gobierno coordinen sobre una misma fuente verificada: situational awareness, evaluación de daños y priorización de recursos en tiempo real.",
+  obs:"Programa global de Esri (corporate citizenship) que aporta tecnología GIS, datos y soporte cuando se supera la capacidad de respuesta de una organización. Hub de datos: esri-disasterresponse.hub.arcgis.com."},
+
  {tipo:"Hospitales y pacientes", nombre:"Pacientes Terremoto Vzla", url:"https://pacientesterremotovzla.lovable.app/",
   contiene:"Localización de pacientes ingresados en hospitales tras el terremoto.",
   verif:"Ciudadano / no confirmado oficialmente.", verifLvl:"warn",
@@ -636,7 +728,21 @@ const PLATAFORMAS = [
   verif:"Institucional Cruz Roja / validar por disponibilidad.", verifLvl:"ok",
   poblacion:"Casos familiares y NNA; confidencial.",
   fem:"Canal recomendado para familias en Colombia; documentar solo datos mínimos y remitir a RCF.",
-  obs:"Reportado por medios y campaña de Cruz Roja Colombiana."}
+  obs:"Reportado por medios y campaña de Cruz Roja Colombiana."},
+
+ {tipo:"Mapa integral", nombre:"Copernicus EMS — Europe's eyes on Earth", url:"https://mapping.emergency.copernicus.eu/activations/EMSR884/",
+  contiene:"Mapeo satelital de la emergencia en Venezuela (activación EMSR884): cartografía de daños y extensión del evento generada por el servicio de gestión de emergencias de la Unión Europea.",
+  verif:"Plataforma institucional oficial (Programa Copernicus de la Unión Europea).", verifLvl:"ok",
+  poblacion:"Datos geográficos y de daños agregados; sin datos personales.",
+  fem:"Fuente cartográfica oficial para evaluación de daños y planificación; complementa a Esri/ArcGIS para situational awareness.",
+  obs:"Difundida por CEMEFI en el bloque de información y vinculación. Activación EMSR884."},
+
+ {tipo:"Agregador ciudadano", nombre:"S.O.S. Venezuela | Centro de Información Verificada", url:"https://emergencia-venezuela-148841102133.us-west1.run.app/",
+  contiene:"Plataforma que centraliza la información clave de la emergencia y permite enviar reportes de daños, solicitudes o emergencias directamente, contribuyendo a mapear la situación.",
+  verif:"Se presenta como 'Centro de Información Verificada'; confirmar alcance y verificación antes de replicar registros individuales.", verifLvl:"mid",
+  poblacion:"Puede incluir reportes con datos personales y posibles NNA; alto cuidado.",
+  fem:"Usar como canal de consulta y para orientar el envío de reportes; no descargar ni replicar registros individuales sin base legal.",
+  obs:"Difundida por CEMEFI como plataforma que centraliza lo que se necesita saber y recibe reportes."}
 ];
 
 const PROTOCOLO = [
@@ -678,6 +784,7 @@ const esc = s => (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g
 const pPill = p => `<span class="pill p${p}">Prioridad ${p}</span>`;
 const fixUrl = u => u.startsWith("http") ? u : "https://"+u;
 function urlText(u){ return u.replace(/^https?:\/\//,'').replace(/\/$/,''); }
+function linkify(s){ return esc(s).replace(/(https?:\/\/[^\s]+)/g, m=>`<a href="${m}" target="_blank" rel="noopener">${esc(urlText(m))} ↗</a>`); }
 
 /* ---- ORGANISMOS (selección por rubro) ---- */
 function renderOrgRubros(){
@@ -699,7 +806,7 @@ function openRubroOrg(key){
   $("#orgGrid").innerHTML = ORGANISMOS.map((o,i)=>{
     if(!o.rubros.includes(key)) return "";
     return `<div class="card" onclick="openOrg(${i})">
-      <div class="tag-row"><span class="pill type">${esc(o.ambito)}</span></div>
+      <div class="tag-row"><span class="pill type">${esc(o.ambito)}</span>${o.donacion?'<span class="pill ok">💳 Canal de donación</span>':''}</div>
       <h3>${esc(o.org)}</h3>
       <div class="meta">📍 ${esc(o.pais)}</div>
       <div class="excerpt">${esc(o.rubro)}</div>
@@ -719,6 +826,8 @@ function openOrg(i){
     field("Responsable de coordinación sugerido", esc(o.responsable), "🧭")+
     field("Rubro principal que asiste", esc(o.rubro), "📦")+
     field("Experiencia / valor agregado", esc(o.experiencia), "⭐")+
+    (o.donacion? fieldDon("Cómo donar (canal difundido por CEMEFI)", o.donacion) : "")+
+    (o.vinculacion? fieldVinc("Información y vinculación", o.vinculacion) : "")+
     fieldFem("Uso recomendado por la FEM", esc(o.fem))+
     field("Fuentes", `<div class="links">`+o.fuentes.map(u=>`<a href="${fixUrl(u)}" target="_blank" rel="noopener">${esc(urlText(u))} ↗</a>`).join("")+`</div>`, "🔗");
   showModal();
@@ -795,6 +904,8 @@ function openProto(i){
 /* ---- modal utils ---- */
 function field(k,v,ico){ return `<div class="field"><div class="k">${ico||""} ${k}</div><div class="v">${v}</div></div>`; }
 function fieldFem(k,v){ return `<div class="field"><div class="k">⭐ ${k}</div><div class="v fem">${v}</div></div>`; }
+function fieldDon(k,lines){ return `<div class="field"><div class="k">💳 ${k}</div><div class="v don">`+lines.map(l=>`<span class="contact-line">${linkify(l)}</span>`).join("")+`</div></div>`; }
+function fieldVinc(k,lines){ return `<div class="field"><div class="k">🔗 ${k}</div><div class="v">`+lines.map(l=>`<span class="contact-line">${linkify(l)}</span>`).join("")+`</div></div>`; }
 function showModal(){ $("#modalBg").classList.add("show"); document.body.style.overflow="hidden"; }
 function closeModal(){ $("#modalBg").classList.remove("show"); document.body.style.overflow=""; }
 document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeModal(); });
