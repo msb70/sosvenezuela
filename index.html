@@ -83,13 +83,17 @@
   .sec-head h2{font-size:clamp(28px,4vw,40px);font-weight:850;letter-spacing:-.5px}
   .sec-head p{margin-top:12px;font-size:16.5px;color:var(--ink-soft)}
 
-  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
   .stat{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:24px 22px;box-shadow:var(--shadow);position:relative;overflow:hidden}
   .stat::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--ve-blue2)}
   .stat.r::before{background:var(--ve-red)} .stat.y::before{background:var(--ve-yellow)} .stat.g::before{background:#1d72c2}
   .stat .num{font-size:38px;font-weight:900;letter-spacing:-1px;line-height:1}
   .stat .lbl{margin-top:8px;font-size:13.5px;color:var(--ink-soft);font-weight:600}
   .stat .sublbl{font-size:11.5px;color:#98a2b3;margin-top:3px}
+  .stat .sublbl a{color:inherit;text-decoration:underline}
+  .stat .live{display:inline-flex;align-items:center;gap:5px;color:#0a8a4f;font-weight:800}
+  .stat .live::before{content:"";width:7px;height:7px;border-radius:50%;background:#12b76a;animation:pulse 1.8s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(18,183,106,.55)}70%{box-shadow:0 0 0 7px rgba(18,183,106,0)}100%{box-shadow:0 0 0 0 rgba(18,183,106,0)}}
 
   .charts{display:grid;grid-template-columns:1.1fr 1.1fr 1fr;gap:18px;margin-top:22px}
   .chart-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow)}
@@ -279,6 +283,8 @@
 
     <div class="stats">
       <div class="stat r"><div class="num">7,2 / 7,5</div><div class="lbl">Magnitud del doblete sísmico</div><div class="sublbl">24 jun 2026 · 18:04 hora local</div></div>
+      <div class="stat r"><div class="num" id="kpiFallecidos">1.943</div><div class="lbl">Fallecidos confirmados</div><div class="sublbl" id="srcFallecidos">Cifra referencial · verificar</div></div>
+      <div class="stat"><div class="num" id="kpiDesaparecidos">+50.000</div><div class="lbl">Personas desaparecidas</div><div class="sublbl" id="srcDesaparecidos">Cifra referencial · verificar</div></div>
       <div class="stat"><div class="num">158</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">De 189 en todo el país · estado más afectado</div></div>
       <div class="stat y"><div class="num">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
       <div class="stat g"><div class="num">11</div><div class="lbl">Plataformas de información</div><div class="sublbl">Búsqueda, mapas y vinculación</div></div>
@@ -1007,8 +1013,50 @@ function charts(){
     options:{responsive:true,maintainAspectRatio:false,layout:{padding:{bottom:12}},plugins:{legend:{position:"bottom",labels:{padding:14,usePointStyle:true,pointStyle:"circle"}}},cutout:"58%"}});
 }
 
+/* ====================== KPI EN VIVO (Wikipedia) ====================== */
+/* Los KPI de fallecidos y desaparecidos se alimentan del artículo de Wikipedia
+   "Terremotos de Venezuela de 2026" en cada carga. Si la fuente no responde o el
+   dato no es plausible, se conserva el valor de respaldo (última cifra conocida). */
+function fmtNum(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g,'.'); }
+function grabBefore(block, kw){
+  const m = block.match(new RegExp('(\\d[\\d\\s.,]*\\d|\\d)\\s*(?:'+kw+')','i'));
+  return m ? parseCount(m[1]) : null;
+}
+function parseCount(text){
+  if(!text) return null;
+  const m = String(text).replace(/&nbsp;/g,' ').replace(/\[\[|\]\]/g,'').match(/(\d[\d.\s ,]*\d|\d)/);
+  if(!m) return null;
+  const n = parseInt(m[1].replace(/[.\s ,]/g,''),10);
+  return isNaN(n)?null:n;
+}
+function setKPI(numId, srcId, val, url, fecha){
+  const numEl=document.getElementById(numId); if(numEl) numEl.textContent=val;
+  const srcEl=document.getElementById(srcId);
+  if(srcEl) srcEl.innerHTML=`<span class="live">En vivo</span> · <a href="${url}" target="_blank" rel="noopener">Wikipedia</a> · ${fecha} · cifra referencial`;
+}
+async function loadLiveStats(){
+  const PAGE="Terremotos_de_Venezuela_de_2026";
+  const API="https://es.wikipedia.org/w/api.php?action=parse&page="+PAGE+"&prop=wikitext&section=0&format=json&redirects=1&origin=*";
+  const WIKI_URL="https://es.wikipedia.org/wiki/"+PAGE;
+  try{
+    const r=await fetch(API,{cache:"no-store"});
+    if(!r.ok) throw 0;
+    const j=await r.json();
+    const wt=j && j.parse && j.parse.wikitext ? j.parse.wikitext["*"] : "";
+    if(!wt) throw 0;
+    // el recuadro (arriba del artículo) trae "+N muertos … +N desaparecidos"; se toma el
+    // primer número que antecede a cada palabra clave (el infobox aparece primero en el texto)
+    const block=wt.replace(/&nbsp;|&#160;/g,' ');
+    let f=grabBefore(block,'muertos|fallecidos|muertes');
+    let d=grabBefore(block,'desaparecid\\w*');
+    const hoy=new Date().toLocaleDateString('es-ES',{day:'2-digit',month:'short',year:'numeric'});
+    if(f!==null && f>=1 && f<=200000) setKPI('kpiFallecidos','srcFallecidos',fmtNum(f),WIKI_URL,hoy);
+    if(d!==null && d>=1 && d<=500000) setKPI('kpiDesaparecidos','srcDesaparecidos',fmtNum(d),WIKI_URL,hoy);
+  }catch(e){ /* conserva las cifras de respaldo del HTML */ }
+}
+
 /* ====================== INIT ====================== */
-renderOrgRubros(); renderTipos(); renderProto(); charts();
+renderOrgRubros(); renderTipos(); renderProto(); charts(); loadLiveStats();
 </script>
 </body>
 </html>
