@@ -431,9 +431,11 @@
         <input id="cfEmail" name="email" type="email" required maxlength="120" autocomplete="email" placeholder="tucorreo@ejemplo.com">
         <label for="cfMsg">Solicitud de información</label>
         <textarea id="cfMsg" name="mensaje" required maxlength="2000" placeholder="Describe qué información necesitas o el motivo de tu contacto"></textarea>
-        <button type="submit" class="send-btn">Enviar solicitud ✉</button>
-        <p class="form-note">Al pulsar «Enviar» se abrirá tu aplicación de correo con el mensaje listo para enviar a contacto@apoyo-fem-vzla.org. Esta página no almacena tus datos.</p>
-        <div class="sent-ok" id="cfOk">Se abrió tu aplicación de correo. Si no ocurrió nada, escribe directamente a <strong>contacto@apoyo-fem-vzla.org</strong>.</div>
+        <input type="text" name="web" id="cfWeb" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;height:1px;width:1px" aria-hidden="true">
+        <button type="submit" class="send-btn" id="cfSend">Enviar solicitud ✉</button>
+        <p class="form-note">Tu solicitud se envía a contacto@apoyo-fem-vzla.org. Usamos tus datos únicamente para responderte; esta página no los almacena ni comparte.</p>
+        <div class="sent-ok" id="cfOk">✓ Solicitud enviada correctamente. Te responderemos al correo indicado.</div>
+        <div class="sent-ok" id="cfErr" style="background:#fdeeef;border-color:#f2c2c8;color:#8a1f2d">No se pudo enviar en este momento. Escribe directamente a <strong>contacto@apoyo-fem-vzla.org</strong>.</div>
       </form>
     </div>
   </div>
@@ -1257,16 +1259,26 @@ async function loadLiveStats(){
 }
 
 /* ====================== CONTACTO ====================== */
-function sendContact(e){
+async function sendContact(e){
   e.preventDefault();
-  const n=document.getElementById('cfNombre').value.trim();
-  const a=document.getElementById('cfApellido').value.trim();
-  const em=document.getElementById('cfEmail').value.trim();
-  const msg=document.getElementById('cfMsg').value.trim();
-  const subject=encodeURIComponent('Solicitud de información — SOS Venezuela ('+n+' '+a+')');
-  const body=encodeURIComponent('Nombre: '+n+' '+a+'\nCorreo de contacto: '+em+'\n\nSolicitud:\n'+msg+'\n\n— Enviado desde apoyo-fem-vzla.org');
-  window.location.href='mailto:contacto@apoyo-fem-vzla.org?subject='+subject+'&body='+body;
-  document.getElementById('cfOk').style.display='block';
+  const form=document.getElementById('contactForm');
+  const btn=document.getElementById('cfSend');
+  const ok=document.getElementById('cfOk'), err=document.getElementById('cfErr');
+  ok.style.display='none'; err.style.display='none';
+  btn.disabled=true; const btnTxt=btn.textContent; btn.textContent='Enviando…';
+  try{
+    const res=await fetch('contact.php',{method:'POST',body:new FormData(form)});
+    const data=await res.json();
+    if(res.ok && data.ok){
+      form.reset();
+      ok.style.display='block';
+    }else{
+      err.style.display='block';
+    }
+  }catch(_){
+    err.style.display='block';
+  }
+  btn.disabled=false; btn.textContent=btnTxt;
   return false;
 }
 function copyContactMail(btn){
