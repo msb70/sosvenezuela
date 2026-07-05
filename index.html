@@ -748,7 +748,119 @@ const PLATAFORMAS = [
   verif:"Se presenta como 'Centro de Información Verificada'; confirmar alcance y verificación antes de replicar registros individuales.", verifLvl:"mid",
   poblacion:"Puede incluir reportes con datos personales y posibles NNA; alto cuidado.",
   fem:"Usar como canal de consulta y para orientar el envío de reportes; no descargar ni replicar registros individuales sin base legal.",
-  obs:"Difundida por CEMEFI como plataforma que centraliza lo que se necesita saber y recibe reportes."}
+  obs:"Difundida por CEMEFI como plataforma que centraliza lo que se necesita saber y recibe reportes."},
+
+ {tipo:"Búsqueda de personas", nombre:"SaluPro", url:"https://apoyo.salu.pro/",
+  contiene:"Registro centralizado y gratuito de personas desaparecidas tras la catástrofe; permite buscar a un ser querido o reportar una desaparición.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Datos personales y posibles NNA; alto cuidado.",
+  fem:"Incluir como enlace de búsqueda complementario; recomendar confirmación con Cruz Roja/autoridades/hospitales.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Hospitales y pacientes", nombre:"Hospitales en Venezuela", url:"https://hospitalesenvenezuela.com",
+  contiene:"App gratuita para encontrar a familiares ingresados en hospitales o centros de salud tras el sismo.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Muy alto: salud, hospitalización y posibles menores.",
+  fem:"Solo derivar enlaces a familiares directos; no integrar datos clínicos a sistemas FEM sin base legal/consentimiento.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Salud y apoyo psicológico", nombre:"Estamos Contigo Vnzla", url:"https://www.estamoscontigovzla.com",
+  contiene:"Espacio seguro de apoyo psicológico para contar lo que sientes, a tu ritmo y con total confidencialidad.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Alto: salud mental y posibles casos de trauma; confidencialidad crítica.",
+  fem:"Derivar a personas afectadas que requieran contención emocional; el apoyo especializado debe darlo personal entrenado.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Salud y apoyo psicológico", nombre:"Venemergencia", url:"https://venemergencia.com/",
+  contiene:"Telemedicina: consulta con un médico 24/7 sin importar dónde estés.",
+  verif:"Empresa de salud establecida en Venezuela; validar condiciones del servicio durante la emergencia.", verifLvl:"ok",
+  poblacion:"Datos de salud; tratamiento confidencial.",
+  fem:"Canal recomendable para orientación médica remota cuando no hay acceso presencial.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Salud y apoyo psicológico", nombre:"Nueve Once", url:"https://www.nueveonce.com/",
+  contiene:"Servicios de urgencias y atención preventiva, con y sin seguro.",
+  verif:"Empresa de salud establecida en Venezuela; validar cobertura y disponibilidad durante la emergencia.", verifLvl:"ok",
+  poblacion:"Datos de salud; tratamiento confidencial.",
+  fem:"Referir para urgencias médicas cuando los canales oficiales estén saturados.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Refugios y alojamiento", nombre:"Refugios Venezuela", url:"https://refugiosvenezuela.com/",
+  contiene:"Registro de refugios, alojamiento y centros de alimentación disponibles.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Ubicación de personas desplazadas, incluidas familias con NNA.",
+  fem:"Usar como directorio preliminar de albergues; validar cada refugio antes de derivar familias.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Refugios y alojamiento", nombre:"Zona Segura", url:"https://zonasegurave.com/",
+  contiene:"Reportes comunitarios de suministros, refugios, daños estructurales, mascotas perdidas y emergencias.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Reportes con datos personales y ubicaciones; cuidado al difundir.",
+  fem:"Consultar como termómetro comunitario de necesidades; verificar antes de asignar recursos.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Logística y transporte", nombre:"Rescate VE", url:"https://rescate-ve.vercel.app/",
+  contiene:"Transportistas aliados conectan acopios, hospitales y comunidades aisladas con rutas trazadas en tiempo real.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Datos operativos y de ubicación; menor exposición de datos personales.",
+  fem:"Útil para coordinar traslado de donaciones; confirmar cada ruta y transportista antes de despachar carga.",
+  obs:"Deploy temporal (vercel.app); revisar disponibilidad periódicamente. Difundida por EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Logística y transporte", nombre:"Wawa", url:"https://ayuda.enwawa.com",
+  contiene:"Registra tu necesidad o tu vehículo; con operaciones válidas asigna una unidad compatible según su cotización y coordina el financiamiento con donantes.",
+  verif:"Plataforma de transporte existente adaptada a la emergencia; por verificar en operación.", verifLvl:"mid",
+  poblacion:"Datos de contacto y ubicación de solicitantes.",
+  fem:"Canal para emparejar necesidades de transporte con vehículos y financiamiento; documentar cada operación.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Donaciones y acopio", nombre:"Ayuda en Camino", url:"https://ayudaencamino.com/necesidades",
+  contiene:"Lista lo que los centros de acopio, refugios y ONGs necesitan recibir ahora mismo; permite elegir qué donar o hacer y comprometerse directamente con la organización.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Datos de organizaciones; baja exposición de datos personales.",
+  fem:"Usar para orientar donaciones en especie hacia necesidades reales y evitar duplicación en acopios.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Donaciones y acopio", nombre:"Centros de Acopio Vzla", url:"https://acopiovzla.com",
+  contiene:"Directorio para encontrar dónde llevar tu donación.",
+  verif:"Ciudadano / por verificar. El propio sitio advierte que la información puede cambiar rápido.", verifLvl:"mid",
+  poblacion:"Datos de centros de acopio; baja exposición de datos personales.",
+  fem:"Recomendar llamar al centro antes de salir, tal como indica la plataforma; verificar vigencia antes de difundir.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Inspección de habitabilidad", nombre:"Ingenieros por Vnzla", url:"https://habitable.lovable.app",
+  contiene:"Registro de ingenieros voluntarios para inspección de habitabilidad y reporte de edificios dañados.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Datos de voluntarios y direcciones de inmuebles.",
+  fem:"Canalizar ingenieros voluntarios y reportes de daños; las inspecciones formales deben validarse con autoridades competentes.",
+  obs:"Deploy temporal (lovable.app); revisar disponibilidad periódicamente. Difundida por EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Denuncias", nombre:"SOSVEN — Reporte de denuncias", url:"https://sosven.site/denuncias.html",
+  contiene:"Espacio para reportar actos delictivos como el robo de ayuda humanitaria. La denuncia es anónima y los datos de contacto no serán públicos.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Denunciantes en situación de riesgo; anonimato crítico.",
+  fem:"Difundir como canal de denuncia ciudadana; no replicar denuncias individuales.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Denuncias", nombre:"Venezuela Sin Trabas", url:"https://sosven.site/denuncias.html",
+  contiene:"Registro ciudadano para documentar bloqueos, retrasos, cobros indebidos y negativas oficiales que afectan la respuesta a la emergencia tras los terremotos del 24 de junio de 2026.",
+  verif:"Ciudadano / sin verificar. La URL difundida coincide con la de SOSVEN; confirmar dirección propia.", verifLvl:"warn",
+  poblacion:"Denunciantes en situación de riesgo; anonimato crítico.",
+  fem:"Verificar la URL correcta antes de difundir; usar como registro documental de obstáculos a la respuesta.",
+  obs:"El post de EY Venezuela (Instagram, 03/07/2026) publica la misma URL que SOSVEN; posible errata."},
+
+ {tipo:"Mascotas", nombre:"Huella Scan", url:"https://www.huellascan.com/terremoto",
+  contiene:"Protección inteligente y perfiles digitales para mascotas.",
+  verif:"Empresa/servicio existente adaptado a la emergencia; por verificar en operación.", verifLvl:"mid",
+  poblacion:"Datos de dueños de mascotas; baja sensibilidad relativa.",
+  fem:"Enlazar para familias que buscan o registran mascotas; no es canal de emergencias humanas.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Mascotas", nombre:"Patitas a Salvo", url:"https://migenteve.com",
+  contiene:"Registro de mascotas perdidas, encontradas o con necesidad médica después del terremoto; la comunidad puede buscar por zona, compartir casos y ubicar reportes en el mapa.",
+  verif:"Ciudadano / por verificar.", verifLvl:"mid",
+  poblacion:"Datos de contacto de reportantes; baja sensibilidad relativa.",
+  fem:"Enlazar para reunificación de mascotas con sus familias; no es canal de emergencias humanas.",
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."}
 ];
 
 const PROTOCOLO = [
@@ -842,7 +954,7 @@ function openOrg(i){
 /* ---- PLATAFORMAS ---- */
 function renderTipos(){
   const tipos = [...new Set(PLATAFORMAS.map(p=>p.tipo))];
-  const icons = {"Agregador ciudadano":"🗂️","Búsqueda de personas":"🔎","Mapa integral":"🗺️","Hospitales y pacientes":"🏥","Buscador / prensa":"📰","Emergencias oficiales":"🚨","Restablecimiento familiar":"👨‍👩‍👧"};
+  const icons = {"Agregador ciudadano":"🗂️","Búsqueda de personas":"🔎","Mapa integral":"🗺️","Hospitales y pacientes":"🏥","Buscador / prensa":"📰","Emergencias oficiales":"🚨","Restablecimiento familiar":"👨‍👩‍👧","Salud y apoyo psicológico":"🩺","Refugios y alojamiento":"⛺","Logística y transporte":"🚚","Donaciones y acopio":"📦","Inspección de habitabilidad":"🏗️","Denuncias":"📣","Mascotas":"🐾"};
   $("#tipoGrid").innerHTML = tipos.map(t=>{
     const c = PLATAFORMAS.filter(p=>p.tipo===t).length;
     return `<div class="card" onclick="openTipo('${t.replace(/'/g,"\\'")}')">
