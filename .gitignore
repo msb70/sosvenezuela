@@ -2,3 +2,4 @@
 .DS_Store
 assets_tmp/
 _prev/
+.fuse_hidden*
