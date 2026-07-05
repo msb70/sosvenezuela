@@ -173,6 +173,28 @@
   .links a{display:block;font-size:13.5px;margin:4px 0;word-break:break-all}
   .contact-line{display:block;margin:3px 0;font-size:14px}
 
+  /* CONTACTO */
+  .contact-grid{display:grid;grid-template-columns:1fr 1.3fr;gap:26px;align-items:start}
+  .contact-info{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:26px 24px;box-shadow:var(--shadow)}
+  .contact-info h3{font-size:18px;font-weight:800;margin-bottom:10px}
+  .contact-info p{margin:0 0 14px;font-size:14.5px;color:var(--ink-soft)}
+  .contact-mail{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:#eef6ff;border:1px solid #cfe0f7;border-radius:10px;padding:12px 14px}
+  .contact-mail a{font-weight:700;font-size:15px;word-break:break-all}
+  .copy-btn{border:1px solid var(--line);background:#fff;border-radius:8px;padding:6px 12px;font-size:12.5px;font-weight:700;cursor:pointer;color:var(--ink-soft)}
+  .copy-btn:hover{background:var(--bg)}
+  .cform{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:26px 24px;box-shadow:var(--shadow)}
+  .cform .frow{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .cform label{display:block;font-size:12px;font-weight:800;letter-spacing:.8px;text-transform:uppercase;color:var(--ve-blue2);margin:14px 0 6px}
+  .cform label:first-child{margin-top:0}
+  .cform input,.cform textarea{width:100%;border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:15px;font-family:inherit;color:var(--ink);background:#fff}
+  .cform input:focus,.cform textarea:focus{outline:none;border-color:var(--ve-blue2);box-shadow:0 0 0 3px rgba(0,51,160,.12)}
+  .cform textarea{min-height:130px;resize:vertical}
+  .cform .send-btn{margin-top:18px;width:100%;border:none;border-radius:12px;padding:14px;font-size:15.5px;font-weight:800;color:#fff;background:var(--ve-blue2);cursor:pointer;box-shadow:0 8px 20px rgba(0,51,160,.28);transition:transform .13s,box-shadow .13s}
+  .cform .send-btn:hover{transform:translateY(-2px);box-shadow:0 12px 26px rgba(0,51,160,.34)}
+  .cform .form-note{margin-top:12px;font-size:12.5px;color:#98a2b3;line-height:1.45}
+  .cform .sent-ok{display:none;margin-top:14px;background:#e8f7ef;border:1px solid #b9e6cd;color:#0a6b3d;border-radius:10px;padding:11px 14px;font-size:14px;font-weight:600}
+  @media(max-width:860px){.contact-grid{grid-template-columns:1fr}.cform .frow{grid-template-columns:1fr}}
+
   /* FOOTER */
   footer{background:#0c1830;color:#c7d2e4;padding:50px 0 30px;margin-top:20px}
   footer .f-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:34px}
@@ -224,6 +246,7 @@
       <a href="#organismos">Organismos de ayuda</a>
       <a href="#plataformas">Plataformas de información</a>
       <a href="#protocolo">Priorización y protocolo</a>
+      <a href="#contacto">Contacto</a>
     </nav>
   </div>
 </header>
@@ -375,6 +398,47 @@
   </div>
 </section>
 
+<!-- CONTACTO -->
+<section id="contacto">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">04 · Contacto</span>
+      <h2>Contacta a la Fundación Eugenio Mendoza</h2>
+      <p>Si deseas comunicarte con la FEM sobre esta iniciativa —solicitar información, reportar una corrección o proponer colaboración—, utiliza el formulario o escribe directamente al correo de esta página.</p>
+    </div>
+    <div class="contact-grid">
+      <div class="contact-info">
+        <h3>Correo de esta iniciativa</h3>
+        <p>Canal dedicado de la plataforma SOS Venezuela. Respondemos consultas informativas; esta vía <strong>no gestiona emergencias</strong> — ante peligro inmediato llama al 911 / 112 / *1 / 171.</p>
+        <div class="contact-mail">
+          <a href="mailto:contacto@apoyo-fem-vzla.org" id="contactMailLink">contacto@apoyo-fem-vzla.org</a>
+          <button type="button" class="copy-btn" onclick="copyContactMail(this)">Copiar</button>
+        </div>
+        <p style="margin-top:16px">También puedes usar los canales institucionales de la FEM listados al pie de la página.</p>
+      </div>
+      <form class="cform" id="contactForm" onsubmit="return sendContact(event)">
+        <div class="frow">
+          <div>
+            <label for="cfNombre">Nombre</label>
+            <input id="cfNombre" name="nombre" type="text" required maxlength="60" autocomplete="given-name" placeholder="Tu nombre">
+          </div>
+          <div>
+            <label for="cfApellido">Apellido</label>
+            <input id="cfApellido" name="apellido" type="text" required maxlength="60" autocomplete="family-name" placeholder="Tu apellido">
+          </div>
+        </div>
+        <label for="cfEmail">Correo electrónico</label>
+        <input id="cfEmail" name="email" type="email" required maxlength="120" autocomplete="email" placeholder="tucorreo@ejemplo.com">
+        <label for="cfMsg">Solicitud de información</label>
+        <textarea id="cfMsg" name="mensaje" required maxlength="2000" placeholder="Describe qué información necesitas o el motivo de tu contacto"></textarea>
+        <button type="submit" class="send-btn">Enviar solicitud ✉</button>
+        <p class="form-note">Al pulsar «Enviar» se abrirá tu aplicación de correo con el mensaje listo para enviar a contacto@apoyo-fem-vzla.org. Esta página no almacena tus datos.</p>
+        <div class="sent-ok" id="cfOk">Se abrió tu aplicación de correo. Si no ocurrió nada, escribe directamente a <strong>contacto@apoyo-fem-vzla.org</strong>.</div>
+      </form>
+    </div>
+  </div>
+</section>
+
 <!-- FOOTER -->
 <footer>
   <div class="wrap">
@@ -396,11 +460,13 @@
         <a href="#organismos">Organismos de ayuda</a>
         <a href="#plataformas">Plataformas de información</a>
         <a href="#protocolo">Priorización y protocolo</a>
+        <a href="#contacto">Contacto</a>
       </div>
       <div>
         <h4>Fundación Eugenio Mendoza</h4>
         <a href="https://fundacioneugeniomendoza.com/" target="_blank" rel="noopener">Sitio web oficial ↗</a>
         <a href="https://www.instagram.com/fundacioneugeniomendoza/" target="_blank" rel="noopener">Instagram ↗</a>
+        <a href="mailto:contacto@apoyo-fem-vzla.org">contacto@apoyo-fem-vzla.org</a>
         <a href="mailto:contacto@fundacioneugeniomendoza.com">contacto@fundacioneugeniomendoza.com</a>
         <a href="https://fundacioneugeniomendoza.com/contacto/" target="_blank" rel="noopener">Contáctanos ↗</a>
       </div>
@@ -1188,6 +1254,25 @@ async function loadLiveStats(){
     if(f!==null && f>=1 && f<=200000) setKPI('kpiFallecidos','srcFallecidos',fmtNum(f),WIKI_URL,hoy);
     if(d!==null && d>=1 && d<=500000) setKPI('kpiDesaparecidos','srcDesaparecidos',fmtNum(d),WIKI_URL,hoy);
   }catch(e){ /* conserva las cifras de respaldo del HTML */ }
+}
+
+/* ====================== CONTACTO ====================== */
+function sendContact(e){
+  e.preventDefault();
+  const n=document.getElementById('cfNombre').value.trim();
+  const a=document.getElementById('cfApellido').value.trim();
+  const em=document.getElementById('cfEmail').value.trim();
+  const msg=document.getElementById('cfMsg').value.trim();
+  const subject=encodeURIComponent('Solicitud de información — SOS Venezuela ('+n+' '+a+')');
+  const body=encodeURIComponent('Nombre: '+n+' '+a+'\nCorreo de contacto: '+em+'\n\nSolicitud:\n'+msg+'\n\n— Enviado desde apoyo-fem-vzla.org');
+  window.location.href='mailto:contacto@apoyo-fem-vzla.org?subject='+subject+'&body='+body;
+  document.getElementById('cfOk').style.display='block';
+  return false;
+}
+function copyContactMail(btn){
+  navigator.clipboard.writeText('contacto@apoyo-fem-vzla.org').then(()=>{
+    btn.textContent='Copiado ✓'; setTimeout(()=>{btn.textContent='Copiar';},2000);
+  }).catch(()=>{ window.prompt('Copia el correo:','contacto@apoyo-fem-vzla.org'); });
 }
 
 /* ====================== INIT ====================== */
