@@ -100,6 +100,8 @@
   .chart-card h3{font-size:15px;font-weight:750;margin-bottom:4px}
   .chart-card .ch-sub{font-size:12.5px;color:var(--ink-soft);margin-bottom:14px}
   .chart-box{position:relative;height:210px}
+  .chart-card.wide{grid-column:1/-1}
+  .chart-card.wide .chart-box{height:240px}
 
   /* TABS / FILTERS */
   .filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:26px}
@@ -286,8 +288,8 @@
       <div class="stat r"><div class="num" id="kpiFallecidos">1.943</div><div class="lbl">Fallecidos confirmados</div><div class="sublbl" id="srcFallecidos">Cifra referencial · verificar</div></div>
       <div class="stat"><div class="num" id="kpiDesaparecidos">+50.000</div><div class="lbl">Personas desaparecidas</div><div class="sublbl" id="srcDesaparecidos">Cifra referencial · verificar</div></div>
       <div class="stat"><div class="num">158</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">De 189 en todo el país · estado más afectado</div></div>
-      <div class="stat y"><div class="num">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
-      <div class="stat g"><div class="num">11</div><div class="lbl">Plataformas de información</div><div class="sublbl">Búsqueda, mapas y vinculación</div></div>
+      <div class="stat y"><div class="num" id="kpiOrgs">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
+      <div class="stat g"><div class="num" id="kpiPlats">27</div><div class="lbl">Plataformas de información</div><div class="sublbl" id="kpiPlatsSub">En 14 categorías: búsqueda, salud, refugios, logística, acopio y más</div></div>
     </div>
 
     <div class="charts">
@@ -305,6 +307,11 @@
         <h3>Verificación de las plataformas</h3>
         <div class="ch-sub">La mayoría son ciudadanas y sin verificar: precaución</div>
         <div class="chart-box"><canvas id="chVerif"></canvas></div>
+      </div>
+      <div class="chart-card wide">
+        <h3>Plataformas por tipo de información</h3>
+        <div class="ch-sub" id="chTiposSub">Cuántas plataformas cubren cada categoría — incluye el compendio de EY Venezuela y CEMEFI</div>
+        <div class="chart-box"><canvas id="chTipos"></canvas></div>
       </div>
     </div>
   </div>
@@ -400,7 +407,7 @@
     </div>
     <div class="f-bottom">
       <span>© 2026 Fundación Eugenio Mendoza · Página de carácter informativo. No constituye canal oficial de donaciones ni de registro de personas.</span>
-      <span>Actualizado: 01/07/2026 · Verificar antes de difundir.</span>
+      <span>Actualizado: 05/07/2026 · Verificar antes de difundir.</span>
     </div>
   </div>
 </footer>
@@ -952,13 +959,13 @@ function openOrg(i){
 }
 
 /* ---- PLATAFORMAS ---- */
+const TIPO_ICONS = {"Agregador ciudadano":"🗂️","Búsqueda de personas":"🔎","Mapa integral":"🗺️","Hospitales y pacientes":"🏥","Buscador / prensa":"📰","Emergencias oficiales":"🚨","Restablecimiento familiar":"👨‍👩‍👧","Salud y apoyo psicológico":"🩺","Refugios y alojamiento":"⛺","Logística y transporte":"🚚","Donaciones y acopio":"📦","Inspección de habitabilidad":"🏗️","Denuncias":"📣","Mascotas":"🐾"};
 function renderTipos(){
   const tipos = [...new Set(PLATAFORMAS.map(p=>p.tipo))];
-  const icons = {"Agregador ciudadano":"🗂️","Búsqueda de personas":"🔎","Mapa integral":"🗺️","Hospitales y pacientes":"🏥","Buscador / prensa":"📰","Emergencias oficiales":"🚨","Restablecimiento familiar":"👨‍👩‍👧","Salud y apoyo psicológico":"🩺","Refugios y alojamiento":"⛺","Logística y transporte":"🚚","Donaciones y acopio":"📦","Inspección de habitabilidad":"🏗️","Denuncias":"📣","Mascotas":"🐾"};
   $("#tipoGrid").innerHTML = tipos.map(t=>{
     const c = PLATAFORMAS.filter(p=>p.tipo===t).length;
     return `<div class="card" onclick="openTipo('${t.replace(/'/g,"\\'")}')">
-      <div style="font-size:30px">${icons[t]||"📄"}</div>
+      <div style="font-size:30px">${TIPO_ICONS[t]||"📄"}</div>
       <h3>${esc(t)}</h3>
       <div class="meta">${c} plataforma${c>1?'s':''} disponible${c>1?'s':''}</div>
       <div class="open">Ver plataformas →</div>
@@ -1123,6 +1130,22 @@ function charts(){
   new Chart($("#chVerif"),{type:"doughnut",plugins:[doughnut3D],
     data:{labels:["Ciudadana / por verificar","Oficial / institucional"],datasets:[{data:[other,ok],backgroundColor:["#CF142B","#177a3a"],borderWidth:2,borderColor:"#fff"}]},
     options:{responsive:true,maintainAspectRatio:false,layout:{padding:{bottom:12}},plugins:{legend:{position:"bottom",labels:{padding:14,usePointStyle:true,pointStyle:"circle"}}},cutout:"58%"}});
+
+  const tipoLabels=[...new Set(PLATAFORMAS.map(p=>p.tipo))];
+  const tipoCounts=tipoLabels.map(t=>PLATAFORMAS.filter(p=>p.tipo===t).length);
+  const pal=["#00247D","#0033A0","#1668a8","#1d72c2","#3f8fd0","#6ba8dd","#9cc0e8"];
+  const c4=new Chart($("#chTipos"),{type:"bar",plugins:[bar3D],
+    data:{labels:tipoLabels.map(t=>TIPO_ICONS[t]||"📄"),datasets:[{data:tipoCounts,backgroundColor:tipoLabels.map((_,i)=>pal[i%pal.length]),borderRadius:2,maxBarThickness:36}]},
+    options:barOpts({tooltip:{callbacks:{title:(it)=>tipoLabels[it[0].dataIndex]}}})});
+  c4.$dep=8;
+}
+
+/* KPI dinámicos desde los datos */
+function updateCounters(){
+  const nTipos=[...new Set(PLATAFORMAS.map(p=>p.tipo))].length;
+  const o=$("#kpiOrgs"); if(o) o.textContent=ORGANISMOS.length;
+  const p=$("#kpiPlats"); if(p) p.textContent=PLATAFORMAS.length;
+  const s=$("#kpiPlatsSub"); if(s) s.textContent=`En ${nTipos} categorías: búsqueda, salud, refugios, logística, acopio y más`;
 }
 
 /* ====================== KPI EN VIVO (Wikipedia) ====================== */
@@ -1168,7 +1191,7 @@ async function loadLiveStats(){
 }
 
 /* ====================== INIT ====================== */
-renderOrgRubros(); renderTipos(); renderProto(); charts(); loadLiveStats();
+renderOrgRubros(); renderTipos(); renderProto(); charts(); updateCounters(); loadLiveStats();
 </script>
 </body>
 </html>
