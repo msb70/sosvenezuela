@@ -349,10 +349,13 @@
     </div>
 
     <div class="stats">
-      <div class="stat r"><div class="num">7,2 / 7,5</div><div class="lbl">Magnitud del doblete sísmico</div><div class="sublbl">24 jun 2026 · 18:04 hora local</div></div>
+      <div class="stat r"><div class="num">7,2 / 7,5</div><div class="lbl">Magnitud del doblete sísmico</div><div class="sublbl">24 jun 2026 · eje San Felipe–Yumare–Montalbán (Yaracuy/Carabobo) · 1.048 réplicas (OCHA, 6 jul)</div></div>
       <div class="stat r"><div class="num" id="kpiFallecidos">1.943</div><div class="lbl">Fallecidos confirmados</div><div class="sublbl" id="srcFallecidos">Cifra referencial · verificar</div></div>
       <div class="stat"><div class="num" id="kpiDesaparecidos">+50.000</div><div class="lbl">Personas desaparecidas</div><div class="sublbl" id="srcDesaparecidos">Cifra referencial · verificar</div></div>
-      <div class="stat"><div class="num">158</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">De 189 en todo el país · estado más afectado</div></div>
+      <div class="stat"><div class="num">158</div><div class="lbl">Edificios colapsados en La Guaira</div><div class="sublbl">De 189 en el país · +2.500 infraestructuras dañadas en 7 estados · USAR internacionales en desmovilización progresiva (OCHA, 6 jul)</div></div>
+      <div class="stat g"><div class="num">6.462</div><div class="lbl">Personas rescatadas</div><div class="sublbl">Balance oficial · OCHA SitRep 13 · 06/07/2026</div></div>
+      <div class="stat r"><div class="num">16.740</div><div class="lbl">Personas heridas</div><div class="sublbl">Balance oficial · OCHA SitRep 13 · 06/07/2026</div></div>
+      <div class="stat y"><div class="num">17.854</div><div class="lbl">Personas sin vivienda</div><div class="sublbl">Campamentos transitorios en preparación · OCHA SitRep 13 · 06/07/2026</div></div>
       <div class="stat y"><div class="num" id="kpiOrgs">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
       <div class="stat g"><div class="num" id="kpiPlats">27</div><div class="lbl">Plataformas de información</div><div class="sublbl" id="kpiPlatsSub">En 14 categorías: búsqueda, salud, refugios, logística, acopio y más</div></div>
     </div>
@@ -517,7 +520,7 @@
     </div>
     <div class="f-bottom">
       <span>© 2026 Fundación Eugenio Mendoza · Página de carácter informativo. No constituye canal oficial de donaciones ni de registro de personas.</span>
-      <span>Actualizado: 05/07/2026 · Verificar antes de difundir.</span>
+      <span>Actualizado: 08/07/2026 · Verificar antes de difundir.</span>
     </div>
   </div>
 </footer>
@@ -544,7 +547,7 @@ const ORGANISMOS = [
   rubro:"Coordinación interagencial, clusters, evaluaciones, 3W/5W, priorización de necesidades y fondos humanitarios",
   experiencia:"OCHA coordina el Plan de Respuesta Humanitaria y el Venezuela Humanitarian Fund; útil para no duplicar ayuda y alinear rubros con necesidades oficiales.",
   fem:"Primer punto de alineación institucional antes de movilizar ayuda desde Colombia; pedir matriz de necesidades y contactos de clúster.",
-  vinculacion:["Reportes Humanitarios 24/7 vía ReliefWeb (reportes de situación diarios).","Reporte de situación No. 3 — 26/06/2026: https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-no-3-26-de-junio-de-2026-hora-300-pm"],
+  vinculacion:["Reportes Humanitarios 24/7 vía ReliefWeb (reportes de situación diarios).","Reporte de situación No. 13 — 06/07/2026: https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-13-06-de-julio-de-2026-hora-0800-pm","Reporte de situación No. 5 — 28/06/2026: https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-no-5-28-june-2026-time-500-pm","Reporte de situación No. 3 — 26/06/2026: https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-no-3-26-de-junio-de-2026-hora-300-pm","OCHA identificó 3 hubs estratégicos de servicios multisectoriales en La Guaira (alimentos, salud, agua, saneamiento e higiene)."],
   fuentes:["https://www.unocha.org/venezuela","https://response.reliefweb.int/es/venezuela","https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-no-3-26-de-junio-de-2026-hora-300-pm"]},
 
  {prioridad:1, ambito:"Colombia", org:"Cruz Roja Colombiana",
@@ -749,7 +752,17 @@ const ORGANISMOS = [
   experiencia:"Proporciona comidas frescas a comunidades necesitadas en Venezuela; su equipo trabaja con socios de larga trayectoria en el país.",
   fem:"Aliado internacional especializado en alimentación en emergencias; donación monetaria en línea.",
   donacion:["Donación en línea:","https://wck.org/news/caracas-venezuela-earthquakes/"],
-  fuentes:["https://wck.org/news/caracas-venezuela-earthquakes/","https://www.cemefi.org/solidaridad-con-venezuela/"]}
+  fuentes:["https://wck.org/news/caracas-venezuela-earthquakes/","https://www.cemefi.org/solidaridad-con-venezuela/"]},
+
+ {prioridad:1, ambito:"Venezuela / Internacional", org:"Connecting Business initiative (CBi) — OCHA / PNUD · Sector privado",
+  contacto:["connectingbusiness@un.org","Contribuciones: Elisa Trujillo — elisa.trujilloleyva@un.org","Página de la emergencia: connectingbusiness.org/ourwork/emergencies/venezuela-earthquakes-june-2026"],
+  pais:"Venezuela / internacional (redes empresariales de China, Colombia, México, Panamá y otros)",
+  responsable:"Coordinador de Sector Privado de CBi desplegado en Venezuela (enlace entre actores humanitarios, empresas y redes aliadas)",
+  rubro:"Coordinación de contribuciones del sector privado: financiamiento, logística, experticia operativa y alineación de la ayuda corporativa con las necesidades priorizadas",
+  experiencia:"Iniciativa conjunta OCHA-PNUD que moviliza redes empresariales ante desastres. En esta emergencia articula a empresas y redes como AFE, Airbnb, Amazon, Bancolombia, FIID y The Peaceland Foundation. Ejemplos: CENACED (México) activó su protocolo Unidos por Ellos y la campaña «Superemos el 7.5»; CentraRSE + BAC (Guatemala) recaudan para asistencia médica con donaciones igualadas por una farmacéutica; CIP (Ecuador), con LATAM, Grupo Entregas y la Cámara Ecuatoriano-Venezolana, despachó un primer vuelo con 55 toneladas de ayuda; DANEC aportó 100 pallets y 1.500 cajas para logística.",
+  fem:"Canal recomendado para empresas y gremios que quieran donar o aportar logística: coordinar vía CBi antes de movilizar, reportar la contribución en su formulario y consultar el Business Brief. Evita duplicación y alinea el aporte corporativo con las necesidades oficiales.",
+  vinculacion:["Business Brief para el sector privado: https://www.connectingbusiness.org/publications/briefing-note-private-sector-venezuela-earthquakes-2026","Tablero público de contribuciones del sector privado: https://ven-eq.connectingbusiness.org/","Reportar una contribución realizada: https://forms.monday.com/forms/7d7b84c02a0f8b65b359552f17daaa2e?r=euc1","Donación oficial ONU: https://crisisrelief.un.org/en/donate-venezuela-crisis"],
+  fuentes:["https://www.connectingbusiness.org/ourwork/emergencies/venezuela-earthquakes-june-2026","https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-no-5-28-june-2026-time-500-pm"]}
 ];
 
 /* Catálogo de rubros y mapeo de cada organismo a sus rubros */
@@ -784,7 +797,8 @@ const ORG_RUBROS = [
  ["coord","refugio","alimentos"],                     // Red Unidos por Ellos
  ["busqueda","refugio"],                              // Topos
  ["coord","alimentos","refugio"],                     // Unired
- ["alimentos"]                                        // World Central Kitchen
+ ["alimentos"],                                       // World Central Kitchen
+ ["coord"]                                            // CBi (OCHA/PNUD) — sector privado
 ];
 ORGANISMOS.forEach((o,i)=> o.rubros = ORG_RUBROS[i] || []);
 const rubroName = k => (RUBROS.find(r=>r.key===k)||{}).nombre || k;
@@ -977,7 +991,21 @@ const PLATAFORMAS = [
   verif:"Ciudadano / por verificar.", verifLvl:"mid",
   poblacion:"Datos de contacto de reportantes; baja sensibilidad relativa.",
   fem:"Enlazar para reunificación de mascotas con sus familias; no es canal de emergencias humanas.",
-  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."}
+  obs:"Difundida en el compendio de plataformas de EY Venezuela (Instagram, 03/07/2026)."},
+
+ {tipo:"Sector privado y empresas", nombre:"CBi — Emergencia Venezuela (OCHA / PNUD)", url:"https://www.connectingbusiness.org/ourwork/emergencies/venezuela-earthquakes-june-2026",
+  contiene:"Página oficial de la iniciativa Connecting Business (OCHA-PNUD) para el sector privado: panorama actualizado de la emergencia, Business Brief con orientaciones para empresas, formulario para reportar contribuciones y contacto de coordinación (elisa.trujilloleyva@un.org).",
+  verif:"Plataforma institucional oficial de Naciones Unidas (OCHA / PNUD); actualización frecuente mientras dure la emergencia.", verifLvl:"ok",
+  poblacion:"Información agregada y de coordinación; sin datos personales de afectados.",
+  fem:"Punto de entrada recomendado para empresas, cámaras y gremios que quieran donar fondos, logística o experticia: leer el Business Brief y coordinar antes de movilizar ayuda.",
+  obs:"CBi desplegó un Coordinador de Sector Privado en Venezuela para alinear los aportes corporativos con las necesidades priorizadas."},
+
+ {tipo:"Sector privado y empresas", nombre:"Tablero de contribuciones del sector privado (CBi)", url:"https://ven-eq.connectingbusiness.org/",
+  contiene:"Registro público de las contribuciones del sector privado a la respuesta al terremoto: qué han aportado empresas y redes empresariales a la fecha.",
+  verif:"Plataforma institucional oficial (CBi / OCHA-PNUD).", verifLvl:"ok",
+  poblacion:"Datos corporativos agregados; sin datos personales de afectados.",
+  fem:"Usar para transparencia y para evitar duplicación: consultar qué ya se está aportando antes de definir una nueva contribución empresarial.",
+  obs:"Las organizaciones que ya contribuyeron pueden reportarlo en: https://forms.monday.com/forms/7d7b84c02a0f8b65b359552f17daaa2e?r=euc1"}
 ];
 
 const PROTOCOLO = [
@@ -1069,7 +1097,7 @@ function openOrg(i){
 }
 
 /* ---- PLATAFORMAS ---- */
-const TIPO_ICONS = {"Agregador ciudadano":"🗂️","Búsqueda de personas":"🔎","Mapa integral":"🗺️","Hospitales y pacientes":"🏥","Buscador / prensa":"📰","Emergencias oficiales":"🚨","Restablecimiento familiar":"👨‍👩‍👧","Salud y apoyo psicológico":"🩺","Refugios y alojamiento":"⛺","Logística y transporte":"🚚","Donaciones y acopio":"📦","Inspección de habitabilidad":"🏗️","Denuncias":"📣","Mascotas":"🐾"};
+const TIPO_ICONS = {"Agregador ciudadano":"🗂️","Búsqueda de personas":"🔎","Mapa integral":"🗺️","Hospitales y pacientes":"🏥","Buscador / prensa":"📰","Emergencias oficiales":"🚨","Restablecimiento familiar":"👨‍👩‍👧","Salud y apoyo psicológico":"🩺","Refugios y alojamiento":"⛺","Logística y transporte":"🚚","Donaciones y acopio":"📦","Inspección de habitabilidad":"🏗️","Denuncias":"📣","Mascotas":"🐾","Sector privado y empresas":"🏢"};
 function renderTipos(){
   const tipos = [...new Set(PLATAFORMAS.map(p=>p.tipo))];
   $("#tipoGrid").innerHTML = tipos.map(t=>{
