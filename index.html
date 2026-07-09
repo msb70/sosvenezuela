@@ -287,6 +287,8 @@
       <a href="#panorama">Panorama</a>
       <a href="#organismos">Organismos de ayuda</a>
       <a href="#plataformas">Plataformas de información</a>
+      <a href="#hospitales">Hospitales de campaña</a>
+      <a href="#situacion">Situación oficial</a>
       <a href="#protocolo">Priorización y protocolo</a>
       <a href="#contacto">Contacto</a>
     </nav>
@@ -356,8 +358,8 @@
       <div class="stat g"><div class="num">6.462</div><div class="lbl">Personas rescatadas</div><div class="sublbl">Balance oficial · OCHA SitRep 13 · 06/07/2026</div></div>
       <div class="stat r"><div class="num">16.740</div><div class="lbl">Personas heridas</div><div class="sublbl">Balance oficial · OCHA SitRep 13 · 06/07/2026</div></div>
       <div class="stat y"><div class="num">17.854</div><div class="lbl">Personas sin vivienda</div><div class="sublbl">80 campamentos transitorios activos (12.806 ocupantes, 73%): 37 Caracas · 22 Miranda · 21 La Guaira · OCHA SitRep 13 · 06/07/2026</div></div>
-      <div class="stat y"><div class="num" id="kpiOrgs">22</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
-      <div class="stat g"><div class="num" id="kpiPlats">27</div><div class="lbl">Plataformas de información</div><div class="sublbl" id="kpiPlatsSub">En 14 categorías: búsqueda, salud, refugios, logística, acopio y más</div></div>
+      <div class="stat y"><div class="num" id="kpiOrgs">23</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
+      <div class="stat g"><div class="num" id="kpiPlats">31</div><div class="lbl">Plataformas de información</div><div class="sublbl" id="kpiPlatsSub">En 15 categorías: búsqueda, salud, refugios, logística, acopio y más</div></div>
     </div>
 
     <div class="charts">
@@ -431,11 +433,145 @@
   </div>
 </section>
 
+<!-- HOSPITALES DE CAMPAÑA -->
+<style>
+  #hospitales .grid, #situacion .grid{grid-template-columns:repeat(3,1fr)}
+  .hosp-svc{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+  .hosp-svc span{font-size:12px;font-weight:650;color:#31507e;background:#eef3fb;border:1px solid #e0e8f4;border-radius:999px;padding:3px 9px}
+  .hosp-cta{background:#eafaf0;border:1px solid #bfe8cf;border-radius:14px;padding:18px 20px;margin-top:24px;color:#14532d;font-size:14.8px;box-shadow:var(--shadow)}
+  .hosp-cta strong{color:#0f3d22}
+  .src-note{font-size:12.5px;color:#98a2b3;margin-top:14px}
+  .sit-list{list-style:none;display:flex;flex-direction:column;gap:8px;font-size:13.8px;color:var(--ink-soft)}
+  .sit-list li{display:flex;gap:8px;align-items:flex-start}
+  .sit-list li::before{content:"•";color:var(--ve-blue2);font-weight:900;line-height:1.35}
+  .sit-list b{color:var(--ink)}
+  .info-note{background:#f4f7fc;border:1px solid #dbe6f5;border-left:4px solid var(--ve-blue2);border-radius:12px;padding:16px 18px;font-size:13.8px;color:var(--ink);margin-top:22px;box-shadow:var(--shadow)}
+  .info-note a{color:var(--ve-blue2);font-weight:650}
+  @media(max-width:900px){#hospitales .grid,#situacion .grid{grid-template-columns:1fr}}
+</style>
+<section id="hospitales">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">03 · Hospitales de campaña</span>
+      <h2>Dónde recibir atención médica</h2>
+      <p>Se han instalado hospitales de campaña en La Guaira y zonas cercanas para atender a la población afectada por el terremoto. Todos estos centros están a la espera de pacientes y pueden recibir referencias. Si necesitas atención médica —o conoces a alguien que la necesita— acude o refiere a la persona al centro más cercano.</p>
+    </div>
+    <div class="grid acopio">
+      <div class="card">
+        <div class="tag-row"><span class="pill p1">País: Venezuela</span></div>
+        <h3>1 · Terminal de Catia La Mar</h3>
+        <div class="meta">📍 Catia La Mar, La Guaira</div>
+        <div class="hosp-svc"><span>Triaje</span><span>Medicina General</span><span>Pediatría</span><span>Medicina Interna</span><span>Traumatología</span><span>Cirugía</span><span>Ecosonograma</span><span>Laboratorio básico</span><span>Rx</span></div>
+      </div>
+      <div class="card">
+        <div class="tag-row"><span class="pill p2">Responsable: Fuerzas Armadas</span></div>
+        <h3>2 · Hospital de Campaña Polideportivo</h3>
+        <div class="meta">📍 Polideportivo, La Guaira</div>
+        <div class="hosp-svc"><span>Triaje</span><span>Medicina General</span><span>Pediatría</span><span>Medicina Interna</span><span>Cirugía</span><span>Traumatología</span><span>Quirófano (cirugía menor)</span><span>Ecosonograma</span><span>Laboratorio básico</span><span>Rx</span></div>
+      </div>
+      <div class="card">
+        <div class="tag-row"><span class="pill p2">Apoyo: EE. UU. · Samaritan's Purse</span><span class="pill ok">Activo</span></div>
+        <h3>3 · Campo de Béisbol, La Guaira</h3>
+        <div class="meta">📍 Campo de béisbol, La Guaira</div>
+        <div class="hosp-svc"><span>Triaje</span><span>Medicina General</span><span>Pediatría</span><span>Medicina Interna</span><span>Cirugía</span><span>Traumatología</span><span>Ginecología y Obstetricia</span><span>Quirófano</span><span>Ecosonograma</span><span>Laboratorio básico</span><span>Rx</span></div>
+      </div>
+      <div class="card">
+        <div class="tag-row"><span class="pill p2">Responsable: IVSS</span><span class="pill ok">Activo</span></div>
+        <h3>4 · Hospital de Campaña Campo de Golf</h3>
+        <div class="meta">📍 Campo de golf, La Guaira</div>
+        <div class="hosp-svc"><span>Triaje</span><span>Medicina General</span><span>Pediatría</span><span>Medicina Interna</span><span>Cirugía</span><span>Quirófano</span><span>Ecosonograma</span><span>Laboratorio básico</span><span>Rx</span></div>
+      </div>
+      <div class="card">
+        <div class="tag-row"><span class="pill p1">País: Brasil</span></div>
+        <h3>5 · Hospital de Campaña El Playón</h3>
+        <div class="meta">📍 El Playón (sector Banbú)</div>
+        <div class="hosp-svc"><span>Triaje</span><span>Medicina General</span><span>Pediatría</span><span>Medicina Interna</span><span>Cirugía</span><span>Quirófano</span><span>Ecosonograma</span><span>Laboratorio</span></div>
+      </div>
+      <div class="card">
+        <div class="tag-row"><span class="pill p2">Apoyo: Barbados · Min. de Turismo</span></div>
+        <h3>6 · Hospital de Campaña Los Caracas</h3>
+        <div class="meta">📍 Los Caracas, Vargas</div>
+        <div class="hosp-svc"><span>Triaje</span><span>Medicina General</span><span>Pediatría</span><span>Medicina Interna</span><span>Cirugía</span><span>Ginecología</span><span>Quirófano</span><span>Ecosonograma</span><span>Laboratorio</span><span>Rx</span></div>
+      </div>
+    </div>
+    <div class="hosp-cta">
+      🏥 <strong>Capacidad instalada disponible.</strong> En la bajada de El Playón (sector Banbú) y en el <strong>Estadio Jorge Luis García Carneiro</strong> se instaló un hospital de campaña con capacidad para atender <strong>hasta 200 pacientes de forma simultánea</strong>: consultas médicas generales, odontología, traumatología, cirugías menores, rayos X y laboratorio clínico. Hasta ahora ha recibido pocos pacientes: <strong>no dejemos que esta capacidad se desaproveche.</strong> Si necesitas atención, acude o refiere a quien la necesite.
+    </div>
+    <p class="src-note">Información difundida en medios y redes (julio 2026). Confirma disponibilidad y horarios de cada centro antes de trasladarte.</p>
+  </div>
+</section>
+
+<!-- SITUACIÓN OFICIAL Y RESPUESTA -->
+<section id="situacion" style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">04 · Situación oficial y respuesta</span>
+      <h2>El contexto de la emergencia</h2>
+      <p>Resumen basado en el Reporte de Situación N.° 3 de UNICEF (período 28 de junio – 2 de julio de 2026). Datos de contexto y de respuesta humanitaria; no sustituyen las cifras diarias del Panorama.</p>
+    </div>
+    <div class="grid acopio">
+      <div class="card">
+        <h3>Qué ocurrió</h3>
+        <ul class="sit-list">
+          <li>Dos terremotos de magnitud <b>7,2 y 7,5</b> el 24 de junio de 2026 en el centro-norte del país.</li>
+          <li><b>La Guaira</b> es el estado más afectado; se han registrado <b>más de 700 réplicas</b>.</li>
+          <li>Se declaró <b>Estado de Emergencia nacional</b> para coordinar la respuesta.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Impacto en infraestructura</h3>
+        <ul class="sit-list">
+          <li><b>855 edificaciones</b> afectadas: 189 colapsadas totalmente y 666 con daño parcial o severo.</li>
+          <li>Hasta <b>38 hospitales</b> afectados, incluidos el J. M. de los Ríos y el Hospital de Coche.</li>
+          <li><b>432 escuelas</b> afectadas en el Distrito Capital (~34 % del total).</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Servicios y movilidad</h3>
+        <ul class="sit-list">
+          <li>En La Guaira (al 28 jun): electricidad ~<b>90 %</b>, agua ~<b>68 %</b>, vías ~<b>90 %</b>.</li>
+          <li>Clases <b>suspendidas a nivel nacional hasta el 5 de julio</b>.</li>
+          <li>Aeropuerto de <b>Maiquetía</b> cerrado a vuelos comerciales; <b>Metro de Caracas</b> suspendido para inspecciones.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Albergues y sitios de servicio</h3>
+        <ul class="sit-list">
+          <li><b>50 campamentos</b> de tránsito en Gran Caracas y <b>15 albergues</b> en La Guaira.</li>
+          <li>~<b>75.000 familias</b> han recibido asistencia (OCHA).</li>
+          <li>Sitios multiservicio en La Guaira: <b>Polideportivo José María Vargas</b>, <b>Estadio César Nieves</b> (Catia La Mar) y <b>Estadio Playa Grande</b>.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Personas afectadas</h3>
+        <ul class="sit-list">
+          <li>Al menos <b>11.267 heridos</b> y <b>12.841 personas sin hogar</b> (cifras oficiales al 02 jul).</li>
+          <li><b>6.461 personas</b> rescatadas con vida y <b>17.026</b> han recibido atención médica.</li>
+          <li>Alrededor de <b>26.403 personas</b> afectadas en total.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Respuesta de UNICEF</h3>
+        <ul class="sit-list">
+          <li><b>68 toneladas</b> de insumos movilizadas para más de <b>100.000 personas</b>.</li>
+          <li>Envíos aéreos: 20 t el 27 jun y 48 t el 30 jun (insumos médicos y de agua/saneamiento).</li>
+          <li>Meta: alcanzar a <b>650.000 personas</b>, incluidos <b>234.000 niños</b>.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="info-note">
+      <strong>Fuente:</strong> UNICEF — Venezuela Humanitarian Situation Report N.° 3 (28 jun – 2 jul 2026). Cifras oficiales con corte al 02 de julio de 2026; pueden variar a medida que avanzan las evaluaciones.
+      Más información oficial: <a href="https://www.unicef.org/appeals/venezuela" target="_blank" rel="noopener">Llamamientos de UNICEF Venezuela</a> ·
+      <a href="https://www.unicef.org/appeals/venezuela/situation-reports" target="_blank" rel="noopener">Reportes de situación</a>.
+    </div>
+  </div>
+</section>
+
 <!-- PROTOCOLO -->
 <section id="protocolo" style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">03 · Priorización y protocolo</span>
+      <span class="eyebrow">05 · Priorización y protocolo</span>
       <h2>Cómo ayudar sin causar daño</h2>
       <p>En emergencias transfronterizas, la FEM recomienda priorizar donaciones monetarias o compras locales con organizaciones acreditadas, y enviar insumos físicos solo con lista validada y logística confirmada. Seleccione un rubro para ver aliados, ejemplos, riesgo operativo y recomendación de control.</p>
     </div>
@@ -447,7 +583,7 @@
 <section id="contacto">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">04 · Contacto</span>
+      <span class="eyebrow">06 · Contacto</span>
       <h2>Contacta a la Fundación Eugenio Mendoza</h2>
       <p>Si deseas comunicarte con la FEM sobre esta iniciativa —solicitar información, reportar una corrección o proponer colaboración—, utiliza el formulario o escribe directamente al correo de esta página.</p>
     </div>
