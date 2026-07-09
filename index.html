@@ -435,7 +435,9 @@
 
 <!-- HOSPITALES DE CAMPAÑA -->
 <style>
-  #hospitales .grid, #situacion .grid{grid-template-columns:repeat(3,1fr)}
+  /* tarjetas informativas (no interactivas): usan .grid normal (responsive 3→2→1) */
+  #hospitales .card, #situacion .card{cursor:default}
+  #hospitales .card:hover, #situacion .card:hover{transform:none;box-shadow:var(--shadow);border-color:var(--line)}
   .hosp-svc{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
   .hosp-svc span{font-size:12px;font-weight:650;color:#31507e;background:#eef3fb;border:1px solid #e0e8f4;border-radius:999px;padding:3px 9px}
   .hosp-cta{background:#eafaf0;border:1px solid #bfe8cf;border-radius:14px;padding:18px 20px;margin-top:24px;color:#14532d;font-size:14.8px;box-shadow:var(--shadow)}
@@ -447,7 +449,6 @@
   .sit-list b{color:var(--ink)}
   .info-note{background:#f4f7fc;border:1px solid #dbe6f5;border-left:4px solid var(--ve-blue2);border-radius:12px;padding:16px 18px;font-size:13.8px;color:var(--ink);margin-top:22px;box-shadow:var(--shadow)}
   .info-note a{color:var(--ve-blue2);font-weight:650}
-  @media(max-width:900px){#hospitales .grid,#situacion .grid{grid-template-columns:1fr}}
 </style>
 <section id="hospitales">
   <div class="wrap">
@@ -456,7 +457,7 @@
       <h2>Dónde recibir atención médica</h2>
       <p>Se han instalado hospitales de campaña en La Guaira y zonas cercanas para atender a la población afectada por el terremoto. Todos estos centros están a la espera de pacientes y pueden recibir referencias. Si necesitas atención médica —o conoces a alguien que la necesita— acude o refiere a la persona al centro más cercano.</p>
     </div>
-    <div class="grid acopio">
+    <div class="grid">
       <div class="card">
         <div class="tag-row"><span class="pill p1">País: Venezuela</span></div>
         <h3>1 · Terminal de Catia La Mar</h3>
@@ -509,7 +510,7 @@
       <h2>El contexto de la emergencia</h2>
       <p>Resumen basado en el Reporte de Situación N.° 3 de UNICEF (período 28 de junio – 2 de julio de 2026). Datos de contexto y de respuesta humanitaria; no sustituyen las cifras diarias del Panorama.</p>
     </div>
-    <div class="grid acopio">
+    <div class="grid">
       <div class="card">
         <h3>Qué ocurrió</h3>
         <ul class="sit-list">
