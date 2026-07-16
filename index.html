@@ -352,11 +352,11 @@
 
     <div class="stats">
       <div class="stat r"><div class="num">7,2 / 7,5</div><div class="lbl">Magnitud del doblete sísmico</div><div class="sublbl">24 jun 2026 · eje San Felipe–Yumare–Montalbán (Yaracuy/Carabobo) · 1.048 réplicas (OCHA, 6 jul)</div></div>
-      <div class="stat r"><div class="num" id="kpiFallecidos">1.943</div><div class="lbl">Fallecidos confirmados</div><div class="sublbl" id="srcFallecidos">Cifra referencial · verificar</div></div>
-      <div class="stat"><div class="num" id="kpiDesaparecidos">+50.000</div><div class="lbl">Personas desaparecidas</div><div class="sublbl" id="srcDesaparecidos">Cifra referencial · verificar</div></div>
+      <div class="stat r"><div class="num" id="kpiFallecidos">4.490</div><div class="lbl">Fallecidos confirmados</div><div class="sublbl" id="srcFallecidos">Cifra referencial · verificar</div></div>
+      <div class="stat"><div class="num" id="kpiDesaparecidos">+68.000</div><div class="lbl">Personas desaparecidas</div><div class="sublbl" id="srcDesaparecidos">Cifra referencial · verificar</div></div>
       <div class="stat"><div class="num">856</div><div class="lbl">Edificios afectados en el país</div><div class="sublbl">190 colapsados · 7 estados impactados · USAR en desmovilización progresiva · OCHA SitRep 13 · 06/07/2026</div></div>
       <div class="stat g"><div class="num">6.462</div><div class="lbl">Personas rescatadas</div><div class="sublbl">Balance oficial · OCHA SitRep 13 · 06/07/2026</div></div>
-      <div class="stat r"><div class="num">16.740</div><div class="lbl">Personas heridas</div><div class="sublbl">Balance oficial · OCHA SitRep 13 · 06/07/2026</div></div>
+      <div class="stat r"><div class="num" id="kpiHeridos">16.840</div><div class="lbl">Personas heridas</div><div class="sublbl" id="srcHeridos">Cifra referencial · verificar</div></div>
       <div class="stat y"><div class="num">17.854</div><div class="lbl">Personas sin vivienda</div><div class="sublbl">80 campamentos transitorios activos (12.806 ocupantes, 73%): 37 Caracas · 22 Miranda · 21 La Guaira · OCHA SitRep 13 · 06/07/2026</div></div>
       <div class="stat y"><div class="num" id="kpiOrgs">23</div><div class="lbl">Organismos y canales de ayuda</div><div class="sublbl">Incluye canales de donación difundidos por CEMEFI</div></div>
       <div class="stat g"><div class="num" id="kpiPlats">31</div><div class="lbl">Plataformas de información</div><div class="sublbl" id="kpiPlatsSub">En 15 categorías: búsqueda, salud, refugios, logística, acopio y más</div></div>
@@ -1438,9 +1438,11 @@ function updateCounters(){
 }
 
 /* ====================== KPI EN VIVO (Wikipedia) ====================== */
-/* Los KPI de fallecidos y desaparecidos se alimentan del artículo de Wikipedia
-   "Terremotos de Venezuela de 2026" en cada carga. Si la fuente no responde o el
-   dato no es plausible, se conserva el valor de respaldo (última cifra conocida). */
+/* Los KPI de fallecidos, heridos y desaparecidos se alimentan del artículo de
+   Wikipedia "Terremotos de Venezuela de 2026" en cada carga (son las 3 cifras del
+   infobox). Si la fuente no responde o el dato no es plausible, se conserva el
+   valor de respaldo (última cifra conocida). Rescatados, sin vivienda y edificios
+   NO están como número estructurado en Wikipedia: quedan estáticos del SitRep OCHA. */
 function fmtNum(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g,'.'); }
 function grabBefore(block, kw){
   const m = block.match(new RegExp('(\\d[\\d\\s.,]*\\d|\\d)\\s*(?:'+kw+')','i'));
@@ -1470,11 +1472,17 @@ async function loadLiveStats(){
     if(!wt) throw 0;
     // el recuadro (arriba del artículo) trae "+N muertos … +N desaparecidos"; se toma el
     // primer número que antecede a cada palabra clave (el infobox aparece primero en el texto)
-    const block=wt.replace(/&nbsp;|&#160;/g,' ');
+    // limpiar separadores de miles: entidades HTML (&nbsp;, espacios finos) y
+    // plantillas de espaciado de Wikipedia ({{esd}}, {{nbsp}}, etc.) que parten el número
+    const block=wt
+      .replace(/&nbsp;|&#160;|&#8239;|&#8201;|&thinsp;| | /g,' ')
+      .replace(/\{\{\s*(?:esd|nbsp|espd|espacio)\s*\}\}/gi,' ');
     let f=grabBefore(block,'muertos|fallecidos|muertes');
+    let h=grabBefore(block,'heridos');
     let d=grabBefore(block,'desaparecid\\w*');
     const hoy=new Date().toLocaleDateString('es-ES',{day:'2-digit',month:'short',year:'numeric'});
     if(f!==null && f>=1 && f<=200000) setKPI('kpiFallecidos','srcFallecidos',fmtNum(f),WIKI_URL,hoy);
+    if(h!==null && h>=1 && h<=500000) setKPI('kpiHeridos','srcHeridos',fmtNum(h),WIKI_URL,hoy);
     if(d!==null && d>=1 && d<=500000) setKPI('kpiDesaparecidos','srcDesaparecidos',fmtNum(d),WIKI_URL,hoy);
   }catch(e){ /* conserva las cifras de respaldo del HTML */ }
 }
