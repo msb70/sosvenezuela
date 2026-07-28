@@ -291,6 +291,7 @@
       <a href="#situacion">Situación oficial</a>
       <a href="#protocolo">Priorización y protocolo</a>
       <a href="#familias">Para las familias</a>
+      <a href="#auxilios">Primeros auxilios</a>
       <a href="#contacto">Contacto</a>
     </nav>
   </div>
@@ -687,11 +688,149 @@
   </div>
 </section>
 
+<!-- PRIMEROS AUXILIOS -->
+<style>
+  #auxilios .aux-acc{max-width:900px;margin-bottom:34px}
+  #auxilios details{background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);margin-bottom:12px;overflow:hidden}
+  #auxilios summary{cursor:pointer;padding:16px 20px;font-weight:750;font-size:15.5px;color:var(--ink);list-style:none;display:flex;align-items:center;gap:10px}
+  #auxilios summary::-webkit-details-marker{display:none}
+  #auxilios summary::after{content:"+";margin-left:auto;font-size:20px;font-weight:800;color:var(--ve-blue2);flex:none}
+  #auxilios details[open] summary::after{content:"–"}
+  #auxilios .aux-body{padding:0 20px 18px;font-size:14.2px;color:var(--ink-soft);line-height:1.55}
+  #auxilios .aux-body ul{list-style:none;margin-top:8px;display:flex;flex-direction:column;gap:8px}
+  #auxilios .aux-body li{position:relative;padding-left:16px}
+  #auxilios .aux-body li::before{content:"•";position:absolute;left:0;top:0;color:var(--ve-blue2);font-weight:900}
+  #auxilios .aux-body b{color:var(--ink)}
+  #auxilios .aux-alert{background:#fdf1f0;border-left:3px solid #c0392b;border-radius:0 10px 10px 0;padding:12px 16px;margin-top:14px}
+  #auxilios .aux-alert .aux-alert-t{font-weight:800;font-size:12px;letter-spacing:.8px;text-transform:uppercase;color:#c0392b;margin-bottom:6px}
+  #auxilios .aux-alert ul{margin-top:0}
+  #auxilios .aux-alert li::before{color:#c0392b}
+  #auxilios .aux-nota{background:#eef4fb;border-radius:10px;padding:12px 16px;margin-top:12px;font-size:13.6px}
+  #auxilios .card{cursor:default}
+  #auxilios .card:hover{transform:none;box-shadow:var(--shadow);border-color:var(--line)}
+  #auxilios .card .open a{color:var(--ve-blue2);text-decoration:none;font-weight:750}
+  #auxilios .card .open a:hover{text-decoration:underline}
+</style>
+<section id="auxilios">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">07 · Primeros auxilios</span>
+      <h2>Primeros auxilios y salud comunitaria post desastre</h2>
+      <p>Manual de acción rápida elaborado por la FEM para <strong>madres y cuidadoras de niños de 0 a 6 años</strong>. Ante una emergencia, tu calma y tu acción rápida son la mejor medicina para tus hijos. <strong>Revisión médica:</strong> Dra. María Graciela López, pediatra infectóloga, Centro Médico Docente La Trinidad.</p>
+    </div>
+
+    <div class="aux-acc">
+      <details open>
+        <summary>💧 1 · Agua e hidratación</summary>
+        <div class="aux-body">
+          Tu prioridad número uno. El agua no tratada causa diarreas graves y deshidratación rápida.
+          <ul>
+            <li><b>Hierve siempre el agua</b>, al menos 3 a 5 minutos completos si hay gas o fuego.</li>
+            <li><b>No suspendas la lactancia.</b> Si el bebé mama, aliméntalo más seguido: la leche materna es segura y protege.</li>
+            <li><b>Prepara suero oral</b> en sobres si tienes. Si no, mezcla <b>1 litro de agua segura, 6 cucharaditas rasas de azúcar y media cucharadita rasa de sal</b>.</li>
+            <li>Da <b>cucharaditas constantes</b>, no tragos grandes.</li>
+          </ul>
+          <div class="aux-alert">
+            <div class="aux-alert-t">Busca apoyo médico urgente si</div>
+            <ul>
+              <li>Los ojos están hundidos o llora sin lágrimas.</li>
+              <li>La boca está completamente seca, o la fontanela en bebés está hundida.</li>
+              <li>Hace más de 6 horas que no orina.</li>
+              <li>Evacúa con sangre o vomita todo lo que toma.</li>
+            </ul>
+          </div>
+        </div>
+      </details>
+      <details>
+        <summary>🌡️ 2 · Control de fiebre en condiciones extremas</summary>
+        <div class="aux-body">
+          La fiebre es la respuesta del cuerpo a infecciones, comunes por el agua o el hacinamiento.
+          <ul>
+            <li><b>Medios físicos primero.</b> Desviste al niño y báñalo con agua templada o fresca, nunca fría ni helada.</li>
+            <li><b>Paños húmedos</b> en frente, axilas e ingle.</li>
+            <li><b>Solo acetaminofén (paracetamol)</b>, según la dosis indicada previamente por tu médico para el peso del niño.</li>
+            <li><b>Evita ibuprofeno y diclofenac</b> si sospechas deshidratación extrema o dengue, a menos que un médico lo autorice.</li>
+          </ul>
+          <div class="aux-alert">
+            <div class="aux-alert-t">Busca apoyo médico urgente si</div>
+            <ul>
+              <li>Cualquier fiebre en un bebé menor de 3 meses.</li>
+              <li>Fiebre que supera los 39 °C y no baja con paños ni acetaminofén.</li>
+              <li>Convulsiona, está extremadamente dormido o le cuesta despertar.</li>
+              <li>Respira muy rápido y se le hunden las costillas.</li>
+            </ul>
+          </div>
+        </div>
+      </details>
+      <details>
+        <summary>🩹 3 · Infecciones y heridas en la piel</summary>
+        <div class="aux-body">
+          El lodo, las aguas estancadas y el hacinamiento provocan infecciones de piel.
+          <ul>
+            <li><b>Agua limpia primero.</b> Lava cualquier herida o raspón de inmediato con agua segura y jabón; retira la tierra o el lodo con cuidado.</li>
+            <li><b>Mantener seco.</b> Las zonas de pliegues, entre las piernas y las axilas, deben quedar lo más secas posible para evitar hongos.</li>
+            <li><b>Evita remedios caseros.</b> No apliques tierra, pasta de dientes ni hojas desconocidas sobre heridas abiertas: esto empeora la infección.</li>
+          </ul>
+          <div class="aux-alert">
+            <div class="aux-alert-t">Busca apoyo médico urgente si</div>
+            <ul>
+              <li>La piel alrededor de la herida se pone muy roja, caliente, hinchada o supura pus.</li>
+              <li>Aparecen ampollas con líquido amarillento que se extienden rápido (impétigo).</li>
+              <li>El niño se corta con metal oxidado o enterrado profundamente (riesgo de tétanos).</li>
+            </ul>
+          </div>
+        </div>
+      </details>
+      <details>
+        <summary>🫂 4 · Primeros auxilios emocionales</summary>
+        <div class="aux-body">
+          Distracción, estrés y comunicación: los niños absorben el miedo de los adultos y reaccionan al trauma de formas distintas.
+          <div class="aux-nota"><b>Señal de trauma:</b> retraimiento, llanto sin parar, volver a orinarse en la cama, o dejar de hablar. Son reacciones normales ante una situación anormal.</div>
+          <ul>
+            <li><b>Filtra la información.</b> No hables de la tragedia, heridos o pérdidas delante de ellos; apaga o aleja las noticias de su alcance.</li>
+            <li><b>Tu voz es su ancla.</b> Háblales con voz pausada y firme: «Estamos juntos, yo te estoy cuidando y estamos a salvo ahora».</li>
+            <li><b>El juego como medicina.</b> Aunque falten juguetes, inventa historias, canten o jueguen con las manos: la distracción activa baja el cortisol.</li>
+            <li><b>Valida la necesidad de comunicar.</b> Responde con la verdad simplificada, sin detalles escabrosos. Si no quiere hablar, no lo fuerces: abrázalo fuerte.</li>
+            <li><b>Controla tus propias emociones</b> para poder dar seguridad y cariño.</li>
+          </ul>
+          <div class="aux-alert">
+            <div class="aux-alert-t">Busca apoyo de un especialista si</div>
+            <ul>
+              <li>Pasa días enteros ido, con la mirada fija, sin responder a estímulos o a su nombre.</li>
+              <li>Muestra agresividad extrema e incontrolable, sostenida, hacia sí mismo o hacia otros.</li>
+              <li>Deja de hablar por completo después del evento.</li>
+            </ul>
+          </div>
+        </div>
+      </details>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="tag-row"><span class="pill type">Guía FEM</span><span class="pill ok">Gratuita · Español · PDF</span></div>
+        <h3>📄 Descarga la guía completa</h3>
+        <div class="excerpt">Versión imprimible de esta guía (2 páginas) para compartir por WhatsApp, imprimir y distribuir en campamentos, comunidades y centros de atención. Contenido propio de la Fundación Eugenio Mendoza con revisión médica.</div>
+        <div class="open"><a href="guia-primeros-auxilios-fem.pdf" target="_blank" rel="noopener">Descargar PDF (1,3 MB) ⬇</a></div>
+      </div>
+      <div class="card">
+        <div class="tag-row"><span class="pill type">Apoyo psicológico</span><span class="pill ok">Línea gratuita</span></div>
+        <h3>📞 0800-AYUDA-01</h3>
+        <div class="excerpt">Línea gratuita de apoyo psicológico habilitada por las autoridades para las personas afectadas. Ante señales graves o persistentes de malestar en un niño, acude a personal de salud o llama a esta línea.</div>
+        <div class="open"><a href="#familias">Ver también: Para las familias ↑</a></div>
+      </div>
+    </div>
+
+    <div class="info-note">
+      <strong>Nota:</strong> esta guía es contenido propio de la Fundación Eugenio Mendoza, con revisión médica de la Dra. María Graciela López (pediatra infectóloga, Centro Médico Docente La Trinidad). Es material informativo de acción rápida y <strong>no sustituye la atención médica profesional</strong>: ante cualquiera de las señales de alarma, busca de inmediato el centro de salud, hospital de campaña o punto de atención más cercano.
+    </div>
+  </div>
+</section>
+
 <!-- CONTACTO -->
 <section id="contacto">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">07 · Contacto</span>
+      <span class="eyebrow">08 · Contacto</span>
       <h2>Contacta a la Fundación Eugenio Mendoza</h2>
       <p>Si deseas comunicarte con la FEM sobre esta iniciativa —solicitar información, reportar una corrección o proponer colaboración—, utiliza el formulario o escribe directamente al correo de esta página.</p>
     </div>
@@ -1270,7 +1409,14 @@ const PLATAFORMAS = [
   verif:"Material oficial de Sesame Workshop (Plaza Sésamo), organización educativa sin fines de lucro con más de 50 años de trayectoria; PDF descargable desde su sitio.", verifLvl:"ok",
   poblacion:"Contenido educativo dirigido a familias con niños; no recopila ni publica datos personales.",
   fem:"Difundir entre familias afectadas, campamentos, escuelas y voluntarios que atienden a niños. Consultar el resumen práctico en la sección «Para las familias» de esta página.",
-  obs:"En la sección «Para las familias» de esta página se enlazan además guías complementarias de UNICEF y Save the Children sobre apoyo emocional infantil en catástrofes."}
+  obs:"En la sección «Para las familias» de esta página se enlazan además guías complementarias de UNICEF y Save the Children sobre apoyo emocional infantil en catástrofes."},
+
+ {tipo:"Familias y niños", nombre:"FEM — Guía de primeros auxilios y salud comunitaria post desastre", url:"https://apoyo-fem-vzla.org/guia-primeros-auxilios-fem.pdf",
+  contiene:"Manual de acción rápida para madres y cuidadoras de niños de 0 a 6 años: agua e hidratación (incluye receta de suero oral casero), control de fiebre en condiciones extremas, infecciones y heridas en la piel, y primeros auxilios emocionales, con señales de alarma para buscar apoyo médico urgente en cada bloque.",
+  verif:"Contenido propio de la Fundación Eugenio Mendoza con revisión médica de la Dra. María Graciela López, pediatra infectóloga del Centro Médico Docente La Trinidad.", verifLvl:"ok",
+  poblacion:"Material educativo dirigido a cuidadores; no recopila ni publica datos personales.",
+  fem:"Difundir por WhatsApp e imprimir para distribución en campamentos transitorios, comunidades y centros de atención. El contenido completo está publicado en la sección «Primeros auxilios» de esta página.",
+  obs:"PDF de 2 páginas alojado en esta plataforma, listo para imprimir y compartir. Complementa la sección «Para las familias» (apoyo emocional infantil)."}
 ];
 
 const PROTOCOLO = [
