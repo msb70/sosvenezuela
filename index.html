@@ -1145,7 +1145,18 @@ const ORGANISMOS = [
   experiencia:"Iniciativa conjunta OCHA-PNUD que moviliza redes empresariales ante desastres. En esta emergencia articula a empresas y redes como AFE, Airbnb, Amazon, Bancolombia, FIID y The Peaceland Foundation. Ejemplos: CENACED (México) activó su protocolo Unidos por Ellos y la campaña «Superemos el 7.5»; CentraRSE + BAC (Guatemala) recaudan para asistencia médica con donaciones igualadas por una farmacéutica; CIP (Ecuador), con LATAM, Grupo Entregas y la Cámara Ecuatoriano-Venezolana, despachó un primer vuelo con 55 toneladas de ayuda; DANEC aportó 100 pallets y 1.500 cajas para logística.",
   fem:"Canal recomendado para empresas y gremios que quieran donar o aportar logística: coordinar vía CBi antes de movilizar, reportar la contribución en su formulario y consultar el Business Brief. Evita duplicación y alinea el aporte corporativo con las necesidades oficiales.",
   vinculacion:["Business Brief para el sector privado: https://www.connectingbusiness.org/publications/briefing-note-private-sector-venezuela-earthquakes-2026","Tablero público de contribuciones del sector privado: https://ven-eq.connectingbusiness.org/","Reportar una contribución realizada: https://forms.monday.com/forms/7d7b84c02a0f8b65b359552f17daaa2e?r=euc1","Donación oficial ONU: https://crisisrelief.un.org/en/donate-venezuela-crisis"],
-  fuentes:["https://www.connectingbusiness.org/ourwork/emergencies/venezuela-earthquakes-june-2026","https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-no-5-28-june-2026-time-500-pm"]}
+  fuentes:["https://www.connectingbusiness.org/ourwork/emergencies/venezuela-earthquakes-june-2026","https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-no-5-28-june-2026-time-500-pm"]},
+
+ {prioridad:1, ambito:"Venezuela / Internacional", org:"OIM — Organización Internacional para las Migraciones (ONU Migración)",
+  contacto:["iomcaracas@iom.int","Página país: lac.iom.int/es/countries/venezuela","Oficina Nacional en Caracas; presencia en terreno en 6 estados (Amazonas, Apure, Bolívar, Falcón, Táchira, Zulia) y cobertura operacional en 14"],
+  pais:"Venezuela / internacional",
+  responsable:"Oficina Nacional OIM Caracas / equipo de respuesta a la emergencia",
+  rubro:"Albergue de emergencia, agua, saneamiento e higiene, salud y apoyo psicosocial, protección, artículos de primera necesidad, seguimiento de desplazamientos (DTM) y gestión del riesgo de desastres",
+  experiencia:"Agencia de la ONU para la migración, presente en Venezuela desde 1952. Tras los terremotos activó su respuesta con equipos en terreno evaluando necesidades junto a autoridades y socios humanitarios, lanzó un Flash Appeal por US$98 millones (julio–diciembre 2026) y estima que hasta 6,76 millones de personas podrían estar afectadas.",
+  fem:"Aliado ONU especializado en albergue, WASH y desplazamiento; consultar sus reportes de situación para ubicar necesidades por estado y coordinar antes de movilizar ayuda física.",
+  donacion:["Campaña oficial de donación para la respuesta al terremoto en Venezuela:","https://www.iom.int/venezuela-earthquake-response?form=venezuela-earthquake"],
+  vinculacion:["Página de respuesta al terremoto — actualización en directo y reportes de situación: https://www.iom.int/venezuela-earthquake-response","Reportes de situación de la OIM: 17 publicados hasta la fecha (No. 17 cubre del 24 al 27 de julio de 2026), descargables desde la misma página.","Flash Appeal OIM Venezuela — Respuesta al terremoto, julio–diciembre 2026: llamamiento por US$98 millones para asistencia en albergue, WASH, salud, protección y artículos de socorro.","La OIM transportó por puente aéreo artículos de socorro esenciales para la respuesta (10/07/2026).","Página país en español: https://lac.iom.int/es/countries/venezuela"],
+  fuentes:["https://lac.iom.int/es/countries/venezuela","https://www.iom.int/venezuela-earthquake-response"]}
 ];
 
 /* Catálogo de rubros y mapeo de cada organismo a sus rubros */
@@ -1181,7 +1192,8 @@ const ORG_RUBROS = [
  ["busqueda","refugio"],                              // Topos
  ["coord","alimentos","refugio"],                     // Unired
  ["alimentos"],                                       // World Central Kitchen
- ["coord"]                                            // CBi (OCHA/PNUD) — sector privado
+ ["coord"],                                           // CBi (OCHA/PNUD) — sector privado
+ ["refugio","wash","salud","proteccion","coord"]      // OIM (ONU Migración)
 ];
 ORGANISMOS.forEach((o,i)=> o.rubros = ORG_RUBROS[i] || []);
 const rubroName = k => (RUBROS.find(r=>r.key===k)||{}).nombre || k;
@@ -1242,6 +1254,13 @@ const PLATAFORMAS = [
   poblacion:"No aplica; uso directo por ciudadanos en riesgo.",
   fem:"Colocar en servicios de información como primer paso ante peligro inmediato.",
   obs:"Las autoridades también habilitaron un formulario digital de Conapdis para coordinar respuesta inclusiva a personas con discapacidad en las zonas afectadas."},
+
+ {tipo:"Emergencias oficiales", nombre:"OIM — Respuesta al terremoto en Venezuela (actualización en directo)", url:"https://www.iom.int/venezuela-earthquake-response",
+  contiene:"Página oficial de la OIM (ONU Migración) con actualización en directo de su respuesta al terremoto: 17 reportes de situación descargables, Flash Appeal por US$98 millones (jul–dic 2026), noticias, videos de impacto y canal de donación. La OIM estima hasta 6,76 millones de personas potencialmente afectadas.",
+  verif:"Plataforma institucional oficial de Naciones Unidas (OIM); reportes de situación actualizados durante la emergencia.", verifLvl:"ok",
+  poblacion:"Información agregada de la respuesta; sin datos personales de afectados.",
+  fem:"Fuente oficial para seguir la evolución de la respuesta en albergue, WASH, salud y protección; complementa los reportes de OCHA. Ver ficha completa de la OIM en la sección de organismos de ayuda.",
+  obs:"La página país en español (lac.iom.int/es/countries/venezuela) enlaza esta actualización en directo. Contacto: iomcaracas@iom.int."},
 
  {tipo:"Búsqueda de personas", nombre:"Localiza Pacientes (canal oficial)", url:"https://www.localizapacientes.com",
   contiene:"Mecanismo oficial habilitado por las autoridades venezolanas para la localización de personas desaparecidas tras los terremotos; complementa la línea 0-800-RESCATE de reporte de personas afectadas.",
