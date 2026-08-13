@@ -77,10 +77,25 @@
   .femlogo.nav{background:#fff;padding:5px 9px;border-radius:7px}
   .femlogo.nav img,.femlogo.nav svg{height:44px}
   .nav-logo .flag{width:34px;height:23px;border-radius:4px;box-shadow:var(--shadow);flex:none}
-  .nav-links{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
-  .nav-links a{padding:9px 14px;border-radius:10px;text-decoration:none;color:var(--ink-soft);font-weight:600;font-size:14.5px}
+  .nav-links{margin-left:auto;display:flex;align-items:center;gap:4px;flex-wrap:nowrap;white-space:nowrap}
+  .nav-links a{padding:9px 11px;border-radius:10px;text-decoration:none;color:var(--ink-soft);font-weight:600;font-size:14px}
   .nav-links a:hover{background:var(--bg);color:var(--ink)}
+  .nav-more{position:relative}
+  .nav-more-btn{display:inline-flex;align-items:center;gap:5px;padding:9px 11px;border-radius:10px;border:0;background:none;color:var(--ink-soft);font-weight:600;font-size:14px;font-family:inherit;cursor:pointer;line-height:1.55}
+  .nav-more-btn:hover,.nav-more.open .nav-more-btn{background:var(--bg);color:var(--ink)}
+  .nav-more-btn .caret{font-size:10px;transition:transform .15s}
+  .nav-more.open .nav-more-btn .caret{transform:rotate(180deg)}
+  .nav-more-menu{display:none;position:absolute;top:calc(100% + 8px);right:0;flex-direction:column;gap:2px;min-width:235px;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:0 14px 34px -12px rgba(22,36,63,.28);padding:6px}
+  .nav-more.open .nav-more-menu{display:flex}
+  @media(hover:hover) and (min-width:1121px){.nav-more:hover .nav-more-menu{display:flex}}
+  .nav-more-menu a{padding:10px 12px}
   .nav-toggle{display:none;margin-left:auto;background:none;border:1px solid var(--line);border-radius:10px;padding:8px 11px;font-size:18px;cursor:pointer}
+
+  /* BANNER CRUZADO COLOMBIA */
+  .xbanner{display:flex;align-items:center;justify-content:center;gap:10px;padding:10px 18px;background:#0c1830;color:#e8edf7;text-decoration:none;font-size:14px;font-weight:600;text-align:center;line-height:1.4}
+  .xbanner .flag-mini{width:22px;height:15px;border-radius:3px;flex:none;box-shadow:0 1px 3px rgba(0,0,0,.4)}
+  .xbanner .xb-cta{color:#ffd76a;font-weight:800;white-space:nowrap}
+  .xbanner:hover .xb-cta{text-decoration:underline}
 
   /* HERO */
   .hero{position:relative;overflow:hidden;background:#faf8f3;color:#16243f}
@@ -257,11 +272,13 @@
     .grid{grid-template-columns:1fr 1fr}
     footer .f-grid{grid-template-columns:1fr 1fr}
   }
-  @media(max-width:1080px){
-    .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:#fff;flex-direction:column;padding:10px 16px;border-bottom:1px solid var(--line);box-shadow:var(--shadow)}
+  @media(max-width:1120px){
+    .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:#fff;flex-direction:column;align-items:stretch;white-space:normal;padding:10px 16px;border-bottom:1px solid var(--line);box-shadow:var(--shadow)}
     .nav-links.open{display:flex}
     .nav-links a{padding:12px 10px}
     .nav-toggle{display:block}
+    .nav-more,.nav-more-menu{display:contents}
+    .nav-more-btn{display:none}
   }
   @media(max-width:640px){
     .grid{grid-template-columns:1fr}
@@ -287,15 +304,27 @@
       <a href="#panorama">Panorama</a>
       <a href="#organismos">Organismos de ayuda</a>
       <a href="#plataformas">Plataformas de información</a>
-      <a href="#hospitales">Hospitales de campaña</a>
-      <a href="#situacion">Situación oficial</a>
-      <a href="#protocolo">Priorización y protocolo</a>
-      <a href="#familias">Para las familias</a>
-      <a href="#auxilios">Primeros auxilios</a>
+      <div class="nav-more" id="navmore">
+        <button class="nav-more-btn" type="button" aria-haspopup="true" aria-expanded="false">Más <span class="caret">▾</span></button>
+        <div class="nav-more-menu">
+          <a href="#hospitales">Hospitales de campaña</a>
+          <a href="#situacion">Situación oficial</a>
+          <a href="#protocolo">Priorización y protocolo</a>
+          <a href="#familias">Para las familias</a>
+          <a href="#auxilios">Primeros auxilios</a>
+          <a href="colombia.html" style="border-top:1px solid var(--line);margin-top:4px;padding-top:12px">🇨🇴 Terremoto de Colombia</a>
+        </div>
+      </div>
       <a href="#contacto">Contacto</a>
     </nav>
   </div>
 </header>
+
+<!-- BANNER CRUZADO: COLOMBIA -->
+<a class="xbanner" href="colombia.html">
+  <svg class="flag-mini" viewBox="0 0 60 40" aria-hidden="true"><rect width="60" height="40" fill="#FCD116"/><rect y="20" width="60" height="10" fill="#003893"/><rect y="30" width="60" height="10" fill="#CE1126"/></svg>
+  <span>También: <strong>emergencia sísmica en Colombia</strong> — sismo M 7,4 del 10 de agosto de 2026. <span class="xb-cta">Ver página de Colombia →</span></span>
+</a>
 
 <!-- HERO -->
 <section class="hero" id="inicio" style="padding:0">
@@ -1795,6 +1824,25 @@ function copyContactMail(btn){
     btn.textContent='Copiado ✓'; setTimeout(()=>{btn.textContent='Copiar';},2000);
   }).catch(()=>{ window.prompt('Copia el correo:','contacto@apoyo-fem-vzla.org'); });
 }
+
+/* ====================== NAV "MÁS" ====================== */
+(function(){
+  const more=document.getElementById('navmore');
+  if(!more) return;
+  const btn=more.querySelector('.nav-more-btn');
+  btn.addEventListener('click',e=>{
+    e.stopPropagation();
+    const open=more.classList.toggle('open');
+    btn.setAttribute('aria-expanded',open);
+  });
+  document.addEventListener('click',e=>{
+    if(!more.contains(e.target)){more.classList.remove('open');btn.setAttribute('aria-expanded','false');}
+  });
+  more.querySelectorAll('.nav-more-menu a').forEach(a=>a.addEventListener('click',()=>{
+    more.classList.remove('open');btn.setAttribute('aria-expanded','false');
+    document.getElementById('navlinks').classList.remove('open');
+  }));
+})();
 
 /* ====================== INIT ====================== */
 renderOrgRubros(); renderTipos(); renderProto(); charts(); updateCounters(); loadLiveStats();
