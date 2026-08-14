@@ -1,0 +1,25 @@
+# apoyo-fem-vzla.org - sitio estatico (HTML/CSS/JS). NO usa WordPress.
+# Bloqueo de escaneos automatizados de WordPress (403 en vez de 404).
+# Motivo: la IP 2a06:98c0:3600::103 genera ~174 peticiones/semana a
+# /wp-admin/install.php desde julio de 2026. Ver informe 2026-08-14.
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^wp-admin(/.*)?$      - [F,L]
+  RewriteRule ^wp-includes(/.*)?$   - [F,L]
+  RewriteRule ^wp-content(/.*)?$    - [F,L]
+  RewriteRule ^wordpress(/.*)?$     - [F,L]
+  RewriteRule ^wp-login\.php$       - [F,L]
+  RewriteRule ^wp-config\.php$      - [F,L]
+  RewriteRule ^xmlrpc\.php$         - [F,L]
+  RewriteRule (^|/)\.env$           - [F,L]
+  RewriteRule (^|/)\.git(/.*)?$     - [F,L]
+</IfModule>
+
+# Bloqueo directo del escaner persistente (Apache 2.4)
+<IfModule mod_authz_core.c>
+  <RequireAll>
+    Require all granted
+    Require not ip 2a06:98c0:3600::103
+  </RequireAll>
+</IfModule>
