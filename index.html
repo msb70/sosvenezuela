@@ -605,9 +605,11 @@
 
 <!-- NOTICIAS -->
 <style>
-  #noticias .nt-bar{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-bottom:22px}
+  #noticias .nt-bar{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-bottom:20px}
   #noticias .nt-upd{font-size:13px;color:var(--ink-soft);font-weight:650;background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 14px;display:inline-flex;align-items:center;gap:7px}
   #noticias .nt-upd .dot{width:8px;height:8px;border-radius:50%;background:#2e9e5b;box-shadow:0 0 0 3px rgba(46,158,91,.18)}
+  #noticias .nt-sel{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 8px 6px 14px;font-size:13px;font-weight:650;color:var(--ink-soft)}
+  #noticias .nt-sel select{font-family:inherit;font-size:13px;font-weight:700;color:var(--ink);border:0;background:#f4f6fa;border-radius:999px;padding:5px 10px;cursor:pointer;max-width:210px}
   #noticias .nt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
   #noticias .nt-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px 20px 18px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:11px;transition:transform .14s ease,box-shadow .14s,border-color .14s}
   #noticias .nt-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:#cdd6e4}
@@ -615,6 +617,7 @@
   #noticias .nt-date{font-size:12px;font-weight:800;color:var(--ve-blue2);letter-spacing:.3px;text-transform:uppercase}
   #noticias .nt-cat{font-size:11.5px;font-weight:750;padding:3px 9px;border-radius:999px;background:#eef2f9;color:#3b4a63;border:1px solid #dde4ef}
   #noticias .nt-cat.op{background:#fdf6e6;color:#8a6412;border-color:#f0e2bd}
+  #noticias .nt-of{font-size:11.5px;font-weight:750;padding:3px 9px;border-radius:999px;background:#eaf6ef;color:#1f6b41;border:1px solid #cfe8da}
   #noticias .nt-card h3{font-size:17px;font-weight:790;letter-spacing:-.2px;line-height:1.35;margin:0}
   #noticias .nt-card h3 a{color:var(--ink);text-decoration:none}
   #noticias .nt-card h3 a:hover{color:var(--ve-blue2);text-decoration:underline}
@@ -628,17 +631,26 @@
   #noticias .nt-more{margin:24px auto 0;display:block;background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 22px;font-weight:750;font-size:14px;font-family:inherit;color:var(--ink);cursor:pointer;box-shadow:var(--shadow)}
   #noticias .nt-more:hover{border-color:#c3cad6}
   #noticias .nt-empty{background:#fff;border:1px dashed var(--line);border-radius:var(--radius);padding:26px;text-align:center;color:var(--ink-soft);font-size:14.5px}
+  #noticias .nt-fuentes{margin-top:26px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;box-shadow:var(--shadow)}
+  #noticias .nt-fuentes h4{font-size:13px;font-weight:800;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft);margin:0 0 10px}
+  #noticias .nt-fuentes .list{display:flex;flex-wrap:wrap;gap:8px}
+  #noticias .nt-fuentes .f{font-size:12.8px;font-weight:700;color:var(--ink);background:#f4f6fa;border:1px solid var(--line);border-radius:999px;padding:5px 12px}
+  #noticias .nt-fuentes .f i{font-style:normal;font-weight:700;color:var(--ink-soft);margin-left:5px}
 </style>
 <section id="noticias">
   <div class="wrap">
     <div class="sec-head">
       <span class="eyebrow">05 · Noticias</span>
       <h2>Seguimiento diario de la emergencia</h2>
-      <p>Selección editorial de la FEM con las noticias publicadas por medios venezolanos sobre el terremoto, la reconstrucción y la respuesta humanitaria. Se actualiza a diario. Los enlaces llevan al medio original; la FEM no es responsable de sus contenidos ni de sus líneas editoriales.</p>
+      <p>Selección editorial de la FEM con lo publicado sobre el terremoto, la reconstrucción y la respuesta humanitaria. Contrastamos <strong>varias fuentes</strong>: prensa venezolana, medios internacionales y reportes de organismos oficiales. Se actualiza a diario. Los enlaces llevan al medio original; la FEM no es responsable de sus contenidos ni de sus líneas editoriales.</p>
     </div>
 
     <div class="nt-bar">
       <span class="nt-upd"><span class="dot"></span>Última actualización: <b id="ntUpd">—</b></span>
+      <span class="nt-upd">Fuentes consultadas: <b id="ntNFuentes">—</b></span>
+      <label class="nt-sel">Fuente:
+        <select id="ntFuente"><option value="Todas">Todas</option></select>
+      </label>
     </div>
 
     <div class="chips" id="ntChips"></div>
@@ -646,8 +658,13 @@
     <div id="ntFallback" style="display:none"><div class="nt-empty">No se pudo cargar el listado de noticias en este momento. Intente recargar la página en unos minutos.</div></div>
     <button class="nt-more" id="ntMore" style="display:none" type="button">Ver más noticias</button>
 
-    <div class="info-note" style="margin-top:26px">
-      <strong>Cómo leemos las noticias:</strong> los titulares de prensa suelen adelantarse a las cifras oficiales. Para balances verificados consulte la sección <a href="#situacion">Situación oficial y respuesta</a>, basada en los reportes de situación de OCHA. Si un enlace no abre desde Venezuela, use el enlace «espejo» que acompaña a cada nota.
+    <div class="nt-fuentes" id="ntFuentesBox" style="display:none">
+      <h4>Fuentes de esta sección</h4>
+      <div class="list" id="ntFuentesList"></div>
+    </div>
+
+    <div class="info-note" style="margin-top:20px">
+      <strong>Cómo leemos las noticias:</strong> los titulares de prensa suelen adelantarse a las cifras oficiales y no siempre coinciden entre sí. Por eso mostramos siempre el medio de origen y marcamos con <span class="nt-of">Fuente oficial</span> los reportes de organismos. Para balances verificados consulte la sección <a href="#situacion">Situación oficial y respuesta</a>, basada en los reportes de OCHA. Si un enlace no abre desde Venezuela, use el enlace «espejo» cuando esté disponible.
     </div>
   </div>
 </section>
@@ -655,8 +672,10 @@
 (function(){
   const GRID=document.getElementById('ntGrid'), CHIPS=document.getElementById('ntChips'),
         MORE=document.getElementById('ntMore'), FB=document.getElementById('ntFallback'),
-        UPD=document.getElementById('ntUpd');
-  const PAGE=6; let items=[], filtro='Todas', mostrados=PAGE;
+        UPD=document.getElementById('ntUpd'), SEL=document.getElementById('ntFuente'),
+        NF=document.getElementById('ntNFuentes'), FBOX=document.getElementById('ntFuentesBox'),
+        FLIST=document.getElementById('ntFuentesList');
+  const PAGE=6; let items=[], fCat='Todas', fSrc='Todas', mostrados=PAGE;
   const MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 
   function fmtFecha(iso){
@@ -666,37 +685,56 @@
   function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
   function safeUrl(u){ return /^https?:\/\//i.test(u||'') ? u : ''; }
 
-  function filtrados(){ return filtro==='Todas'?items:items.filter(n=>n.categoria===filtro); }
+  const porFuente=()=> fSrc==='Todas'?items:items.filter(n=>n.fuente===fSrc);
+  function filtrados(){ const b=porFuente(); return fCat==='Todas'?b:b.filter(n=>n.categoria===fCat); }
 
   function renderChips(){
-    const cats=['Todas'].concat([...new Set(items.map(n=>n.categoria).filter(Boolean))].sort());
+    const base=porFuente();
+    const cats=['Todas'].concat([...new Set(base.map(n=>n.categoria).filter(Boolean))].sort());
+    if(cats.indexOf(fCat)===-1) fCat='Todas';
     CHIPS.innerHTML=cats.map(c=>{
-      const n=c==='Todas'?items.length:items.filter(x=>x.categoria===c).length;
-      return '<button class="chip'+(c===filtro?' active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'<span class="cnt">'+n+'</span></button>';
+      const n=c==='Todas'?base.length:base.filter(x=>x.categoria===c).length;
+      return '<button class="chip'+(c===fCat?' active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'<span class="cnt">'+n+'</span></button>';
     }).join('');
     CHIPS.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{
-      filtro=b.dataset.cat; mostrados=PAGE; renderChips(); renderGrid();
+      fCat=b.dataset.cat; mostrados=PAGE; renderChips(); renderGrid();
     }));
   }
 
   function renderGrid(){
     const lista=filtrados(), vis=lista.slice(0,mostrados);
-    if(!vis.length){ GRID.innerHTML='<div class="nt-empty">No hay noticias en esta categoría.</div>'; MORE.style.display='none'; return; }
+    if(!vis.length){ GRID.innerHTML='<div class="nt-empty">No hay noticias con este filtro.</div>'; MORE.style.display='none'; return; }
     GRID.innerHTML=vis.map(n=>{
       const url=safeUrl(n.url)||safeUrl(n.espejo), esp=safeUrl(n.espejo);
-      const op=n.tipo==='opinion';
+      const op=n.tipo==='opinion', of=n.tipoFuente==='oficial';
       return '<article class="nt-card">'
         +'<div class="nt-top"><span class="nt-date">'+esc(fmtFecha(n.fecha))+'</span>'
-        +(n.categoria?'<span class="nt-cat'+(op?' op':'')+'">'+esc(n.categoria)+'</span>':'')+'</div>'
+        +(n.categoria?'<span class="nt-cat'+(op?' op':'')+'">'+esc(n.categoria)+'</span>':'')
+        +(of?'<span class="nt-of">Fuente oficial</span>':'')+'</div>'
         +'<h3>'+(url?'<a href="'+esc(url)+'" target="_blank" rel="noopener nofollow">'+esc(n.titulo)+'</a>':esc(n.titulo))+'</h3>'
         +(n.resumen?'<p class="nt-res">'+esc(n.resumen)+'</p>':'')
         +'<div class="nt-foot"><span class="nt-src">'+esc(n.fuente||'')+'</span>'
         +(n.autor?'<span>· '+esc(n.autor)+'</span>':'')
         +(url?'<a class="nt-go" href="'+esc(url)+'" target="_blank" rel="noopener nofollow">Leer la nota →</a>':'')
-        +(esp&&esp!==url?'<a class="nt-mirror" href="'+esc(esp)+'" target="_blank" rel="noopener nofollow" title="Enlace alternativo si el medio está bloqueado">espejo</a>':'')
+        +(esp&&esp!==url?'<a class="nt-mirror" href="'+esc(esp)+'" target="_blank" rel="noopener nofollow" title="Enlace alternativo si el medio está bloqueado dentro de Venezuela">espejo</a>':'')
         +'</div></article>';
     }).join('');
     MORE.style.display = lista.length>mostrados ? 'block' : 'none';
+  }
+
+  function renderFuentes(){
+    const fuentes=[...new Set(items.map(n=>n.fuente).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'es'));
+    NF.textContent=fuentes.length;
+    SEL.innerHTML='<option value="Todas">Todas ('+items.length+')</option>'+fuentes.map(f=>{
+      const n=items.filter(x=>x.fuente===f).length;
+      return '<option value="'+esc(f)+'">'+esc(f)+' ('+n+')</option>';
+    }).join('');
+    SEL.addEventListener('change',()=>{ fSrc=SEL.value; mostrados=PAGE; renderChips(); renderGrid(); });
+    FLIST.innerHTML=fuentes.map(f=>{
+      const n=items.filter(x=>x.fuente===f).length;
+      return '<span class="f">'+esc(f)+'<i>'+n+'</i></span>';
+    }).join('');
+    FBOX.style.display='block';
   }
 
   MORE.addEventListener('click',()=>{ mostrados+=PAGE; renderGrid(); });
@@ -707,9 +745,11 @@
       items=(d.items||[]).slice().sort((a,b)=>String(b.fecha).localeCompare(String(a.fecha)));
       if(!items.length) throw new Error('vacio');
       UPD.textContent=fmtFecha(d.actualizado||items[0].fecha);
-      renderChips(); renderGrid();
+      renderFuentes(); renderChips(); renderGrid();
     })
-    .catch(()=>{ CHIPS.style.display='none'; GRID.style.display='none'; MORE.style.display='none'; FB.style.display='block'; UPD.textContent='—'; });
+    .catch(()=>{ CHIPS.style.display='none'; GRID.style.display='none'; MORE.style.display='none';
+      document.querySelector('#noticias .nt-sel').style.display='none'; FB.style.display='block';
+      UPD.textContent='—'; NF.textContent='—'; });
 })();
 </script>
 

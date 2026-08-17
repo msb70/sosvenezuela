@@ -1,13 +1,48 @@
 {
-  "actualizado": "2026-08-14",
-  "nota": "Selección editorial de la FEM. Solo se incluyen noticias relacionadas con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo' sirve cuando el sitio del medio está bloqueado dentro de Venezuela.",
+  "actualizado": "2026-08-17",
+  "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "2026-08-17-cnn-escuela-carpa",
+      "fecha": "2026-08-17",
+      "titulo": "La educación fue otra de las víctimas del terremoto: una maestra reconstruye su escuela desde una carpa",
+      "resumen": "En un campamento de Catia La Mar funciona la «Escuela de Urimare», un aula improvisada bajo carpa. En La Guaira colapsaron 11 escuelas, 6 están en alto riesgo de derrumbe y 49 tienen acceso restringido; más de 3.400 alumnos quedaron sin plantel.",
+      "fuente": "CNN Español",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cnnespanol.cnn.com/2026/08/17/venezuela/educacion-victima-terremoto-maestra-busca-reconstruccion-orix"
+    },
+    {
+      "id": "2026-08-15-lapatilla-aulas-vacias",
+      "fecha": "2026-08-15",
+      "titulo": "Aulas vacías en La Guaira: los terremotos dejaron decenas de alumnos fallecidos y a miles sin escuela",
+      "resumen": "UNICEF contabiliza 432 escuelas dañadas en el área metropolitana de Caracas; en La Guaira, 116 de 316 planteles resultaron afectados y 14 colapsaron por completo. En el Complejo Educativo Juan José Mendoza murieron 217 de sus 1.000 alumnos y 11 miembros del personal.",
+      "fuente": "La Patilla",
+      "autor": "Reporte original de El País",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/15/aulas-vacias-en-la-guaira-terremotos-dejaron-decenas-de-alumnos-fallecidos-y-a-miles-sin-escuela/"
+    },
+    {
+      "id": "2026-08-14-ocha-sitrep-33",
+      "fecha": "2026-08-14",
+      "titulo": "OCHA publica el Reporte de Situación N.° 33 sobre los terremotos en Venezuela",
+      "resumen": "Con corte al 10 de agosto: 6.301 fallecidos, 73.356 personas atendidas en hospitales, 53.314 viviendas evaluadas y 9.567 clasificadas como de alto riesgo. La respuesta humanitaria había asistido a 304.000 personas al 13 de agosto, 57% mujeres y niñas.",
+      "fuente": "OCHA · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-33-14-de-agosto-de-2026-hora-0200-pm"
+    },
     {
       "id": "2026-08-14-academias-reconstruccion",
       "fecha": "2026-08-14",
       "titulo": "Academias ponen a disposición su potencial técnico y científico para contribuir al Plan de Reconstrucción Nacional",
       "resumen": "El Comité Interacadémico de las Academias Nacionales ofreció equipos multidisciplinarios para evaluar daños, reforzar la atención sanitaria y realizar estudios de riesgo geológico tras el doble terremoto del 24 de junio.",
       "fuente": "El Nacional",
+      "tipoFuente": "medio",
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/",
@@ -19,6 +54,7 @@
       "titulo": "Puerto de La Guaira reactiva sus operaciones al 100% tras el doble terremoto",
       "resumen": "La Cámara de Comercio, Industria y Aduanas informó que el puerto opera al 100%, aunque solo trabajan unos 100 de los 1.200 agentes aduanales habituales. En Maiquetía funcionan instalaciones temporales con capacidad para 1.260 pasajeros.",
       "fuente": "El Nacional",
+      "tipoFuente": "medio",
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/08/puerto-de-la-guaira-reactiva-sus-operaciones-al-100-tras-el-doble-terremoto/",
@@ -30,7 +66,8 @@
       "titulo": "Acnur advierte que las necesidades de los desplazados en Colombia crecen tras el terremoto",
       "resumen": "La agencia de la ONU para los refugiados alertó que solo ha cubierto el 20% de los US$ 86,2 millones que necesita para 2026. Las prioridades urgentes son refugio, alimentos, agua, atención médica y apoyo psicológico.",
       "fuente": "El Nacional",
-      "categoria": "Ayuda humanitaria",
+      "tipoFuente": "medio",
+      "categoria": "Colombia",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/08/acnur-advierte-que-las-necesidades-de-los-desplazados-en-colombia-crecen-tras-el-terremoto/",
       "espejo": "https://bitlysdowssl-aws.com/2026/08/acnur-advierte-que-las-necesidades-de-los-desplazados-en-colombia-crecen-tras-el-terremoto/"
@@ -42,10 +79,68 @@
       "resumen": "Columna que analiza la deuda externa consolidada (US$ 150.000–170.000 millones) como el principal cuello de botella para la reconstrucción, y propone una reestructuración diferenciada por bloques de acreedores.",
       "fuente": "El Nacional",
       "autor": "Benjamín Tripier",
+      "tipoFuente": "medio",
       "categoria": "Opinión",
       "tipo": "opinion",
       "url": "https://www.elnacional.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/",
       "espejo": "https://bitlysdowssl-aws.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/"
+    },
+    {
+      "id": "2026-08-12-cronicauno-escuelas-docentes",
+      "fecha": "2026-08-12",
+      "titulo": "Daños por sismos y déficit docente amenazan el inicio del nuevo año escolar",
+      "resumen": "UNICEF reporta 432 escuelas dañadas y el Gobierno anuncia reparar 1.500 planteles. Al daño físico se suma un déficit docente oficial de 13.834 especialistas, que la UCAB estima en más de 200.000 en la práctica, sin planes de apoyo psicosocial para los estudiantes.",
+      "fuente": "Crónica.Uno",
+      "autor": "Yandris Saldivia",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/danos-en-escuelas-terremotos-deficit-docente-comprometen-inicio-ano-escolar-2026-2027/"
+    },
+    {
+      "id": "2026-08-10-infobae-balance-6301",
+      "fecha": "2026-08-10",
+      "titulo": "Venezuela elevó a 6.301 la cifra de muertos por el doble terremoto mientras avanza la remoción de escombros",
+      "resumen": "El balance oficial subió a 6.301 fallecidos y 73.356 personas atendidas en hospitales. Se inspeccionaron 53.314 viviendas, de las cuales 9.567 fueron clasificadas como de alto riesgo y requieren evacuación o demolición.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/10/venezuela-elevo-a-6301-la-cifra-de-muertos-por-el-doble-terremoto-mientras-avanza-la-remocion-de-escombros/"
+    },
+    {
+      "id": "2026-08-05-cocuyo-ano-escolar",
+      "fecha": "2026-08-05",
+      "titulo": "MinEducación anuncia que el año escolar comienza el 14 de septiembre",
+      "resumen": "El ministro Héctor Rodríguez pospuso el inicio del año escolar 2026-2027 para dar tiempo a las reparaciones. El sismo dañó cerca de 1.000 escuelas y las autoridades prevén rehabilitar al menos 1.500 planteles durante agosto.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/mineducacion-14-de-septiembre/"
+    },
+    {
+      "id": "2026-08-04-cocuyo-profesora",
+      "fecha": "2026-08-04",
+      "titulo": "«Dejé de ser la profesora que era»: la educación en el limbo, otro costo del doble terremoto",
+      "resumen": "Datos preliminares de organizaciones educativas señalan al menos 908 escuelas dañadas en el país y unos 120 docentes fallecidos. El reportaje sigue el caso de una maestra de La Guaira que perdió su casa y su plantel y se refugió en Caracas.",
+      "fuente": "Efecto Cocuyo",
+      "autor": "Mabel Sarmiento",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/deje-de-ser-la-profesora-que-era-educacion-limbo/"
+    },
+    {
+      "id": "2026-07-29-cocuyo-balance-congelado",
+      "fecha": "2026-07-29",
+      "titulo": "Autoridades no actualizan el balance de víctimas de los terremotos desde el 24 de julio",
+      "resumen": "El conteo oficial quedó congelado en 5.546 fallecidos durante semanas, mientras organizaciones internacionales manejaban estimaciones mayores. El reportaje documenta el vacío de información oficial en plena fase de rescate y recuperación.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/autoridades-no-actualizan-balance/"
     }
   ]
 }
