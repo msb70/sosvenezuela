@@ -1,0 +1,51 @@
+{
+  "actualizado": "2026-08-14",
+  "nota": "Selección editorial de la FEM. Solo se incluyen noticias relacionadas con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo' sirve cuando el sitio del medio está bloqueado dentro de Venezuela.",
+  "items": [
+    {
+      "id": "2026-08-14-academias-reconstruccion",
+      "fecha": "2026-08-14",
+      "titulo": "Academias ponen a disposición su potencial técnico y científico para contribuir al Plan de Reconstrucción Nacional",
+      "resumen": "El Comité Interacadémico de las Academias Nacionales ofreció equipos multidisciplinarios para evaluar daños, reforzar la atención sanitaria y realizar estudios de riesgo geológico tras el doble terremoto del 24 de junio.",
+      "fuente": "El Nacional",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/"
+    },
+    {
+      "id": "2026-08-14-puerto-la-guaira",
+      "fecha": "2026-08-14",
+      "titulo": "Puerto de La Guaira reactiva sus operaciones al 100% tras el doble terremoto",
+      "resumen": "La Cámara de Comercio, Industria y Aduanas informó que el puerto opera al 100%, aunque solo trabajan unos 100 de los 1.200 agentes aduanales habituales. En Maiquetía funcionan instalaciones temporales con capacidad para 1.260 pasajeros.",
+      "fuente": "El Nacional",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/puerto-de-la-guaira-reactiva-sus-operaciones-al-100-tras-el-doble-terremoto/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/08/puerto-de-la-guaira-reactiva-sus-operaciones-al-100-tras-el-doble-terremoto/"
+    },
+    {
+      "id": "2026-08-14-acnur-desplazados-colombia",
+      "fecha": "2026-08-14",
+      "titulo": "Acnur advierte que las necesidades de los desplazados en Colombia crecen tras el terremoto",
+      "resumen": "La agencia de la ONU para los refugiados alertó que solo ha cubierto el 20% de los US$ 86,2 millones que necesita para 2026. Las prioridades urgentes son refugio, alimentos, agua, atención médica y apoyo psicológico.",
+      "fuente": "El Nacional",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/acnur-advierte-que-las-necesidades-de-los-desplazados-en-colombia-crecen-tras-el-terremoto/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/08/acnur-advierte-que-las-necesidades-de-los-desplazados-en-colombia-crecen-tras-el-terremoto/"
+    },
+    {
+      "id": "2026-08-14-tripier-acreedores-reconstruccion",
+      "fecha": "2026-08-14",
+      "titulo": "Vitrina: Priorizar a los acreedores o reconstruir el país",
+      "resumen": "Columna que analiza la deuda externa consolidada (US$ 150.000–170.000 millones) como el principal cuello de botella para la reconstrucción, y propone una reestructuración diferenciada por bloques de acreedores.",
+      "fuente": "El Nacional",
+      "autor": "Benjamín Tripier",
+      "categoria": "Opinión",
+      "tipo": "opinion",
+      "url": "https://www.elnacional.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/"
+    }
+  ]
+}

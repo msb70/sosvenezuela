@@ -309,6 +309,7 @@
         <div class="nav-more-menu">
           <a href="#hospitales">Hospitales de campaña</a>
           <a href="#situacion">Situación oficial</a>
+          <a href="#noticias">Noticias</a>
           <a href="#protocolo">Priorización y protocolo</a>
           <a href="#familias">Para las familias</a>
           <a href="#auxilios">Primeros auxilios</a>
@@ -602,11 +603,121 @@
   </div>
 </section>
 
+<!-- NOTICIAS -->
+<style>
+  #noticias .nt-bar{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-bottom:22px}
+  #noticias .nt-upd{font-size:13px;color:var(--ink-soft);font-weight:650;background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 14px;display:inline-flex;align-items:center;gap:7px}
+  #noticias .nt-upd .dot{width:8px;height:8px;border-radius:50%;background:#2e9e5b;box-shadow:0 0 0 3px rgba(46,158,91,.18)}
+  #noticias .nt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
+  #noticias .nt-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px 20px 18px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:11px;transition:transform .14s ease,box-shadow .14s,border-color .14s}
+  #noticias .nt-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:#cdd6e4}
+  #noticias .nt-top{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+  #noticias .nt-date{font-size:12px;font-weight:800;color:var(--ve-blue2);letter-spacing:.3px;text-transform:uppercase}
+  #noticias .nt-cat{font-size:11.5px;font-weight:750;padding:3px 9px;border-radius:999px;background:#eef2f9;color:#3b4a63;border:1px solid #dde4ef}
+  #noticias .nt-cat.op{background:#fdf6e6;color:#8a6412;border-color:#f0e2bd}
+  #noticias .nt-card h3{font-size:17px;font-weight:790;letter-spacing:-.2px;line-height:1.35;margin:0}
+  #noticias .nt-card h3 a{color:var(--ink);text-decoration:none}
+  #noticias .nt-card h3 a:hover{color:var(--ve-blue2);text-decoration:underline}
+  #noticias .nt-res{font-size:13.8px;color:var(--ink-soft);margin:0}
+  #noticias .nt-foot{margin-top:auto;padding-top:6px;display:flex;flex-wrap:wrap;align-items:center;gap:10px;font-size:12.8px;color:var(--ink-soft)}
+  #noticias .nt-src{font-weight:700;color:var(--ink)}
+  #noticias .nt-go{font-weight:750;color:var(--ve-blue2);text-decoration:none}
+  #noticias .nt-go:hover{text-decoration:underline}
+  #noticias .nt-mirror{font-size:12px;color:var(--ink-soft);text-decoration:none;border-bottom:1px dotted #b9c2d0}
+  #noticias .nt-mirror:hover{color:var(--ve-blue2)}
+  #noticias .nt-more{margin:24px auto 0;display:block;background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 22px;font-weight:750;font-size:14px;font-family:inherit;color:var(--ink);cursor:pointer;box-shadow:var(--shadow)}
+  #noticias .nt-more:hover{border-color:#c3cad6}
+  #noticias .nt-empty{background:#fff;border:1px dashed var(--line);border-radius:var(--radius);padding:26px;text-align:center;color:var(--ink-soft);font-size:14.5px}
+</style>
+<section id="noticias">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">05 · Noticias</span>
+      <h2>Seguimiento diario de la emergencia</h2>
+      <p>Selección editorial de la FEM con las noticias publicadas por medios venezolanos sobre el terremoto, la reconstrucción y la respuesta humanitaria. Se actualiza a diario. Los enlaces llevan al medio original; la FEM no es responsable de sus contenidos ni de sus líneas editoriales.</p>
+    </div>
+
+    <div class="nt-bar">
+      <span class="nt-upd"><span class="dot"></span>Última actualización: <b id="ntUpd">—</b></span>
+    </div>
+
+    <div class="chips" id="ntChips"></div>
+    <div class="nt-grid" id="ntGrid"></div>
+    <div id="ntFallback" style="display:none"><div class="nt-empty">No se pudo cargar el listado de noticias en este momento. Intente recargar la página en unos minutos.</div></div>
+    <button class="nt-more" id="ntMore" style="display:none" type="button">Ver más noticias</button>
+
+    <div class="info-note" style="margin-top:26px">
+      <strong>Cómo leemos las noticias:</strong> los titulares de prensa suelen adelantarse a las cifras oficiales. Para balances verificados consulte la sección <a href="#situacion">Situación oficial y respuesta</a>, basada en los reportes de situación de OCHA. Si un enlace no abre desde Venezuela, use el enlace «espejo» que acompaña a cada nota.
+    </div>
+  </div>
+</section>
+<script>
+(function(){
+  const GRID=document.getElementById('ntGrid'), CHIPS=document.getElementById('ntChips'),
+        MORE=document.getElementById('ntMore'), FB=document.getElementById('ntFallback'),
+        UPD=document.getElementById('ntUpd');
+  const PAGE=6; let items=[], filtro='Todas', mostrados=PAGE;
+  const MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+
+  function fmtFecha(iso){
+    const p=String(iso||'').split('-'); if(p.length!==3) return iso||'';
+    return p[2]+' '+MESES[parseInt(p[1],10)-1]+' '+p[0];
+  }
+  function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+  function safeUrl(u){ return /^https?:\/\//i.test(u||'') ? u : ''; }
+
+  function filtrados(){ return filtro==='Todas'?items:items.filter(n=>n.categoria===filtro); }
+
+  function renderChips(){
+    const cats=['Todas'].concat([...new Set(items.map(n=>n.categoria).filter(Boolean))].sort());
+    CHIPS.innerHTML=cats.map(c=>{
+      const n=c==='Todas'?items.length:items.filter(x=>x.categoria===c).length;
+      return '<button class="chip'+(c===filtro?' active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'<span class="cnt">'+n+'</span></button>';
+    }).join('');
+    CHIPS.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{
+      filtro=b.dataset.cat; mostrados=PAGE; renderChips(); renderGrid();
+    }));
+  }
+
+  function renderGrid(){
+    const lista=filtrados(), vis=lista.slice(0,mostrados);
+    if(!vis.length){ GRID.innerHTML='<div class="nt-empty">No hay noticias en esta categoría.</div>'; MORE.style.display='none'; return; }
+    GRID.innerHTML=vis.map(n=>{
+      const url=safeUrl(n.url)||safeUrl(n.espejo), esp=safeUrl(n.espejo);
+      const op=n.tipo==='opinion';
+      return '<article class="nt-card">'
+        +'<div class="nt-top"><span class="nt-date">'+esc(fmtFecha(n.fecha))+'</span>'
+        +(n.categoria?'<span class="nt-cat'+(op?' op':'')+'">'+esc(n.categoria)+'</span>':'')+'</div>'
+        +'<h3>'+(url?'<a href="'+esc(url)+'" target="_blank" rel="noopener nofollow">'+esc(n.titulo)+'</a>':esc(n.titulo))+'</h3>'
+        +(n.resumen?'<p class="nt-res">'+esc(n.resumen)+'</p>':'')
+        +'<div class="nt-foot"><span class="nt-src">'+esc(n.fuente||'')+'</span>'
+        +(n.autor?'<span>· '+esc(n.autor)+'</span>':'')
+        +(url?'<a class="nt-go" href="'+esc(url)+'" target="_blank" rel="noopener nofollow">Leer la nota →</a>':'')
+        +(esp&&esp!==url?'<a class="nt-mirror" href="'+esc(esp)+'" target="_blank" rel="noopener nofollow" title="Enlace alternativo si el medio está bloqueado">espejo</a>':'')
+        +'</div></article>';
+    }).join('');
+    MORE.style.display = lista.length>mostrados ? 'block' : 'none';
+  }
+
+  MORE.addEventListener('click',()=>{ mostrados+=PAGE; renderGrid(); });
+
+  fetch('noticias.json?v='+Date.now(),{cache:'no-store'})
+    .then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(d=>{
+      items=(d.items||[]).slice().sort((a,b)=>String(b.fecha).localeCompare(String(a.fecha)));
+      if(!items.length) throw new Error('vacio');
+      UPD.textContent=fmtFecha(d.actualizado||items[0].fecha);
+      renderChips(); renderGrid();
+    })
+    .catch(()=>{ CHIPS.style.display='none'; GRID.style.display='none'; MORE.style.display='none'; FB.style.display='block'; UPD.textContent='—'; });
+})();
+</script>
+
 <!-- PROTOCOLO -->
 <section id="protocolo" style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">05 · Priorización y protocolo</span>
+      <span class="eyebrow">06 · Priorización y protocolo</span>
       <h2>Cómo ayudar sin causar daño</h2>
       <p>En emergencias transfronterizas, la FEM recomienda priorizar donaciones monetarias o compras locales con organizaciones acreditadas, y enviar insumos físicos solo con lista validada y logística confirmada. Seleccione un rubro para ver aliados, ejemplos, riesgo operativo y recomendación de control.</p>
     </div>
@@ -635,7 +746,7 @@
 <section id="familias">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">06 · Para las familias</span>
+      <span class="eyebrow">07 · Para las familias</span>
       <h2>Cómo apoyar a los niños después del terremoto</h2>
       <p>Los niños se recuperan mejor cuando entienden lo que pasó, mantienen rutinas y ven adultos que transmiten calma. Este resumen práctico fue elaborado por la FEM a partir de guías especializadas de <strong>Sesame Workshop</strong>, <strong>UNICEF</strong> y <strong>Save the Children</strong>; al final encontrarás los enlaces a los materiales completos y gratuitos.</p>
     </div>
@@ -746,7 +857,7 @@
 <section id="auxilios">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">07 · Primeros auxilios</span>
+      <span class="eyebrow">08 · Primeros auxilios</span>
       <h2>Primeros auxilios y salud comunitaria post desastre</h2>
       <p>Manual de acción rápida elaborado por la FEM para <strong>madres y cuidadoras de niños de 0 a 6 años</strong>. Ante una emergencia, tu calma y tu acción rápida son la mejor medicina para tus hijos. <strong>Revisión médica:</strong> Dra. María Graciela López, pediatra infectóloga, Centro Médico Docente La Trinidad.</p>
     </div>
@@ -862,7 +973,7 @@
 <section id="contacto">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">08 · Contacto</span>
+      <span class="eyebrow">09 · Contacto</span>
       <h2>Contacta a la Fundación Eugenio Mendoza</h2>
       <p>Si deseas comunicarte con la FEM sobre esta iniciativa —solicitar información, reportar una corrección o proponer colaboración—, utiliza el formulario o escribe directamente al correo de esta página.</p>
     </div>
