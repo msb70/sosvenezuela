@@ -29,7 +29,7 @@
       "url": "https://fundacioneugeniomendoza.com/",
       "logo": "https://apoyo-fem-vzla.org/logos/fem-logo.png",
       "foundingDate": "1951",
-      "email": "contacto@apoyo-fem-vzla.org",
+      "email": "contacto@fundacioneugeniomendoza.com",
       "sameAs": ["https://www.instagram.com/fundacioneugeniomendoza/"]
     },
     {
@@ -869,7 +869,7 @@
         <h3>Correo de esta iniciativa</h3>
         <p>Canal dedicado de la plataforma SOS Venezuela. Respondemos consultas informativas; esta vía <strong>no gestiona emergencias</strong> — ante peligro inmediato llama al 911 / 112 / *1 / 171.</p>
         <div class="contact-mail">
-          <a href="mailto:contacto@apoyo-fem-vzla.org" id="contactMailLink">contacto@apoyo-fem-vzla.org</a>
+          <a href="mailto:contacto@fundacioneugeniomendoza.com" id="contactMailLink">contacto@fundacioneugeniomendoza.com</a>
           <button type="button" class="copy-btn" onclick="copyContactMail(this)">Copiar</button>
         </div>
         <p style="margin-top:16px">También puedes usar los canales institucionales de la FEM listados al pie de la página.</p>
@@ -891,9 +891,9 @@
         <textarea id="cfMsg" name="mensaje" required maxlength="2000" placeholder="Describe qué información necesitas o el motivo de tu contacto"></textarea>
         <input type="text" name="web" id="cfWeb" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;height:1px;width:1px" aria-hidden="true">
         <button type="submit" class="send-btn" id="cfSend">Enviar solicitud ✉</button>
-        <p class="form-note">Tu solicitud se envía a contacto@apoyo-fem-vzla.org. Usamos tus datos únicamente para responderte; esta página no los almacena ni comparte.</p>
+        <p class="form-note">Tu solicitud se envía a contacto@fundacioneugeniomendoza.com. Usamos tus datos únicamente para responderte; esta página no los almacena ni comparte.</p>
         <div class="sent-ok" id="cfOk">✓ Solicitud enviada correctamente. Te responderemos al correo indicado.</div>
-        <div class="sent-ok" id="cfErr" style="background:#fdeeef;border-color:#f2c2c8;color:#8a1f2d">No se pudo enviar en este momento. Escribe directamente a <strong>contacto@apoyo-fem-vzla.org</strong>.</div>
+        <div class="sent-ok" id="cfErr" style="background:#fdeeef;border-color:#f2c2c8;color:#8a1f2d">No se pudo enviar en este momento. Escribe directamente a <strong>contacto@fundacioneugeniomendoza.com</strong>.</div>
       </form>
     </div>
   </div>
@@ -926,7 +926,6 @@
         <h4>Fundación Eugenio Mendoza</h4>
         <a href="https://fundacioneugeniomendoza.com/" target="_blank" rel="noopener">Sitio web oficial ↗</a>
         <a href="https://www.instagram.com/fundacioneugeniomendoza/" target="_blank" rel="noopener">Instagram ↗</a>
-        <a href="mailto:contacto@apoyo-fem-vzla.org">contacto@apoyo-fem-vzla.org</a>
         <a href="mailto:contacto@fundacioneugeniomendoza.com">contacto@fundacioneugeniomendoza.com</a>
         <a href="https://fundacioneugeniomendoza.com/contacto/" target="_blank" rel="noopener">Contáctanos ↗</a>
       </div>
@@ -1769,6 +1768,20 @@ function setKPI(numId, srcId, val, url, fecha){
   const srcEl=document.getElementById(srcId);
   if(srcEl) srcEl.innerHTML=`<span class="live">En vivo</span> · <a href="${url}" target="_blank" rel="noopener">Wikipedia</a> · ${fecha} · cifra referencial`;
 }
+/* Lee la cifra de respaldo que ya está escrita en el HTML (ej. "+29.500" -> 29500). */
+function readKPI(numId){
+  const el=document.getElementById(numId); if(!el) return 0;
+  const n=parseInt(String(el.textContent).replace(/[^\d]/g,''),10);
+  return isNaN(n)?0:n;
+}
+/* Solo deja que Wikipedia pise el respaldo estático si la cifra es IGUAL O MAYOR.
+   En un balance de desastre las cifras solo suben: si Wikipedia va por detrás
+   (editor voluntario sin actualizar), conservamos el dato oficial ya verificado. */
+function setKPIifHigher(numId, srcId, val, url, fecha){
+  if(val < readKPI(numId)) return false;
+  setKPI(numId, srcId, fmtNum(val), url, fecha);
+  return true;
+}
 async function loadLiveStats(){
   const PAGE="Terremotos_de_Venezuela_de_2026";
   const API="https://es.wikipedia.org/w/api.php?action=parse&page="+PAGE+"&prop=wikitext&section=0&format=json&redirects=1&origin=*";
@@ -1790,9 +1803,9 @@ async function loadLiveStats(){
     let h=grabBefore(block,'heridos');
     let d=grabBefore(block,'desaparecid\\w*');
     const hoy=new Date().toLocaleDateString('es-ES',{day:'2-digit',month:'short',year:'numeric'});
-    if(f!==null && f>=1 && f<=200000) setKPI('kpiFallecidos','srcFallecidos',fmtNum(f),WIKI_URL,hoy);
-    if(h!==null && h>=1 && h<=500000) setKPI('kpiHeridos','srcHeridos',fmtNum(h),WIKI_URL,hoy);
-    if(d!==null && d>=1 && d<=500000) setKPI('kpiDesaparecidos','srcDesaparecidos',fmtNum(d),WIKI_URL,hoy);
+    if(f!==null && f>=1 && f<=200000) setKPIifHigher('kpiFallecidos','srcFallecidos',f,WIKI_URL,hoy);
+    if(h!==null && h>=1 && h<=500000) setKPIifHigher('kpiHeridos','srcHeridos',h,WIKI_URL,hoy);
+    if(d!==null && d>=1 && d<=500000) setKPIifHigher('kpiDesaparecidos','srcDesaparecidos',d,WIKI_URL,hoy);
   }catch(e){ /* conserva las cifras de respaldo del HTML */ }
 }
 
@@ -1820,9 +1833,9 @@ async function sendContact(e){
   return false;
 }
 function copyContactMail(btn){
-  navigator.clipboard.writeText('contacto@apoyo-fem-vzla.org').then(()=>{
+  navigator.clipboard.writeText('contacto@fundacioneugeniomendoza.com').then(()=>{
     btn.textContent='Copiado ✓'; setTimeout(()=>{btn.textContent='Copiar';},2000);
-  }).catch(()=>{ window.prompt('Copia el correo:','contacto@apoyo-fem-vzla.org'); });
+  }).catch(()=>{ window.prompt('Copia el correo:','contacto@fundacioneugeniomendoza.com'); });
 }
 
 /* ====================== NAV "MÁS" ====================== */

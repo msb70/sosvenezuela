@@ -741,6 +741,20 @@ function setKPI(numId, srcId, val, url, fecha){
   const srcEl=document.getElementById(srcId);
   if(srcEl) srcEl.innerHTML=`<span class="live">En vivo</span> · <a href="${url}" target="_blank" rel="noopener">Wikipedia</a> · ${fecha} · cifra referencial`;
 }
+/* Lee la cifra de respaldo que ya está escrita en el HTML (ej. "+3.800" -> 3800). */
+function readKPI(numId){
+  const el=document.getElementById(numId); if(!el) return 0;
+  const n=parseInt(String(el.textContent).replace(/[^\d]/g,''),10);
+  return isNaN(n)?0:n;
+}
+/* Solo deja que Wikipedia pise el respaldo estático si la cifra es IGUAL O MAYOR.
+   En un balance de desastre las cifras solo suben: si Wikipedia va por detrás
+   (editor voluntario sin actualizar), conservamos el dato oficial ya verificado. */
+function setKPIifHigher(numId, srcId, val, url, fecha){
+  if(val < readKPI(numId)) return false;
+  setKPI(numId, srcId, fmtNum(val), url, fecha);
+  return true;
+}
 async function loadLiveStats(){
   const PAGE="Terremoto_de_Colombia_de_2026";
   const API="https://es.wikipedia.org/w/api.php?action=parse&page="+PAGE+"&prop=wikitext&section=0&format=json&redirects=1&origin=*";
@@ -758,9 +772,9 @@ async function loadLiveStats(){
     let h=grabBefore(block,'heridos');
     let d=grabBefore(block,'desaparecid\\w*');
     const hoy=new Date().toLocaleDateString('es-ES',{day:'2-digit',month:'short',year:'numeric'});
-    if(f!==null && f>=1 && f<=200000) setKPI('kpiFallecidos','srcFallecidos',fmtNum(f),WIKI_URL,hoy);
-    if(h!==null && h>=1 && h<=500000) setKPI('kpiHeridos','srcHeridos',fmtNum(h),WIKI_URL,hoy);
-    if(d!==null && d>=1 && d<=500000) setKPI('kpiDesaparecidos','srcDesaparecidos',fmtNum(d),WIKI_URL,hoy);
+    if(f!==null && f>=1 && f<=200000) setKPIifHigher('kpiFallecidos','srcFallecidos',f,WIKI_URL,hoy);
+    if(h!==null && h>=1 && h<=500000) setKPIifHigher('kpiHeridos','srcHeridos',h,WIKI_URL,hoy);
+    if(d!==null && d>=1 && d<=500000) setKPIifHigher('kpiDesaparecidos','srcDesaparecidos',d,WIKI_URL,hoy);
   }catch(e){ /* conserva las cifras de respaldo del HTML */ }
 }
 
