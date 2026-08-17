@@ -755,6 +755,17 @@ function setKPIifHigher(numId, srcId, val, url, fecha){
   setKPI(numId, srcId, fmtNum(val), url, fecha);
   return true;
 }
+/* Quita las referencias <ref>...</ref> y normaliza espacios/plantillas de miles. */
+function stripRefs(t){
+  return t.replace(/<ref[^>]*\/>/gi,' ').replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi,' ');
+}
+/* Aisla el campo "victimas" del infobox. Sin esto el parser puede tomar numeros
+   sueltos de titulares o URLs de las referencias (caso real 17/08/2026: la URL
+   ".../el-terremoto-en-colombia-deja-224-muertos-..." hacia leer 224 en vez de 294). */
+function victimBlock(t){
+  const m=t.match(/v[íi]ctimas\s*=\s*([\s\S]*?)(?=\n\s*\||\}\})/i);
+  return m ? m[1] : t;
+}
 async function loadLiveStats(){
   const PAGE="Terremoto_de_Colombia_de_2026";
   const API="https://es.wikipedia.org/w/api.php?action=parse&page="+PAGE+"&prop=wikitext&section=0&format=json&redirects=1&origin=*";
@@ -765,9 +776,10 @@ async function loadLiveStats(){
     const j=await r.json();
     const wt=j && j.parse && j.parse.wikitext ? j.parse.wikitext["*"] : "";
     if(!wt) throw 0;
-    const block=wt
+    const block0=wt
       .replace(/&nbsp;|&#160;|&#8239;|&#8201;|&thinsp;| | /g,' ')
       .replace(/\{\{\s*(?:esd|nbsp|espd|espacio)\s*\}\}/gi,' ');
+    const block=victimBlock(stripRefs(block0));
     let f=grabBefore(block,'muertos|fallecidos|muertes');
     let h=grabBefore(block,'heridos');
     let d=grabBefore(block,'desaparecid\\w*');
