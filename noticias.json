@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-08-17",
+  "actualizado": "2026-08-19",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260818-elnacional-formacion",
+      "fecha": "2026-08-18",
+      "titulo": "Anuncian plan de formación para trabajadores de la construcción tras los sismos: dónde y cuándo inscribirse",
+      "resumen": "La vicepresidencia anunció un programa técnico de capacitación para plomeros, albañiles, electricistas, herreros y carpinteros, coordinado con el INCES y varios ministerios. Los trabajadores certificados se incorporarán al plan de reconstrucción «Venezuela Renace»; las inscripciones abren el 24 de agosto por el Sistema Patria.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/anuncian-plan-de-formacion-para-trabajadores-de-la-construccion-tras-sismos-donde-y-cuando-inscribirse/"
+    },
+    {
+      "id": "ve-20260818-lapatilla-sismo",
+      "fecha": "2026-08-18",
+      "titulo": "Sismo sacudió a Caracas y La Guaira en la madrugada del 18 de agosto",
+      "resumen": "Un sismo con epicentro en la zona costera cercana a Catia La Mar y Maiquetía se sintió a las 3:07 a. m. en el Área Metropolitana de Caracas y en La Guaira. Funvisis lo ubicó en magnitud 4,0 a 10 km de profundidad —las aplicaciones internacionales reportaron 4,6— y las autoridades no reportaron daños.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/18/sismo-de-magnitud-4-6-sacudio-a-caracas-y-la-guaira-la-madrugada-de-este-18ago/"
+    },
+    {
+      "id": "ve-20260818-cnn-reconstruccion",
+      "fecha": "2026-08-18",
+      "titulo": "¿Cómo se reconstruye un país después de un terremoto? Estos son los desafíos de Colombia y Venezuela",
+      "resumen": "Análisis comparado de los retos de reconstrucción que enfrentan los dos países tras sus respectivos terremotos: financiación, capacidad técnica, vivienda y plazos. Contrasta la situación venezolana a casi dos meses del doble sismo con la emergencia colombiana recién iniciada.",
+      "fuente": "CNN Español",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cnnespanol.cnn.com/2026/08/18/colombia/como-se-reconstruye-un-pais-despues-de-un-terremoto-estos-son-los-desafios-de-colombia-y-venezuela"
+    },
     {
       "id": "2026-08-17-cnn-escuela-carpa",
       "fecha": "2026-08-17",
@@ -84,6 +117,17 @@
       "tipo": "opinion",
       "url": "https://www.elnacional.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/",
       "espejo": "https://bitlysdowssl-aws.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/"
+    },
+    {
+      "id": "ve-20260812-eldiario-escuelas",
+      "fecha": "2026-08-12",
+      "titulo": "Docentes exigieron un cronograma claro sobre la reparación de escuelas afectadas por los terremotos",
+      "resumen": "Gremios docentes reclamaron al Ministerio de Educación un cronograma público y verificable de reparación de los planteles dañados por el doble sismo. Advierten que sin plazos definidos el inicio del año escolar del 14 de septiembre corre riesgo en las zonas más golpeadas.",
+      "fuente": "El Diario",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://eldiario.com/2026/08/12/cronograma-reparacion-escuelas-venezuela/"
     },
     {
       "id": "2026-08-12-cronicauno-escuelas-docentes",
