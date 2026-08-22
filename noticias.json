@@ -1,7 +1,53 @@
 {
-  "actualizado": "2026-08-19",
+  "actualizado": "2026-08-22",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260822-infobae-ley-vivienda",
+      "fecha": "2026-08-22",
+      "titulo": "El Parlamento de Venezuela aprobó una reforma para acelerar el acceso a viviendas tras los terremotos",
+      "resumen": "La Asamblea Nacional aprobó la Ley de Promoción y Protección de la Construcción de Viviendas: 40 artículos que obligan a las constructoras a constituir fideicomisos y a fijar en el contrato las especificaciones y los plazos de entrega, con multas de 300 a 54.000 veces la moneda de referencia. El Parlamento calcula que hacen falta unas 25.000 viviendas para los damnificados y el censo biométrico sigue abierto en Caracas, Miranda y La Guaira.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/22/el-parlamento-de-venezuela-aprobo-una-reforma-para-acelerar-el-acceso-a-viviendas-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20260821-infobae-censo-migrantes",
+      "fecha": "2026-08-21",
+      "titulo": "Migrantes venezolanos que perdieron sus viviendas en el terremoto denuncian que no les permiten registrarse como afectados",
+      "resumen": "Propietarios venezolanos residentes en el exterior denuncian que el censo único de vivienda exige la presencia y la huella dactilar del titular, lo que los deja fuera de las soluciones habitacionales. El registro oficial contabilizaba 17.907 afectados y 23.811 personas alojadas en 107 campamentos temporales.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/21/migrantes-venezolanos-que-perdieron-sus-viviendas-en-el-terremoto-denuncian-que-no-les-permiten-registrarse-como-afectados/"
+    },
+    {
+      "id": "ve-20260820-elnacional-lluvias-campamentos",
+      "fecha": "2026-08-20",
+      "titulo": "«Queremos volver a nuestros hogares»: lluvias azotan campamentos de damnificados en Caracas",
+      "resumen": "Las lluvias del fin de semana anegaron los campamentos improvisados del bulevar Panteón (unas 60 familias), Santa Rosalía (115 familias con 116 niños) y la avenida Bolívar (más de 80 familias), donde se duerme sobre colchones mojados y sin lonas impermeables. La reparación del edificio Belair no terminará antes de diciembre y World Central Kitchen dejó de repartir comidas el viernes.",
+      "fuente": "El Nacional",
+      "autor": "Aliana Abadi",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/lluvias-campamentos-improvisados-damnificados-sismo-caracas/"
+    },
+    {
+      "id": "ve-20260820-lapatilla-laguaira-dos-meses",
+      "fecha": "2026-08-20",
+      "titulo": "Casi dos meses después de los sismos, La Guaira se debate entre precariedad y resistencia",
+      "resumen": "Cerca de 20.000 personas perdieron su vivienda y en La Guaira cientos de carpas funcionan como casa, escuela y taller; la escuela Urimare atiende bajo lona a más de 70 niños. Un aguacero del sábado destrozó carpas y material escolar, y la mayoría rechaza los refugios oficiales a la espera de una vivienda con título de propiedad.",
+      "fuente": "La Patilla",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/20/casi-dos-meses-despues-de-los-sismos-la-guaira-se-debate-entre-precariedad-y-resistencia/"
+    },
     {
       "id": "ve-20260818-elnacional-formacion",
       "fecha": "2026-08-18",

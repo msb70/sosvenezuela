@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-08-19",
+  "actualizado": "2026-08-22",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260821-eltiempo-cali-cierre-busqueda",
+      "fecha": "2026-08-21",
+      "titulo": "Cali cierra fase de búsqueda tras terremoto y se prepara para la reconstrucción: 150 muertos y más de 1.500 heridos",
+      "resumen": "La Alcaldía de Cali dio por concluida la fase de búsqueda y rescate tras localizar a la última persona desaparecida: 150 fallecidos, 140 cuerpos ya entregados a sus familias, 88 personas rescatadas con vida y más de 1.500 heridos. La ciudad pasa formalmente a la etapa de reconstrucción.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/cali-cierra-fase-de-busqueda-tras-terremoto-y-se-prepara-para-la-reconstruccion-150-muertos-y-mas-de-1-500-heridos-3580055"
+    },
+    {
+      "id": "co-20260821-elnuevosiglo-balance-329",
+      "fecha": "2026-08-21",
+      "titulo": "Suben a 329 los fallecidos, 4.600 los heridos y 314 mil los afectados por terremoto",
+      "resumen": "El balance de la UNGRD con corte a las 6:30 p. m. del 21 de agosto eleva a 329 los fallecidos y 4.600 los heridos, con 364 rescatados y 247 desaparecidos. Los afectados suman 314.751 personas (154.014 familias) en 481 municipios de 15 departamentos, con 31.445 viviendas destruidas y 163.884 dañadas.",
+      "fuente": "El Nuevo Siglo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnuevosiglo.com.co/nacion/suben-321-los-fallecidos-por-terremoto-del-10-de-agosto-en-colombia"
+    },
+    {
+      "id": "co-20260821-elpais-regreso-clases-cali",
+      "fecha": "2026-08-21",
+      "titulo": "Alcalde Eder confirmó la fecha de regreso a clases tras emergencia del sismo en Cali",
+      "resumen": "Cali retomará las clases el lunes 24 de agosto: 116.000 de los 142.000 estudiantes del sistema público vuelven a la presencialidad y 26.000 seguirán a distancia con material pedagógico físico. De las 338 sedes escolares más de 240 resultaron afectadas y 18 presentan deterioro severo.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alcalde-eder-confirmo-la-fecha-de-regreso-a-clases-tras-emergencia-del-sismo-en-cali-2025.html"
+    },
+    {
+      "id": "co-20260821-elcolombiano-replicas",
+      "fecha": "2026-08-21",
+      "titulo": "Tembló de nuevo en Colombia: varios sismos sacudieron Chocó y Antioquia este viernes 21 de agosto",
+      "resumen": "El Servicio Geológico Colombiano registró cinco sismos en la madrugada del viernes: uno de magnitud 3,0 en Dabeiba (Antioquia) y cuatro en Istmina (Chocó), de entre 2,8 y 3,3. No se reportaron daños ni personas afectadas.",
+      "fuente": "El Colombiano",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elcolombiano.com/colombia/temblor-colombia-sismos-choco-antioquia-viernes-21-de-agosto-BA40155712"
+    },
+    {
+      "id": "co-20260820-semana-polizas",
+      "fecha": "2026-08-20",
+      "titulo": "Presidente De La Espriella anuncia medidas para acelerar reclamaciones de pólizas de los afectados del terremoto: «Pago inmediato»",
+      "resumen": "El Gobierno acordó con las aseguradoras el pago inmediato de las pólizas y amplió a dos años el plazo para presentar reclamaciones, con prioridad para hogares vulnerables y vivienda VIS. El costo inicial de la reconstrucción se estima en unos 30 billones de pesos, respaldados por la declaratoria de emergencia económica.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/economia/macroeconomia/articulo/presidente-de-la-espriella-anuncia-medidas-para-acelerar-reclamaciones-de-polizas-de-los-afectados-del-terremoto-pago-inmediato/202624/"
+    },
     {
       "id": "co-20260818-infobae-balance312",
       "fecha": "2026-08-18",
