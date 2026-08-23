@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-22",
+  "actualizado": "2026-08-23",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260822-eltiempo-banca-vivienda",
+      "fecha": "2026-08-22",
+      "titulo": "UNGRD entrega nuevo balance; el presidente anunció acuerdos con bancos para reducir la tasa de vivienda",
+      "resumen": "Los bancos acordaron con el Gobierno bajar al 8 % anual la tasa de los créditos hipotecarios de los afectados por el terremoto, durante toda la vida del préstamo. El empresariado colombiano comprometió más de 2 billones de pesos (unos 651 millones de dólares) para la respuesta y la reconstrucción, y el presidente viajará al Chocó el 7 de septiembre para definir el plan de recuperación de la región.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-sabado-22-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3580221"
+    },
     {
       "id": "co-20260821-eltiempo-cali-cierre-busqueda",
       "fecha": "2026-08-21",
