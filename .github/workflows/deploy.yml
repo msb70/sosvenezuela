@@ -1,0 +1,103 @@
+name: Publicar sitio a la rama deploy
+
+# En cada push a main: valida los archivos del sitio y publica SOLO los archivos web
+# a la rama `deploy`. Hostinger (hPanel -> Avanzado -> Git) auto-despliega esa rama a public_html.
+# No usa secrets: el push a `deploy` va con el GITHUB_TOKEN integrado.
+#
+# IMPORTANTE: la rama `main` NO se conecta nunca a Hostinger — contiene .pptx, .md y material
+# interno que no debe quedar público. La lista curada de abajo es la única fuente del sitio.
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-sosvenezuela
+  cancel-in-progress: true
+
+env:
+  # Los 18 archivos que forman el sitio publicado. Si se añade uno nuevo al sitio,
+  # hay que añadirlo AQUÍ o no llegará a producción.
+  ARCHIVOS: >-
+    .htaccess
+    index.html
+    colombia.html
+    noticias.json
+    noticias-colombia.json
+    contact.php
+    robots.txt
+    sitemap.xml
+    favicon.ico
+    favicon-32.png
+    favicon-192.png
+    apple-touch-icon.png
+    og-image.jpg
+    guia-primeros-auxilios-fem.pdf
+    logos/fem-75.jpg
+    logos/fem-logo.png
+    img/portada-catia.jpg
+    img/portada-colombia.jpg
+
+jobs:
+  validar:
+    name: Validar contenido
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Los archivos del sitio existen
+        run: |
+          faltan=0
+          for f in $ARCHIVOS; do
+            [ -f "$f" ] || { echo "::error::falta $f"; faltan=1; }
+          done
+          [ "$faltan" = "0" ] || exit 1
+          echo "OK: los $(echo $ARCHIVOS | wc -w) archivos están presentes"
+
+      - name: Los JSON de noticias son válidos
+        run: python3 .github/scripts/validar_noticias.py noticias.json noticias-colombia.json
+
+      - name: Las páginas cargan sus datos
+        run: |
+          grep -q "noticias.json" index.html || { echo "::error::index.html no referencia noticias.json"; exit 1; }
+          grep -q "noticias-colombia.json" colombia.html || { echo "::error::colombia.html no referencia noticias-colombia.json"; exit 1; }
+          if grep -nE "TODO|FIXME|LOREM IPSUM" index.html colombia.html; then
+            echo "::error::quedaron marcadores de trabajo en el HTML"; exit 1
+          fi
+          echo "OK: páginas coherentes"
+
+  publicar:
+    name: Publicar a rama deploy
+    needs: [ validar ]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Armar dist/ con los archivos del sitio
+        run: |
+          mkdir -p dist
+          for f in $ARCHIVOS; do
+            mkdir -p "dist/$(dirname "$f")"
+            cp "$f" "dist/$f"
+          done
+          echo "Contenido a publicar:"; find dist -type f | sort
+          n=$(find dist -type f | wc -l)
+          [ "$n" = "$(echo $ARCHIVOS | wc -w)" ] || { echo "::error::dist tiene $n archivos, no los esperados"; exit 1; }
+
+      - name: Empujar dist/ a la rama deploy
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b deploy
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "deploy: sitio desde ${GITHUB_SHA:0:7}"
+          echo "Archivos en el commit de deploy:"; git ls-files
+          git ls-files | grep -qx ".htaccess" || { echo "::error::.htaccess no entró en el commit"; exit 1; }
+          git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:deploy
+          echo "Publicado en la rama deploy."
