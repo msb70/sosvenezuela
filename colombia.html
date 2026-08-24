@@ -106,18 +106,18 @@
   .hero-sub{font-size:clamp(14.5px,1.6vw,18px);max-width:560px;color:#26344f;font-weight:600;text-transform:uppercase;letter-spacing:.3px;line-height:1.4}
   .hero-sub strong{color:#16243f;font-weight:800}
   .hero-note{margin-top:13px;font-size:13.5px;color:#566481;font-weight:500}
-  .hero-actions{margin-top:26px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;max-width:560px}
-  .hero-navbtn{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:11px;padding:18px 16px 16px;border-radius:18px;background:linear-gradient(180deg,#ffffff 0%,#f5efe1 100%);border:1px solid #ece0c4;text-decoration:none;color:#16243f;box-shadow:0 6px 0 #e3d5b4,0 16px 24px -10px rgba(22,36,63,.40);transition:transform .13s ease,box-shadow .13s}
-  .hero-navbtn:hover{transform:translateY(-3px);box-shadow:0 9px 0 #e3d5b4,0 26px 34px -10px rgba(22,36,63,.46)}
-  .hero-navbtn:active{transform:translateY(3px);box-shadow:0 3px 0 #e3d5b4,0 10px 16px -8px rgba(22,36,63,.4)}
-  .hero-navbtn .nb-ico-img{width:66px;height:66px;flex:none;filter:drop-shadow(0 5px 10px rgba(22,36,63,.32))}
-  .hero-navbtn .nb-ico-img img,.hero-navbtn .nb-ico-img svg{width:100%;height:100%;object-fit:contain;display:block}
-  .hero-navbtn .nb-txt{display:flex;flex-direction:column;gap:2px}
-  .hero-navbtn .nb-num{font-size:12px;font-weight:800;letter-spacing:1.5px;color:#a9822a}
-  .hero-navbtn .nb-label{font-size:14px;font-weight:800;line-height:1.2;color:#16243f}
+  .hero-actions{margin-top:24px;display:grid;grid-template-columns:repeat(3,1fr);gap:8px;max-width:620px}
+  .hero-navbtn{position:relative;display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:12px;background:linear-gradient(180deg,#ffffff 0%,#f5efe1 100%);border:1px solid #ece0c4;text-decoration:none;color:#16243f;box-shadow:0 3px 0 #e3d5b4,0 10px 18px -12px rgba(22,36,63,.40);transition:transform .13s ease,box-shadow .13s}
+  .hero-navbtn:hover{transform:translateY(-2px);box-shadow:0 5px 0 #e3d5b4,0 16px 22px -12px rgba(22,36,63,.46)}
+  .hero-navbtn:active{transform:translateY(2px);box-shadow:0 1px 0 #e3d5b4,0 6px 10px -8px rgba(22,36,63,.4)}
+  .hero-navbtn .nb-num{flex:none;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#2b3e64,#0c1830);border:1.5px solid #d2ab53;color:#f3dc92;font-size:10.5px;font-weight:800}
+  .hero-navbtn .nb-label{font-size:12.8px;font-weight:800;line-height:1.18;color:#16243f}
   .hero-credit{position:absolute;left:12px;bottom:10px;z-index:3;font-size:10.5px;color:#fff;background:rgba(0,0,0,.5);padding:4px 9px;border-radius:6px;max-width:62%;line-height:1.3}
   @media(max-width:860px){.hero-split{grid-template-columns:1fr}.hero-media{min-height:230px}.hero-media::after{display:none}.hero-panel{padding:38px 22px 44px}}
-  @media(max-width:520px){.hero-actions{grid-template-columns:1fr}.hero-navbtn{flex-direction:row;align-items:center;gap:13px}}
+  @media(max-width:1180px){.hero-actions{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:860px){.hero-actions{grid-template-columns:repeat(3,1fr)}}
+  @media(max-width:640px){.hero-actions{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:400px){.hero-actions{grid-template-columns:1fr}}
 
   /* DISCLAIMER */
   .disclaimer{background:#fff8e6;border-top:3px solid var(--ve-yellow);border-bottom:1px solid #f1e4b8}
@@ -345,18 +345,11 @@
       <p class="hero-sub">Su centro de <strong>información</strong>, <strong>orientación</strong> y <strong>protocolo</strong> para la <strong>mitigación</strong>.</p>
       <p class="hero-note">Nota: Esta plataforma no recauda fondos monetarios. También disponible: <a href="index.html">página del terremoto de Venezuela (junio 2026) →</a></p>
       <div class="hero-actions">
-        <a class="hero-navbtn" href="#organismos" aria-label="Ir a organismos y donaciones">
-          <span class="nb-ico-img"><svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="n1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3e64"/><stop offset="1" stop-color="#0c1830"/></linearGradient><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd96"/><stop offset=".5" stop-color="#d2ab53"/><stop offset="1" stop-color="#a07828"/></linearGradient></defs><circle cx="36" cy="36" r="33" fill="url(#n1)" stroke="url(#g1)" stroke-width="3"/><ellipse cx="36" cy="23" rx="22" ry="10" fill="#fff" opacity=".08"/><path d="M36 31.5c-2.1-4-8.4-3.1-8.4 1.8 0 3.4 4.5 6.1 8.4 8.7 3.9-2.6 8.4-5.3 8.4-8.7 0-4.9-6.3-5.8-8.4-1.8z" fill="#f3dc92"/><path d="M23 45.5c2.3-2.1 5.7-2.1 8 0M41 45.5c2.3-2.1 5.7-2.1 8 0" fill="none" stroke="#f3dc92" stroke-width="3.2" stroke-linecap="round"/></svg></span>
-          <span class="nb-txt"><span class="nb-num">01</span><span class="nb-label">Organismos y donaciones</span></span>
-        </a>
-        <a class="hero-navbtn" href="#situacion" aria-label="Ir a situación oficial">
-          <span class="nb-ico-img"><svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="n2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3e64"/><stop offset="1" stop-color="#0c1830"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd96"/><stop offset=".5" stop-color="#d2ab53"/><stop offset="1" stop-color="#a07828"/></linearGradient></defs><circle cx="36" cy="36" r="33" fill="url(#n2)" stroke="url(#g2)" stroke-width="3"/><ellipse cx="36" cy="23" rx="22" ry="10" fill="#fff" opacity=".08"/><circle cx="33" cy="33" r="11" fill="none" stroke="#f3dc92" stroke-width="3.4"/><line x1="28.5" y1="31" x2="37.5" y2="31" stroke="#f3dc92" stroke-width="2.2" stroke-linecap="round"/><line x1="28.5" y1="35" x2="37.5" y2="35" stroke="#f3dc92" stroke-width="2.2" stroke-linecap="round"/><line x1="41" y1="41" x2="50" y2="50" stroke="#f3dc92" stroke-width="4" stroke-linecap="round"/></svg></span>
-          <span class="nb-txt"><span class="nb-num">02</span><span class="nb-label">Situación oficial</span></span>
-        </a>
-        <a class="hero-navbtn" href="#acopio" aria-label="Ir a centros de acopio">
-          <span class="nb-ico-img"><svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="n3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3e64"/><stop offset="1" stop-color="#0c1830"/></linearGradient><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd96"/><stop offset=".5" stop-color="#d2ab53"/><stop offset="1" stop-color="#a07828"/></linearGradient></defs><circle cx="36" cy="36" r="33" fill="url(#n3)" stroke="url(#g3)" stroke-width="3"/><ellipse cx="36" cy="23" rx="22" ry="10" fill="#fff" opacity=".08"/><rect x="25" y="23" width="22" height="27" rx="3.5" fill="none" stroke="#f3dc92" stroke-width="3.2"/><rect x="30.5" y="19" width="11" height="7" rx="2" fill="#f3dc92"/><path d="M30 38.5l4 4 8.5-8.5" fill="none" stroke="#f3dc92" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-          <span class="nb-txt"><span class="nb-num">03</span><span class="nb-label">Centros de acopio</span></span>
-        </a>
+        <a class="hero-navbtn" href="#organismos" aria-label="Ir a organismos y donaciones"><span class="nb-num">01</span><span class="nb-label">Organismos y donaciones</span></a>
+        <a class="hero-navbtn" href="#situacion" aria-label="Ir a situación oficial"><span class="nb-num">02</span><span class="nb-label">Situación oficial</span></a>
+        <a class="hero-navbtn" href="#noticias" aria-label="Ir a noticias"><span class="nb-num">03</span><span class="nb-label">Noticias</span></a>
+        <a class="hero-navbtn" href="#acopio" aria-label="Ir a centros de acopio"><span class="nb-num">04</span><span class="nb-label">Centros de acopio</span></a>
+        <a class="hero-navbtn" href="#contacto" aria-label="Ir a contacto"><span class="nb-num">05</span><span class="nb-label">Contacto</span></a>
       </div>
     </div>
   </div>
