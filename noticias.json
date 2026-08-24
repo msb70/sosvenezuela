@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23",
+  "actualizado": "2026-08-24",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
@@ -47,6 +47,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://lapatilla.com/2026/08/20/casi-dos-meses-despues-de-los-sismos-la-guaira-se-debate-entre-precariedad-y-resistencia/"
+    },
+    {
+      "id": "ve-20260818-cocuyo-altagracia-carpas",
+      "fecha": "2026-08-18",
+      "titulo": "«Llovía, se cayeron las carpas y no había luz»: damnificados en Altagracia y la réplica sísmica",
+      "resumen": "Once familias del edificio OPPE 6, en la parroquia Altagracia de Caracas, llevan 55 días acampadas en la Plaza del Foro. Una réplica de magnitud 4 la madrugada del 18 de agosto y el aguacero posterior tumbaron las carpas y anegaron el campamento; llevaban cuatro días sin luz y pagan 500 bolívares por cada bidón de 10 litros de agua. Se niegan a volver al edificio sin una revisión estructural profesional.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/llovia-se-cayeron-las-carpas-y-no-habia-luz-damnificados-en-la-parroquia-altagracia/"
     },
     {
       "id": "ve-20260818-elnacional-formacion",

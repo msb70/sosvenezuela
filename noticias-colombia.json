@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-08-23",
+  "actualizado": "2026-08-24",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260824-eltiempo-balance-23ago",
+      "fecha": "2026-08-24",
+      "titulo": "Terremoto en Colombia, últimas noticias de hoy 24 de agosto: balance y seguimiento tras el fuerte movimiento",
+      "resumen": "El balance de la UNGRD con corte a las 6:30 p. m. del 23 de agosto mantiene 329 fallecidos y 364 personas rescatadas, y baja a 4.592 los heridos y a 234 los desaparecidos al depurar registros. El 23 de agosto se sintieron dos réplicas seguidas de magnitud 3,9 y 3,7 en Istmina (Chocó).",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-ultimas-noticias-de-hoy-24-de-agosto-balance-y-seguimiento-tras-el-fuerte-movimiento-3580500"
+    },
+    {
+      "id": "co-20260823-tubarco-clases-valle",
+      "fecha": "2026-08-23",
+      "titulo": "Clases regresan este lunes al Valle, pero no todos los colegios abrirán",
+      "resumen": "Los 34 municipios no certificados del Valle del Cauca retoman clases el lunes 24: presencial donde no hay daños y virtual donde sí. De 1.102 sedes se han evaluado 691, y cerca de 456 presentan daño crítico o alto; se habilitan iglesias y centros comunitarios como aulas temporales. El Ministerio de Educación redirigió 48 millones de dólares a través de la CAF para reconstruir la infraestructura escolar.",
+      "fuente": "TuBarco Noticias",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://tubarco.news/clases-regresan-este-lunes-al-valle-pero-no-todos-los-colegios-abriran/"
+    },
     {
       "id": "co-20260822-eltiempo-banca-vivienda",
       "fecha": "2026-08-22",
