@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-08-24",
+  "actualizado": "2026-08-25",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260824-lapatilla-laguaira-menos-ayuda",
+      "fecha": "2026-08-24",
+      "titulo": "La Guaira sigue devastada y con menos ayuda humanitaria, dos meses después de los terremotos",
+      "resumen": "Dos meses después de los sismos de magnitud 7,2 y 7,5 del 24 de junio, representantes de ONG internacionales advierten de que la asistencia en La Guaira ha disminuido mientras siguen faltando agua potable, alimentos e insumos médicos. El balance oficial se mantiene en al menos 6.438 fallecidos y el gobernador del estado cifra en unos 1.579 los desaparecidos.",
+      "fuente": "La Patilla",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/24/la-guaira-sigue-devastada-y-con-menos-ayuda-humanitaria-dos-meses-despues-de-los-terremotos/"
+    },
+    {
+      "id": "ve-20260824-telemundo-retos-reconstruccion",
+      "fecha": "2026-08-24",
+      "titulo": "A dos meses de los sismos, Venezuela enfrenta retos para la reconstrucción",
+      "resumen": "Las autoridades reportan 2,1 millones de toneladas de escombros retiradas en La Guaira —en torno al 25 % del total— y más de 650 frentes de trabajo con unos 11.000 empleados, con parte del material reconvertido en insumos de construcción. El Banco Mundial estima los daños físicos directos en 19.600 millones de dólares y advierte de que una reconstrucción lenta frenaría la recuperación económica durante la próxima década.",
+      "fuente": "Telemundo",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/dos-meses-sismos-venezuela-reconstruccion-rcna594183"
+    },
+    {
+      "id": "ve-20260824-infobae-opinion-reconstruir",
+      "fecha": "2026-08-24",
+      "titulo": "Reconstruir Venezuela",
+      "resumen": "Columna de opinión que sostiene que el mayor obstáculo para levantar el país tras el terremoto no es la falta de capital internacional, sino la calidad institucional. Los autores plantean la reconstrucción como una oportunidad para crear marcos legales que atraigan inversión privada y diversifiquen una economía históricamente dependiente del petróleo.",
+      "fuente": "Infobae",
+      "autor": "Elisa Trotta y Manuel Avendaño",
+      "tipoFuente": "medio",
+      "categoria": "Opinión",
+      "tipo": "opinion",
+      "url": "https://www.infobae.com/america/opinion/2026/08/24/reconstruir-venezuela/"
+    },
     {
       "id": "ve-20260822-infobae-ley-vivienda",
       "fecha": "2026-08-22",

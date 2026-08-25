@@ -1,7 +1,41 @@
 {
-  "actualizado": "2026-08-24",
+  "actualizado": "2026-08-25",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260825-vanguardia-balance-331",
+      "fecha": "2026-08-25",
+      "titulo": "Terremoto en Colombia ya deja 331 muertos y 240 desaparecidos: nuevo balance de la UNGRD",
+      "resumen": "La UNGRD elevó a 331 los fallecidos y a 240 los desaparecidos por el sismo de magnitud 7,4 del 10 de agosto. La emergencia afecta a 16 departamentos y 494 municipios, con 361.353 personas damnificadas, 31.540 viviendas destruidas y 178.555 averiadas.",
+      "fuente": "Vanguardia",
+      "autor": "Redacción Vanguardia",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.vanguardia.com/colombia/2026/08/24/terremoto-en-colombia-ya-deja-331-muertos-y-240-desaparecidos-nuevo-balance-de-la-ungrd/"
+    },
+    {
+      "id": "co-20260825-eltiempo-creditos-viviendas",
+      "fecha": "2026-08-25",
+      "titulo": "Terremoto en Colombia hoy martes 25 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
+      "resumen": "Continúan la atención y la evaluación de daños en Chocó, el Eje Cafetero y el Valle del Cauca. Se anunciaron créditos hipotecarios al 8 % de interés para familias damnificadas y la donación de más de 100 viviendas de construcción rápida por parte de empresas como Eternit y Corpoacero para la reconstrucción del puerto de Buenaventura.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-martes-25-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3580782"
+    },
+    {
+      "id": "co-20260824-portafolio-subsidio-buenaventura",
+      "fecha": "2026-08-24",
+      "titulo": "Damnificados por el terremoto en Buenaventura recibirán subsidio de $1,05 millones mensuales durante tres meses",
+      "resumen": "El Gobierno activó una ayuda económica para los hogares que perdieron su vivienda en Buenaventura: 1.050.000 pesos al mes durante tres meses, 3.150.000 pesos en total por familia. La medida busca cubrir arriendo y necesidades básicas mientras avanza la reconstrucción.",
+      "fuente": "Portafolio",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.portafolio.co/economia/gobierno/damnificados-por-el-terremoto-en-buenaventura-recibiran-subsidio-de-1-05-millones-mensuales-durante-tres-meses-501083"
+    },
     {
       "id": "co-20260824-eltiempo-balance-23ago",
       "fecha": "2026-08-24",
