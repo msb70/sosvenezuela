@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-08-25",
+  "actualizado": "2026-08-26",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260826-eltiempo-balance-ungrd",
+      "fecha": "2026-08-26",
+      "titulo": "Terremoto en Colombia hoy 26 de agosto: la UNGRD actualiza el balance de heridos, desaparecidos y fallecidos",
+      "resumen": "Según el corte de la UNGRD del 25 de agosto a las 6:30 p. m., la emergencia deja 331 fallecidos, 4.449 heridos, 240 desaparecidos y 364 rescatados con vida. Hay 406.273 personas afectadas de 188.034 familias en 16 departamentos y 494 municipios, con 33.275 viviendas destruidas y 185.889 averiadas, 655 edificaciones colapsadas, 376 centros de salud, 3.819 sedes educativas y 440 vías dañadas.",
+      "fuente": "El Tiempo",
+      "autor": "Raúl Andrés García Suárez",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-miercoles-26-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3581088"
+    },
+    {
+      "id": "co-20260826-eltiempo-estafas-whatsapp",
+      "fecha": "2026-08-26",
+      "titulo": "Advierten sobre falsas cadenas de WhatsApp que ofrecen supuestos subsidios de emergencia en Cali",
+      "resumen": "La Alcaldía de Cali alertó de mensajes fraudulentos que circulan por WhatsApp prometiendo «subsidios de emergencia» a los damnificados y que dirigen a portales creados para robar datos personales. El único procedimiento oficial es el Registro Unifamiliar de Emergencias (RUFE), que se hace de forma presencial en los barrios afectados y por personal autorizado.",
+      "fuente": "El Tiempo",
+      "autor": "José Antonio Minota Hurtado",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/no-caiga-en-la-trampa-advierten-sobre-falsas-cadenas-de-whatsapp-que-ofrecen-supuestos-subsidios-de-emergencia-en-cali-3581084"
+    },
+    {
+      "id": "co-20260826-semana-replica-istmina",
+      "fecha": "2026-08-26",
+      "titulo": "Nuevo temblor sacudió a Colombia en la madrugada del 26 de agosto: el SGC confirmó el epicentro",
+      "resumen": "El Servicio Geológico Colombiano registró un sismo de magnitud 3,0 a las 2:14 a. m. con epicentro en Istmina, Chocó, a 40 kilómetros de profundidad. En la misma zona se sintieron otros dos movimientos: uno de magnitud 3,3 el 25 de agosto a las 11:18 p. m. y otro de 3,0 el 26 a la 1:08 a. m.",
+      "fuente": "Semana",
+      "autor": "Redacción Nación",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/nacion/articulo/reportan-nuevo-temblor-que-sacudio-a-colombia-en-la-madrugada-de-este-26-de-agosto-sgc-confirmo-el-epicentro/202610/"
+    },
     {
       "id": "co-20260825-vanguardia-balance-331",
       "fecha": "2026-08-25",
@@ -24,6 +60,18 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-martes-25-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3580782"
+    },
+    {
+      "id": "co-20260824-eltiempo-subsidio-arriendo-nacional",
+      "fecha": "2026-08-24",
+      "titulo": "El Gobierno anuncia un apoyo económico de 875.452 pesos durante tres meses para los afectados por el terremoto",
+      "resumen": "El subsidio de arriendo asciende a 875.452 pesos mensuales durante tres meses (2.626.356 pesos por familia) y los pagos empiezan el 26 de agosto. Se entrega a la cabeza de familia mediante un operador logístico, a partir de los listados de viviendas afectadas que cada gobernación remitió a la UNGRD, y puede destinarse a arriendo, alimentación, atención médica o materiales. Lo financia el Fondo Milagro.",
+      "fuente": "El Tiempo",
+      "autor": "Laura Catalina Peralta Giraldo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574"
     },
     {
       "id": "co-20260824-portafolio-subsidio-buenaventura",

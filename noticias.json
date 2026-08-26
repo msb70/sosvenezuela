@@ -1,7 +1,77 @@
 {
-  "actualizado": "2026-08-25",
+  "actualizado": "2026-08-26",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260826-infobae-reubicacion-escuelas",
+      "fecha": "2026-08-26",
+      "titulo": "Venezuela reubicará a estudiantes de más de 91 colegios afectados por los terremotos",
+      "resumen": "El Ministerio de Educación anunció que los alumnos de 91 planteles dañados por los sismos del 24 de junio serán reubicados en la escuela más cercana a su vivienda para el inicio del año escolar, previsto para el 14 de septiembre. El ministro Héctor Rodríguez precisó que la asignación se hará «en el colegio más cercano a su espacio de hábitat».",
+      "fuente": "Infobae",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/26/venezuela-reubicara-a-estudiantes-de-mas-de-91-colegios-afectados-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260825-vanguardia-balance-6509",
+      "fecha": "2026-08-25",
+      "titulo": "Venezuela supera los 6.500 muertos tras dos meses de los terremotos que devastaron al país",
+      "resumen": "El balance oficial presentado el 24 de agosto eleva a 6.509 los fallecidos, 71 más que en el corte anterior. Las autoridades reportan 226.696 personas atendidas en hospitales, 11.001 viviendas calificadas de alto riesgo, 600.790 toneladas de escombros retiradas y 335 viviendas entregadas. No hay cifra oficial de desaparecidos; en La Guaira se estiman unos 1.579.",
+      "fuente": "Vanguardia",
+      "autor": "Redacción Mundo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.vanguardia.com/mundo/2026/08/24/venezuela-supera-los-6500-muertos-tras-dos-meses-de-los-terremotos-que-devastaron-al-pais/"
+    },
+    {
+      "id": "ve-20260825-lapatilla-maiquetia-terminales",
+      "fecha": "2026-08-25",
+      "titulo": "El aeropuerto de Maiquetía reactivará operaciones desde terminales temporales el 1 de septiembre",
+      "resumen": "El Instituto Aeropuerto Internacional de Maiquetía informó que a partir del martes 1 de septiembre comenzarán formalmente las operaciones de vuelos nacionales e internacionales en las terminales temporales habilitadas tras los terremotos del 24 de junio. Es un paso clave para restablecer la conectividad aérea del país.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/25/oficial-aeropuerto-de-maiquetia-reactivara-operaciones-desde-terminales-temporales-el-1sep/"
+    },
+    {
+      "id": "ve-20260825-lapatilla-gem-ayuda",
+      "fecha": "2026-08-25",
+      "titulo": "La cifra de GEM que revela la magnitud de la ayuda enviada a Venezuela tras los terremotos",
+      "resumen": "La organización humanitaria Global Empowerment Mission (GEM) entregó más de 30 millones de dólares en ayuda durante los dos primeros meses tras los sismos. Su operación movilizó 5.338 paletas, 30 vuelos de carga y 175 contenedores marítimos distribuidos en las comunidades afectadas.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/25/la-cifra-de-gem-que-revela-la-magnitud-de-la-ayuda-enviada-a-venezuela-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20260825-cronicauno-mitos-sismos",
+      "fecha": "2026-08-25",
+      "titulo": "Geólogos aclaran siete mitos que persisten dos meses después de los sismos",
+      "resumen": "Los geólogos Luiraima Salazar y Carlos Reinoza desmontan siete creencias muy difundidas: que el calor anuncia un terremoto, que las réplicas pequeñas evitan uno mayor o que tecnologías como HAARP puedan provocarlos. Los expertos insisten en que ninguna tiene base científica y piden no dar por buena la desinformación que circula en redes.",
+      "fuente": "Crónica.Uno",
+      "autor": "Betania Franquis",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/enclaves-geologos-aclaran-siete-mitos-persisten-dos-meses-sismos/"
+    },
+    {
+      "id": "ve-20260824-cronicauno-familias-reparaciones",
+      "fecha": "2026-08-24",
+      "titulo": "Familias asumen hasta 2.000 dólares por reconstruir una pared sin ayuda estatal tras los terremotos",
+      "resumen": "En Lomas de Urdaneta, Catia La Mar y el oeste de Caracas las familias están pagando de su bolsillo entre 700 y 2.000 dólares para reparar los daños estructurales de sus viviendas, sin apoyo público. Los testimonios recogidos muestran a pensionados y trabajadores endeudándose para tumbar y levantar paredes afectadas.",
+      "fuente": "Crónica.Uno",
+      "autor": "Betania Franquis",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/familias-asumen-2000-dolares-reconstruir-pared-sin-ayuda-estatal-terremotos/"
+    },
     {
       "id": "ve-20260824-lapatilla-laguaira-menos-ayuda",
       "fecha": "2026-08-24",
