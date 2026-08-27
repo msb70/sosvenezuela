@@ -1,7 +1,66 @@
 {
-  "actualizado": "2026-08-26",
+  "actualizado": "2026-08-27",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260826-infobae-ong-escuelas",
+      "fecha": "2026-08-26",
+      "titulo": "ONG advierten que los daños de los sismos y la precariedad docente comprometen el inicio de clases",
+      "resumen": "Cecodap, Redhnna y Fe y Alegría presentaron un sondeo a 99 miembros de comunidades escolares: 27,3 % de las escuelas consultadas reporta daños severos, 33,3 % tiene áreas completamente cerradas y 65,7 % daños menores. En servicios, 56,6 % reporta fallas o ausencia de teléfono e internet, 31,3 % fallas de agua y 27,3 % deficiencias eléctricas. Más de 900 escuelas resultaron afectadas por el doble sismo del 24 de junio y las organizaciones piden certificación estructural independiente antes del regreso previsto para el 14 de septiembre.",
+      "fuente": "Infobae",
+      "autor": "Pedro Pablo Peñaloza",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/26/ong-advierten-que-danos-provocados-por-los-sismos-y-precariedad-laboral-atentan-contra-el-inicio-de-clases-en-venezuela/"
+    },
+    {
+      "id": "ve-20260826-infobae-ley-viviendas",
+      "fecha": "2026-08-26",
+      "titulo": "Promulgada la ley para acelerar la construcción de viviendas tras los terremotos",
+      "resumen": "Fue firmada la ley aprobada por el Parlamento el 23 de agosto: 40 artículos que regulan contratos de construcción, ventas y responsabilidades de las constructoras, con multas de hasta 54.000 veces el valor de la moneda local y obligación de constituir fideicomisos. El balance oficial citado en el texto habla de unos 17.900 damnificados, más de 61.000 inspecciones de edificaciones y 11.000 estructuras calificadas de alto riesgo, con 335 viviendas nuevas entregadas y 1.001 recuperadas frente a las 25.000 unidades que el Parlamento estima necesarias.",
+      "fuente": "Infobae",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/26/delcy-rodriguez-firmo-una-ley-para-promover-la-construccion-de-viviendas-tras-los-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20260826-efectococuyo-techo-viviendas",
+      "fecha": "2026-08-26",
+      "titulo": "La ONG Techo entrega las primeras 17 viviendas para damnificados de los sismos",
+      "resumen": "La organización Techo culminó 17 viviendas de emergencia de 18 metros cuadrados cada una, en madera prensada o fibrocemento, en El Junquito (Caracas) y Guaracarumbo (La Guaira). Participaron más de 120 voluntarios locales y 20 internacionales. La ONG, con 15 años de operación en Venezuela, prevé nuevas fases en Falcón, Yaracuy, Carabobo, Aragua y Miranda hasta alcanzar al menos 200 viviendas.",
+      "fuente": "Efecto Cocuyo",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/ong-chilena-techo-construye-primeras-diecisiete-casas-para-victimas-de-sismos-en-venezuela/"
+    },
+    {
+      "id": "ve-20260826-lapatilla-planes-urbanisticos",
+      "fecha": "2026-08-26",
+      "titulo": "Los planes urbanísticos de 2005-2009 para La Guaira nunca se aplicaron, señalan especialistas",
+      "resumen": "La urbanista Ariana Tarhan explica que los planes redactados entre 2005 y 2009 ya identificaban los riesgos sísmicos y de inundación del Litoral Central y fijaban un máximo de 4 a 6 pisos, pero varios de los edificios que colapsaron superaban las 10 plantas: «el error principal estuvo en la supervisión y la fiscalización». El reportaje sitúa el déficit en 25.000 viviendas frente a un ritmo de entrega cercano a 400 mensuales, con una reconstrucción estimada por la Cámara Venezolana de la Construcción en 4 a 6 años y un costo de 13.000 a 15.000 millones de dólares según el economista Asdrúbal Oliveros.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/26/los-planes-urbanisticos-ignorados-que-pudieron-mitigar-la-tragedia-en-la-guaira-tras-terremotos/"
+    },
+    {
+      "id": "ve-20260826-cronicauno-maiquetia-septiembre",
+      "fecha": "2026-08-26",
+      "titulo": "Maiquetía recuperará un tercio del tráfico internacional el 1 de septiembre",
+      "resumen": "El aeropuerto operará desde el 1 de septiembre con estructuras temporales y cubrirá entre 30 % y 33 % de la capacidad internacional previa, con una meta de 45 % para el cierre del año, según el ministro de Transporte Francisco Garcés. Los aeropuertos de Valencia y Barcelona seguirán absorbiendo parte del tráfico tras dos meses de cierre por los sismos de magnitud 7,2 y 7,5 del 24 de junio.",
+      "fuente": "Crónica.Uno",
+      "autor": "Juan Carlos Salas",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/maiquetia-recupera-terci-trafico-internacional-1sep-dos-meses-cerrado-sismos/"
+    },
     {
       "id": "ve-20260826-infobae-reubicacion-escuelas",
       "fecha": "2026-08-26",

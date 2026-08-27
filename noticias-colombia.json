@@ -1,7 +1,78 @@
 {
-  "actualizado": "2026-08-26",
+  "actualizado": "2026-08-27",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260827-infobae-superfinanciera-creditos",
+      "fecha": "2026-08-27",
+      "titulo": "La Superintendencia Financiera fija las condiciones de refinanciación de créditos para afectados por el terremoto",
+      "resumen": "La Circular Externa 007 del 26 de agosto establece un plazo máximo de 90 días para concluir la renegociación de los créditos de los damnificados. El nuevo plazo no podrá superar el doble del período pendiente ni exceder los 20 años, y se suspenden los reportes negativos durante los 12 meses siguientes al perfeccionamiento de la refinanciación. Las medidas rigen mientras esté vigente la declaratoria de desastre del Decreto 1171 del 11 de agosto de 2026.",
+      "fuente": "Infobae",
+      "autor": "Dahana Ospina",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/08/27/superfinanciera-anuncia-alivios-para-deudores-afectados-por-el-terremoto-estas-son-las-medidas-para-creditos-y-seguros/"
+    },
+    {
+      "id": "co-20260827-elpais-canal-oficial-ayudas",
+      "fecha": "2026-08-27",
+      "titulo": "Cali canaliza la entrega de ayudas a damnificados por un único canal oficial de WhatsApp",
+      "resumen": "La Alcaldía de Cali habilitó el número 324 6900888 como canal oficial para agendar la entrega de ayudas a las familias inscritas en el Registro Único de Familias Afectadas (RUFE): el ciudadano recibe un mensaje con enlace, valida su cédula y elige punto de entrega. Los puntos habilitados son el Coliseo Celestino Mutis (Terrón Colorado), la Unidad Recreativa El Avión (Prados del Norte), el Coliseo El Sena, el Centro Múltiple Comuneros 2 y las unidades recreativas Cañaveralejo, Santiago de Cali y Horizontes. Se exige cédula original y la Alcaldía advierte que ningún otro canal está autorizado.",
+      "fuente": "El País (Cali)",
+      "autor": "Jesús Adolfo Chacín Silva",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/ayudas-a-damnificados-por-terremoto-en-cali-se-gestionaran-por-canal-oficial-este-es-el-proceso-para-recibirlas-2653.html"
+    },
+    {
+      "id": "co-20260826-elpais-regreso-clases",
+      "fecha": "2026-08-26",
+      "titulo": "Casi un millón de estudiantes retornan de forma gradual a clases en las zonas afectadas por el sismo",
+      "resumen": "Según el balance del Ministerio de Educación, el terremoto afectó a 988.180 estudiantes, 1.462 instituciones educativas y 3.872 sedes escolares en 387 municipios. Cali tiene habilitado el 97 % de sus sedes y el 24 de agosto retornaron 116.000 de 142.000 estudiantes; Armenia alcanzó 95 % de presencialidad y Chocó 80 %, mientras el Quindío reporta 62 % de su infraestructura escolar dañada. En Caldas hay 40.000 estudiantes en aulas y 32.000 en modalidad escuela en casa.",
+      "fuente": "El País (Cali)",
+      "autor": "Kevin Mauricio Martínez",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/colombia/regreso-a-clases-tras-el-terremoto-asi-avanzan-las-clases-en-las-zonas-afectadas-segun-mineducacion-2658.html"
+    },
+    {
+      "id": "co-20260826-elpais-stickers-fachadas",
+      "fecha": "2026-08-26",
+      "titulo": "Qué significan los adhesivos de colores en las fachadas de Cali tras el sismo",
+      "resumen": "Más de 200 edificaciones de Cali han sido inspeccionadas y marcadas con adhesivos: verde significa habitable a corto plazo, amarillo uso con áreas restringidas por riesgo estructural y rojo edificación inhabitable. El censo de daños registra 24 edificaciones con colapso total, 365 con colapso parcial, 306 inmuebles habitables y 543 no habitables. Las inspecciones detalladas tomarán unos dos meses dentro de un proceso de reconstrucción estimado en tres años.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/sismo-en-cali-que-significan-los-stickers-en-las-fachadas-de-las-casas-2627.html"
+    },
+    {
+      "id": "co-20260826-elpais-iglesias-danos",
+      "fecha": "2026-08-26",
+      "titulo": "Cali contabiliza 89 iglesias con daños tras el sismo y cierra 14 templos católicos",
+      "resumen": "Tras evaluar más de 250 espacios religiosos, la administración municipal determinó que el 35 % de los templos caracterizados presenta daños: 31 leves, 27 moderados, 27 severos y 4 con pérdida total o colapso. Las comunas más afectadas son la 17 (35 templos), la 19 (29) y la 2 (19); se cerraron preventivamente 14 iglesias católicas, seis de ellas Bienes de Interés Cultural. Las organizaciones religiosas mantienen la entrega de alimentos y el apoyo psicosocial mediante redes parroquiales y bancos de alimentos.",
+      "fuente": "El País (Cali)",
+      "autor": "Kevin Mauricio Martínez",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/cali-registra-89-iglesias-con-danos-tras-el-sismo-y-avanza-en-la-evaluacion-del-patrimonio-religioso-2643.html"
+    },
+    {
+      "id": "co-20260826-eltiempo-bugalagrande-torre",
+      "fecha": "2026-08-26",
+      "titulo": "Desmontan la torre de la iglesia San Bernabé de Bugalagrande por los daños del terremoto",
+      "resumen": "El 25 de agosto se desmontó la torre del templo San Bernabé de Bugalagrande (Valle del Cauca) por los graves daños que dejó el sismo de magnitud 7,4 del 10 de agosto. El templo, inaugurado formalmente el 14 de mayo de 1826, era un emblema del municipio. En la misma localidad, la capilla de El Overo fue evaluada por peritos, que concluyeron que requiere restauración y no demolición.",
+      "fuente": "El Tiempo",
+      "autor": "José Antonio Minota Hurtado",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/video-triste-despedida-de-emblema-de-bugalagrande-desmontan-la-torre-de-la-iglesia-san-bernabe-por-graves-danos-ocasionados-por-el-terremoto-3581117"
+    },
     {
       "id": "co-20260826-eltiempo-balance-ungrd",
       "fecha": "2026-08-26",
