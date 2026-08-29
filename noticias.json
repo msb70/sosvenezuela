@@ -1,7 +1,96 @@
 {
-  "actualizado": "2026-08-27",
+  "actualizado": "2026-08-29",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260828-lapatilla-voluntarios-laguaira",
+      "fecha": "2026-08-28",
+      "titulo": "Un equipo de voluntarios atendió a más de 250 personas en La Guaira",
+      "resumen": "Una comisión de Vuelta al Táchira en Salud y Rotaract Industrial Digital —personal de enfermería, socorristas y voluntarios civiles— se desplegó durante una semana en el puesto de avanzada de Protección Civil de Sucre, en La Guaira, donde atendió en el punto de triaje a unas 250 personas entre heridos y vecinos que buscaban a sus familiares. La organización mantiene asistencia psicológica en remoto y evalúa regresar con un campamento de verano para niños alojados en albergues.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/28/vuelta-al-tachira-en-salud-atendio-a-mas-de-250-personas-por-terremotos-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260828-lapatilla-silva-donativos",
+      "fecha": "2026-08-28",
+      "titulo": "La alcaldía de Silva reparte en la costa de Falcón donativos llegados desde Estados Unidos",
+      "resumen": "El municipio Silva sigue recibiendo insumos de organismos y ONG estadounidenses para las comunidades de la costa falconiana afectadas por el doble sismo del 24 de junio. Entre las últimas entregas figura una planta eléctrica para el comedor comunitario de Cayumar, abierto tras los terremotos, y un reparto de insumos en las zonas afectadas de Boca de Aroa.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/28/alcaldia-de-silva-lleva-donativos-de-eeuu-a-comunidades-afectadas-por-el-doblete-sismico/"
+    },
+    {
+      "id": "ve-20260828-lapatilla-funvisis-mapa",
+      "fecha": "2026-08-28",
+      "titulo": "Funvisis contabiliza 1.861 eventos sísmicos en las primeras 1.536 horas desde el 24 de junio",
+      "resumen": "El mapa de sismicidad acumulada de la Fundación Venezolana de Investigaciones Sismológicas (Funvisis), actualizado hasta las 6:00 p. m. del 27 de agosto, registra 1.861 eventos sísmicos desde las 6:00 p. m. del 24 de junio. La mayor concentración se sitúa en el centro-norte del país: Yaracuy, Carabobo, Aragua, Miranda, La Guaira y el Distrito Capital. El mapa identifica como eventos principales de la secuencia los dos terremotos del 24 de junio; el primero, de magnitud 7,2 Mw, con epicentro a 31 kilómetros al oeste de San Felipe (Yaracuy).",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/28/el-mapa-que-permite-dimensionar-lo-ocurrido-desde-los-terremotos-del-24-de-junio/"
+    },
+    {
+      "id": "ve-20260828-efectococuyo-avianca-american",
+      "fecha": "2026-08-28",
+      "titulo": "Avianca y American Airlines retoman sus vuelos a Venezuela con la reapertura de Maiquetía",
+      "resumen": "Avianca reactiva el vuelo diario Bogotá–Caracas desde el 1 de septiembre, día en que Maiquetía reabre con terminales provisionales, estrena la ruta directa Bogotá–Maracaibo desde el 28 de agosto y mantiene su operación a Valencia: en conjunto, más de 7.500 asientos semanales entre ambos países con aviones Airbus A320. American Airlines retoma los vuelos directos entre Miami y Caracas a partir del 3 de septiembre.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/economia/avianca-y-american-airlines-retoman-operaciones-en-maiquetia/"
+    },
+    {
+      "id": "ve-20260827-lapatilla-ops-vacunas",
+      "fecha": "2026-08-27",
+      "titulo": "La OPS gestionó 2,9 millones de dosis de vacunas contra siete enfermedades tras los terremotos",
+      "resumen": "La Organización Panamericana de la Salud informó el 27 de agosto de que ha gestionado la llegada al país de 2,9 millones de dosis de vacunas contra siete enfermedades y de materiales para tratar millones de litros de agua, dentro de la recuperación sanitaria posterior al doble sismo del 24 de junio. Parte de las dosis se adquirió a través del fondo rotatorio regional del organismo.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/27/ops-distribuyo-vacunas-contra-siete-enfermedades-en-venezuela-tras-los-terremotos-de-junio/"
+    },
+    {
+      "id": "ve-20260827-efectococuyo-projecthope",
+      "fecha": "2026-08-27",
+      "titulo": "Project Hope destina más de 200.000 dólares a rehabilitar centros de salud",
+      "resumen": "La organización estadounidense Project Hope invirtió más de 200.000 dólares en la renovación de centros de salud en Venezuela, con respaldo financiero del Departamento de Estado de Estados Unidos, para ampliar la atención a cientos de miles de pacientes. La dotación de equipos de atención primaria e insumos clínicos se formalizó en la sede de emergencias del municipio Chacao, en un acto encabezado por el jefe de la misión diplomática estadounidense en Caracas, John Barrett.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/fundacion-hope-destina-200-000-para-centros-medicos-en-venezuela-tras-terremotos/"
+    },
+    {
+      "id": "ve-20260826-lapatilla-planes-urbanisticos",
+      "fecha": "2026-08-26",
+      "titulo": "Los planes urbanísticos de 2005-2009 para La Guaira nunca se aplicaron, señalan especialistas",
+      "resumen": "La urbanista Ariana Tarhan explica que los planes redactados entre 2005 y 2009 ya identificaban los riesgos sísmicos y de inundación del Litoral Central y fijaban un máximo de 4 a 6 pisos, pero varios de los edificios que colapsaron superaban las 10 plantas: «el error principal estuvo en la supervisión y la fiscalización». El reportaje sitúa el déficit en 25.000 viviendas frente a un ritmo de entrega cercano a 400 mensuales, con una reconstrucción estimada por la Cámara Venezolana de la Construcción en 4 a 6 años y un costo de 13.000 a 15.000 millones de dólares según el economista Asdrúbal Oliveros.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/26/los-planes-urbanisticos-ignorados-que-pudieron-mitigar-la-tragedia-en-la-guaira-tras-terremotos/"
+    },
+    {
+      "id": "ve-20260826-infobae-reubicacion-escuelas",
+      "fecha": "2026-08-26",
+      "titulo": "Venezuela reubicará a estudiantes de más de 91 colegios afectados por los terremotos",
+      "resumen": "El Ministerio de Educación anunció que los alumnos de 91 planteles dañados por los sismos del 24 de junio serán reubicados en la escuela más cercana a su vivienda para el inicio del año escolar, previsto para el 14 de septiembre. El ministro Héctor Rodríguez precisó que la asignación se hará «en el colegio más cercano a su espacio de hábitat».",
+      "fuente": "Infobae",
+      "autor": "EFE",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/26/venezuela-reubicara-a-estudiantes-de-mas-de-91-colegios-afectados-por-los-terremotos/"
+    },
     {
       "id": "ve-20260826-infobae-ong-escuelas",
       "fecha": "2026-08-26",
@@ -39,17 +128,6 @@
       "url": "https://efectococuyo.com/la-humanidad/ong-chilena-techo-construye-primeras-diecisiete-casas-para-victimas-de-sismos-en-venezuela/"
     },
     {
-      "id": "ve-20260826-lapatilla-planes-urbanisticos",
-      "fecha": "2026-08-26",
-      "titulo": "Los planes urbanísticos de 2005-2009 para La Guaira nunca se aplicaron, señalan especialistas",
-      "resumen": "La urbanista Ariana Tarhan explica que los planes redactados entre 2005 y 2009 ya identificaban los riesgos sísmicos y de inundación del Litoral Central y fijaban un máximo de 4 a 6 pisos, pero varios de los edificios que colapsaron superaban las 10 plantas: «el error principal estuvo en la supervisión y la fiscalización». El reportaje sitúa el déficit en 25.000 viviendas frente a un ritmo de entrega cercano a 400 mensuales, con una reconstrucción estimada por la Cámara Venezolana de la Construcción en 4 a 6 años y un costo de 13.000 a 15.000 millones de dólares según el economista Asdrúbal Oliveros.",
-      "fuente": "La Patilla",
-      "tipoFuente": "medio",
-      "categoria": "Reconstrucción",
-      "tipo": "noticia",
-      "url": "https://lapatilla.com/2026/08/26/los-planes-urbanisticos-ignorados-que-pudieron-mitigar-la-tragedia-en-la-guaira-tras-terremotos/"
-    },
-    {
       "id": "ve-20260826-cronicauno-maiquetia-septiembre",
       "fecha": "2026-08-26",
       "titulo": "Maiquetía recuperará un tercio del tráfico internacional el 1 de septiembre",
@@ -60,18 +138,6 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://cronica.uno/maiquetia-recupera-terci-trafico-internacional-1sep-dos-meses-cerrado-sismos/"
-    },
-    {
-      "id": "ve-20260826-infobae-reubicacion-escuelas",
-      "fecha": "2026-08-26",
-      "titulo": "Venezuela reubicará a estudiantes de más de 91 colegios afectados por los terremotos",
-      "resumen": "El Ministerio de Educación anunció que los alumnos de 91 planteles dañados por los sismos del 24 de junio serán reubicados en la escuela más cercana a su vivienda para el inicio del año escolar, previsto para el 14 de septiembre. El ministro Héctor Rodríguez precisó que la asignación se hará «en el colegio más cercano a su espacio de hábitat».",
-      "fuente": "Infobae",
-      "autor": "EFE",
-      "tipoFuente": "medio",
-      "categoria": "Educación",
-      "tipo": "noticia",
-      "url": "https://www.infobae.com/venezuela/2026/08/26/venezuela-reubicara-a-estudiantes-de-mas-de-91-colegios-afectados-por-los-terremotos/"
     },
     {
       "id": "ve-20260825-vanguardia-balance-6509",
@@ -120,16 +186,16 @@
       "url": "https://cronica.uno/enclaves-geologos-aclaran-siete-mitos-persisten-dos-meses-sismos/"
     },
     {
-      "id": "ve-20260824-cronicauno-familias-reparaciones",
+      "id": "ve-20260824-telemundo-retos-reconstruccion",
       "fecha": "2026-08-24",
-      "titulo": "Familias asumen hasta 2.000 dólares por reconstruir una pared sin ayuda estatal tras los terremotos",
-      "resumen": "En Lomas de Urdaneta, Catia La Mar y el oeste de Caracas las familias están pagando de su bolsillo entre 700 y 2.000 dólares para reparar los daños estructurales de sus viviendas, sin apoyo público. Los testimonios recogidos muestran a pensionados y trabajadores endeudándose para tumbar y levantar paredes afectadas.",
-      "fuente": "Crónica.Uno",
-      "autor": "Betania Franquis",
+      "titulo": "A dos meses de los sismos, Venezuela enfrenta retos para la reconstrucción",
+      "resumen": "Las autoridades reportan 2,1 millones de toneladas de escombros retiradas en La Guaira —en torno al 25 % del total— y más de 650 frentes de trabajo con unos 11.000 empleados, con parte del material reconvertido en insumos de construcción. El Banco Mundial estima los daños físicos directos en 19.600 millones de dólares y advierte de que una reconstrucción lenta frenaría la recuperación económica durante la próxima década.",
+      "fuente": "Telemundo",
+      "autor": "EFE",
       "tipoFuente": "medio",
       "categoria": "Reconstrucción",
       "tipo": "noticia",
-      "url": "https://cronica.uno/familias-asumen-2000-dolares-reconstruir-pared-sin-ayuda-estatal-terremotos/"
+      "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/dos-meses-sismos-venezuela-reconstruccion-rcna594183"
     },
     {
       "id": "ve-20260824-lapatilla-laguaira-menos-ayuda",
@@ -144,18 +210,6 @@
       "url": "https://lapatilla.com/2026/08/24/la-guaira-sigue-devastada-y-con-menos-ayuda-humanitaria-dos-meses-despues-de-los-terremotos/"
     },
     {
-      "id": "ve-20260824-telemundo-retos-reconstruccion",
-      "fecha": "2026-08-24",
-      "titulo": "A dos meses de los sismos, Venezuela enfrenta retos para la reconstrucción",
-      "resumen": "Las autoridades reportan 2,1 millones de toneladas de escombros retiradas en La Guaira —en torno al 25 % del total— y más de 650 frentes de trabajo con unos 11.000 empleados, con parte del material reconvertido en insumos de construcción. El Banco Mundial estima los daños físicos directos en 19.600 millones de dólares y advierte de que una reconstrucción lenta frenaría la recuperación económica durante la próxima década.",
-      "fuente": "Telemundo",
-      "autor": "EFE",
-      "tipoFuente": "medio",
-      "categoria": "Reconstrucción",
-      "tipo": "noticia",
-      "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/dos-meses-sismos-venezuela-reconstruccion-rcna594183"
-    },
-    {
       "id": "ve-20260824-infobae-opinion-reconstruir",
       "fecha": "2026-08-24",
       "titulo": "Reconstruir Venezuela",
@@ -166,6 +220,18 @@
       "categoria": "Opinión",
       "tipo": "opinion",
       "url": "https://www.infobae.com/america/opinion/2026/08/24/reconstruir-venezuela/"
+    },
+    {
+      "id": "ve-20260824-cronicauno-familias-reparaciones",
+      "fecha": "2026-08-24",
+      "titulo": "Familias asumen hasta 2.000 dólares por reconstruir una pared sin ayuda estatal tras los terremotos",
+      "resumen": "En Lomas de Urdaneta, Catia La Mar y el oeste de Caracas las familias están pagando de su bolsillo entre 700 y 2.000 dólares para reparar los daños estructurales de sus viviendas, sin apoyo público. Los testimonios recogidos muestran a pensionados y trabajadores endeudándose para tumbar y levantar paredes afectadas.",
+      "fuente": "Crónica.Uno",
+      "autor": "Betania Franquis",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/familias-asumen-2000-dolares-reconstruir-pared-sin-ayuda-estatal-terremotos/"
     },
     {
       "id": "ve-20260822-infobae-ley-vivienda",
@@ -190,18 +256,6 @@
       "url": "https://www.infobae.com/venezuela/2026/08/21/migrantes-venezolanos-que-perdieron-sus-viviendas-en-el-terremoto-denuncian-que-no-les-permiten-registrarse-como-afectados/"
     },
     {
-      "id": "ve-20260820-elnacional-lluvias-campamentos",
-      "fecha": "2026-08-20",
-      "titulo": "«Queremos volver a nuestros hogares»: lluvias azotan campamentos de damnificados en Caracas",
-      "resumen": "Las lluvias del fin de semana anegaron los campamentos improvisados del bulevar Panteón (unas 60 familias), Santa Rosalía (115 familias con 116 niños) y la avenida Bolívar (más de 80 familias), donde se duerme sobre colchones mojados y sin lonas impermeables. La reparación del edificio Belair no terminará antes de diciembre y World Central Kitchen dejó de repartir comidas el viernes.",
-      "fuente": "El Nacional",
-      "autor": "Aliana Abadi",
-      "tipoFuente": "medio",
-      "categoria": "Ayuda humanitaria",
-      "tipo": "noticia",
-      "url": "https://www.elnacional.com/2026/08/lluvias-campamentos-improvisados-damnificados-sismo-caracas/"
-    },
-    {
       "id": "ve-20260820-lapatilla-laguaira-dos-meses",
       "fecha": "2026-08-20",
       "titulo": "Casi dos meses después de los sismos, La Guaira se debate entre precariedad y resistencia",
@@ -214,15 +268,27 @@
       "url": "https://lapatilla.com/2026/08/20/casi-dos-meses-despues-de-los-sismos-la-guaira-se-debate-entre-precariedad-y-resistencia/"
     },
     {
-      "id": "ve-20260818-cocuyo-altagracia-carpas",
-      "fecha": "2026-08-18",
-      "titulo": "«Llovía, se cayeron las carpas y no había luz»: damnificados en Altagracia y la réplica sísmica",
-      "resumen": "Once familias del edificio OPPE 6, en la parroquia Altagracia de Caracas, llevan 55 días acampadas en la Plaza del Foro. Una réplica de magnitud 4 la madrugada del 18 de agosto y el aguacero posterior tumbaron las carpas y anegaron el campamento; llevaban cuatro días sin luz y pagan 500 bolívares por cada bidón de 10 litros de agua. Se niegan a volver al edificio sin una revisión estructural profesional.",
-      "fuente": "Efecto Cocuyo",
+      "id": "ve-20260820-elnacional-lluvias-campamentos",
+      "fecha": "2026-08-20",
+      "titulo": "«Queremos volver a nuestros hogares»: lluvias azotan campamentos de damnificados en Caracas",
+      "resumen": "Las lluvias del fin de semana anegaron los campamentos improvisados del bulevar Panteón (unas 60 familias), Santa Rosalía (115 familias con 116 niños) y la avenida Bolívar (más de 80 familias), donde se duerme sobre colchones mojados y sin lonas impermeables. La reparación del edificio Belair no terminará antes de diciembre y World Central Kitchen dejó de repartir comidas el viernes.",
+      "fuente": "El Nacional",
+      "autor": "Aliana Abadi",
       "tipoFuente": "medio",
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
-      "url": "https://efectococuyo.com/la-humanidad/llovia-se-cayeron-las-carpas-y-no-habia-luz-damnificados-en-la-parroquia-altagracia/"
+      "url": "https://www.elnacional.com/2026/08/lluvias-campamentos-improvisados-damnificados-sismo-caracas/"
+    },
+    {
+      "id": "ve-20260818-lapatilla-sismo",
+      "fecha": "2026-08-18",
+      "titulo": "Sismo sacudió a Caracas y La Guaira en la madrugada del 18 de agosto",
+      "resumen": "Un sismo con epicentro en la zona costera cercana a Catia La Mar y Maiquetía se sintió a las 3:07 a. m. en el Área Metropolitana de Caracas y en La Guaira. Funvisis lo ubicó en magnitud 4,0 a 10 km de profundidad —las aplicaciones internacionales reportaron 4,6— y las autoridades no reportaron daños.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/18/sismo-de-magnitud-4-6-sacudio-a-caracas-y-la-guaira-la-madrugada-de-este-18ago/"
     },
     {
       "id": "ve-20260818-elnacional-formacion",
@@ -236,15 +302,15 @@
       "url": "https://www.elnacional.com/2026/08/anuncian-plan-de-formacion-para-trabajadores-de-la-construccion-tras-sismos-donde-y-cuando-inscribirse/"
     },
     {
-      "id": "ve-20260818-lapatilla-sismo",
+      "id": "ve-20260818-cocuyo-altagracia-carpas",
       "fecha": "2026-08-18",
-      "titulo": "Sismo sacudió a Caracas y La Guaira en la madrugada del 18 de agosto",
-      "resumen": "Un sismo con epicentro en la zona costera cercana a Catia La Mar y Maiquetía se sintió a las 3:07 a. m. en el Área Metropolitana de Caracas y en La Guaira. Funvisis lo ubicó en magnitud 4,0 a 10 km de profundidad —las aplicaciones internacionales reportaron 4,6— y las autoridades no reportaron daños.",
-      "fuente": "La Patilla",
+      "titulo": "«Llovía, se cayeron las carpas y no había luz»: damnificados en Altagracia y la réplica sísmica",
+      "resumen": "Once familias del edificio OPPE 6, en la parroquia Altagracia de Caracas, llevan 55 días acampadas en la Plaza del Foro. Una réplica de magnitud 4 la madrugada del 18 de agosto y el aguacero posterior tumbaron las carpas y anegaron el campamento; llevaban cuatro días sin luz y pagan 500 bolívares por cada bidón de 10 litros de agua. Se niegan a volver al edificio sin una revisión estructural profesional.",
+      "fuente": "Efecto Cocuyo",
       "tipoFuente": "medio",
-      "categoria": "Balance y cifras",
+      "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
-      "url": "https://lapatilla.com/2026/08/18/sismo-de-magnitud-4-6-sacudio-a-caracas-y-la-guaira-la-madrugada-de-este-18ago/"
+      "url": "https://efectococuyo.com/la-humanidad/llovia-se-cayeron-las-carpas-y-no-habia-luz-damnificados-en-la-parroquia-altagracia/"
     },
     {
       "id": "ve-20260818-cnn-reconstruccion",
@@ -281,27 +347,17 @@
       "url": "https://lapatilla.com/2026/08/15/aulas-vacias-en-la-guaira-terremotos-dejaron-decenas-de-alumnos-fallecidos-y-a-miles-sin-escuela/"
     },
     {
-      "id": "2026-08-14-ocha-sitrep-33",
+      "id": "2026-08-14-tripier-acreedores-reconstruccion",
       "fecha": "2026-08-14",
-      "titulo": "OCHA publica el Reporte de Situación N.° 33 sobre los terremotos en Venezuela",
-      "resumen": "Con corte al 10 de agosto: 6.301 fallecidos, 73.356 personas atendidas en hospitales, 53.314 viviendas evaluadas y 9.567 clasificadas como de alto riesgo. La respuesta humanitaria había asistido a 304.000 personas al 13 de agosto, 57% mujeres y niñas.",
-      "fuente": "OCHA · ReliefWeb",
-      "tipoFuente": "oficial",
-      "categoria": "Ayuda humanitaria",
-      "tipo": "oficial",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-33-14-de-agosto-de-2026-hora-0200-pm"
-    },
-    {
-      "id": "2026-08-14-academias-reconstruccion",
-      "fecha": "2026-08-14",
-      "titulo": "Academias ponen a disposición su potencial técnico y científico para contribuir al Plan de Reconstrucción Nacional",
-      "resumen": "El Comité Interacadémico de las Academias Nacionales ofreció equipos multidisciplinarios para evaluar daños, reforzar la atención sanitaria y realizar estudios de riesgo geológico tras el doble terremoto del 24 de junio.",
+      "titulo": "Vitrina: Priorizar a los acreedores o reconstruir el país",
+      "resumen": "Columna que analiza la deuda externa consolidada (US$ 150.000–170.000 millones) como el principal cuello de botella para la reconstrucción, y propone una reestructuración diferenciada por bloques de acreedores.",
       "fuente": "El Nacional",
+      "autor": "Benjamín Tripier",
       "tipoFuente": "medio",
-      "categoria": "Reconstrucción",
-      "tipo": "noticia",
-      "url": "https://www.elnacional.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/",
-      "espejo": "https://bitlysdowssl-aws.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/"
+      "categoria": "Opinión",
+      "tipo": "opinion",
+      "url": "https://www.elnacional.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/"
     },
     {
       "id": "2026-08-14-puerto-la-guaira",
@@ -316,6 +372,17 @@
       "espejo": "https://bitlysdowssl-aws.com/2026/08/puerto-de-la-guaira-reactiva-sus-operaciones-al-100-tras-el-doble-terremoto/"
     },
     {
+      "id": "2026-08-14-ocha-sitrep-33",
+      "fecha": "2026-08-14",
+      "titulo": "OCHA publica el Reporte de Situación N.° 33 sobre los terremotos en Venezuela",
+      "resumen": "Con corte al 10 de agosto: 6.301 fallecidos, 73.356 personas atendidas en hospitales, 53.314 viviendas evaluadas y 9.567 clasificadas como de alto riesgo. La respuesta humanitaria había asistido a 304.000 personas al 13 de agosto, 57% mujeres y niñas.",
+      "fuente": "OCHA · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-33-14-de-agosto-de-2026-hora-0200-pm"
+    },
+    {
       "id": "2026-08-14-acnur-desplazados-colombia",
       "fecha": "2026-08-14",
       "titulo": "Acnur advierte que las necesidades de los desplazados en Colombia crecen tras el terremoto",
@@ -328,17 +395,16 @@
       "espejo": "https://bitlysdowssl-aws.com/2026/08/acnur-advierte-que-las-necesidades-de-los-desplazados-en-colombia-crecen-tras-el-terremoto/"
     },
     {
-      "id": "2026-08-14-tripier-acreedores-reconstruccion",
+      "id": "2026-08-14-academias-reconstruccion",
       "fecha": "2026-08-14",
-      "titulo": "Vitrina: Priorizar a los acreedores o reconstruir el país",
-      "resumen": "Columna que analiza la deuda externa consolidada (US$ 150.000–170.000 millones) como el principal cuello de botella para la reconstrucción, y propone una reestructuración diferenciada por bloques de acreedores.",
+      "titulo": "Academias ponen a disposición su potencial técnico y científico para contribuir al Plan de Reconstrucción Nacional",
+      "resumen": "El Comité Interacadémico de las Academias Nacionales ofreció equipos multidisciplinarios para evaluar daños, reforzar la atención sanitaria y realizar estudios de riesgo geológico tras el doble terremoto del 24 de junio.",
       "fuente": "El Nacional",
-      "autor": "Benjamín Tripier",
       "tipoFuente": "medio",
-      "categoria": "Opinión",
-      "tipo": "opinion",
-      "url": "https://www.elnacional.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/",
-      "espejo": "https://bitlysdowssl-aws.com/2026/08/vitrina-priorizar-a-los-acreedores-o-reconstruir-el-pais/"
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/"
     },
     {
       "id": "ve-20260812-eldiario-escuelas",

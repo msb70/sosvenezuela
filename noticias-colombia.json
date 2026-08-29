@@ -1,7 +1,117 @@
 {
-  "actualizado": "2026-08-27",
+  "actualizado": "2026-08-29",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260828-semana-replica-istmina",
+      "fecha": "2026-08-28",
+      "titulo": "Nueva réplica de magnitud 3,8 con epicentro en Istmina, Chocó",
+      "resumen": "El Servicio Geológico Colombiano registró a las 03:24 del 28 de agosto un sismo de magnitud 3,8 a 43 kilómetros de profundidad, con epicentro a siete kilómetros de Istmina (Chocó). Los municipios más cercanos al movimiento fueron Sipí, a 25 kilómetros, Trujillo, a 50, y El Dovio, a 53.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/nacion/articulo/registran-nuevo-temblor-que-sacudio-a-colombia-en-la-madrugada-de-este-28-de-agosto-este-fue-el-epicentro-y-la-magnitud/202657/"
+    },
+    {
+      "id": "co-20260828-semana-desembolsos-31agosto",
+      "fecha": "2026-08-28",
+      "titulo": "Los desembolsos a las familias que perdieron su vivienda arrancan el 31 de agosto",
+      "resumen": "El Gobierno confirmó que el 31 de agosto empiezan los pagos de 1.050.000 pesos mensuales durante tres meses (3.150.000 pesos por hogar) para las familias cuyas viviendas quedaron destruidas o inhabitables, con tres mensualidades adicionales para propietarios. El registro en el Registro Único de Damnificados tuvo un primer corte el 24 de agosto y sigue abierto hasta el 4 de septiembre; el Ejecutivo insiste en que el dinero llega directo al beneficiario inscrito, sin intermediarios.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/economia/macroeconomia/articulo/abelardo-de-la-espriella-senalo-que-el-31-de-agosto-comenzaran-desembolsos-a-familias-con-viviendas-afectadas-por-el-terremoto/202606/"
+    },
+    {
+      "id": "co-20260828-radiosantafe-mejoramientos-risaralda",
+      "fecha": "2026-08-28",
+      "titulo": "El Gobierno destina 30.000 millones de pesos a mejoramientos de vivienda en Risaralda",
+      "resumen": "El Ejecutivo anunció 30.000 millones de pesos pendientes de ejecutar para 909 mejoramientos de vivienda en Risaralda, 261 de ellos en Pereira, ciudad designada como centro operativo de la reconstrucción. En el mismo balance departamental se reportan 1.092 personas en alojamientos temporales, 34 centros de salud afectados y cerca de 8.000 estudiantes pendientes de reubicación escolar.",
+      "fuente": "Radio Santa Fe",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.radiosantafe.com/2026/08/28/gobierno-anuncia-30-mil-millones-para-mejoramientos-de-viviendas-afectadas-por-el-terremoto/"
+    },
+    {
+      "id": "co-20260828-onu-escuelas-reclutamiento",
+      "fecha": "2026-08-28",
+      "titulo": "La ONU alerta de que los niños sin escuela por el terremoto quedan más expuestos al reclutamiento armado",
+      "resumen": "La coordinadora residente de la ONU en Colombia, María José Torres Macho, advirtió de que el sismo del 10 de agosto afectó a más de 3.800 centros educativos y dejó a 178.000 estudiantes en sedes con daños estructurales graves. Miles de niños siguen fuera de las aulas en Chocó y Valle del Cauca, departamentos con presencia de grupos armados ilegales, lo que según la ONU eleva el riesgo de reclutamiento infantil, un problema preexistente en esas zonas.",
+      "fuente": "Noticias ONU",
+      "tipoFuente": "oficial",
+      "categoria": "Educación",
+      "tipo": "oficial",
+      "url": "https://news.un.org/es/story/2026/08/1541849"
+    },
+    {
+      "id": "co-20260828-infobae-viviendas-petronio-cali",
+      "fecha": "2026-08-28",
+      "titulo": "Cuatro familias damnificadas reciben viviendas amobladas en la Ciudadela Petronio de Cali",
+      "resumen": "Las primeras cuatro viviendas totalmente dotadas se entregaron en la Ciudadela Petronio de Cali, financiadas al 50 % entre el Gobierno nacional y la constructora Marval, junto con 120 toneladas de materiales de construcción. Camacol Valle anunció además una donación de 20.700 millones de pesos en bonos solidarios para ampliar la cobertura a más familias afectadas por el sismo del 10 de agosto.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/08/28/gobierno-entrego-viviendas-con-todo-a-cuatro-familias-afectadas-por-el-terremoto-en-cali-un-apartamento-es-para-la-trilliza-ana-maria-saavedra/"
+    },
+    {
+      "id": "co-20260828-eltiempo-gerente-reconstruccion-valle",
+      "fecha": "2026-08-28",
+      "titulo": "El gerente de la reconstrucción del Valle fija como prioridad los acueductos y la vivienda",
+      "resumen": "Juan Manuel Muñoz, sobreviviente del terremoto de Popayán de 1983, asumió la gerencia de la reconstrucción del Valle del Cauca tras declinar su nombramiento como embajador en Brasil. Ha identificado siete acueductos prioritarios y obras como el puente Mariano Ospina Pérez, con un presupuesto estimado de 250.000 millones de pesos, y sostiene que la reconstrucción debe completarse en menos de tres años. La Gobernación calcula el costo total en 19 billones de pesos, frente a los 248.000 millones comprometidos por el Gobierno con vigencias futuras.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/la-reconstruccion-del-valle-arranca-ya-juan-manuel-munoz-tiene-listas-las-prioridades-como-acueductos-acatando-las-directrices-del-gobierno-3582008"
+    },
+    {
+      "id": "co-20260828-elpais-traslado-albergues-hoteles",
+      "fecha": "2026-08-28",
+      "titulo": "Cali continúa el traslado de damnificados desde albergues precarios a hoteles",
+      "resumen": "La Alcaldía de Cali reubicó a familias afectadas por el sismo del 10 de agosto desde un albergue en condiciones precarias en Reservas de Meléndez hacia hoteles de la ciudad. Más de 400 familias damnificadas reciben alojamiento temporal en hoteles, con atención psicosocial, asesoría jurídica, alimentación y acompañamiento durante su estancia.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-continua-traslado-de-damnificados-por-el-terremoto-asi-avanza-el-proceso-2831.html"
+    },
+    {
+      "id": "co-20260828-elpais-subsidios-valle",
+      "fecha": "2026-08-28",
+      "titulo": "Anuncian subsidios de 1.050.000 pesos mensuales durante tres meses para damnificados del Valle",
+      "resumen": "En su visita a Cali del 28 de agosto, el presidente Abelardo de la Espriella anunció bonos para materiales de construcción y un subsidio de 1.050.000 pesos mensuales durante tres meses para las familias afectadas por el terremoto del 10 de agosto, con una inversión inicial de 3.150 millones de pesos y la posibilidad de prorrogarlo según las necesidades de cada familia.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/presidente-abelardo-de-la-espriella-visita-cali-y-anuncia-ayudas-para-familias-afectadas-por-el-terremoto-asi-quedarian-los-subsidios-2846.html"
+    },
+    {
+      "id": "co-20260828-elpais-bienes-sae",
+      "fecha": "2026-08-28",
+      "titulo": "El Gobierno ordena entregar inmuebles de la SAE a familias damnificadas del Valle del Cauca",
+      "resumen": "La Presidencia instruyó a la Sociedad de Activos Especiales (SAE) a destinar a las familias damnificadas los inmuebles en buen estado que administra en el Valle del Cauca, donde tiene 7.600 propiedades, 1.228 de ellas en Cali. También se incluirán predios rurales que cumplan las condiciones requeridas; no se ha precisado cuántas familias se beneficiarán ni en qué municipios.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/abelardo-de-la-espriella-ordeno-entregar-bienes-de-la-sae-a-familias-damnificadas-en-el-valle-del-cauca-por-el-terremoto-2805.html"
+    },
+    {
+      "id": "co-20260827-pulzo-rud-valle",
+      "fecha": "2026-08-27",
+      "titulo": "El Valle del Cauca amplía de forma indefinida el plazo de inscripción en el Registro Único de Damnificados",
+      "resumen": "La UNGRD autorizó ampliar sin fecha de cierre la inscripción en el Registro Único de Damnificados para los afectados del Valle del Cauca, donde ya figuran cerca de 90.000 personas registradas. El trámite es gratuito y se hace en las alcaldías municipales con los coordinadores de gestión del riesgo, que cargan la información en la plataforma RUFE para habilitar el acceso a las ayudas estatales.",
+      "fuente": "Pulzo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.pulzo.com/nacion/registro-unico-de-damnificados-valle-del-cauca-plazo-ampliado-para-acceder-a-ayudas-tras-sismo-PP5286608A"
+    },
     {
       "id": "co-20260827-infobae-superfinanciera-creditos",
       "fecha": "2026-08-27",
@@ -13,6 +123,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/08/27/superfinanciera-anuncia-alivios-para-deudores-afectados-por-el-terremoto-estas-son-las-medidas-para-creditos-y-seguros/"
+    },
+    {
+      "id": "co-20260827-eltiempo-balance-ungrd",
+      "fecha": "2026-08-27",
+      "titulo": "Balance de la UNGRD del 27 de agosto: 331 fallecidos, 4.449 heridos y 406.113 personas damnificadas",
+      "resumen": "Con corte a las 6:30 del 27 de agosto, la UNGRD contabiliza 331 fallecidos, 4.449 heridos, 219 desaparecidos y 364 rescatados en 16 departamentos y 496 municipios, con 193.011 familias damnificadas (406.113 personas). El registro de daños suma 187.839 viviendas averiadas y 33.395 destruidas, además de 6.372 edificaciones con afectación estructural y 655 colapsadas.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-martes-25-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3581395"
     },
     {
       "id": "co-20260827-elpais-canal-oficial-ayudas",
@@ -27,39 +148,39 @@
       "url": "https://www.elpais.com.co/cali/ayudas-a-damnificados-por-terremoto-en-cali-se-gestionaran-por-canal-oficial-este-es-el-proceso-para-recibirlas-2653.html"
     },
     {
-      "id": "co-20260826-elpais-regreso-clases",
-      "fecha": "2026-08-26",
-      "titulo": "Casi un millón de estudiantes retornan de forma gradual a clases en las zonas afectadas por el sismo",
-      "resumen": "Según el balance del Ministerio de Educación, el terremoto afectó a 988.180 estudiantes, 1.462 instituciones educativas y 3.872 sedes escolares en 387 municipios. Cali tiene habilitado el 97 % de sus sedes y el 24 de agosto retornaron 116.000 de 142.000 estudiantes; Armenia alcanzó 95 % de presencialidad y Chocó 80 %, mientras el Quindío reporta 62 % de su infraestructura escolar dañada. En Caldas hay 40.000 estudiantes en aulas y 32.000 en modalidad escuela en casa.",
-      "fuente": "El País (Cali)",
-      "autor": "Kevin Mauricio Martínez",
+      "id": "co-20260827-elnuevosiglo-fenalco-acopio",
+      "fecha": "2026-08-27",
+      "titulo": "Fenalco cierra su primera fase de acopio con 400 toneladas de ayuda humanitaria",
+      "resumen": "Fenalco reunió 400 toneladas de ayuda para los damnificados a través de 42 centros comerciales habilitados como puntos de acopio en Bogotá y Cundinamarca, con agua embotellada, alimentos no perecederos, botiquines, cobijas, kits escolares y productos de higiene. El gremio pausa temporalmente la recolección para concentrarse en la logística de entrega y evalúa abrir una segunda fase según las necesidades que reporten las autoridades.",
+      "fuente": "El Nuevo Siglo",
       "tipoFuente": "medio",
-      "categoria": "Educación",
+      "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
-      "url": "https://www.elpais.com.co/colombia/regreso-a-clases-tras-el-terremoto-asi-avanzan-las-clases-en-las-zonas-afectadas-segun-mineducacion-2658.html"
+      "url": "https://www.elnuevosiglo.com.co/nacion/fenalco-recolecta-400-toneladas-de-ayuda-para-damnificados-por-terremoto"
     },
     {
-      "id": "co-20260826-elpais-stickers-fachadas",
+      "id": "co-20260826-semana-replica-istmina",
       "fecha": "2026-08-26",
-      "titulo": "Qué significan los adhesivos de colores en las fachadas de Cali tras el sismo",
-      "resumen": "Más de 200 edificaciones de Cali han sido inspeccionadas y marcadas con adhesivos: verde significa habitable a corto plazo, amarillo uso con áreas restringidas por riesgo estructural y rojo edificación inhabitable. El censo de daños registra 24 edificaciones con colapso total, 365 con colapso parcial, 306 inmuebles habitables y 543 no habitables. Las inspecciones detalladas tomarán unos dos meses dentro de un proceso de reconstrucción estimado en tres años.",
-      "fuente": "El País (Cali)",
+      "titulo": "Nuevo temblor sacudió a Colombia en la madrugada del 26 de agosto: el SGC confirmó el epicentro",
+      "resumen": "El Servicio Geológico Colombiano registró un sismo de magnitud 3,0 a las 2:14 a. m. con epicentro en Istmina, Chocó, a 40 kilómetros de profundidad. En la misma zona se sintieron otros dos movimientos: uno de magnitud 3,3 el 25 de agosto a las 11:18 p. m. y otro de 3,0 el 26 a la 1:08 a. m.",
+      "fuente": "Semana",
+      "autor": "Redacción Nación",
       "tipoFuente": "medio",
-      "categoria": "Infraestructura y servicios",
+      "categoria": "Réplicas y sismología",
       "tipo": "noticia",
-      "url": "https://www.elpais.com.co/cali/sismo-en-cali-que-significan-los-stickers-en-las-fachadas-de-las-casas-2627.html"
+      "url": "https://www.semana.com/nacion/articulo/reportan-nuevo-temblor-que-sacudio-a-colombia-en-la-madrugada-de-este-26-de-agosto-sgc-confirmo-el-epicentro/202610/"
     },
     {
-      "id": "co-20260826-elpais-iglesias-danos",
+      "id": "co-20260826-eltiempo-estafas-whatsapp",
       "fecha": "2026-08-26",
-      "titulo": "Cali contabiliza 89 iglesias con daños tras el sismo y cierra 14 templos católicos",
-      "resumen": "Tras evaluar más de 250 espacios religiosos, la administración municipal determinó que el 35 % de los templos caracterizados presenta daños: 31 leves, 27 moderados, 27 severos y 4 con pérdida total o colapso. Las comunas más afectadas son la 17 (35 templos), la 19 (29) y la 2 (19); se cerraron preventivamente 14 iglesias católicas, seis de ellas Bienes de Interés Cultural. Las organizaciones religiosas mantienen la entrega de alimentos y el apoyo psicosocial mediante redes parroquiales y bancos de alimentos.",
-      "fuente": "El País (Cali)",
-      "autor": "Kevin Mauricio Martínez",
+      "titulo": "Advierten sobre falsas cadenas de WhatsApp que ofrecen supuestos subsidios de emergencia en Cali",
+      "resumen": "La Alcaldía de Cali alertó de mensajes fraudulentos que circulan por WhatsApp prometiendo «subsidios de emergencia» a los damnificados y que dirigen a portales creados para robar datos personales. El único procedimiento oficial es el Registro Unifamiliar de Emergencias (RUFE), que se hace de forma presencial en los barrios afectados y por personal autorizado.",
+      "fuente": "El Tiempo",
+      "autor": "José Antonio Minota Hurtado",
       "tipoFuente": "medio",
-      "categoria": "Infraestructura y servicios",
+      "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
-      "url": "https://www.elpais.com.co/cali/cali-registra-89-iglesias-con-danos-tras-el-sismo-y-avanza-en-la-evaluacion-del-patrimonio-religioso-2643.html"
+      "url": "https://www.eltiempo.com/colombia/cali/no-caiga-en-la-trampa-advierten-sobre-falsas-cadenas-de-whatsapp-que-ofrecen-supuestos-subsidios-de-emergencia-en-cali-3581084"
     },
     {
       "id": "co-20260826-eltiempo-bugalagrande-torre",
@@ -86,28 +207,39 @@
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-miercoles-26-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3581088"
     },
     {
-      "id": "co-20260826-eltiempo-estafas-whatsapp",
+      "id": "co-20260826-elpais-stickers-fachadas",
       "fecha": "2026-08-26",
-      "titulo": "Advierten sobre falsas cadenas de WhatsApp que ofrecen supuestos subsidios de emergencia en Cali",
-      "resumen": "La Alcaldía de Cali alertó de mensajes fraudulentos que circulan por WhatsApp prometiendo «subsidios de emergencia» a los damnificados y que dirigen a portales creados para robar datos personales. El único procedimiento oficial es el Registro Unifamiliar de Emergencias (RUFE), que se hace de forma presencial en los barrios afectados y por personal autorizado.",
-      "fuente": "El Tiempo",
-      "autor": "José Antonio Minota Hurtado",
+      "titulo": "Qué significan los adhesivos de colores en las fachadas de Cali tras el sismo",
+      "resumen": "Más de 200 edificaciones de Cali han sido inspeccionadas y marcadas con adhesivos: verde significa habitable a corto plazo, amarillo uso con áreas restringidas por riesgo estructural y rojo edificación inhabitable. El censo de daños registra 24 edificaciones con colapso total, 365 con colapso parcial, 306 inmuebles habitables y 543 no habitables. Las inspecciones detalladas tomarán unos dos meses dentro de un proceso de reconstrucción estimado en tres años.",
+      "fuente": "El País (Cali)",
       "tipoFuente": "medio",
-      "categoria": "Ayuda humanitaria",
+      "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
-      "url": "https://www.eltiempo.com/colombia/cali/no-caiga-en-la-trampa-advierten-sobre-falsas-cadenas-de-whatsapp-que-ofrecen-supuestos-subsidios-de-emergencia-en-cali-3581084"
+      "url": "https://www.elpais.com.co/cali/sismo-en-cali-que-significan-los-stickers-en-las-fachadas-de-las-casas-2627.html"
     },
     {
-      "id": "co-20260826-semana-replica-istmina",
+      "id": "co-20260826-elpais-regreso-clases",
       "fecha": "2026-08-26",
-      "titulo": "Nuevo temblor sacudió a Colombia en la madrugada del 26 de agosto: el SGC confirmó el epicentro",
-      "resumen": "El Servicio Geológico Colombiano registró un sismo de magnitud 3,0 a las 2:14 a. m. con epicentro en Istmina, Chocó, a 40 kilómetros de profundidad. En la misma zona se sintieron otros dos movimientos: uno de magnitud 3,3 el 25 de agosto a las 11:18 p. m. y otro de 3,0 el 26 a la 1:08 a. m.",
-      "fuente": "Semana",
-      "autor": "Redacción Nación",
+      "titulo": "Casi un millón de estudiantes retornan de forma gradual a clases en las zonas afectadas por el sismo",
+      "resumen": "Según el balance del Ministerio de Educación, el terremoto afectó a 988.180 estudiantes, 1.462 instituciones educativas y 3.872 sedes escolares en 387 municipios. Cali tiene habilitado el 97 % de sus sedes y el 24 de agosto retornaron 116.000 de 142.000 estudiantes; Armenia alcanzó 95 % de presencialidad y Chocó 80 %, mientras el Quindío reporta 62 % de su infraestructura escolar dañada. En Caldas hay 40.000 estudiantes en aulas y 32.000 en modalidad escuela en casa.",
+      "fuente": "El País (Cali)",
+      "autor": "Kevin Mauricio Martínez",
       "tipoFuente": "medio",
-      "categoria": "Réplicas y sismología",
+      "categoria": "Educación",
       "tipo": "noticia",
-      "url": "https://www.semana.com/nacion/articulo/reportan-nuevo-temblor-que-sacudio-a-colombia-en-la-madrugada-de-este-26-de-agosto-sgc-confirmo-el-epicentro/202610/"
+      "url": "https://www.elpais.com.co/colombia/regreso-a-clases-tras-el-terremoto-asi-avanzan-las-clases-en-las-zonas-afectadas-segun-mineducacion-2658.html"
+    },
+    {
+      "id": "co-20260826-elpais-iglesias-danos",
+      "fecha": "2026-08-26",
+      "titulo": "Cali contabiliza 89 iglesias con daños tras el sismo y cierra 14 templos católicos",
+      "resumen": "Tras evaluar más de 250 espacios religiosos, la administración municipal determinó que el 35 % de los templos caracterizados presenta daños: 31 leves, 27 moderados, 27 severos y 4 con pérdida total o colapso. Las comunas más afectadas son la 17 (35 templos), la 19 (29) y la 2 (19); se cerraron preventivamente 14 iglesias católicas, seis de ellas Bienes de Interés Cultural. Las organizaciones religiosas mantienen la entrega de alimentos y el apoyo psicosocial mediante redes parroquiales y bancos de alimentos.",
+      "fuente": "El País (Cali)",
+      "autor": "Kevin Mauricio Martínez",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/cali-registra-89-iglesias-con-danos-tras-el-sismo-y-avanza-en-la-evaluacion-del-patrimonio-religioso-2643.html"
     },
     {
       "id": "co-20260825-vanguardia-balance-331",
@@ -133,6 +265,17 @@
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-martes-25-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3580782"
     },
     {
+      "id": "co-20260824-portafolio-subsidio-buenaventura",
+      "fecha": "2026-08-24",
+      "titulo": "Damnificados por el terremoto en Buenaventura recibirán subsidio de $1,05 millones mensuales durante tres meses",
+      "resumen": "El Gobierno activó una ayuda económica para los hogares que perdieron su vivienda en Buenaventura: 1.050.000 pesos al mes durante tres meses, 3.150.000 pesos en total por familia. La medida busca cubrir arriendo y necesidades básicas mientras avanza la reconstrucción.",
+      "fuente": "Portafolio",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.portafolio.co/economia/gobierno/damnificados-por-el-terremoto-en-buenaventura-recibiran-subsidio-de-1-05-millones-mensuales-durante-tres-meses-501083"
+    },
+    {
       "id": "co-20260824-eltiempo-subsidio-arriendo-nacional",
       "fecha": "2026-08-24",
       "titulo": "El Gobierno anuncia un apoyo económico de 875.452 pesos durante tres meses para los afectados por el terremoto",
@@ -143,17 +286,6 @@
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574"
-    },
-    {
-      "id": "co-20260824-portafolio-subsidio-buenaventura",
-      "fecha": "2026-08-24",
-      "titulo": "Damnificados por el terremoto en Buenaventura recibirán subsidio de $1,05 millones mensuales durante tres meses",
-      "resumen": "El Gobierno activó una ayuda económica para los hogares que perdieron su vivienda en Buenaventura: 1.050.000 pesos al mes durante tres meses, 3.150.000 pesos en total por familia. La medida busca cubrir arriendo y necesidades básicas mientras avanza la reconstrucción.",
-      "fuente": "Portafolio",
-      "tipoFuente": "medio",
-      "categoria": "Ayuda humanitaria",
-      "tipo": "noticia",
-      "url": "https://www.portafolio.co/economia/gobierno/damnificados-por-el-terremoto-en-buenaventura-recibiran-subsidio-de-1-05-millones-mensuales-durante-tres-meses-501083"
     },
     {
       "id": "co-20260824-eltiempo-balance-23ago",
@@ -200,17 +332,6 @@
       "url": "https://www.eltiempo.com/colombia/cali/cali-cierra-fase-de-busqueda-tras-terremoto-y-se-prepara-para-la-reconstruccion-150-muertos-y-mas-de-1-500-heridos-3580055"
     },
     {
-      "id": "co-20260821-elnuevosiglo-balance-329",
-      "fecha": "2026-08-21",
-      "titulo": "Suben a 329 los fallecidos, 4.600 los heridos y 314 mil los afectados por terremoto",
-      "resumen": "El balance de la UNGRD del 21 de agosto eleva a 329 los fallecidos y 4.600 los heridos, con 364 personas rescatadas con vida y 247 desaparecidas. Los afectados suman 314.751 personas (154.014 familias) en 481 municipios.",
-      "fuente": "El Nuevo Siglo",
-      "tipoFuente": "medio",
-      "categoria": "Balance y cifras",
-      "tipo": "noticia",
-      "url": "https://www.elnuevosiglo.com.co/nacion/suben-321-los-fallecidos-por-terremoto-del-10-de-agosto-en-colombia"
-    },
-    {
       "id": "co-20260821-elpais-regreso-clases-cali",
       "fecha": "2026-08-21",
       "titulo": "Alcalde Eder confirmó la fecha de regreso a clases tras emergencia del sismo en Cali",
@@ -220,6 +341,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://www.elpais.com.co/cali/alcalde-eder-confirmo-la-fecha-de-regreso-a-clases-tras-emergencia-del-sismo-en-cali-2025.html"
+    },
+    {
+      "id": "co-20260821-elnuevosiglo-balance-329",
+      "fecha": "2026-08-21",
+      "titulo": "Suben a 329 los fallecidos, 4.600 los heridos y 314 mil los afectados por terremoto",
+      "resumen": "El balance de la UNGRD del 21 de agosto eleva a 329 los fallecidos y 4.600 los heridos, con 364 personas rescatadas con vida y 247 desaparecidas. Los afectados suman 314.751 personas (154.014 familias) en 481 municipios.",
+      "fuente": "El Nuevo Siglo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnuevosiglo.com.co/nacion/suben-321-los-fallecidos-por-terremoto-del-10-de-agosto-en-colombia"
     },
     {
       "id": "co-20260821-elcolombiano-replicas",
@@ -242,6 +374,28 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.semana.com/economia/macroeconomia/articulo/presidente-de-la-espriella-anuncia-medidas-para-acelerar-reclamaciones-de-polizas-de-los-afectados-del-terremoto-pago-inmediato/202624/"
+    },
+    {
+      "id": "co-20260818-semana-replica",
+      "fecha": "2026-08-18",
+      "titulo": "Nuevo temblor se registró en Colombia en la mañana de este 18 de agosto: se confirmó la magnitud y los detalles",
+      "resumen": "El Servicio Geológico Colombiano reportó dos sismos en la madrugada del 18 de agosto en Chocó: uno de magnitud 3,1 en Istmina y otro de 3,4 en Medio San Juan. Ninguno dejó daños reportados.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/nacion/articulo/nuevo-temblor-se-registro-en-colombia-en-la-manana-de-este-18-de-agosto-se-confirmo-la-magnitud-y-los-detalles/202614/"
+    },
+    {
+      "id": "co-20260818-pulzo-salud",
+      "fecha": "2026-08-18",
+      "titulo": "Terremoto en Colombia: aumento de riesgos sanitarios por brotes de enfermedades y daños en servicios de salud",
+      "resumen": "El Ministerio de Salud advierte que el hacinamiento en albergues, el saneamiento deficiente y el agua contaminada elevan el riesgo de enfermedades respiratorias, sarampión y transmitidas por agua. Reporta 308 instituciones de salud con daños, lo que reduce la capacidad hospitalaria en las zonas afectadas.",
+      "fuente": "Pulzo",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.pulzo.com/vivir-bien/terremoto-en-colombia-riesgos-sanitarios-y-brotes-de-enfermedades-tras-el-sismo-del-10-de-agosto-PP5277344A"
     },
     {
       "id": "co-20260818-infobae-balance312",
@@ -279,28 +433,6 @@
       "url": "https://www.elheraldo.co/colombia/2026/08/18/clases-virtuales-y-albergues-educativos-entre-las-medidas-anunciadas-por-el-mineducacion-tras-terremoto/"
     },
     {
-      "id": "co-20260818-pulzo-salud",
-      "fecha": "2026-08-18",
-      "titulo": "Terremoto en Colombia: aumento de riesgos sanitarios por brotes de enfermedades y daños en servicios de salud",
-      "resumen": "El Ministerio de Salud advierte que el hacinamiento en albergues, el saneamiento deficiente y el agua contaminada elevan el riesgo de enfermedades respiratorias, sarampión y transmitidas por agua. Reporta 308 instituciones de salud con daños, lo que reduce la capacidad hospitalaria en las zonas afectadas.",
-      "fuente": "Pulzo",
-      "tipoFuente": "medio",
-      "categoria": "Salud",
-      "tipo": "noticia",
-      "url": "https://www.pulzo.com/vivir-bien/terremoto-en-colombia-riesgos-sanitarios-y-brotes-de-enfermedades-tras-el-sismo-del-10-de-agosto-PP5277344A"
-    },
-    {
-      "id": "co-20260818-semana-replica",
-      "fecha": "2026-08-18",
-      "titulo": "Nuevo temblor se registró en Colombia en la mañana de este 18 de agosto: se confirmó la magnitud y los detalles",
-      "resumen": "El Servicio Geológico Colombiano reportó dos sismos en la madrugada del 18 de agosto en Chocó: uno de magnitud 3,1 en Istmina y otro de 3,4 en Medio San Juan. Ninguno dejó daños reportados.",
-      "fuente": "Semana",
-      "tipoFuente": "medio",
-      "categoria": "Réplicas y sismología",
-      "tipo": "noticia",
-      "url": "https://www.semana.com/nacion/articulo/nuevo-temblor-se-registro-en-colombia-en-la-manana-de-este-18-de-agosto-se-confirmo-la-magnitud-y-los-detalles/202614/"
-    },
-    {
       "id": "co-20260817-cnn-semana",
       "fecha": "2026-08-17",
       "titulo": "Tras una semana de la tragedia, estas son las cifras del terremoto y las claves de los rescates en Colombia",
@@ -323,18 +455,6 @@
       "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-en-directo-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-cinco-d%C3%ADas-despu%C3%A9s-del-terremoto-en-colombia"
     },
     {
-      "id": "co-20260814-eltiempo-sedes",
-      "fecha": "2026-08-14",
-      "titulo": "Terremoto en Colombia: 2.486 sedes educativas afectadas y seis niños muertos por colapso de infraestructura escolar",
-      "resumen": "El informe del Ministerio de Educación contabiliza 2.486 sedes educativas afectadas y seis estudiantes fallecidos por derrumbes. Advierte además que el 84 % de las sedes del país no cumple la norma sismorresistente NSR-10.",
-      "fuente": "El Tiempo",
-      "autor": "Mateo Chacón Orduz",
-      "tipoFuente": "medio",
-      "categoria": "Educación",
-      "tipo": "noticia",
-      "url": "https://www.eltiempo.com/vida/educacion/terremoto-en-colombia-2-205-sedes-educativas-afectadas-y-seis-ninos-muertos-por-colapso-de-infraestructura-escolar-3578443"
-    },
-    {
       "id": "co-20260814-infobae-cruzroja",
       "fecha": "2026-08-14",
       "titulo": "Cruz Roja aclaró qué donaciones necesitan las víctimas del terremoto y qué no: kits de hábitat",
@@ -347,18 +467,6 @@
       "url": "https://www.infobae.com/colombia/2026/08/14/cruz-roja-aclaro-que-donaciones-necesitan-las-victimas-del-terremoto-y-que-no-kits-de-habitat/"
     },
     {
-      "id": "co-20260814-eltiempo-clasescali",
-      "fecha": "2026-08-14",
-      "titulo": "Colegios oficiales de Cali retomarán clases el 24 de agosto: cronograma y plan de reapertura",
-      "resumen": "La Secretaría de Educación de Cali fijó el 24 de agosto como fecha de regreso a clases en los colegios oficiales, con tres modalidades de enseñanza según el estado de cada sede. El plan prioriza la seguridad estructural en las 89 sedes afectadas.",
-      "fuente": "El Tiempo",
-      "autor": "Laura María Villarraga Ariza",
-      "tipoFuente": "medio",
-      "categoria": "Educación",
-      "tipo": "noticia",
-      "url": "https://www.eltiempo.com/colombia/cali/colegios-oficiales-de-cali-retomaran-clases-el-24-de-agosto-tras-terremoto-de-magnitud-7-4-conozca-el-cronograma-y-plan-de-reapertura-3578395"
-    },
-    {
       "id": "co-20260814-forbes-tejido-empresarial",
       "fecha": "2026-08-14",
       "titulo": "El terremoto pone en riesgo un tejido productivo de 270.000 empresas y 1,4 millones de empleos",
@@ -369,6 +477,30 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://forbes.co/economia-y-finanzas/terremoto-pone-en-riesgo-un-tejido-productivo-de-270-000-empresas-y-14-millones-de-empleos"
+    },
+    {
+      "id": "co-20260814-eltiempo-sedes",
+      "fecha": "2026-08-14",
+      "titulo": "Terremoto en Colombia: 2.486 sedes educativas afectadas y seis niños muertos por colapso de infraestructura escolar",
+      "resumen": "El informe del Ministerio de Educación contabiliza 2.486 sedes educativas afectadas y seis estudiantes fallecidos por derrumbes. Advierte además que el 84 % de las sedes del país no cumple la norma sismorresistente NSR-10.",
+      "fuente": "El Tiempo",
+      "autor": "Mateo Chacón Orduz",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/educacion/terremoto-en-colombia-2-205-sedes-educativas-afectadas-y-seis-ninos-muertos-por-colapso-de-infraestructura-escolar-3578443"
+    },
+    {
+      "id": "co-20260814-eltiempo-clasescali",
+      "fecha": "2026-08-14",
+      "titulo": "Colegios oficiales de Cali retomarán clases el 24 de agosto: cronograma y plan de reapertura",
+      "resumen": "La Secretaría de Educación de Cali fijó el 24 de agosto como fecha de regreso a clases en los colegios oficiales, con tres modalidades de enseñanza según el estado de cada sede. El plan prioriza la seguridad estructural en las 89 sedes afectadas.",
+      "fuente": "El Tiempo",
+      "autor": "Laura María Villarraga Ariza",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/colegios-oficiales-de-cali-retomaran-clases-el-24-de-agosto-tras-terremoto-de-magnitud-7-4-conozca-el-cronograma-y-plan-de-reapertura-3578395"
     },
     {
       "id": "co-20260813-portafolio-servicios",
@@ -395,16 +527,15 @@
       "url": "https://www.elcolombiano.com/colombia/municipios-devastados-valle-roldanillo-tumbar-iglesia-alcaldia-ED39900015"
     },
     {
-      "id": "co-20260812-elcolombiano-fondomilagro",
+      "id": "co-20260812-onu-balance",
       "fecha": "2026-08-12",
-      "titulo": "El Gobierno confirma emergencia económica y anuncia el «Fondo Milagro» para la reconstrucción tras el terremoto",
-      "resumen": "La Presidencia declaró la emergencia económica y creó el «Fondo Milagro» para centralizar donaciones nacionales e internacionales destinadas a reconstruir hospitales, colegios e infraestructura. El paquete incluye alivios tributarios y subsidios de arriendo para hogares y negocios afectados.",
-      "fuente": "El Colombiano",
-      "autor": "Miguel Orlando Alguero",
-      "tipoFuente": "medio",
-      "categoria": "Reconstrucción",
-      "tipo": "noticia",
-      "url": "https://www.elcolombiano.com/negocios/emergencia-economica-terremoto-fondo-milagro-reconstruccion-colombia-LL39894861"
+      "titulo": "El terremoto en Colombia deja 224 muertos y afecta a 13 departamentos",
+      "resumen": "Naciones Unidas reportó 224 fallecidos, 195 desaparecidos y 2.595 heridos en 357 municipios de 13 departamentos en el primer balance consolidado. La ONU asignó 5 millones de dólares de fondos de emergencia y UNICEF distribuye insumos de agua y saneamiento para 25.000 personas.",
+      "fuente": "Noticias ONU",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://news.un.org/es/story/2026/08/1541802"
     },
     {
       "id": "co-20260812-infobae-replicas",
@@ -419,15 +550,16 @@
       "url": "https://www.infobae.com/colombia/2026/08/12/tras-el-terremoto-de-74-en-colombia-ya-son-130-las-replicas-confirmo-el-servicio-geologico-colombiano/"
     },
     {
-      "id": "co-20260812-onu-balance",
+      "id": "co-20260812-elcolombiano-fondomilagro",
       "fecha": "2026-08-12",
-      "titulo": "El terremoto en Colombia deja 224 muertos y afecta a 13 departamentos",
-      "resumen": "Naciones Unidas reportó 224 fallecidos, 195 desaparecidos y 2.595 heridos en 357 municipios de 13 departamentos en el primer balance consolidado. La ONU asignó 5 millones de dólares de fondos de emergencia y UNICEF distribuye insumos de agua y saneamiento para 25.000 personas.",
-      "fuente": "Noticias ONU",
-      "tipoFuente": "oficial",
-      "categoria": "Ayuda humanitaria",
-      "tipo": "oficial",
-      "url": "https://news.un.org/es/story/2026/08/1541802"
+      "titulo": "El Gobierno confirma emergencia económica y anuncia el «Fondo Milagro» para la reconstrucción tras el terremoto",
+      "resumen": "La Presidencia declaró la emergencia económica y creó el «Fondo Milagro» para centralizar donaciones nacionales e internacionales destinadas a reconstruir hospitales, colegios e infraestructura. El paquete incluye alivios tributarios y subsidios de arriendo para hogares y negocios afectados.",
+      "fuente": "El Colombiano",
+      "autor": "Miguel Orlando Alguero",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elcolombiano.com/negocios/emergencia-economica-terremoto-fondo-milagro-reconstruccion-colombia-LL39894861"
     },
     {
       "id": "co-20260811-cruzroja-despliegue",
