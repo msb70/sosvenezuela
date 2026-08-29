@@ -3,6 +3,17 @@
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
+      "id": "ve-20260828-oim-sitrep-26",
+      "fecha": "2026-08-28",
+      "titulo": "La OIM publica su Reporte de Situación N.° 26 sobre la respuesta al terremoto",
+      "resumen": "Balance de la Organización Internacional para las Migraciones entre el 25 y el 27 de agosto: mantiene la cogestión de cuatro campamentos temporales en La Guaira —José María Vargas y Campo de Golf bajo su gestión, César Nieves y Mare Abajo II junto al Consejo Noruego para Refugiados— y reforzó la preparación ante las lluvias intensas. En el periodo brindó 314 consultas de salud y salud mental en los complejos deportivos César Nieves y José María Vargas, que acumulan 9.004 y 5.225 consultas respectivamente. A través de HIAS atendió a 191 personas en La Guaira y el Distrito Capital con asesoría legal, apoyo psicosocial y gestión de casos, y distribuyó 200 kits de higiene y 200 de limpieza en Campo de Golf, además de 50 colchones, 50 almohadas y 50 juegos de sábanas en un asentamiento espontáneo cercano.",
+      "fuente": "OIM · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-bolivarian-republic-earthquake-response-situation-report-26-25-27-august-2026"
+    },
+    {
       "id": "ve-20260828-lapatilla-voluntarios-laguaira",
       "fecha": "2026-08-28",
       "titulo": "Un equipo de voluntarios atendió a más de 250 personas en La Guaira",
@@ -144,6 +155,28 @@
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
       "url": "https://efectococuyo.com/la-humanidad/fundacion-hope-destina-200-000-para-centros-medicos-en-venezuela-tras-terremotos/"
+    },
+    {
+      "id": "ve-20260827-efectococuyo-funvisis-cuatro-sismos",
+      "fecha": "2026-08-27",
+      "titulo": "Funvisis registró cuatro sismos en un mismo día en Sucre, Mérida y Aragua",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas reportó el jueves cuatro movimientos telúricos de magnitudes entre 3,4 y 4,2: uno de 4,2 a 8 kilómetros al suroeste de Güiria (Sucre) a 68,3 km de profundidad, otro de 3,6 al noroeste de Mérida —donde la gente salió de edificios y oficinas— y dos en La Victoria (Aragua), de 3,4 y 3,9, el último sentido en buena parte de Caracas. Las autoridades locales no reportaron daños.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/cuatro-sismos-reporto-funvisis/"
+    },
+    {
+      "id": "ve-20260827-cronicauno-refugio-eljunquito",
+      "fecha": "2026-08-27",
+      "titulo": "A 64 días de los sismos, un adolescente con autismo sigue sin su rutina en un refugio de El Junquito",
+      "resumen": "Maryori Goeti y su hijo Enmanuel, de 14 años, con autismo moderado e hidrocefalia congénita, llevan 64 días en el refugio improvisado que los vecinos bautizaron Fuerza y Razón, montado en el estacionamiento de su edificio después de que el doblete sísmico dañara la estructura del segundo al sexto piso. La pérdida del entorno habitual alteró el sueño y el comportamiento del adolescente, y su madre solo dispone de los medicamentos recetados por la neuróloga del Hospital Pérez Carreño para contener las crisis en un espacio de dos metros cuadrados. Los damnificados organizan las comidas entre todos y esperan la ayuda de organizaciones civiles.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/64-dias-sismos-enmanuel-busca-rutina-perdida-refugio-el-junquito/"
     },
     {
       "id": "ve-20260826-lapatilla-planes-urbanisticos",
