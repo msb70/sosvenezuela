@@ -36,6 +36,28 @@
       "url": "https://lapatilla.com/2026/08/28/el-mapa-que-permite-dimensionar-lo-ocurrido-desde-los-terremotos-del-24-de-junio/"
     },
     {
+      "id": "ve-20260828-lapatilla-copa-maiquetia",
+      "fecha": "2026-08-28",
+      "titulo": "Copa Airlines retoma sus vuelos a Panamá desde Maiquetía a partir del 1 de septiembre",
+      "resumen": "Tras la suspensión de operaciones provocada por los terremotos del 24 de junio, Copa Airlines reactivará un vuelo diario entre el aeropuerto internacional Simón Bolívar de Maiquetía y Ciudad de Panamá. Con ese reinicio la aerolínea llegará en septiembre a 29 frecuencias semanales con Venezuela y volverá a operar todos sus destinos en el país: Caracas, Maracaibo, Valencia, Barquisimeto y Barcelona. El vuelo desde Caracas saldrá a las 8:48 am y llegará a Panamá a las 12:07 pm, con conexiones hacia más de 80 destinos del continente.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/28/copa-airlines-retoma-vuelos-a-panama-desde-el-aeropuerto-de-maiquetia-a-partir-del-1sep/"
+    },
+    {
+      "id": "ve-20260828-elnacional-terminales-maiquetia",
+      "fecha": "2026-08-28",
+      "titulo": "Así funcionarán los terminales temporales de Maiquetía cuando reabra el aeropuerto",
+      "resumen": "El Instituto Aeropuerto Internacional de Maiquetía explicó el proceso que seguirán los pasajeros desde el 1 de septiembre, cuando el aeropuerto retome los vuelos comerciales en instalaciones temporales mientras avanza la recuperación de las estructuras dañadas por los terremotos del 24 de junio. El acceso será por la parte inferior del terminal nacional y solo para viajeros, con controles de la GNB, prechequeo de aerolíneas, check-in, entrega de equipaje, control migratorio y revisión de equipaje de mano. Los terminales tendrán wifi, baños, servicio médico, máquinas expendedoras, salas de espera y estaciones de carga; el área de salidas internacionales ocupa unos 4.300 metros cuadrados con capacidad para 780 personas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/08/asi-sera-la-manera-de-viajar-desde-los-terminales-temporales-en-el-aeropuerto-de-maiquetia/"
+    },
+    {
       "id": "ve-20260828-efectococuyo-avianca-american",
       "fecha": "2026-08-28",
       "titulo": "Avianca y American Airlines retoman sus vuelos a Venezuela con la reapertura de Maiquetía",
@@ -47,6 +69,39 @@
       "url": "https://efectococuyo.com/economia/avianca-y-american-airlines-retoman-operaciones-en-maiquetia/"
     },
     {
+      "id": "ve-20260828-cronicauno-hospital-mcdonalds",
+      "fecha": "2026-08-28",
+      "titulo": "Cierra el “hospital McDonald’s” de La Guaira tras atender a casi 13.000 personas",
+      "resumen": "El centro de atención integral de salud y veterinaria montado en el McDonald’s de Caraballeda cerró la tarde del 27 de agosto después de casi 60 días de trabajo ininterrumpido en la zona cero, con 12.916 personas atendidas. El local, abierto 48 horas después del doblete sísmico por médicos llegados de Lara, funcionó también como punto de conectividad y encuentro para voluntarios, rescatistas y sobrevivientes. El cierre responde al riesgo de derrumbe de un edificio colindante pendiente de demolición; el equipo de unos 400 médicos, rescatistas, veterinarios, odontólogos, psicólogos y fisiatras busca un nuevo espacio para acompañar a La Guaira durante la reconstrucción.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/el-hospital-mcdonalds-la-guaira-adios-atender-casi-13-mil-personas/"
+    },
+    {
+      "id": "ve-20260828-cronicauno-colegio-sanjudas",
+      "fecha": "2026-08-28",
+      "titulo": "El Colegio San Judas Tadeo de La Pastora quedó en ruinas y busca aulas para sus 980 alumnos",
+      "resumen": "El módulo de siete pisos del colegio San Judas Tadeo, referente de La Pastora desde mediados del siglo XX, terminó de desplomarse el 3 de julio tras los daños estructurales irreversibles causados por el doble sismo del 24 de junio; los inspectores ya lo habían marcado con etiqueta roja. El Cuerpo de Ingenieros de la GNB inició el 6 de julio la demolición controlada y el retiro de escombros. La directiva evalúa inmuebles cercanos para reubicar las clases del año escolar 2026-2027 de sus 980 alumnos de primaria y bachillerato, mientras concluyen las obras de urgencia en el templo anexo.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/en-fotos-siete-pisos-de-historia-quedaron-reducidos-a-ruinas-en-el-colegio-san-judas-tadeo-de-la-pastora/"
+    },
+    {
+      "id": "ve-20260827-ocha-sitrep-34",
+      "fecha": "2026-08-27",
+      "titulo": "OCHA publica el Reporte de Situación N.° 34 sobre los terremotos en Venezuela",
+      "resumen": "Con corte al 26 de agosto: cerca de 364.000 personas afectadas (54% mujeres y niñas) han accedido a asistencia humanitaria y servicios esenciales. Las autoridades reportaron 6.509 fallecidos al 24 de agosto, 60.785 viviendas evaluadas —11.001 de alto riesgo— y 28,61% de los escombros recogidos. Una evaluación preliminar de la UNDRR estima los daños directos a viviendas e infraestructura en unos US$ 37.000 millones, mientras el PNUD sitúa los daños físicos directos en US$ 6.700 millones, equivalentes al 6% del PIB. El plan de respuesta busca atender a 1,3 millones de personas en los próximos seis meses.",
+      "fuente": "OCHA · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-34-27-de-agosto-de-2026-hora-500-pm"
+    },
+    {
       "id": "ve-20260827-lapatilla-ops-vacunas",
       "fecha": "2026-08-27",
       "titulo": "La OPS gestionó 2,9 millones de dosis de vacunas contra siete enfermedades tras los terremotos",
@@ -56,6 +111,28 @@
       "categoria": "Salud",
       "tipo": "noticia",
       "url": "https://lapatilla.com/2026/08/27/ops-distribuyo-vacunas-contra-siete-enfermedades-en-venezuela-tras-los-terremotos-de-junio/"
+    },
+    {
+      "id": "ve-20260827-infobae-provea-desaparecidos",
+      "fecha": "2026-08-27",
+      "titulo": "Provea pide un registro público y actualizado de desaparecidos por los terremotos",
+      "resumen": "La ONG Programa Venezolano de Educación Acción en Derechos Humanos reclamó un registro público, unificado y actualizado de las personas desaparecidas tras el doblete sísmico del 24 de junio, y advirtió que sin él la búsqueda queda solo en manos de las familias. El dato oficial no se actualiza desde el 25 de junio, cuando se reportaron 157 desaparecidos; el gobernador de La Guaira habló el 4 de agosto de unas 1.579 personas reportadas por sus familiares, y la iniciativa ciudadana “Desaparecidos Terremoto Venezuela” contabiliza 29.527 personas con las que aún no se ha establecido contacto. El balance oficial de fallecidos se ubica en al menos 6.509.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/27/provea-exigio-al-gobierno-de-venezuela-un-registro-publico-y-actualizado-de-desaparecidos-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20260827-infobae-escombros-forense",
+      "fecha": "2026-08-27",
+      "titulo": "Advierten que retirar los escombros sin análisis forense compromete la reconstrucción de La Guaira",
+      "resumen": "El ingeniero Carlos Genatios, que coordinó la reconstrucción de La Guaira tras el deslave de 1999, alerta de que se ha eliminado una porción importante de los escombros sin realizar las investigaciones necesarias ni resguardar muestras suficientes. Sin peritajes forenses completos, independientes y transparentes, el país corre el riesgo de reconstruir sin entender por qué fallaron determinadas estructuras. Organizaciones de la sociedad civil han pedido una investigación detallada de los colapsos y organizaciones ambientales exigen que los escombros no se viertan en la costa.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/08/27/advierten-que-la-eliminacion-de-escombros-y-opacidad-atentan-contra-la-reconstruccion-de-la-guaira/"
     },
     {
       "id": "ve-20260827-efectococuyo-projecthope",
