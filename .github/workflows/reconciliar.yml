@@ -32,16 +32,20 @@ jobs:
         id: unir
         run: python3 .github/scripts/reconciliar_noticias.py
 
+      - name: Traer el HTML que solo cambio en produccion
+        id: html
+        run: python3 .github/scripts/reconciliar_html.py
+
       - name: Validar el resultado antes de tocar nada
         run: python3 .github/scripts/validar_noticias.py noticias.json noticias-colombia.json
 
       - name: Commitear a main lo que faltaba en el repositorio
-        if: steps.unir.outputs.repo_cambiado == 'true'
+        if: steps.unir.outputs.repo_cambiado == 'true' || steps.html.outputs.html_cambiado == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json noticias-colombia.json
-          git commit -m "reconciliar: incorporar a main las noticias publicadas fuera de git"
+          git add noticias.json noticias-colombia.json index.html colombia.html
+          git commit -m "reconciliar: incorporar a main lo publicado fuera de git"
           git push
           echo "main actualizado con lo que solo estaba en produccion."
 
@@ -61,3 +65,4 @@ jobs:
         run: |
           echo "repo_cambiado=${{ steps.unir.outputs.repo_cambiado }}"
           echo "prod_desfasada=${{ steps.unir.outputs.prod_desfasada }}"
+          echo "html_cambiado=${{ steps.html.outputs.html_cambiado }}"
