@@ -1,0 +1,63 @@
+name: Reconciliar noticias con produccion
+
+# Las tareas programadas de Cowork pueden publicar los JSON directamente a Hostinger
+# sin pasar por git (pasó el 28/08/2026). Cuando eso ocurre, producción se adelanta a
+# `main` y el siguiente despliegue borraría lo publicado.
+#
+# Este workflow une por `id` los items del repositorio y los de producción: nadie pierde
+# nada. Si el repositorio se queda corto, commitea a main. Si producción se queda corta,
+# relanza el despliegue. Corre después de las tareas diarias de noticias y del balance.
+
+on:
+  schedule:
+    - cron: '30 12 * * *'   # 14:30 Madrid, después de las tareas de noticias (10:00 y 11:00)
+    - cron: '30 21 * * *'   # 23:30 Madrid, después de la tarea de balance (20:00)
+  workflow_dispatch:
+
+concurrency:
+  group: reconciliar-sosvenezuela
+  cancel-in-progress: false
+
+jobs:
+  reconciliar:
+    name: Unir repositorio y produccion
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Unir los JSON por id
+        id: unir
+        run: python3 .github/scripts/reconciliar_noticias.py
+
+      - name: Validar el resultado antes de tocar nada
+        run: python3 .github/scripts/validar_noticias.py noticias.json noticias-colombia.json
+
+      - name: Commitear a main lo que faltaba en el repositorio
+        if: steps.unir.outputs.repo_cambiado == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias.json noticias-colombia.json
+          git commit -m "reconciliar: incorporar a main las noticias publicadas fuera de git"
+          git push
+          echo "main actualizado con lo que solo estaba en produccion."
+
+      # Un push hecho con GITHUB_TOKEN no dispara otros workflows, así que el despliegue
+      # se lanza a mano. También se lanza si producción se quedó corta aunque el repo no
+      # haya cambiado (p. ej. producción perdió items que main sí tenía).
+      - name: Relanzar el despliegue si produccion se quedo corta
+        if: steps.unir.outputs.prod_desfasada == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          sleep 10
+          gh workflow run deploy.yml --repo "${GITHUB_REPOSITORY}" --ref main
+          echo "Despliegue relanzado para poner produccion al dia."
+
+      - name: Resumen
+        run: |
+          echo "repo_cambiado=${{ steps.unir.outputs.repo_cambiado }}"
+          echo "prod_desfasada=${{ steps.unir.outputs.prod_desfasada }}"
