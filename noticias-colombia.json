@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-08-29",
+  "actualizado": "2026-08-30",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260829-pulzo-replica-andagoya",
+      "fecha": "2026-08-29",
+      "titulo": "Nueva réplica de magnitud 3,9 con epicentro en Medio San Juan, Chocó",
+      "resumen": "El Servicio Geológico Colombiano registró a las 5:50 de la mañana del 29 de agosto un sismo de magnitud 3,9 a 40 kilómetros de profundidad, con epicentro en Medio San Juan (Andagoya), Chocó. El movimiento se percibió en ciudades como Cali y Palmira y algunos habitantes de Bogotá recibieron alertas en el móvil. No se reportaron víctimas ni daños materiales.",
+      "fuente": "Pulzo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.pulzo.com/nacion/temblor-39-colombia-hoy-29-agosto-2026-epicentro-donde-sintio-PP5287941"
+    },
+    {
+      "id": "co-20260829-elpais-escombros-cali",
+      "fecha": "2026-08-29",
+      "titulo": "La recolección de escombros en Cali alcanza el 80 % con 57.200 toneladas retiradas",
+      "resumen": "La retirada de escombros en los barrios de Cali llega al 80 % de avance, con 57.200 toneladas acumuladas hasta el 28 de agosto y 49.000 ya evacuadas de las estaciones transitorias. La ciudad mueve más de 3.000 toneladas diarias, entre cinco y seis veces el volumen previo al terremoto, con puntos de acopio en Mariano Ramos, La Base y Cañaveralejo. La meta fijada es despejar los sitios críticos antes de terminar agosto, sujeta a las evaluaciones estructurales de los edificios vecinos; el material se lleva a sitios autorizados del Valle y Cauca o se tritura para bases viales, ladrillos y bloques.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/la-ruta-de-los-escombros-del-terremoto-en-cali-asi-avanza-la-recoleccion-esta-es-la-meta-que-propuso-el-alcalde-eder-2954.html"
+    },
+    {
+      "id": "co-20260829-elpais-donaciones-voluntariado",
+      "fecha": "2026-08-29",
+      "titulo": "La Alcaldía de Cali pide no detener las donaciones ni el voluntariado para los damnificados",
+      "resumen": "La Alcaldía de Cali advirtió que la emergencia no ha terminado y llamó a sostener las donaciones y el voluntariado en la Ciudadela Petronio, donde se identificó una caída tanto en la participación de voluntarios como en el flujo de ayudas a más de quince días del sismo. Se requieren alimentos no perecederos y agua, que se reciben por la puerta 2 del recinto, y voluntarios desde las 8:00 de la mañana para recibir, cargar, descargar y clasificar donaciones mientras continúan los procesos de censo y caracterización de las familias afectadas.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/terremoto-en-cali-alcaldia-llama-a-no-detener-las-donaciones-y-el-voluntariado-para-las-familias-afectadas-por-el-sismo-2907.html"
+    },
+    {
+      "id": "co-20260829-elpais-balance-cali-19dias",
+      "fecha": "2026-08-29",
+      "titulo": "Balance oficial de Cali a los 19 días del terremoto: 154 fallecidos y 30.621 familias damnificadas",
+      "resumen": "Las autoridades entregaron el balance con corte al mediodía del 29 de agosto, 19 días después del sismo: 154 personas fallecidas, 16 desaparecidas y 148 heridas en Cali. Se han evaluado 43.435 familias en daños y necesidades, de las cuales 30.621 figuran como damnificadas, y 502 personas permanecen en alojamientos temporales. En infraestructura hay 1.320 inmuebles con diagnóstico especializado, 24 edificios con colapso total y 395 con colapso parcial; se han recogido 61.276 toneladas de escombros y entregado 492 toneladas de ayudas con 1.100 personas de emergencia activas.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/terremoto-en-cali-autoridades-entregan-balance-oficial-de-muertos-y-damnificados-tras-19-dias-2951.html"
+    },
     {
       "id": "co-20260828-semana-replica-istmina",
       "fecha": "2026-08-28",
@@ -36,6 +80,17 @@
       "url": "https://www.radiosantafe.com/2026/08/28/gobierno-anuncia-30-mil-millones-para-mejoramientos-de-viviendas-afectadas-por-el-terremoto/"
     },
     {
+      "id": "co-20260828-pulzo-creditos-caf-empresas",
+      "fecha": "2026-08-28",
+      "titulo": "El Banco de Occidente y la CAF habilitan 50 millones de dólares en créditos para empresas afectadas",
+      "resumen": "El Banco de Occidente y la CAF anunciaron durante la Convención Bancaria de Cartagena una línea de 50 millones de dólares para empresas de distintos tamaños y sectores afectadas por el terremoto. Los recursos provienen del cupo rotativo de 100 millones de dólares que la CAF mantiene con el banco y financian capital de trabajo, recuperación de capacidad operativa, reposición o modernización de activos y fortalecimiento de cadenas de suministro, con plazos de hasta un año según el destino de los fondos.",
+      "fuente": "Pulzo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.pulzo.com/economia/terremoto-colombia-empresas-afectadas-podran-acceder-creditos-grandes-PP5287059"
+    },
+    {
       "id": "co-20260828-onu-escuelas-reclutamiento",
       "fecha": "2026-08-28",
       "titulo": "La ONU alerta de que los niños sin escuela por el terremoto quedan más expuestos al reclutamiento armado",
@@ -56,6 +111,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/08/28/gobierno-entrego-viviendas-con-todo-a-cuatro-familias-afectadas-por-el-terremoto-en-cali-un-apartamento-es-para-la-trilliza-ana-maria-saavedra/"
+    },
+    {
+      "id": "co-20260828-eltiempo-turismo-solidario",
+      "fecha": "2026-08-28",
+      "titulo": "ONU Turismo propone una estrategia de turismo solidario para reactivar las zonas afectadas",
+      "resumen": "La directora ejecutiva de ONU Turismo, Natalia Bayona, planteó una estrategia de turismo solidario para reconectar a los visitantes con las regiones golpeadas por el terremoto de magnitud 7,4, articulando aerolíneas, agencias de viaje, el Ministerio de Comercio, gremios y organizaciones comunitarias. El objetivo es reactivar hoteles, restaurantes, guías, transportadores y artesanos mediante paquetes turísticos adaptados a las condiciones de cada territorio, retomando la iniciativa de turismo solidario lanzada en 2025.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/turismo-solidario-esta-es-la-estrategia-para-reactivar-las-zonas-afectadas-por-el-terremoto-de-magnitud-7-4-en-colombia-3581404"
     },
     {
       "id": "co-20260828-eltiempo-gerente-reconstruccion-valle",
