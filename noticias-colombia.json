@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-08-30",
+  "actualizado": "2026-08-31",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260831-elpais-seguridad-zonas-afectadas",
+      "fecha": "2026-08-31",
+      "titulo": "Cali refuerza con 1.200 uniformados la vigilancia de las viviendas evacuadas tras el terremoto",
+      "resumen": "La Alcaldía de Cali y la Policía Metropolitana desplegaron 1.200 uniformados, patrullajes nocturnos y control de accesos para prevenir hurtos en las zonas evacuadas tras el terremoto. El dispositivo combina puestos fijos en sectores priorizados con equipos motorizados y apoyo de vigilancia privada en barrios como Capri, Los Cámbulos y el Edificio de Colores. Las autoridades pidieron a los residentes reforzar los accesos de las edificaciones dañadas y reportar cualquier situación sospechosa.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/patrullajes-y-control-de-accesos-las-medidas-de-cali-para-prevenir-hurtos-tras-el-sismo-los-estamos-cuidando-3025.html"
+    },
+    {
+      "id": "co-20260830-eltiempo-balance-nacional",
+      "fecha": "2026-08-30",
+      "titulo": "El Gobierno actualiza el balance nacional del terremoto: 331 fallecidos y 213.400 familias damnificadas",
+      "resumen": "En una alocución del 30 de agosto, el Gobierno nacional actualizó las cifras de la emergencia: 452.782 personas afectadas y 213.400 familias damnificadas en 497 municipios de 16 departamentos, con 331 fallecidos, 4.497 heridos y 152 desaparecidos. El balance contabiliza 35.987 viviendas destruidas y 198.601 averiadas, además de 4.261 centros educativos, 404 centros de salud, 121 acueductos, 89 puentes vehiculares y 482 vías con daños. En la respuesta han participado 1.849 rescatistas nacionales y 144 extranjeros, y se han distribuido 640 toneladas de ayuda internacional.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/abelardo-de-la-espriella-entrega-balance-actualizado-de-afectaciones-por-terremoto-en-colombia-cifras-de-casas-colegios-e-infraestructuras-afectadas-3582262"
+    },
+    {
+      "id": "co-20260830-elpais-zona-rural-cali",
+      "fecha": "2026-08-30",
+      "titulo": "La zona rural de Cali sigue con viviendas destruidas y familias a la espera del censo de damnificados",
+      "resumen": "Tres semanas después del terremoto, los corregimientos rurales de Cali siguen con viviendas destruidas y familias sin alternativa de alojamiento. En La Paz se contabilizan 9 casas destruidas por completo y 36 con daños importantes, mientras que en La Buitrera se reportan más de 100 viviendas afectadas y 18 colapsos totales. Varios sectores todavía esperan la visita del censo y la llegada de las ayudas, y muchos habitantes se niegan a salir de sus casas por falta de un lugar a donde ir.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/viviendas-destruidas-y-familias-sin-donde-ir-asi-golpeo-el-terremoto-a-la-zona-rural-de-cali-3003.html"
+    },
+    {
+      "id": "co-20260830-elpais-solidaridad-por-colombia",
+      "fecha": "2026-08-30",
+      "titulo": "Solidaridad por Colombia destina lo recaudado en su caminata a seis departamentos y a reconstruir escuelas",
+      "resumen": "La fundación Solidaridad por Colombia destinará el 100 % de lo recaudado en su Caminata de la Solidaridad, celebrada el 29 y 30 de agosto en Bogotá, a los damnificados del terremoto en seis departamentos. Su directora, María Carolina Hoyos, señaló que la organización concentrará el esfuerzo en educación e incluirá la reconstrucción de instituciones educativas, entre ellas una escuela en Unión Panamericana (Chocó), donde 850 niños se quedaron sin aulas. \"La ayuda es finita y las necesidades son infinitas\", advirtió sobre el ritmo de las donaciones.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/maria-carolina-hoyos-directora-de-solidaridad-por-colombia-la-ayuda-es-finita-y-las-necesidades-son-infinitas-3059.html"
+    },
+    {
+      "id": "co-20260830-elpais-red-salud-ips",
+      "fecha": "2026-08-30",
+      "titulo": "218 instituciones de salud de Cali quedaron afectadas y la red reorganiza citas, urgencias y teleconsulta",
+      "resumen": "El terremoto dejó daños en 218 instituciones prestadoras de salud en Cali. El Hospital Carlos Holmes Trujillo cerró su torre de consulta externa, con 40 consultorios inhabilitados y más de mil pacientes afectados, mientras las principales EPS reubicaron servicios en sedes alternas o los pasaron a atención virtual. La Defensoría del Paciente registró 411 quejas entre el 10 y el 30 de agosto, sobre todo por demoras en citas con especialistas y en la entrega de medicamentos. Está anunciado un plan de reconstrucción de 478.512 millones de pesos para ocho centros asistenciales públicos.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/su-ips-en-cali-resulto-afectada-luego-del-terremoto-conozca-cuales-seran-los-principales-cambios-en-la-red-de-salud-3026.html"
+    },
+    {
+      "id": "co-20260830-elpais-balance-cali-32000",
+      "fecha": "2026-08-30",
+      "titulo": "Cali actualiza su balance: 32.882 familias damnificadas y 610 edificaciones declaradas no habitables",
+      "resumen": "La Alcaldía de Cali actualizó el 30 de agosto el balance del terremoto en la ciudad: 154 fallecidos con todos los cuerpos recuperados, 16 personas reportadas como desaparecidas y 32.882 familias inscritas en el registro de damnificados, sobre 46.798 familias evaluadas. De las edificaciones revisadas, 610 quedaron declaradas no habitables, 350 con uso restringido, 398 con colapso parcial y 24 destruidas por completo. La ciudad ha retirado 66.293 toneladas de escombros en 593 puntos y mantiene a 508 personas en alojamientos temporales.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/cali-actualiza-balance-del-terremoto-se-registran-mas-de-32000-familias-damnificadas-y-610-edificaciones-no-habitables-3054.html"
+    },
+    {
+      "id": "co-20260830-elpais-arriendo-adultos-mayores-fundacion",
+      "fecha": "2026-08-30",
+      "titulo": "Una empresa cubrirá el arriendo temporal de 12 adultos mayores de una fundación de Cali dañada por el sismo",
+      "resumen": "Gane Supergiros anunció que asumirá el arriendo y el mobiliario de una vivienda temporal para 12 adultos mayores de la Fundación Jesús de Nazareth, en el barrio San Bosco de Cali, mientras se reparan los daños en la cubierta del edificio durante los próximos dos o tres meses. La fundación atiende a unos 30 adultos mayores en situación de vulnerabilidad y sigue necesitando donaciones de pañales, productos de higiene y suplementos nutricionales.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/gane-supergiros-anuncia-que-se-encargara-del-arriendo-de-los-abuelos-de-la-fundacion-jesus-de-nazareth-afectados-por-terremoto-3038.html"
+    },
+    {
+      "id": "co-20260830-elpais-apoyo-psicologico-damnificados",
+      "fecha": "2026-08-30",
+      "titulo": "Un grupo de psicólogas voluntarias lleva más de 330 atenciones de apoyo emocional a damnificados en Cali",
+      "resumen": "Un equipo de psicólogas voluntarias presta primeros auxilios psicológicos y contención emocional a damnificados del terremoto en albergues y barrios afectados de Cali, entre ellos Prados del Sur, Capri y Altos de Meléndez. El grupo acumula más de 330 personas atendidas con técnicas de coherencia cardiaca, higiene del sueño, masoterapia y risoterapia, y trabaja en coordinación con la Cruz Roja Colombiana.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/las-guardianas-de-la-salud-mental-el-grupo-de-mujeres-que-brinda-apoyo-psicologico-a-los-damnificados-del-terremoto-3031.html"
+    },
     {
       "id": "co-20260829-pulzo-replica-andagoya",
       "fecha": "2026-08-29",
