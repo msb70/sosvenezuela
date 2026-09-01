@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-08-29",
+  "actualizado": "2026-09-01",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260831-lapatilla-puerto-laguaira",
+      "fecha": "2026-08-31",
+      "titulo": "El puerto de La Guaira reactiva sus operaciones de importación y gestión aduanera",
+      "resumen": "El Seniat informó el 31 de agosto de una reactivación “progresiva, rápida y sostenida” de la importación, la recepción de mercancías y la gestión aduanera en el puerto de La Guaira, uno de los principales del país y de los más golpeados por los terremotos del 24 de junio. El anuncio se hizo junto a representantes de la Cámara de Comercio de La Guaira.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/31/puerto-de-la-guaira-comenzo-a-reactivar-sus-operaciones-tras-dos-meses-de-los-terremotos-video/"
+    },
+    {
+      "id": "ve-20260831-lapatilla-cecodap-clases",
+      "fecha": "2026-08-31",
+      "titulo": "Cecodap advierte que no hay condiciones para un retorno presencial a clases tras los sismos",
+      "resumen": "Carlos Trapani, coordinador general de Cecodap, sostiene que no puede haber un retorno presencial automático sin información pública sobre el estado de cada centro educativo. El informe de Cecodap y la Redhnna monitoreó 26 centros de Caracas, La Guaira y Miranda: el 27 % de los docentes consultados reportó daños graves en la infraestructura y una de cada tres personas señaló áreas clausuradas, intransitables o peligrosas.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/31/cecodap-no-hay-condiciones-para-un-retorno-presencial-a-clases-tras-los-sismos/"
+    },
+    {
+      "id": "ve-20260831-lapatilla-aireuropa-iberia",
+      "fecha": "2026-08-31",
+      "titulo": "Air Europa e Iberia retoman sus vuelos a Venezuela tras los terremotos",
+      "resumen": "Air Europa reanuda el martes 1 de septiembre sus vuelos directos a Caracas con cinco frecuencias semanales e Iberia lo hará el jueves con tres servicios a la semana. Ambas aerolíneas habían tenido que alterar su operativa por los daños estructurales del Aeropuerto Internacional Simón Bolívar, que operará desde los terminales temporales instalados en sus estacionamientos.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/08/31/air-europa-e-iberia-retoman-sus-vuelos-a-venezuela-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20260831-efectococuyo-maiquetia-terminales",
+      "fecha": "2026-08-31",
+      "titulo": "El aeropuerto de Maiquetía declara listas sus terminales temporales para reanudar vuelos el 1 de septiembre",
+      "resumen": "El Instituto Aeropuerto Internacional de Maiquetía informó el 31 de agosto de que sus instalaciones temporales están listas para retomar los vuelos nacionales e internacionales desde el martes 1 de septiembre, tras más de dos meses de cierre por los daños del doble terremoto del 24 de junio. Se trata de estructuras modulares metálicas con climatización, wifi, zonas de espera, baños, servicio médico, estaciones de carga y rampas para pasajeros con movilidad reducida.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/aeropuerto-de-maiquetia-declara-listas-sus-terminales/"
+    },
+    {
+      "id": "ve-20260831-cronicauno-primera-infancia",
+      "fecha": "2026-08-31",
+      "titulo": "Las grietas que el doble terremoto dejó en la primera infancia venezolana",
+      "resumen": "Reportaje sobre el impacto emocional del 24 de junio en niños de cero a cinco años alojados en refugios de La Guaira: miedo a la lluvia y a los ruidos fuertes, sobresaltos y regresiones. Especialistas en desarrollo infantil advierten de que a esas edades la experiencia queda “grabada en el cuerpo” y de que la emergencia agrava una crisis humanitaria que el país arrastra desde hace una década.",
+      "fuente": "Crónica.Uno",
+      "autor": "Omarela Depablos",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/las-grietas-que-el-doble-terremoto-dejo-en-la-primera-infancia-venezolana/"
+    },
     {
       "id": "ve-20260828-oim-sitrep-26",
       "fecha": "2026-08-28",

@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-31",
+  "actualizado": "2026-09-01",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260831-semana-balance-tres-semanas",
+      "fecha": "2026-08-31",
+      "titulo": "Cali entra en una nueva fase de la emergencia tres semanas después del terremoto",
+      "resumen": "Balance de la Alcaldía de Cali al 31 de agosto: 154 fallecidos, 16 reportes activos de desaparecidos, 1.517 heridos atendidos (39 aún en tratamiento), 36.427 familias damnificadas registradas y 479 personas en albergues temporales. De 1.373 edificaciones inspeccionadas, 349 son habitables, 631 no habitables, 356 de uso restringido, 24 con colapso total y 411 con colapso parcial. Se han retirado 72.077 toneladas de escombros en 651 puntos. La ciudad pasa de la respuesta de emergencia a una fase de recuperación.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/nacion/cali/articulo/tres-semanas-despues-del-terremoto-cali-entra-en-una-nueva-fase-de-la-emergencia-este-es-el-balance/202621/"
+    },
     {
       "id": "co-20260831-elpais-seguridad-zonas-afectadas",
       "fecha": "2026-08-31",
