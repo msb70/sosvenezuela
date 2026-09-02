@@ -3,6 +3,19 @@
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
+      "id": "ve-20260902-elnacional-regreso-clases",
+      "fecha": "2026-09-02",
+      "titulo": "Padres y docentes piden simulacros y apoyo psicológico para el regreso a clases tras los sismos",
+      "resumen": "Familias y personal escolar reclaman información sobre el estado de las edificaciones, simulacros y acompañamiento psicológico antes de reanudar el año escolar, según un reportaje de El Nacional. El doblete sísmico del 24 de junio dejó más de 6.000 muertos y derrumbó escuelas que la comunidad consideraba seguras. La preocupación se suma al señalamiento de Cecodap del 31 de agosto sobre la falta de condiciones para el retorno presencial.",
+      "fuente": "El Nacional",
+      "autor": "Erika Hernández",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/preocupan-seguridad-en-escuelas-y-el-trauma-por-los-terremotos/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/09/preocupan-seguridad-en-escuelas-y-el-trauma-por-los-terremotos/"
+    },
+    {
       "id": "ve-20260901-unicef-sitrep-8",
       "fecha": "2026-09-01",
       "titulo": "Unicef publica su Reporte de Situación N.° 8 sobre la respuesta al terremoto",
@@ -47,6 +60,17 @@
       "url": "https://lapatilla.com/2026/09/01/expertos-evaluan-edificaciones-clave-en-tachira-para-reforzar-su-resistencia-sismica/"
     },
     {
+      "id": "ve-20260901-irc-brecha-equipos-medicos",
+      "fecha": "2026-09-01",
+      "titulo": "El IRC advierte una brecha de atención en salud cuando se retiren los equipos médicos internacionales",
+      "resumen": "Una evaluación de necesidades del Comité Internacional de Rescate (IRC) indica que los equipos médicos internacionales pasaron de 12 a mediados de julio a cinco el 10 de agosto y se prevé que terminen sus despliegues a finales de septiembre. Cerca de 30 % de los centros de salud evaluados tiene daños estructurales y casi 20 % no está operativo, lo que deja sin atención primaria a hasta 124.500 personas. El 80 % de las personas consultadas señaló el malestar emocional como su principal preocupación y 97 % dijo necesitar apoyo psicosocial no disponible.",
+      "fuente": "IRC · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Salud",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/new-irc-assessment-finds-critical-resource-gap-venezuela-earthquake-emergency-medical-teams-wind-down"
+    },
+    {
       "id": "ve-20260901-infobae-creditos-damnificados",
       "fecha": "2026-09-01",
       "titulo": "Damnificados de La Guaira denuncian trabas registrales para acceder a los créditos de vivienda",
@@ -67,6 +91,29 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/venezuela/2026/09/01/controles-nulos-y-escombros-el-resultado-de-las-construcciones-chinas-en-la-guaira-el-nucleo-del-sismo-en-venezuela/"
+    },
+    {
+      "id": "ve-20260901-infobae-american-airlines",
+      "fecha": "2026-09-01",
+      "titulo": "American Airlines reanuda el 3 de septiembre su vuelo diario entre Miami y Caracas",
+      "resumen": "La aerolínea confirmó que retoma la ruta diaria Miami-Maiquetía el 3 de septiembre, tras la reapertura del aeropuerto el 1 de septiembre con instalaciones provisionales. Para restablecer la actividad comercial las autoridades habilitaron una estructura modular de 10.000 metros cuadrados con capacidad para 2.168 pasajeros por día, según Infobae. Los sismos del 24 de junio dañaron pistas, torre de control y áreas de embarque.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/01/american-airlines-reanudara-el-vuelo-diario-entre-miami-y-caracas/"
+    },
+    {
+      "id": "ve-20260901-elnacional-maiquetia-25-operaciones",
+      "fecha": "2026-09-01",
+      "titulo": "Maiquetía recupera 25 % de sus operaciones con las terminales temporales",
+      "resumen": "El Ministerio de Transporte informó que la reapertura del aeropuerto Simón Bolívar mediante terminales temporales permite recuperar 25 % de las operaciones previas al 24 de junio, con la meta de alcanzar 60 % entre finales de 2026 y comienzos de 2027. En la primera jornada se programaron cuatro vuelos internacionales de llegada y cuatro de salida, además de siete despegues y siete llegadas en rutas nacionales, según el ministro Francisco Garcés.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/aeropuerto-de-maiquetia-recupera-25-de-sus-operaciones-en-terminales-temporales/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/09/aeropuerto-de-maiquetia-recupera-25-de-sus-operaciones-en-terminales-temporales/"
     },
     {
       "id": "ve-20260901-efectococuyo-maiquetia-reapertura",
