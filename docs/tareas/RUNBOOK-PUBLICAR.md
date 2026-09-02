@@ -14,12 +14,19 @@ leer la memoria del proyecto. Todo lo que una tarea necesita saber está aquí y
      `python3 docs/tareas/barrer_fuentes.py ve|co` y con `curl` desde `bash`.
    - **NO uses nada con prefijo `mcp__remote-devices__*`** (Desktop Commander, device_bash,
      hostinger-api del Mac, project_memory_*): necesitan el Mac encendido.
-   - La única herramienta MCP permitida es `mcp__Hostinger_Connector__hosting_generateUploadURLV1`
-     (conector de la nube). Está autorizada de forma permanente para estas tareas.
+   - **Ninguna herramienta MCP.** El conector Hostinger de la nube (`mcp__Hostinger_Connector__*`)
+     también pide permiso en cada sesión programada (comprobado el 02/09/2026): solo vale con alguien delante.
 2. **Verificar producción, nunca la subida.** Un 204 en el PATCH y un `SUCCEEDED` de la
    sesión no prueban nada. Solo prueba el `curl` final contra el sitio.
 3. **Una tarea que no publica y no avisa es peor que una caída.** Si algo falla,
    `PushNotification` + respuesta que empieza por «⚠️ NO PUBLICADO».
+
+## Dos vías de publicación
+- **Vía A (preferida): `git push` a `main`.** Solo funciona si la rutina se creó desde claude.ai/code
+  con el repo `msb70/sosvenezuela` seleccionado (ver `GUIA-RUTINAS.md`). Sin MCP, sin permisos.
+  Los prompts de `docs/tareas/prompts/` usan esta vía.
+- **Vía B (legado): subida TUS con el conector Hostinger de la nube.** Pide permiso en cada sesión
+  programada → solo sirve con alguien delante. Descrita abajo (pasos 5-7) por si hace falta a mano.
 
 ## El flujo
 
@@ -47,7 +54,20 @@ python3 -m json.tool noticias.json > /dev/null
 python3 .github/scripts/validar_noticias.py noticias.json noticias-colombia.json
 ```
 
-**5. Subida TUS.** Pedir credenciales frescas en cada pasada (caducan en horas) con
+**5A. Vía A — commit + push (rutina ligada al repo):**
+
+```bash
+cd /tmp/sv
+git config user.name "sosvenezuela-bot" && git config user.email "bot@apoyo-fem-vzla.org"
+git add noticias.json            # SOLO el archivo que tocaste; nunca `git add -A`
+git commit -m "Noticias VE $(date -u +%F): <resumen>"
+git pull --rebase origin main && git push origin main
+sleep 90                          # Actions construye `deploy` y Hostinger lo sirve
+```
+Luego el paso 6. Si producción no cambia, relanzar con `git commit --allow-empty -m redeploy && git push origin main`
+(GitHub a veces no dispara el workflow). Si el push da 403, la rutina no está ligada al repo: avisar y parar.
+
+**5B. Vía B — subida TUS (solo con alguien delante).** Pedir credenciales frescas en cada pasada (caducan en horas) con
 `mcp__Hostinger_Connector__hosting_generateUploadURLV1` (`username` y `domain` van en el
 prompt de la tarea). Devuelve `url`, `auth_key`, `rest_auth_key`. Luego, desde `bash`
 (la ruta es relativa a `public_html`):
@@ -75,9 +95,9 @@ sleep 5; curl -s "https://apoyo-fem-vzla.org/noticias.json?v=$RANDOM" \
 Si `actualizado` no es hoy o faltan items, reintentar una vez a los 60 s; si sigue igual,
 notificación push y «⚠️ NO PUBLICADO».
 
-**7. No hacer commit ni push.** El proxy del contenedor rechaza el push (403). El
-workflow *Reconciliar noticias con produccion* (12:30 y 21:30 UTC) une por `id` lo
-publicado con `main` sin borrar nada.
+**7. Si publicaste por la vía B, no hagas commit ni push** (el proxy lo rechaza en rutinas
+sin repo). El workflow *Reconciliar noticias con produccion* (12:30 y 21:30 UTC) une por
+`id` lo publicado con `main` sin borrar nada.
 
 ## Estructura del JSON
 
