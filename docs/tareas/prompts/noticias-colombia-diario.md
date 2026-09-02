@@ -8,6 +8,17 @@ Esta sesión es programada: NADIE puede aprobar un permiso. Cualquier herramient
 - PROHIBIDO cualquier herramienta con prefijo `mcp__remote-devices__*` (Desktop Commander, device_bash, project_memory_*, hostinger-api del Mac): necesitan el Mac encendido. **No existe `project_memory_read` aquí: el contexto está en el repo, en `docs/tareas/`.**
 - NO uses NINGUNA herramienta MCP (ni `mcp__Hostinger_Connector__*` ni ninguna otra): todas piden permiso en una sesión programada. Se publica con `git push` a `main`: GitHub Actions construye la rama `deploy` y Hostinger la sirve en menos de 1 minuto. Esta rutina está ligada al repo `msb70/sosvenezuela`, así que el push funciona desde `bash`.
 
+
+=========================================================
+0-bis. AUTOCOMPROBACIÓN DE RED — ANTES DE NADA
+=========================================================
+```
+curl -s -o /dev/null -w "%{http_code}\n" --max-time 20 "https://apoyo-fem-vzla.org/noticias.json"
+```
+Si NO devuelve `200` (p. ej. 403 del proxy o 000), **el entorno tiene la red cerrada y esta tarea no puede hacer nada útil**: no clones, no edites, no hagas commit ni push. Manda `PushNotification` («Noticias CO: red bloqueada en el entorno (HTTP <código>) — no publicado») y termina con una respuesta que empiece por «⚠️ NO PUBLICADO».
+
+**Regla de oro: si cualquier script devuelve un código de salida distinto de 0, o si el barrido lee 0 fuentes, o si `reconciliar_*.py` falla, PARA. Un día sin noticias es legítimo; un día sin lectura NO lo es, y publicar `actualizado: hoy` sin haber leído nada es mentir en la web.**
+
 =========================================================
 1. CONTEXTO (del repo, no de la memoria)
 =========================================================
@@ -16,14 +27,16 @@ git clone --depth 1 https://github.com/msb70/sosvenezuela.git /tmp/sv && cd /tmp
 cat docs/tareas/RUNBOOK-PUBLICAR.md docs/tareas/CRITERIO-CO.md
 python3 .github/scripts/reconciliar_noticias.py     # une por id el JSON del repo con producción: PARTE SIEMPRE DE ESTE RESULTADO
 ```
+Si `reconciliar_noticias.py` termina con error (no pudo leer producción), PARA: «⚠️ NO PUBLICADO» + push. Nunca publiques desde el JSON del repo a secas: pisarías lo que hay en la web.
 Síguelos al pie de la letra. El criterio editorial manda sobre este prompt.
 
 =========================================================
 2. BARRER LA PRENSA
 =========================================================
 ```
-python3 docs/tareas/barrer_fuentes.py co --dias 2
+python3 docs/tareas/barrer_fuentes.py co --dias 2; echo "exit=$?"
 ```
+Si `exit` no es 0 (ninguna fuente respondió), PARA: «⚠️ NO PUBLICADO» + push. Mira también la línea `RESUMEN:` de stderr: si menos de la mitad de las fuentes respondieron, dilo en el resumen final.
 Lista candidatos de El País (Cali), El Tiempo, Semana, Infobae, El Colombiano, Noticias ONU y ReliefWeb por RSS/sitemap. Para cada candidato que te interese: descarga el artículo con `curl -sL -A "<user-agent de Chrome>"`, confirma la fecha real (`article:published_time` o `datePublished`), comprueba que la URL da 200 y lee el texto para el resumen. Si sale un balance nuevo de la UNGRD, tiene prioridad. Si una fuente falla, sigue con las demás: nunca la sustituyas por WebFetch.
 
 =========================================================

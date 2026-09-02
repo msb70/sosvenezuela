@@ -8,6 +8,17 @@ Esta sesión es programada: NADIE puede aprobar un permiso. Cualquier herramient
 - PROHIBIDO cualquier herramienta con prefijo `mcp__remote-devices__*` (Playwright del Mac, PDF Tools, Desktop Commander, project_memory_*): necesitan el Mac. **No existe `project_memory_read` aquí: el contexto está en el repo, en `docs/tareas/`.**
 - NO uses NINGUNA herramienta MCP (ni `mcp__Hostinger_Connector__*` ni ninguna otra): todas piden permiso en una sesión programada. Se publica con `git push` a `main`: GitHub Actions construye la rama `deploy` y Hostinger la sirve en menos de 1 minuto. Esta rutina está ligada al repo `msb70/sosvenezuela`, así que el push funciona desde `bash`.
 
+
+=========================================================
+0-bis. AUTOCOMPROBACIÓN DE RED — ANTES DE NADA
+=========================================================
+```
+curl -s -o /dev/null -w "%{http_code}\n" --max-time 20 "https://apoyo-fem-vzla.org/noticias.json"
+```
+Si NO devuelve `200` (p. ej. 403 del proxy o 000), **el entorno tiene la red cerrada y esta tarea no puede hacer nada útil**: no clones, no edites, no hagas commit ni push. Manda `PushNotification` («SitRep VE: red bloqueada en el entorno (HTTP <código>) — no publicado») y termina con una respuesta que empiece por «⚠️ NO PUBLICADO».
+
+**Regla de oro: si cualquier script devuelve un código de salida distinto de 0, o si el barrido lee 0 fuentes, o si `reconciliar_*.py` falla, PARA. Un día sin noticias es legítimo; un día sin lectura NO lo es, y publicar `actualizado: hoy` sin haber leído nada es mentir en la web.**
+
 =========================================================
 1. CONTEXTO Y PUNTO DE PARTIDA
 =========================================================
@@ -16,6 +27,7 @@ git clone --depth 1 https://github.com/msb70/sosvenezuela.git /tmp/sv && cd /tmp
 cat docs/tareas/RUNBOOK-PUBLICAR.md docs/tareas/CRITERIO-VE.md
 python3 .github/scripts/reconciliar_html.py      # trae a tu copia el index.html de producción si va por delante
 ```
+Si el script termina con error, PARA: «⚠️ NO PUBLICADO» + push.
 Trabaja SIEMPRE sobre ese resultado. NO toques `noticias.json`, `noticias-colombia.json` ni `colombia.html`: los mantienen otras tareas.
 
 =========================================================

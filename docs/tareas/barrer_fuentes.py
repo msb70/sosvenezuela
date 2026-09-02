@@ -127,10 +127,14 @@ def main():
     a = ap.parse_args()
     desde = dt.date.today() - dt.timedelta(days=a.dias)
     salida = []
+    ok = 0
+    errores = 0
     for url, fuente in FUENTES[a.pais]:
         try:
             raw = bajar(url)
+            ok += 1
         except Exception as e:
+            errores += 1
             print("## %s — ERROR %s (%s)" % (fuente, e, url), file=sys.stderr)
             continue
         head = raw[:300].lower()
@@ -160,6 +164,19 @@ def main():
     if a.json:
         print(json.dumps([dict(i, fecha=str(i["fecha"])) for i in salida], ensure_ascii=False, indent=1))
 
+    total = len(FUENTES[a.pais])
+    print("RESUMEN: %d/%d fuentes leídas, %d con error, %d candidatos" % (ok, total, errores, len(salida)),
+          file=sys.stderr)
+    if ok == 0:
+        print("::error::NINGUNA fuente respondió: casi seguro la red del entorno está bloqueada "
+              "(403 en el proxy). NO publiques nada: no es un día sin noticias, es un día sin lectura.",
+              file=sys.stderr)
+        return 2
+    if ok < total // 2:
+        print("::warning::menos de la mitad de las fuentes respondieron; revisa antes de publicar",
+              file=sys.stderr)
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
