@@ -3,3 +3,5 @@
 assets_tmp/
 _prev/
 .fuse_hidden*
+__pycache__/
+docs/tareas/sitreps/*.pdf

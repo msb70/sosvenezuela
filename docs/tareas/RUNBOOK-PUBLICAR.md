@@ -1,9 +1,12 @@
-# Runbook: publicar en apoyo-fem-vzla.org desde una tarea programada (sin Mac)
+# Runbook: publicar en apoyo-fem-vzla.org
 
-Este archivo vive en el repo porque **las sesiones programadas de Cowork no tienen
-`project_memory_read`** (es una herramienta del puente con el Mac) y por tanto no pueden
-leer la memoria del proyecto. Todo lo que una tarea necesita saber está aquí y en
-`CRITERIO-VE.md` / `CRITERIO-CO.md`, en esta misma carpeta del clone.
+> **Arquitectura vigente (02/09/2026): recolector en Actions + rutina que solo consume del repo.**
+> El entorno de las rutinas (Claude Code) solo tiene red a GitHub; no lee prensa. GitHub Actions
+> (`recolectar.yml`) lee la prensa y deja la materia prima en `docs/tareas/` (candidatos-*.json,
+> produccion-*.json, sitreps). La rutina clona, aplica criterio, edita y hace `git push` a `main`;
+> `deploy.yml` publica. Verificación por la rama `deploy` (sin red). Guía completa y paso a paso
+> en `GUIA-RUTINAS.md`; prompts en `prompts/`. Lo de abajo (subida TUS con el conector Hostinger)
+> es la vía LEGADO, solo para publicar a mano con alguien delante.
 
 ## Las tres reglas que evitan que la tarea se cuelgue
 

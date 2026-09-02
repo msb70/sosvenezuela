@@ -1,0 +1,226 @@
+                  Venezuela: Earthquakes
+                  LTC Situation Report (Telecoms) #07
+                  Reporting period: 15 – 31 August 2026
+
+                  This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026
+                  (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led
+                  Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for
+                  the humanitarian response. The Cluster is currently not formally activated for this emergency.
+
+
+
+                  Summary Points
+              •          Nine weeks after the earthquakes, the Venezuela
+                         response is transitioning from emergency life-saving
+                         operations to recovery.
+
+              •          The inter-agency LTC Telecoms Coordinator is
+                         supporting preparations for the phased closure of
+                         temporary operational shelter camps where inter-
+                         agency telecommunications services continue to be
+                         provided, ensuring service wind-down is aligned with
+                         camp closure timelines and humanitarian operational
+                         needs.
+
+              •          To ensure continuity of telecommunications
+                         coordination during the transition, the inter-agency
+                         LTC Telecoms Coordinator will formally hand over                                      Solar-powered connectivity keeps
+                                                                                                               communities and humanitarian responders
+                         responsibilities to the WFP Country Office (CO) as                                    connected at César Nieves. Photo:
+                         LTC lead agency, before his current mission ends on                                   WFP/Francisco Garrido.
+
+                         06 September.
+
+
+
+
+                  Situation Overview
+                  Two powerful earthquakes of magnitude 7.2 and 7.5 struck north-central Venezuela on 24 June,
+                  causing widespread destruction across La Guaira, Caracas, Aragua, Carabobo, Miranda, Yaracuy and
+                  surrounding areas. Nine weeks after the earthquakes, the Venezuela response is transitioning from
+                  emergency life-saving operations to recovery, with authorities progressively closing 107 temporary
+                  operational shelter camps that host approximately 24,500 people.
+
+                  Affected families continue to face overlapping needs for food, shelter, healthcare, safe water,
+                  sanitation, protection and livelihood support. Heavy rainfall has further affected infrastructure and
+                  services and increased the risks facing households in temporary or inadequate shelter. The
+                  earthquakes have also generated a major recovery and reconstruction challenge. United Nations
+                  Development Programme (UNDP) initially estimated approximately USD 6.7 billion in direct physical
+                  damage, equivalent to about six percent of Gross Domestic Product (GDP), while a broader United
+                  Nations Office for Disaster Risk Reduction (UNDRR) assessment placed housing and infrastructure
+
+                  1
+                   The ETC and Logistics Cluster have been merged into the Logistics and Telecommunications Cluster (LTC), following the humanitarian reset in 2025.
+                  Bringing logistics and emergency telecommunications under one coordination structure, the WFP-led LTC is the backbone of the entire humanitarian
+                  response, enabling humanitarian action to move, communicate, coordinate, and deliver lifesaving assistance.
+
+
+Page 1 of 4
+
+                  Logistics and Telecommunications Cluster (LTC) – Telecoms Area                                        www.ETCluster.org | www.LOGcluster.org
+              damage at approximately USD 37 billion. These estimates underline the scale of resources required to
+              restore housing, healthcare, education, water, power, telecommunications, transport and livelihoods
+              while maintaining life-saving assistance.
+
+              The response is steadily moving from the acute emergency phase towards a prolonged combination of
+              humanitarian assistance, service restoration and recovery. Immediate priorities are to sustain food and
+              cash-based assistance; provide safe and dignified shelter; restore water, sanitation, health, education,
+              electricity and telecommunications services; strengthen disease surveillance and protection
+              mechanisms; and support livelihood recovery. Predictable and flexible funding is urgently required to
+              prevent assistance gaps and ensure that the most vulnerable households are not left behind as
+              international attention declines.
+
+
+
+              Telecommunications Overview
+              Over two months after twin magnitude 7.2 and 7.5 earthquakes struck north-central Venezuela on 24
+              June, telecommunications services have progressively recovered but remain uneven and vulnerable.
+              Telecommunications services in affected areas, including Mobile Network Operators (MNOs) and
+              Internet Service Providers (ISPs), appear to have broadly returned to pre-earthquake conditions. Some
+              online reports state that remaining connectivity gaps are understood to reflect pre-existing coverage
+              limitations rather than new earthquake-related disruption, pending official confirmation from the
+              National Telecommunications Commission (CONATEL).
+
+              Reliable connectivity remains essential for coordinating humanitarian operations, sharing emergency
+              information, reconnecting separated families, accessing digital services and enabling affected
+              communities to communicate their needs. While Venezuela's main telecommunications providers,
+              including Movistar, Digitel, CANTV and most Internet Service Providers (ISP), continued operating
+              nationwide, localized outages and reduced network performance persist in some earthquake-affected
+              areas. Service providers and authorities continue efforts to restore damaged infrastructure and
+              address remaining connectivity gaps.
+
+              The recovery of telecommunications services remains closely linked to the restoration of the national
+              electricity network. Although power supply has improved considerably in several affected areas,
+              including La Guaira, where authorities reported 98 percent restoration of electricity services by late
+              July, ongoing damage to key generation and transmission infrastructure continues to affect the
+              resilience of both power and communications systems.
+
+
+
+              LTC Telecoms Activities
+              Coordination
+
+              The inter-agency LTC Telecoms Coordinator is supporting preparations for the phased closure of
+              temporary operational shelter camps where inter-agency telecommunications services continue to be
+              provided, ensuring service wind-down is aligned with camp closure timelines and humanitarian
+              operational needs. Operational priorities are now focused on the safe and accountable
+              decommissioning of internet connectivity and charging services, follow-up to the La Guaira health-
+              centre assessment, handover of donated Starlink terminals and the transition of remaining
+              telecommunications coordination into regular inter-agency country operations.
+
+              The Government of Venezuela is shifting from emergency coordination to recovery and reconstruction
+              implementation, which will shape the scale, duration and staffing requirements of international
+
+Page 2 of 4
+
+              Logistics and Telecommunications Cluster (LTC) – Telecoms Area         www.ETCluster.org | www.LOGcluster.org
+              humanitarian support. As national institutions progressively assume greater responsibility, LTC
+              Telecoms and partners are scaling down selected activities, handing over functions and reviewing the
+              duration of remaining support, while ensuring that operational capacity is not reduced too quickly in
+              areas where affected people still depend on essential services.
+
+              To ensure continuity of telecommunications coordination during the transition from emergency
+              response to recovery, the inter-agency LTC Telecoms Coordinator will formally hand over
+              responsibilities to the WFP CO as LTC lead agency, before the current mission ends on 06 September.
+
+              Internet connectivity
+
+              Through a combination of Starlink connectivity and the Internet Service for Communities solution,
+              developed jointly by emergency.lu, CONATEL, WFP and local ISP G-Network, LTC Telecoms continues
+              to provide internet services for approximately 21,000 humanitarian responders and affected people
+              across Caraballeda, Polideportivo, and César Nieves Stadium. The community internet service enables
+              people currently sheltered in temporary camps to stay connected with family members, access
+              information, and use essential digital services. The platform is available across camps using the same
+              login credentials.
+
+              The inter-agency LTC Telecoms Coordinator is coordinating with G-Network ISP, Grupo Telefónica and
+              Global LTC Telecoms partner emergency.lu to decommission partner-provided community internet
+              access, solar power solutions and ICT device-charging kiosks. Planning covers orderly shutdown
+              procedures, equipment recovery and potential reuse, with implementation tied to confirmed camp
+              closure dates.
+
+              Joint assessment
+
+              At the request of the Ministry of Health, WFP engineering personnel, World Health Organization (WHO)
+              staff and the LTC team completed a multifunctional assessment of health centres in La Guaira from 13
+              to 25 August. The assessment examined operational constraints affecting health service delivery and
+              is informing recommendations to strengthen critical support systems, including warehousing,
+              electricity supply, internet connectivity and broader infrastructure. Findings are being consolidated for
+              review and recommendations. The findings will help inform recovery planning and identify areas where
+              technical telecommunications and logistics support may still be required. Subject to approval of the
+              recommendations, any follow-up support will be taken forward by the WFP CO as LTC lead agency,
+              through regular programming rather than the emergency response, as several identified needs are
+              longer-term in nature or pre-date the earthquakes emergency.
+
+              Information Management
+
+              LTC Telecoms continues to maintain its dedicated emergency operations page, providing operational
+              updates, situation reports and coordination information.
+
+              LTC Telecoms and the International Telecommunication Union (ITU) continue to use the Disaster
+              Connectivity Map (DCM), integrated into LogIE for Venezuela, to monitor connectivity conditions and
+              support operational planning.
+
+
+
+              Funding
+              Donor engagement remains ongoing as humanitarian funding requirements are consolidated under the
+              forthcoming Flash Appeal.
+
+
+
+Page 3 of 4
+
+              Logistics and Telecommunications Cluster (LTC) – Telecoms Area          www.ETCluster.org | www.LOGcluster.org
+              The United States Bureau for Humanitarian Assistance (BHA) has committed USD 9 million to the
+              earthquake response, with a further USD 6 million under processing, bringing the expected total
+              contribution to USD 15 million. The funding is primarily intended to support humanitarian supply chain
+              operations and the delivery of emergency assistance.
+
+              The Central Emergency Response Fund (CERF) has allocated USD 15 million for the response, of which
+              approximately USD 2 million is expected to be allocated to WFP.
+
+
+
+              Meetings
+              The latest Global LTC Telecoms Partner Teleconference was held on 27 July to support partner
+              coordination and information sharing. Minutes of the meeting are available here. The next
+              teleconference is scheduled for 03 September at 14:00 UTC.
+
+
+
+              LTC Logistics Area
+              For more information on the logistics component of the LTC response, a dedicated Venezuela logistics
+              webpage is available here with the latest updates on working group meetings, key documents, maps,
+              and available support. The latest LTC Logistics Situation Report is available here.
+
+
+
+              Contacts
+               NAME                      POSITION                              LOCATION     CONTACT
+
+
+               Angel Buitrago            LTC Telecoms Coordinator              Caracas      Angel.buitrago@wfp.org
+
+
+                                         Global LTC Telecoms Deputy
+               Phyza Jameel                                                    Remote       Phyza.Jameel@wfp.org
+                                         Coordinator
+
+                                         Global LTC Telecoms
+               Mufaro Masuka                                                   Remote       Mufaro.Masuka@wfp.org
+                                         Information Management Officer
+
+
+
+
+              More information: www.etcluster.org/emergency/venezuela-earthquakes
+              Contact: Venezuela.LTCTelecoms@wfp.org
+
+
+
+
+Page 4 of 4
+
+              Logistics and Telecommunications Cluster (LTC) – Telecoms Area              www.ETCluster.org | www.LOGcluster.org
+

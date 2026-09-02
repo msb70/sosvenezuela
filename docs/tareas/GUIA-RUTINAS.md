@@ -1,61 +1,64 @@
-# Guía: rutinas que publican solas (sin Mac, sin nadie aprobando)
+# Guía: publicación automática sin Mac y sin nadie aprobando
 
-## El problema que resuelve
-Las rutinas creadas desde una conversación de Cowork (`create_trigger`) nacen **sin repositorio**.
-En ellas, `git push` a `msb70/sosvenezuela` da 403 («not in this session's authorized
-repository set») y la única vía de publicar era el conector Hostinger, que **pide permiso en
-cada sesión** → la rutina se queda en PENDING y no publica (02/09/2026).
+## La arquitectura (por qué son dos piezas)
+El entorno donde corren las rutinas (Claude Code en la nube) puede hacer `git push` pero
+**solo tiene red hacia GitHub**: no puede leer prensa ni `apoyo-fem-vzla.org`. GitHub Actions
+sí tiene red abierta pero no aplica criterio editorial. Así que el trabajo se parte:
 
-La solución es que la rutina nazca **ligada al repo**: entonces `git push` funciona desde
-`bash` sin pedir permiso, y `.github/workflows/deploy.yml` publica en <1 min.
+```
+GitHub Actions (recolectar.yml)          Rutina (Claude Code, ligada al repo)
+  · lee la prensa por RSS                   · clona el repo (solo GitHub)
+  · verifica fecha y baja el cuerpo         · lee candidatos-*.json y produccion-*.json
+  · snapshot de producción                  · aplica el criterio editorial
+  · baja los PDF de los SitReps      ──▶    · edita el JSON / HTML
+  · commitea la materia prima a main        · git push a main
+                                            · verifica por la rama deploy
+                              deploy.yml construye deploy → Hostinger sirve en <1 min
+```
+Ninguna pieza usa el conector Hostinger, ni WebFetch, ni el Mac. Nada pide permiso.
 
-## Paso a paso (se hace UNA vez por rutina, desde claude.ai/code)
-1. Abre https://claude.ai/code y elige el repositorio **msb70/sosvenezuela** (si no aparece,
-   instala/autoriza la app de GitHub de Claude para ese repo desde ahí).
-2. Con el repo seleccionado, abre **Rutinas** (icono del reloj / «Routines») → **Nueva rutina**.
-3. Nombre y horario (UTC):
-   | Rutina | Cron UTC | Prompt |
+## Horarios (todo UTC)
+| Pieza | Cron UTC | Madrid |
+|---|---|---|
+| recolectar.yml (mañana: prensa VE+CO) | `40 7 * * *` | 09:40 |
+| rutina noticias VE | `0 8 * * *` | 10:00 |
+| rutina noticias CO | `0 9 * * *` | 11:00 |
+| recolectar.yml (tarde: prensa CO) | `40 16 * * *` | 18:40 |
+| rutina balance CO | `0 18 * * *` | 20:00 |
+| recolectar.yml (viernes: SitReps + PDF) | `30 6 * * 5` | vie 08:30 |
+| rutina SitRep VE | `0 7 * * 5` | vie 09:00 |
+
+El recolector corre ~20 min antes de cada rutina. Si un día no corre, la rutina lo detecta
+(la materia prima no es de hoy) y avisa por push sin publicar a ciegas.
+
+## Paso a paso (una vez, desde claude.ai/code con el repo msb70/sosvenezuela seleccionado)
+Ya comprobaste que en ese contexto `git push` a `main` funciona. Ahora:
+
+1. Menú lateral → **Rutinas** → **Nueva rutina**, con el chip **sosvenezuela · main** puesto.
+2. Crea las cuatro, pegando ENTERO el archivo de prompt indicado (están en el repo):
+   | nombre | cron | prompt |
    |---|---|---|
-   | noticias-terremoto-venezuela-diario | `0 8 * * *` | `docs/tareas/prompts/noticias-venezuela-diario.md` |
-   | noticias-terremoto-colombia-diario | `0 9 * * *` | `docs/tareas/prompts/noticias-colombia-diario.md` |
-   | balance-colombia-diario | `0 18 * * *` | `docs/tareas/prompts/balance-colombia-diario.md` |
-   | sitrep-ocha-venezuela-quincenal | `0 7 * * 5` | `docs/tareas/prompts/sitrep-ocha-venezuela-quincenal.md` |
-4. Pega el contenido del archivo de prompt correspondiente (tal cual, entero).
-5. Notificaciones: push ON.
-6. Guarda y **lánzala a mano una vez** («Run now»). Abre la sesión y comprueba que:
-   - no aparece ningún cuadro «¿Permitir…?»;
-   - termina con un SHA y producción muestra `actualizado` de hoy.
-7. Cuando la nueva funcione, **desactiva o borra la rutina vieja del mismo nombre**
-   (las creadas desde Cowork; se ven en la misma lista de Rutinas) para que no corran dos.
-
-## Cómo saber que va bien sin abrir nada
-`curl -s "https://apoyo-fem-vzla.org/noticias.json?v=1" | python3 -c "import sys,json;d=json.load(sys.stdin);print(d['actualizado'],len(d['items']))"`
-→ `actualizado` debe ser la fecha de hoy después de las 10:15 (VE) / 11:15 (CO) Madrid.
-Si la rutina falla, manda una notificación push que empieza por «⚠️ NO PUBLICADO».
+   | noticias-terremoto-venezuela-diario | `0 8 * * *` | prompts/noticias-venezuela-diario.md |
+   | noticias-terremoto-colombia-diario | `0 9 * * *` | prompts/noticias-colombia-diario.md |
+   | balance-colombia-diario | `0 18 * * *` | prompts/balance-colombia-diario.md |
+   | sitrep-ocha-venezuela-quincenal | `0 7 * * 5` | prompts/sitrep-ocha-venezuela-quincenal.md |
+   Modelo: Opus. Notificaciones: push ON.
+3. Antes de fiarte, lanza a mano el recolector y una rutina:
+   - En el chat (contexto sosvenezuela · main): `gh workflow run recolectar.yml` y espera ~2 min,
+     o entra a GitHub → Actions → "Recolectar materia prima" → Run workflow.
+   - Comprueba que en el repo aparecieron/actualizaron `docs/tareas/candidatos-ve.json`
+     y `produccion-ve.json` con la fecha de hoy.
+   - Lanza la rutina de Venezuela ("Run now"), abre la sesión: debe terminar SIN ningún cuadro
+     «¿Permitir…?», con un SHA, y el bloque de verificación debe mostrar la rama `deploy` con
+     `actualizado` de hoy.
+   - Abre `https://apoyo-fem-vzla.org/noticias.json` en el navegador: `actualizado` de hoy.
+4. Cuando funcione, avísame y **desactivo las cuatro rutinas viejas** (las creadas desde Cowork)
+   para que no corran dos a la vez.
 
 ## Qué NO hacer
-- No volver a meter WebFetch, WebSearch ni ninguna herramienta MCP en los prompts: piden permiso.
-- No pushear a `main` desde el Mac sin antes reconciliar con producción (`reconciliar_noticias.py`
-  + `reconciliar_html.py`): el deploy reconstruye la web entera desde `main`.
-- No meter un token de la API de Hostinger en un prompt: da acceso a toda la cuenta.
-
-## ⚠️ Paso 0 imprescindible: abrir la red del entorno de Code (descubierto el 02/09/2026)
-El entorno de Code en la nube (el chip «Default» de claude.ai/code) nace con **política de red
-cerrada: solo GitHub y registros de paquetes**. Con eso, la rutina puede pushear pero no puede leer
-ni la prensa ni `apoyo-fem-vzla.org` (todo da 403 en el proxy). Hay que cambiarlo **antes** de que
-las rutinas sirvan de algo:
-
-1. En claude.ai/code, pulsa el chip del entorno (**«Default»**, con el icono de nube) → editar /
-   configurar entorno.
-2. Busca **Acceso a red / Network access**. Opciones típicas: «Limitado» (solo GitHub),
-   «Completo» o «Personalizado» (lista de dominios).
-3. Elige **Completo**, o **Personalizado** con esta lista (es lo que usan los scripts y prompts):
-   `apoyo-fem-vzla.org, github.com, elnacional.com, efectococuyo.com, cronica.uno, lapatilla.com,
-   infobae.com, news.un.org, reliefweb.int, elpais.com.co, eltiempo.com, semana.com,
-   elcolombiano.com, gestiondelriesgo.gov.co`
-4. Guarda y **lanza la rutina a mano**. Los prompts empiezan con una autocomprobación
-   (`curl` a `apoyo-fem-vzla.org/noticias.json`): si no da 200, la rutina avisa «red bloqueada» y
-   no publica. Cuando dé 200, el resto funciona.
-
-Sin este paso, ninguna instrucción en los prompts atraviesa el 403. Y los scripts ya no fallan
-en silencio: `barrer_fuentes.py` devuelve exit 2 si ninguna fuente responde.
+- No metas WebFetch, WebSearch, curl a prensa ni MCP en los prompts: la rutina no necesita red
+  más allá de GitHub, y esas herramientas piden permiso o fallan.
+- No pongas protección de rama en `main`: rompería el push de las rutinas. La red de seguridad
+  está en `deploy.yml` (valida los JSON antes de publicar), no en la rama.
+- El recolector escribe en `docs/tareas/`, que NO se despliega (no está en la lista `ARCHIVOS`
+  de deploy.yml). Las rutinas no deben commitear esos archivos.

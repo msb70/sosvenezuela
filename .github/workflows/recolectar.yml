@@ -1,0 +1,55 @@
+name: Recolectar materia prima para las rutinas
+
+# El entorno donde corren las rutinas (Claude Code) solo tiene red hacia GitHub: no puede
+# leer prensa ni apoyo-fem-vzla.org. Este workflow corre en Actions, que SI tiene red
+# abierta, y deja en docs/tareas/ los archivos que la rutina consume sin tocar internet:
+#   candidatos-ve.json / candidatos-co.json  - noticias con fecha verificada y cuerpo
+#   produccion-ve.json / produccion-co.json  - copia exacta de lo que sirve produccion hoy
+#   sitreps-ve.json + sitreps/*.txt          - SitReps de OCHA con su texto (para la quincenal)
+# Se programa ~20 min antes de cada rutina para que encuentren datos frescos.
+
+on:
+  schedule:
+    - cron: '40 7 * * *'    # 09:40 Madrid, antes de VE (10:00) y CO (11:00)
+    - cron: '40 16 * * *'   # 18:40 Madrid, antes del balance CO (20:00)
+    - cron: '30 6 * * 5'    # viernes 08:30 Madrid, antes del SitRep (09:00), con PDFs
+  workflow_dispatch:
+
+concurrency:
+  group: recolectar-sosvenezuela
+  cancel-in-progress: false
+
+jobs:
+  recolectar:
+    name: Leer prensa y snapshot de produccion
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar pdftotext (para los SitReps)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Recolectar
+        run: |
+          # Los viernes por la manana incluye los SitReps (mas lento); el resto solo prensa.
+          if [ "$(date -u +%u)" = "5" ] && [ "$(date -u +%H)" -lt 12 ]; then
+            python3 docs/tareas/recolectar_candidatos.py --dias 3 --sitreps
+          else
+            python3 docs/tareas/recolectar_candidatos.py --dias 2
+          fi
+
+      - name: Commitear la materia prima a main
+        run: |
+          git config user.name  "recolector-bot"
+          git config user.email "bot@apoyo-fem-vzla.org"
+          git add docs/tareas/candidatos-*.json docs/tareas/produccion-*.json \
+                  docs/tareas/sitreps-ve.json docs/tareas/sitreps/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Sin cambios en la materia prima."
+          else
+            git commit -m "recolectar: materia prima $(date -u +'%F %H:%MZ')"
+            git pull --rebase origin main && git push origin main
+            echo "Materia prima actualizada en main."
+          fi

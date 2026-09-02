@@ -1,46 +1,67 @@
 Actualiza el balance oficial del terremoto de Colombia en https://apoyo-fem-vzla.org/colombia.html (sección "Situación oficial" y los KPI de la portada) con las cifras más recientes de la UNGRD. Trabajas sin nadie delante: no preguntes nada, decide y explica al final.
 
 =========================================================
-0. LO QUE TE DEJA COLGADO (léelo antes de tocar nada)
+0. CÓMO FUNCIONA ESTO
 =========================================================
-Esta sesión es programada: NADIE puede aprobar un permiso. Cualquier herramienta que pida permiso deja la sesión en PENDING para siempre. Por tanto:
-- PROHIBIDO `WebFetch` y `WebSearch`. Todo se lee con `curl` desde `bash` (user-agent de Chrome) y con `docs/tareas/barrer_fuentes.py co`.
-- PROHIBIDO cualquier herramienta con prefijo `mcp__remote-devices__*` (necesitan el Mac). **No existe `project_memory_read` aquí: el contexto está en el repo, en `docs/tareas/`.**
-- NO uses NINGUNA herramienta MCP (ni `mcp__Hostinger_Connector__*` ni ninguna otra): todas piden permiso en una sesión programada. Se publica con `git push` a `main`: GitHub Actions construye la rama `deploy` y Hostinger la sirve en menos de 1 minuto. Esta rutina está ligada al repo `msb70/sosvenezuela`, así que el push funciona desde `bash`.
-
+Tu entorno SOLO tiene red hacia GitHub. NO leas prensa ni apoyo-fem-vzla.org (dan 403). Actions (recolectar.yml) ya dejó la materia prima en el repo. NO uses WebFetch, WebSearch, curl a prensa ni MCP. Publicas con git push a main; esta rutina está ligada al repo msb70/sosvenezuela.
 
 =========================================================
-0-bis. AUTOCOMPROBACIÓN DE RED — ANTES DE NADA
+1. CONTEXTO Y MATERIA PRIMA
 =========================================================
-```
-curl -s -o /dev/null -w "%{http_code}\n" --max-time 20 "https://apoyo-fem-vzla.org/noticias.json"
-```
-Si NO devuelve `200` (p. ej. 403 del proxy o 000), **el entorno tiene la red cerrada y esta tarea no puede hacer nada útil**: no clones, no edites, no hagas commit ni push. Manda `PushNotification` («Balance CO: red bloqueada en el entorno (HTTP <código>) — no publicado») y termina con una respuesta que empiece por «⚠️ NO PUBLICADO».
-
-**Regla de oro: si cualquier script devuelve un código de salida distinto de 0, o si el barrido lee 0 fuentes, o si `reconciliar_*.py` falla, PARA. Un día sin noticias es legítimo; un día sin lectura NO lo es, y publicar `actualizado: hoy` sin haber leído nada es mentir en la web.**
+    git clone --depth 1 https://github.com/msb70/sosvenezuela.git /tmp/sv && cd /tmp/sv
+    cat docs/tareas/RUNBOOK-PUBLICAR.md docs/tareas/CRITERIO-CO.md
+    python3 - <<'PY'
+    import json,datetime,sys
+    d=json.load(open('docs/tareas/candidatos-co.json'))
+    print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
+    if d['generado'][:10]!=datetime.date.today().isoformat() or d['fuentes_leidas']==0:
+        print('STOP'); sys.exit(2)
+    PY
+Si termina en STOP: PushNotification («Balance CO: sin materia prima de Actions») + «⚠️ NO PUBLICADO».
 
 =========================================================
-PASOS
+2. PARTIR DEL HTML PUBLICADO
 =========================================================
-1. Contexto y punto de partida:
-```
-git clone --depth 1 https://github.com/msb70/sosvenezuela.git /tmp/sv && cd /tmp/sv
-cat docs/tareas/RUNBOOK-PUBLICAR.md docs/tareas/CRITERIO-CO.md
-python3 .github/scripts/reconciliar_html.py      # trae a tu copia el colombia.html de producción si va por delante
-```
-Si el script termina con error, PARA: «⚠️ NO PUBLICADO» + push.
-Trabaja SIEMPRE sobre ese resultado, nunca sobre el HTML del clone a secas.
+La rama deploy es lo que sirve producción. Trae colombia.html de ahí (solo GitHub, sin red):
+    git fetch -q origin deploy && git show origin/deploy:colombia.html > colombia.html
+Trabaja SIEMPRE sobre este archivo, nunca sobre el colombia.html del clone a secas.
 
-2. Busca el balance más reciente de la UNGRD (fallecidos, heridos, desaparecidos, damnificados): `python3 docs/tareas/barrer_fuentes.py co --dias 2` y, con `curl -sL -A "<user-agent de Chrome>"`, los artículos de El Tiempo, Infobae, El Colombiano, Semana o la propia UNGRD (`https://www.gestiondelriesgo.gov.co/`). Exige fecha de corte explícita y cita la fuente.
+=========================================================
+3. BUSCAR EL BALANCE NUEVO EN LOS CANDIDATOS
+=========================================================
+En docs/tareas/candidatos-co.json, con el campo cuerpo, busca el balance más reciente de la UNGRD (fallecidos, heridos, desaparecidos, damnificados) con fecha de corte explícita. Fíjate en El Tiempo, Infobae, El Colombiano, Semana. Exige corte explícito y cita la fuente. Nunca mezcles cortes distintos ni sumes fuentes; si dos se contradicen, gana la UNGRD y anota la discrepancia.
 
-3. Compara con lo que ya hay en la página (`grep -o 'id="kpi[A-Za-z]*">[^<]*' colombia.html`). **Si las cifras no han cambiado, no toques el HTML**: no hay nada que publicar y decirlo es un resultado válido. Si han cambiado, actualiza los KPI y la fecha de corte con un script de Python (reemplazos exactos, nunca reescribir el archivo entero), sin inventar ningún dato que la fuente no dé.
+=========================================================
+4. COMPARAR Y EDITAR
+=========================================================
+    grep -o 'id="kpi[A-Za-z]*">[^<]*' colombia.html
+Si las cifras no cambiaron respecto a lo que ya hay, NO toques el HTML: no hay nada que publicar y decirlo es un resultado válido; ve directo al resumen final. Si cambiaron, edítalas con un script de Python de reemplazos EXACTOS (comprueba que el texto viejo aparece las veces esperadas); nunca reescribas el archivo entero ni inventes un dato que la fuente no dé. Actualiza también la fecha de corte visible.
 
-4. Nunca mezcles cortes distintos ni sumes cifras de fuentes distintas. Si dos medios se contradicen, quédate con el balance oficial de la UNGRD y anota la discrepancia.
+=========================================================
+5. COMPROBAR QUE EL HTML SIGUE ENTERO
+=========================================================
+    python3 - <<'PY'
+    s=open('colombia.html').read()
+    assert 'kpiFallecidos' in s and 'noticias-colombia.json' in s and '</html>' in s, 'HTML incompleto'
+    print('OK', len(s), 'bytes')
+    PY
+Si falla, PARA: «⚠️ NO PUBLICADO» + push.
 
-5. Antes de publicar comprueba que el HTML sigue entero: contiene `kpiFallecidos`, `noticias-colombia.json` y `</html>`, y su tamaño no se desvía más de un 2 % del de producción (`curl -sI https://apoyo-fem-vzla.org/colombia.html | grep -i content-length`).
+=========================================================
+6. PUBLICAR: COMMIT + PUSH A main
+=========================================================
+    git config user.name "sosvenezuela-bot" && git config user.email "bot@apoyo-fem-vzla.org"
+    git add colombia.html                      # SOLO este archivo; nunca git add -A
+    git commit -m "Balance CO $(date -u +%F): <cifras nuevas y corte>"
+    git pull --rebase origin main && git push origin main
+    git rev-parse --short HEAD
+Si el push falla: PushNotification («Balance CO: push a main bloqueado») + «⚠️ NO PUBLICADO».
 
-6. Publica con git (sin conector): en `/tmp/sv`, `git config user.name "sosvenezuela-bot" && git config user.email "bot@apoyo-fem-vzla.org"`, `git add colombia.html` (SOLO ese archivo), `git commit -m "Balance CO $(date -u +%F): <cifras nuevas y corte>"`, `git pull --rebase origin main && git push origin main`. Si el push falla por permisos, no busques otra vía: `PushNotification` («Balance CO: el push a main está bloqueado») y «⚠️ NO PUBLICADO».
+=========================================================
+7. VERIFICAR POR LA RAMA deploy
+=========================================================
+    sleep 90; git fetch -q origin deploy
+    git show origin/deploy:colombia.html | grep -o 'id="kpiFallecidos">[^<]*'
+Debe mostrar la cifra nueva. Si no, relanza (git commit --allow-empty -m redeploy && git push origin main) y repite; si sigue igual: PushNotification («Balance CO: deploy no reflejó el commit») + «⚠️ NO PUBLICADO».
 
-7. Verifica en producción, no el push: `sleep 90; curl -s "https://apoyo-fem-vzla.org/colombia.html?v=$RANDOM" | grep -o 'id="kpiFallecidos">[^<]*'` debe mostrar la cifra nueva. Si no, relanza el despliegue con `git commit --allow-empty -m "redeploy" && git push origin main` y comprueba de nuevo a los 90 s; si sigue igual, `PushNotification` («Balance CO: push OK pero producción no cambió») y respuesta que empieza por «⚠️ NO PUBLICADO».
-
-AL TERMINAR: di qué cifras había, cuáles hay ahora, con qué fecha de corte y de qué fuente. Si no cambió nada, dilo. Si algo falló, dilo sin adornos y manda la notificación push.
+AL TERMINAR: di qué cifras había, cuáles hay ahora, con qué corte y fuente. Si no cambió nada, dilo. No hagas commit de docs/tareas/ (son del recolector). Si algo falló, dilo sin adornos y manda la notificación push.
