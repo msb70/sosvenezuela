@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-01",
+  "actualizado": "2026-09-02",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260901-semana-replica-istmina",
+      "fecha": "2026-09-01",
+      "titulo": "Reportan nuevo temblor en Colombia en la noche del 1 de septiembre: el Servicio Geológico Colombiano confirma poca profundidad",
+      "resumen": "El Servicio Geológico Colombiano registró un sismo de magnitud 3,3 con epicentro en Istmina, Chocó, a 43 kilómetros de profundidad, dentro de la zona de la secuencia sísmica iniciada el 10 de agosto. La entidad mantiene la vigilancia permanente sobre las réplicas en el departamento.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/nacion/cali/articulo/reportan-nuevo-temblor-en-colombia-en-la-noche-del-1-de-septiembre-servicio-geologico-colombiano-confirma-poca-profundidad/202624/"
+    },
+    {
+      "id": "co-20260901-semana-educacion-pereira",
+      "fecha": "2026-09-01",
+      "titulo": "Cientos de estudiantes siguen afectados por el terremoto: Pereira avanza en su regreso a la normalidad educativa",
+      "resumen": "Con 4.290 centros educativos con daños reportados en todo el país, la Alcaldía de Pereira puso en marcha un plan de contingencia que incluye transporte para cerca de 8.000 estudiantes y un modelo de alternancia con clases presenciales los martes y jueves. Los alumnos de las instituciones dañadas serán trasladados temporalmente a colegios en mejores condiciones mientras avanzan las reparaciones.",
+      "fuente": "Semana",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.semana.com/nacion/pereira/articulo/cientos-de-estudiantes-siguen-afectados-por-el-terremoto-pereira-avanza-en-su-regreso-a-la-normalidad-educativa/202625/"
+    },
+    {
+      "id": "co-20260901-pulzo-icetex-eje-cafetero",
+      "fecha": "2026-09-01",
+      "titulo": "El Gobierno lanza la segunda fase de reconstrucción y anuncia alivios financieros para estudiantes y familias afectadas en el Eje Cafetero",
+      "resumen": "El Icetex suspende por tres meses el pago de cuotas y congela los intereses de los estudiantes damnificados. Las familias que perdieron su vivienda recibirán 1.050.000 pesos mensuales durante tres meses, un total de 3.150.000 pesos, con posible prórroga para propietarios. En la región funcionan siete albergues temporales con 1.092 personas alojadas y se han realizado 87 intervenciones especializadas en salud mental.",
+      "fuente": "Pulzo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.pulzo.com/nacion/icetex-alivios-y-ayudas-economicas-para-estudiantes-y-familias-tras-el-terremoto-en-pereira-PP5289965A"
+    },
+    {
+      "id": "co-20260901-pulzo-donaciones-empresas-valle",
+      "fecha": "2026-09-01",
+      "titulo": "Empresas del Valle del Cauca y sector académico coordinan donaciones multimillonarias tras el terremoto de agosto",
+      "resumen": "Las donaciones empresariales coordinadas en el Valle del Cauca superan los 130.000 millones de pesos. Sidoc y Harinera del Valle aportan 20.000 millones cada una, y Fanalca, Celsia, Manuelita, Colombina, Carvajal y la Organización De Lima 10.000 millones cada una. Universidades y organizaciones sociales habilitaron centros de acopio para distribuir la ayuda en Cali, el norte del Valle y Buenaventura.",
+      "fuente": "Pulzo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.pulzo.com/nacion/empresas-del-valle-del-cauca-lideran-donaciones-para-reconstruccion-tras-terremoto-en-cali-PP5290080A"
+    },
+    {
+      "id": "co-20260901-infobae-guatemala-ayuda",
+      "fecha": "2026-09-01",
+      "titulo": "Guatemala activa la cooperación bilateral y ordena el envío de ayuda humanitaria a Colombia tras el terremoto",
+      "resumen": "El Gobierno de Guatemala activó la cooperación bilateral y despachó por vía aérea, con apoyo logístico de DHL, kits de alimentos y de higiene personal para los damnificados del terremoto del 10 de agosto. La nota recoge el balance con corte al 31 de agosto: 331 fallecidos, 136 desaparecidos, más de 37.000 viviendas destruidas y 449.442 personas afectadas en 16 departamentos.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/guatemala/2026/09/01/gobierno-de-bernardo-arevalo-activa-la-cooperacion-bilateral-tras-el-terremoto-en-colombia-y-ordena-envio-de-ayuda-humanitaria/"
+    },
+    {
+      "id": "co-20260901-eltiempo-segunda-ola-ayudas",
+      "fecha": "2026-09-01",
+      "titulo": "A 23 días del terremoto, comienza segunda ola de ayudas para atender víctimas y reconstruir zonas golpeadas",
+      "resumen": "Arranca una segunda ronda de financiación para la recuperación. Las aseguradoras han desembolsado cerca de 43.000 millones de pesos en indemnizaciones, Bancolombia movilizará otros 30.000 millones y Postobón destinará 30.000 millones a recuperar negocios y sedes educativas. El PNUD estima que los daños totales llegarán a 30 billones de pesos, equivalentes al 2,3 % del PIB nacional.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/sectores/a-un-mes-del-terremoto-comienza-segunda-ola-de-ayudas-para-atender-victimas-y-reconstruir-zonas-golpeadas-3582625"
+    },
+    {
+      "id": "co-20260901-elpais-segunda-fase-estructuras",
+      "fecha": "2026-09-01",
+      "titulo": "Cali entró en la segunda fase de atención a las estructuras afectadas por el terremoto del 10 de agosto; conozca en qué consiste",
+      "resumen": "La Administración Distrital de Cali pasó a la segunda fase de evaluación de edificaciones dañadas, que prioriza las estructuras con mayores niveles de afectación y riesgo de colapso. Ingenieros especializados realizan inspecciones técnicas inmueble por inmueble para definir si cada estructura requiere reforzamiento, reparación o demolición.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/cali-entro-en-la-segunda-fase-de-atencion-a-las-estructuras-afectadas-por-el-terremoto-del-10-de-agosto-conozca-en-que-consiste-0135.html"
+    },
+    {
+      "id": "co-20260901-elpais-documentos-identidad",
+      "fecha": "2026-09-01",
+      "titulo": "Damnificados por el terremoto en Cali podrán obtener gratis sus documentos de identidad; así puede obtener el duplicado",
+      "resumen": "La Registraduría Nacional realizará una jornada gratuita de identificación en Cali entre el 2 y el 15 de septiembre para quienes perdieron sus documentos en el terremoto. Los duplicados de cédula y tarjeta de identidad se tramitan con registro de huella y rostro, de 8:00 a. m. a 4:00 p. m. Al 1 de septiembre la ciudad reportaba 40.097 familias damnificadas, 154 fallecidos y 16 desaparecidos.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/damnificados-por-el-terremoto-en-cali-podran-obtener-gratis-sus-documentos-de-identidad-asi-puede-obtener-el-duplicado-0113.html"
+    },
     {
       "id": "co-20260831-semana-balance-tres-semanas",
       "fecha": "2026-08-31",
@@ -23,6 +111,17 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://www.elpais.com.co/cali/patrullajes-y-control-de-accesos-las-medidas-de-cali-para-prevenir-hurtos-tras-el-sismo-los-estamos-cuidando-3025.html"
+    },
+    {
+      "id": "co-20260831-elcolombiano-balance-ungrd",
+      "fecha": "2026-08-31",
+      "titulo": "Tras 21 días del terremoto en Colombia, 136 personas siguen desaparecidas",
+      "resumen": "Balance de la UNGRD con corte al 31 de agosto a las 6:30 a. m.: 331 fallecidos, 4.505 heridos, 136 desaparecidos y 364 personas rescatadas. La emergencia afecta a 449.442 personas de 225.024 familias en 16 departamentos y 497 municipios. Hay 646 viviendas colapsadas, 37.255 destruidas y 198.720 con daños, además de 406 centros de salud, 4.268 sedes educativas, 462 vías, 122 acueductos y 91 puentes vehiculares afectados. El costo estimado de la reconstrucción se mantiene en 30 billones de pesos.",
+      "fuente": "El Colombiano",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elcolombiano.com/colombia/terremoto-colombia-cifras-actualizada-ungrd-136-desaparecidos-JG40464872"
     },
     {
       "id": "co-20260830-eltiempo-balance-nacional",

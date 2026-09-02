@@ -1,7 +1,96 @@
 {
-  "actualizado": "2026-09-01",
+  "actualizado": "2026-09-02",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260901-unicef-sitrep-8",
+      "fecha": "2026-09-01",
+      "titulo": "Unicef publica su Reporte de Situación N.° 8 sobre la respuesta al terremoto",
+      "resumen": "Balance de Unicef correspondiente al periodo del 4 al 17 de agosto, centrado en la transición de la respuesta de emergencia a la recuperación temprana. Hasta la fecha ha atendido a 37.901 personas con servicios de atención primaria de salud, incluidas 27.963 mediante vacunación de emergencia; ha llevado agua potable segura a 16.661 personas; ha brindado apoyo psicosocial y de salud mental a 9.298 niños, adolescentes y cuidadores; y ha evaluado a 6.872 niños por emaciación. En educación entregó material escolar a 2.075 niños y adolescentes y formó a 568 docentes y personal educativo en Educación en Emergencias y apoyo psicosocial. Ha movilizado 25,7 millones de dólares de los 65,7 millones requeridos en el adendo de respuesta al terremoto, con una brecha de financiación de 40 millones.",
+      "fuente": "Unicef · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/unicef-venezuela-humanitarian-situation-report-no-8-earthquake-response-4-17-august-2026"
+    },
+    {
+      "id": "ve-20260901-pma-ltc-telecoms-07",
+      "fecha": "2026-09-01",
+      "titulo": "El clúster de telecomunicaciones prepara el cierre escalonado de los campamentos temporales",
+      "resumen": "Reporte de situación N.° 7 del área de Telecomunicaciones del Clúster de Logística y Telecomunicaciones (LTC), liderado por el PMA, correspondiente al 15-31 de agosto. Nueve semanas después de los terremotos, la respuesta transita de las operaciones de emergencia para salvar vidas a la recuperación. El coordinador interagencial acompaña la preparación del cierre escalonado de los campamentos operativos temporales en los que aún se prestan servicios de telecomunicaciones interagenciales, alineando el repliegue del servicio con los plazos de cierre de los campamentos. Antes de que su misión termine el 6 de septiembre, traspasará formalmente sus funciones a la oficina de país del PMA como agencia líder del clúster.",
+      "fuente": "PMA · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquakes-ltc-situation-report-telecoms-07-reporting-period-15-31-august-2026"
+    },
+    {
+      "id": "ve-20260901-ocha-guia-importacion",
+      "fecha": "2026-09-01",
+      "titulo": "OCHA actualiza la Guía Operativa N.° 2 para la importación de asistencia humanitaria en Venezuela",
+      "resumen": "Nueva versión de la guía operativa que orienta a las organizaciones humanitarias sobre los trámites de importación de asistencia hacia Venezuela, con corte al 31 de agosto de 2026. El documento recoge las experiencias compartidas por organizaciones humanitarias y agentes de aduana y advierte de que algunos procedimientos continúan en proceso de aclaración por parte de las autoridades.",
+      "fuente": "OCHA · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/guia-operativa-ndeg-2-para-la-importacion-de-asistencia-humanitaria-en-venezuela-ultima-actualizacion-agosto-31-2026"
+    },
+    {
+      "id": "ve-20260901-lapatilla-tachira-sismorresistencia",
+      "fecha": "2026-09-01",
+      "titulo": "Expertos evalúan edificaciones clave en Táchira para reforzar su resistencia sísmica",
+      "resumen": "Un equipo de sismólogos, geólogos e ingenieros vinculados a Funvisis y a la Universidad Central de Venezuela se reunió el 1 de septiembre en la sede del Cuerpo de Bomberos de San Cristóbal con Protección Civil regional y el Colegio de Ingenieros del estado para identificar qué edificaciones necesitan refuerzo estructural y seguir operativas ante un sismo de mediana o alta intensidad. Los expertos —entre ellos André Singer y Frank Audemard— también se reunieron con la Policlínica Táchira para revisar, conforme a las nuevas normas sismorresistentes, el comportamiento de los principales centros de salud privados de San Cristóbal y otros municipios. Sus recomendaciones se implementarán a corto plazo.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/01/expertos-evaluan-edificaciones-clave-en-tachira-para-reforzar-su-resistencia-sismica/"
+    },
+    {
+      "id": "ve-20260901-infobae-creditos-damnificados",
+      "fecha": "2026-09-01",
+      "titulo": "Damnificados de La Guaira denuncian trabas registrales para acceder a los créditos de vivienda",
+      "resumen": "Cientos de familias afectadas por los terremotos del 24 de junio denuncian que el Servicio Autónomo de Registros y Notarías (Saren) se ha convertido en un cuello de botella para tramitar las ayudas a la vivienda. El programa de crédito social exige presentar el título de propiedad registrado del inmueble, y tras declararse La Guaira zona de desastre el Saren trasladó los archivos del estado a Caracas para digitalizarlos, lo que en la práctica dificulta las diligencias de los residentes del litoral central. El plan hipotecario anunciado tiene un tope de 100.000 dólares, con 12 meses de gracia, 5 % de interés anual y 1 % anual por mora sobre las cuotas vencidas.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/01/venezuela-damnificados-por-terremotos-denuncian-trabas-para-solicitar-creditos-hipotecarios/"
+    },
+    {
+      "id": "ve-20260901-infobae-construcciones-laguaira",
+      "fecha": "2026-09-01",
+      "titulo": "Ingenieros piden auditar los complejos habitacionales de La Guaira que siguen en pie tras los derrumbes",
+      "resumen": "Reportaje sobre la calidad constructiva de los desarrollos de vivienda levantados en La Guaira con financiamiento externo, varios de los cuales quedaron reducidos a escombros el 24 de junio. Reuters documentó que parte de un complejo de 1.100 unidades en el estado quedó arrasada por los sismos y recogió la petición de ingenieros para que el Gobierno audite de inmediato otros conjuntos todavía en pie. El texto señala que en la mayoría de los casos las autoridades venezolanas no tenían acceso a los planos ni ejercían supervisión de las obras. El USGS ubicó el sismo principal cerca de Catia La Mar, a unos 10 kilómetros de profundidad.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/01/controles-nulos-y-escombros-el-resultado-de-las-construcciones-chinas-en-la-guaira-el-nucleo-del-sismo-en-venezuela/"
+    },
+    {
+      "id": "ve-20260901-efectococuyo-maiquetia-reapertura",
+      "fecha": "2026-09-01",
+      "titulo": "Maiquetía reabre con dos terminales temporales y un itinerario reducido de ocho vuelos",
+      "resumen": "El Aeropuerto Internacional Simón Bolívar reanudó sus operaciones comerciales el martes 1 de septiembre, tras 69 días de paralización por los daños del doble terremoto del 24 de junio. La jornada arrancó con cuatro vuelos internacionales de llegada y cuatro de salida. Las estructuras provisionales tienen capacidad conjunta para 2.168 usuarios y cuentan con climatización, wifi, salas de espera, puntos de carga, área médica y rampas de acceso. El ministro de Transporte, Francisco Garcés, proyectó alcanzar el 40 % de la capacidad en un par de meses y el 60 % a finales de año o principios del próximo, y pidió a los viajeros llegar con dos horas de antelación en vuelos nacionales y tres en internacionales. En las tres primeras semanas de septiembre se prevé la reincorporación de 14 aerolíneas.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/usuarios-y-trabajadores-retoman-la-rutina-entre-carpas-y-controles-tras-reapertura-de-maiquetia/"
+    },
+    {
+      "id": "ve-20260901-cronicauno-maiquetia-provisionales",
+      "fecha": "2026-09-01",
+      "titulo": "Maiquetía retoma vuelos con terminales provisionales y la reconstrucción definitiva aún pendiente",
+      "resumen": "El reinicio de operaciones del 1 de septiembre es el primer termómetro operativo del principal terminal aéreo del país tras el doblete sísmico del 24 de junio, con epicentro en La Guaira, muy cerca de la terminal. Las dos estructuras temporales —720 pasajeros en el área internacional y 496 en la nacional— funcionarán como tránsito hacia la reconstrucción definitiva, coordinada para el primer trimestre de 2027. Los primeros vuelos salieron a las 8:00 y 10:00 a. m. hacia Valera y Porlamar. Agentes de viaje consultados por el medio reportaron que los trámites transcurrieron sin contratiempos pese al alto flujo de usuarios en el área internacional.",
+      "fuente": "Crónica.Uno",
+      "autor": "Juan Carlos Salas",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/maiquetia-retoma-vuelos-terminales-provisionales-reconstruccion-pendiente/"
+    },
     {
       "id": "ve-20260831-lapatilla-puerto-laguaira",
       "fecha": "2026-08-31",
