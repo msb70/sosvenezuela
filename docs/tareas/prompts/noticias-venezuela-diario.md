@@ -12,14 +12,14 @@ Tu entorno SOLO tiene red hacia GitHub: NO puedes leer prensa ni apoyo-fem-vzla.
 =========================================================
     git clone --depth 1 https://github.com/msb70/sosvenezuela.git /tmp/sv && cd /tmp/sv
     cat docs/tareas/RUNBOOK-PUBLICAR.md docs/tareas/CRITERIO-VE.md
-    python3 - <<'PY'
-    import json,datetime,sys
-    d=json.load(open('docs/tareas/candidatos-ve.json'))
-    gen=d['generado'][:10]; hoy=datetime.date.today().isoformat()
-    print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
-    if gen!=hoy or d['fuentes_leidas']==0:
-        print('STOP: la materia prima no es de hoy o no se leyó ninguna fuente'); sys.exit(2)
-    PY
+python3 - <<'PY'
+import json,datetime,sys
+d=json.load(open('docs/tareas/candidatos-ve.json'))
+gen=d['generado'][:10]; hoy=datetime.date.today().isoformat()
+print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
+if gen!=hoy or d['fuentes_leidas']==0:
+    print('STOP: la materia prima no es de hoy o no se leyó ninguna fuente'); sys.exit(2)
+PY
 Si ese bloque termina con STOP / código distinto de 0, el recolector de Actions no corrió hoy: NO publiques a ciegas. Manda PushNotification («Noticias VE: sin materia prima fresca de Actions — no publicado») y responde empezando por «⚠️ NO PUBLICADO». (Puedes forzar el recolector si tienes gh: `gh workflow run recolectar.yml` y reintentar en 3 min; si no, para.)
 
 =========================================================

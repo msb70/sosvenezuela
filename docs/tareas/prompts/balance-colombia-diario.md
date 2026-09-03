@@ -10,13 +10,13 @@ Tu entorno SOLO tiene red hacia GitHub. NO leas prensa ni apoyo-fem-vzla.org (da
 =========================================================
     git clone --depth 1 https://github.com/msb70/sosvenezuela.git /tmp/sv && cd /tmp/sv
     cat docs/tareas/RUNBOOK-PUBLICAR.md docs/tareas/CRITERIO-CO.md
-    python3 - <<'PY'
-    import json,datetime,sys
-    d=json.load(open('docs/tareas/candidatos-co.json'))
-    print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
-    if d['generado'][:10]!=datetime.date.today().isoformat() or d['fuentes_leidas']==0:
-        print('STOP'); sys.exit(2)
-    PY
+python3 - <<'PY'
+import json,datetime,sys
+d=json.load(open('docs/tareas/candidatos-co.json'))
+print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
+if d['generado'][:10]!=datetime.date.today().isoformat() or d['fuentes_leidas']==0:
+    print('STOP'); sys.exit(2)
+PY
 Si termina en STOP: PushNotification («Balance CO: sin materia prima de Actions») + «⚠️ NO PUBLICADO».
 
 =========================================================
@@ -40,11 +40,11 @@ Si las cifras no cambiaron respecto a lo que ya hay, NO toques el HTML: no hay n
 =========================================================
 5. COMPROBAR QUE EL HTML SIGUE ENTERO
 =========================================================
-    python3 - <<'PY'
-    s=open('colombia.html').read()
-    assert 'kpiFallecidos' in s and 'noticias-colombia.json' in s and '</html>' in s, 'HTML incompleto'
-    print('OK', len(s), 'bytes')
-    PY
+python3 - <<'PY'
+s=open('colombia.html').read()
+assert 'kpiFallecidos' in s and 'noticias-colombia.json' in s and '</html>' in s, 'HTML incompleto'
+print('OK', len(s), 'bytes')
+PY
 Si falla, PARA: «⚠️ NO PUBLICADO» + push.
 
 =========================================================
