@@ -36,7 +36,18 @@ docs/tareas/candidatos-co.json trae, por candidato: fuente, titulo, url, fecha (
 =========================================================
 4. ESCRIBIR EL JSON CON UN SCRIPT
 =========================================================
-Script en /tmp/add.py: carga noticias-colombia.json, añade los items que elegiste descartando los que ya tengan ese id O esa url, ordena por (fecha, id) desc, pone actualizado = HOY aunque no haya nada nuevo, escribe con json.dump(..., ensure_ascii=False, indent=2). id: co-AAAAMMDD-medio-tema. fuente EXACTAMENTE como las cadenas ya existentes (la prensa de Cali va siempre como El País (Cali)).
+Script en /tmp/add.py: carga noticias-colombia.json, añade los items que elegiste descartando los que ya tengan ese id O esa url, ordena por (fecha, id) desc, pone actualizado = HOY aunque no haya nada nuevo, escribe con json.dump(..., ensure_ascii=False, indent=2).
+
+ESQUEMA DE CADA ITEM — los 8 campos, todos obligatorios. `validar_noticias.py` EXIGE id, fecha, titulo, resumen, fuente, categoria y url: si falta uno solo, el paso 5 falla y no publicas. Cópiate un item existente de produccion-co.json y rellena por encima.
+  id          "co-AAAAMMDD-medio-tema"
+  fecha       "AAAA-MM-DD" (la del artículo, no la de hoy)
+  titulo      redactado por ti
+  resumen     redactado por ti, 2-3 frases con el dato y la fuente
+  fuente      EXACTAMENTE una de las cadenas ya existentes (la prensa de Cali va siempre como El País (Cali))
+  categoria   EXACTAMENTE una de: Ayuda humanitaria | Reconstrucción | Infraestructura y servicios | Educación | Salud | Balance y cifras | Réplicas y sismología | Rescates y búsqueda
+  tipo        "noticia" | "oficial" (organismos: UNGRD, OCHA, Unicef…)
+  tipoFuente  "medio" | "oficial"
+  url         la del artículo, empezando por https://
 
 =========================================================
 5. VALIDAR — SI FALLA, NO PUBLIQUES
