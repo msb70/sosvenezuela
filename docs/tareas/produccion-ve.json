@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-09-02",
+  "actualizado": "2026-09-03",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260903-lapatilla-fenasopadres-ano-escolar",
+      "fecha": "2026-09-03",
+      "titulo": "Fenasopadres reclama información sobre el estado de los planteles antes del inicio de clases del 14 de septiembre",
+      "resumen": "El año escolar 2026-2027 empieza el 14 de septiembre con daños en la infraestructura educativa de siete estados por el doblete sísmico, según un reportaje de Radio Fe y Alegría recogido por La Patilla. Nancy Hernández de Marín, de Fenasopadres, señaló que la falta de información oficial sobre los planes de rehabilitación genera incertidumbre en las familias, que desconocen el estado real de los planteles y cómo se atenderá a la matrícula de las zonas más afectadas.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/03/hay-condiciones-en-venezuela-para-iniciar-el-ano-escolar-tras-el-doble-terremoto/"
+    },
+    {
+      "id": "ve-20260903-elnacional-provea-cifras",
+      "fecha": "2026-09-03",
+      "titulo": "Provea pide actualizar las cifras de fallecidos y desaparecidos, sin cambios desde el 24 de agosto",
+      "resumen": "La ONG Provea denunció que el balance oficial de fallecidos por los terremotos del 24 de junio lleva más de una semana sin actualizarse (6.509 víctimas, reporte del 24 de agosto) y que la cifra de desaparecidos se mantiene en 157 desde el 25 de junio, según El Nacional. La organización exigió un registro público y la difusión permanente de los datos, y recordó que los partes oficiales pasaron de diarios a semanales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/provea-denuncia-que-el-gobierno-interino-no-actualiza-cifra-de-fallecidos-por-los-terremotos-desde-el-24-de-agosto/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/09/provea-denuncia-que-el-gobierno-interino-no-actualiza-cifra-de-fallecidos-por-los-terremotos-desde-el-24-de-agosto/"
+    },
+    {
+      "id": "ve-20260903-elnacional-maiquetia-2027",
+      "fecha": "2026-09-03",
+      "titulo": "El Ministerio de Transporte prevé reactivar el terminal principal de Maiquetía a mediados de 2027",
+      "resumen": "El ministro de Transporte, Francisco Garcés, dijo que las instalaciones principales del aeropuerto Simón Bolívar podrían empezar a reactivarse a finales del primer semestre de 2027, según El Nacional. Las zonas con etiqueta roja perdieron paredes, cableado y tuberías. Mientras tanto operan los terminales temporales abiertos el 1 de septiembre, con capacidad para 500 pasajeros en vuelos nacionales y 760 en internacionales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ministro-de-transporte-preve-que-el-aeropuerto-de-maiquetia-se-reactive-a-mediados-de-2027/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/09/ministro-de-transporte-preve-que-el-aeropuerto-de-maiquetia-se-reactive-a-mediados-de-2027/"
+    },
     {
       "id": "ve-20260902-elnacional-regreso-clases",
       "fecha": "2026-09-02",
@@ -14,6 +49,40 @@
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/preocupan-seguridad-en-escuelas-y-el-trauma-por-los-terremotos/",
       "espejo": "https://bitlysdowssl-aws.com/2026/09/preocupan-seguridad-en-escuelas-y-el-trauma-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260902-elnacional-colombia-ayuda-rd",
+      "fecha": "2026-09-02",
+      "titulo": "Colombia recibe 50 toneladas de ayuda humanitaria de República Dominicana para el Chocó",
+      "resumen": "El buque Almirante Didiez Burgos llegó a Cartagena con alimentos no perecederos, herramientas, medicamentos y kits de aseo donados por República Dominicana para los damnificados del terremoto del 10 de agosto, informó la Armada colombiana según El Nacional. La carga se trasladará desde Turbo por el río Atrato hasta Quibdó y los asentamientos ribereños del Chocó. La comunidad internacional ha despachado 640 toneladas de insumos en tres semanas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Colombia",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/colombia-recibe-50-toneladas-de-ayuda-humanitaria-de-republica-dominicana-para-atender-la-emergencia-por-el-terremoto/",
+      "espejo": "https://bitlysdowssl-aws.com/2026/09/colombia-recibe-50-toneladas-de-ayuda-humanitaria-de-republica-dominicana-para-atender-la-emergencia-por-el-terremoto/"
+    },
+    {
+      "id": "ve-20260902-cronicauno-ley-arrendamiento",
+      "fecha": "2026-09-02",
+      "titulo": "La nueva ley de arrendamiento busca reactivar el alquiler de viviendas tras los sismos, pero los propietarios dudan",
+      "resumen": "La Asamblea Nacional aprobó la Ley del Régimen Especial de Arrendamiento de Inmuebles destinada a viviendas para ampliar la oferta de alquiler tras el doblete sísmico, con libre fijación del canon y pago en divisas o bolívares a tasa oficial, según Crónica.Uno. Propietarios en Caracas mantienen inmuebles vacíos por desconfianza, mientras el sector inmobiliario prevé una reactivación. El último balance oficial cuenta 11.001 inmuebles de alto riesgo entre 60.785 inspeccionados.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/reforma-legal-reactivar-alquileres-no-disipa-temor-duenos-perder-casas/"
+    },
+    {
+      "id": "ve-20260902-cronicauno-la-pastora-edificio",
+      "fecha": "2026-09-02",
+      "titulo": "Seis de 17 familias siguen en un edificio con etiqueta roja en La Pastora dos meses después de los sismos",
+      "resumen": "En el edificio Santa Margarita, en la avenida Norte 14 de La Pastora (Caracas), solo seis de las 17 familias permanecen; el resto se mudó de forma temporal con familiares, según Crónica.Uno. La estructura de seis pisos tiene etiqueta roja de Protección Civil en planta baja y primer piso, con una pared exterior derrumbada y columnas fracturadas, y los vecinos esperan ayuda oficial sin presupuesto para reparar.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/seis-familias-edificio-inhabitable-la-pastora-terremotos/"
     },
     {
       "id": "ve-20260901-unicef-sitrep-8",
