@@ -14,28 +14,6 @@
       "url": "https://www.infobae.com/colombia/2026/09/07/estas-son-las-siete-medidas-de-vivienda-y-creditos-blandos-para-los-damnificados-por-el-terremoto-del-10-de-agosto-que-el-gobierno-anuncio/"
     },
     {
-      "id": "co-20260906-elpais-40000-millones-valle",
-      "fecha": "2026-09-06",
-      "titulo": "El Gobierno nacional destina 40.000 millones de pesos a reactivar comercio, turismo y vivienda en el Valle tras el sismo",
-      "resumen": "El paquete incluye créditos a tasa IBR + 0 % para comerciantes y empresarios afectados y la habilitación de 24 inmuebles de la Sociedad de Activos Especiales (SAE) en Cali para uso de los damnificados. Los anuncios se hicieron durante la visita presidencial del 5 de septiembre a Cali, con entrega de materiales y maquinaria de construcción en la unidad deportiva Alberto Galindo.",
-      "fuente": "El País (Cali)",
-      "tipoFuente": "medio",
-      "categoria": "Reconstrucción",
-      "tipo": "noticia",
-      "url": "https://www.elpais.com.co/valle/inyeccion-de-40000-millones-para-el-valle-gobierno-de-la-espriella-anuncia-millonario-paquete-para-reactivar-comercio-y-turismo-tras-sismo-0603.html"
-    },
-    {
-      "id": "co-20260906-elpais-subsidios-directos-cali-valle",
-      "fecha": "2026-09-06",
-      "titulo": "Comienza la entrega de subsidios directos a familias damnificadas en Cali y el Valle",
-      "resumen": "El Ministerio de Vivienda y el Icetex habilitaron partidas para subsidios directos y medidas de congelación crediticia destinadas a mitigar el impacto socioeconómico del terremoto del 10 de agosto en Cali y los municipios vecinos. El País detalla el proceso y los requisitos para acceder a las ayudas.",
-      "fuente": "El País (Cali)",
-      "tipoFuente": "medio",
-      "categoria": "Ayuda humanitaria",
-      "tipo": "noticia",
-      "url": "https://www.elpais.com.co/cali/inicia-entrega-de-subsidios-directos-a-familias-damnificadas-por-sismo-en-cali-y-el-valle-detalles-del-proceso-0632.html"
-    },
-    {
       "id": "co-20260906-eltiempo-minvivienda-estratos-4-5-6",
       "fecha": "2026-09-06",
       "titulo": "Minvivienda prepara dos mecanismos para los hogares de estratos 4, 5 y 6 que perdieron su vivienda en Cali",
@@ -58,26 +36,26 @@
       "url": "https://www.eltiempo.com/colombia/cali/cali-confirma-que-sus-vias-y-puentes-son-seguros-tras-el-terremoto-y-acelera-su-recuperacion-3583998"
     },
     {
-      "id": "co-20260906-elpais-plan-vial-acueductos-puentes",
+      "id": "co-20260906-eltiempo-antioquia-mil-toneladas-materiales",
       "fecha": "2026-09-06",
-      "titulo": "El Valle prioriza acueductos y puentes en su plan vial de reconstrucción, con vigencias futuras de la Nación",
-      "resumen": "El Gobierno nacional garantizó presupuesto mediante vigencias futuras para acelerar las obras de agua potable y saneamiento en los municipios golpeados por el sismo. La Gobernación del Valle y el Gobierno revisaron el plan de inversiones para la reconstrucción de acueductos y puentes del departamento.",
-      "fuente": "El País (Cali)",
+      "titulo": "Más de mil toneladas de materiales ponen en marcha la reconstrucción de viviendas en el Suroeste antioqueño",
+      "resumen": "A través del Banco Virtual de Materiales de la Empresa de Vivienda de Antioquia (VIVA) se han distribuido cemento, ladrillos, adobes, tejas, madera y varillas en siete municipios: Caramanta, Hispania, Betania, Andes, Tarso, Valparaíso y Salgar. El plan contempla acompañar 704 intervenciones en techos y paredes, con apoyo del DAGRAN y las alcaldías.",
+      "fuente": "El Tiempo",
       "tipoFuente": "medio",
-      "categoria": "Infraestructura y servicios",
+      "categoria": "Reconstrucción",
       "tipo": "noticia",
-      "url": "https://www.elpais.com.co/valle/priorizan-acueductos-y-puentes-en-plan-vial-de-reconstruccion-del-valle-0621.html"
+      "url": "https://www.eltiempo.com/colombia/medellin/mas-de-mil-toneladas-de-materiales-ponen-en-marcha-la-reconstruccion-de-viviendas-tras-el-terremoto-en-antioquia-3584029"
     },
     {
-      "id": "co-20260906-elpais-portal-valle-reconstruimos-juntos",
+      "id": "co-20260906-elpais-subsidios-directos-cali-valle",
       "fecha": "2026-09-06",
-      "titulo": "La Gobernación del Valle lanza el portal 'El Valle lo reconstruimos juntos' para consultar datos del sismo y donar",
-      "resumen": "La plataforma permite a la ciudadanía y al sector privado identificar las necesidades urgentes de cada municipio y realizar donaciones para los damnificados. Los despachos de ayuda humanitaria hacia los municipios se registran en tiempo real en el portal oficial.",
+      "titulo": "Comienza la entrega de subsidios directos a familias damnificadas en Cali y el Valle",
+      "resumen": "El Ministerio de Vivienda y el Icetex habilitaron partidas para subsidios directos y medidas de congelación crediticia destinadas a mitigar el impacto socioeconómico del terremoto del 10 de agosto en Cali y los municipios vecinos. El País detalla el proceso y los requisitos para acceder a las ayudas.",
       "fuente": "El País (Cali)",
       "tipoFuente": "medio",
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
-      "url": "https://www.elpais.com.co/valle/el-valle-lo-reconstruimos-juntos-el-nuevo-portal-para-consultar-datos-del-sismo-y-donar-a-los-damnificados-0609.html"
+      "url": "https://www.elpais.com.co/cali/inicia-entrega-de-subsidios-directos-a-familias-damnificadas-por-sismo-en-cali-y-el-valle-detalles-del-proceso-0632.html"
     },
     {
       "id": "co-20260906-elpais-roldanillo-demolicion",
@@ -91,26 +69,48 @@
       "url": "https://www.elpais.com.co/valle/roldanillo-inicia-demolicion-de-edificios-afectados-por-el-terremoto-del-10-de-agosto-0602.html"
     },
     {
-      "id": "co-20260906-eltiempo-antioquia-mil-toneladas-materiales",
+      "id": "co-20260906-elpais-portal-valle-reconstruimos-juntos",
       "fecha": "2026-09-06",
-      "titulo": "Más de mil toneladas de materiales ponen en marcha la reconstrucción de viviendas en el Suroeste antioqueño",
-      "resumen": "A través del Banco Virtual de Materiales de la Empresa de Vivienda de Antioquia (VIVA) se han distribuido cemento, ladrillos, adobes, tejas, madera y varillas en siete municipios: Caramanta, Hispania, Betania, Andes, Tarso, Valparaíso y Salgar. El plan contempla acompañar 704 intervenciones en techos y paredes, con apoyo del DAGRAN y las alcaldías.",
-      "fuente": "El Tiempo",
+      "titulo": "La Gobernación del Valle lanza el portal 'El Valle lo reconstruimos juntos' para consultar datos del sismo y donar",
+      "resumen": "La plataforma permite a la ciudadanía y al sector privado identificar las necesidades urgentes de cada municipio y realizar donaciones para los damnificados. Los despachos de ayuda humanitaria hacia los municipios se registran en tiempo real en el portal oficial.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/el-valle-lo-reconstruimos-juntos-el-nuevo-portal-para-consultar-datos-del-sismo-y-donar-a-los-damnificados-0609.html"
+    },
+    {
+      "id": "co-20260906-elpais-plan-vial-acueductos-puentes",
+      "fecha": "2026-09-06",
+      "titulo": "El Valle prioriza acueductos y puentes en su plan vial de reconstrucción, con vigencias futuras de la Nación",
+      "resumen": "El Gobierno nacional garantizó presupuesto mediante vigencias futuras para acelerar las obras de agua potable y saneamiento en los municipios golpeados por el sismo. La Gobernación del Valle y el Gobierno revisaron el plan de inversiones para la reconstrucción de acueductos y puentes del departamento.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/priorizan-acueductos-y-puentes-en-plan-vial-de-reconstruccion-del-valle-0621.html"
+    },
+    {
+      "id": "co-20260906-elpais-40000-millones-valle",
+      "fecha": "2026-09-06",
+      "titulo": "El Gobierno nacional destina 40.000 millones de pesos a reactivar comercio, turismo y vivienda en el Valle tras el sismo",
+      "resumen": "El paquete incluye créditos a tasa IBR + 0 % para comerciantes y empresarios afectados y la habilitación de 24 inmuebles de la Sociedad de Activos Especiales (SAE) en Cali para uso de los damnificados. Los anuncios se hicieron durante la visita presidencial del 5 de septiembre a Cali, con entrega de materiales y maquinaria de construcción en la unidad deportiva Alberto Galindo.",
+      "fuente": "El País (Cali)",
       "tipoFuente": "medio",
       "categoria": "Reconstrucción",
       "tipo": "noticia",
-      "url": "https://www.eltiempo.com/colombia/medellin/mas-de-mil-toneladas-de-materiales-ponen-en-marcha-la-reconstruccion-de-viviendas-tras-el-terremoto-en-antioquia-3584029"
+      "url": "https://www.elpais.com.co/valle/inyeccion-de-40000-millones-para-el-valle-gobierno-de-la-espriella-anuncia-millonario-paquete-para-reactivar-comercio-y-turismo-tras-sismo-0603.html"
     },
     {
-      "id": "co-20260905-elpais-cali-cifras-5-septiembre",
+      "id": "co-20260905-eltiempo-nueva-york-34-toneladas",
       "fecha": "2026-09-05",
-      "titulo": "Cali actualiza su balance al 5 de septiembre: 154 fallecidos, 45.139 familias damnificadas y 765 edificaciones inhabitables",
-      "resumen": "La Alcaldía de Cali declara que la ciudad entra en fase de estabilización tras el terremoto del 10 de agosto y actualiza el estado de familias damnificadas, edificaciones inspeccionadas y operativos de atención humanitaria. Es el balance municipal de Cali, no el nacional de la UNGRD (331 fallecidos con corte al 3 de septiembre).",
-      "fuente": "El País (Cali)",
+      "titulo": "Colombianos en Nueva York piden apoyo logístico para enviar 34 toneladas de ayuda humanitaria",
+      "resumen": "Un colectivo de la diáspora en Estados Unidos recolectó decenas de toneladas de asistencia para las comunidades afectadas por el terremoto del 10 de agosto, y ahora busca apoyo logístico para coordinar el envío desde Estados Unidos hasta las zonas más golpeadas.",
+      "fuente": "El Tiempo",
       "tipoFuente": "medio",
-      "categoria": "Balance y cifras",
+      "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
-      "url": "https://www.elpais.com.co/cali/actualizan-cifras-a-5-de-septiembre-del-terremoto-en-cali-154-muertos-45139-familias-damnificadas-y-765-edificaciones-inhabitables-0501.html"
+      "url": "https://www.eltiempo.com/colombia/comunidad-de-colombianos-en-nueva-york-pide-ayuda-para-enviar-34-toneladas-de-asistencia-humanitaria-a-los-afectados-por-el-terremoto-3583872"
     },
     {
       "id": "co-20260905-eltiempo-buga-69200-millones",
@@ -124,15 +124,15 @@
       "url": "https://www.eltiempo.com/colombia/cali/69-200-millones-para-levantar-a-buga-presidente-de-la-espriella-y-la-gobernadora-del-valle-anuncian-paquete-historico-tras-el-terremoto-3583859"
     },
     {
-      "id": "co-20260905-eltiempo-nueva-york-34-toneladas",
+      "id": "co-20260905-elpais-cali-cifras-5-septiembre",
       "fecha": "2026-09-05",
-      "titulo": "Colombianos en Nueva York piden apoyo logístico para enviar 34 toneladas de ayuda humanitaria",
-      "resumen": "Un colectivo de la diáspora en Estados Unidos recolectó decenas de toneladas de asistencia para las comunidades afectadas por el terremoto del 10 de agosto, y ahora busca apoyo logístico para coordinar el envío desde Estados Unidos hasta las zonas más golpeadas.",
-      "fuente": "El Tiempo",
+      "titulo": "Cali actualiza su balance al 5 de septiembre: 154 fallecidos, 45.139 familias damnificadas y 765 edificaciones inhabitables",
+      "resumen": "La Alcaldía de Cali declara que la ciudad entra en fase de estabilización tras el terremoto del 10 de agosto y actualiza el estado de familias damnificadas, edificaciones inspeccionadas y operativos de atención humanitaria. Es el balance municipal de Cali, no el nacional de la UNGRD (331 fallecidos con corte al 3 de septiembre).",
+      "fuente": "El País (Cali)",
       "tipoFuente": "medio",
-      "categoria": "Ayuda humanitaria",
+      "categoria": "Balance y cifras",
       "tipo": "noticia",
-      "url": "https://www.eltiempo.com/colombia/comunidad-de-colombianos-en-nueva-york-pide-ayuda-para-enviar-34-toneladas-de-asistencia-humanitaria-a-los-afectados-por-el-terremoto-3583872"
+      "url": "https://www.elpais.com.co/cali/actualizan-cifras-a-5-de-septiembre-del-terremoto-en-cali-154-muertos-45139-familias-damnificadas-y-765-edificaciones-inhabitables-0501.html"
     },
     {
       "id": "co-20260903-eltiempo-estafa-lotes-risaralda",

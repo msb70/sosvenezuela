@@ -25,17 +25,6 @@
       "url": "https://www.elnacional.com/2026/09/cruz-roja-venezolana-supero-las-4-000-familias-asistidas-desde-los-terremotos/"
     },
     {
-      "id": "ve-20260905-elnacional-comision-63179-evaluadas",
-      "fecha": "2026-09-05",
-      "titulo": "La Comisión Presidencial de Habitabilidad eleva a 63.179 las edificaciones evaluadas: 18 % en rojo",
-      "resumen": "Según el reporte actualizado al 4 de septiembre, 36.698 inmuebles recibieron etiqueta verde (58 %), 14.920 amarilla (24 %) y 11.561 roja (18 %). El proceso, que sigue en marcha más de dos meses después de los sismos, ha desplegado 3.084 inspectores y suma en los últimos días acompañamiento técnico de especialistas internacionales.",
-      "fuente": "El Nacional",
-      "tipoFuente": "medio",
-      "categoria": "Balance y cifras",
-      "tipo": "noticia",
-      "url": "https://www.elnacional.com/2026/09/comision-presidencial-actualizo-balance-63-179-edificaciones-fueron-evaluadas-tras-los-terremotos/"
-    },
-    {
       "id": "ve-20260905-elnacional-plus-ultra-maiquetia",
       "fecha": "2026-09-05",
       "titulo": "Plus Ultra retoma sus vuelos a Maiquetía a partir del 8 de septiembre",
@@ -56,6 +45,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/demolieron-las-torres-a-y-b-del-complejo-residencial-luisa-caceres-de-arismendi-en-playa-grande/"
+    },
+    {
+      "id": "ve-20260905-elnacional-comision-63179-evaluadas",
+      "fecha": "2026-09-05",
+      "titulo": "La Comisión Presidencial de Habitabilidad eleva a 63.179 las edificaciones evaluadas: 18 % en rojo",
+      "resumen": "Según el reporte actualizado al 4 de septiembre, 36.698 inmuebles recibieron etiqueta verde (58 %), 14.920 amarilla (24 %) y 11.561 roja (18 %). El proceso, que sigue en marcha más de dos meses después de los sismos, ha desplegado 3.084 inspectores y suma en los últimos días acompañamiento técnico de especialistas internacionales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/comision-presidencial-actualizo-balance-63-179-edificaciones-fueron-evaluadas-tras-los-terremotos/"
     },
     {
       "id": "ve-20260904-elnacional-miyamoto-escombros",
@@ -80,17 +80,6 @@
       "url": "https://www.elnacional.com/2026/09/funvisis-contabiliza-96-sismos-en-venezuela-durante-la-ultima-semana/"
     },
     {
-      "id": "ve-20260904-cronicauno-41-escuelas-aragua",
-      "fecha": "2026-09-04",
-      "titulo": "41 escuelas de Aragua siguen con daños sísmicos a menos de dos semanas del inicio del año escolar",
-      "resumen": "El Centro de Ingenieros de Aragua avaló solo 45 de los 86 planteles evaluados: 38 están en amarillo y tres en condición crítica. De 1.945 estructuras inspeccionadas en los 18 municipios, 1.461 fueron declaradas seguras; en Maracay nueve edificios permanecen en rojo y uno se derrumbó por completo. El gremio pide no reanudar clases el 14 de septiembre en escuelas sin revisar ni reparar.",
-      "fuente": "Crónica.Uno",
-      "tipoFuente": "medio",
-      "categoria": "Educación",
-      "tipo": "noticia",
-      "url": "https://cronica.uno/41-escuelas-aragua-siguen-danos-sismicos-dos-semanas-inicio-ano-escolar/"
-    },
-    {
       "id": "ve-20260904-cronicauno-salud-mental-refugios",
       "fecha": "2026-09-04",
       "titulo": "Claves para detectar el riesgo suicida en refugios y campamentos a dos meses y medio del sismo",
@@ -102,6 +91,28 @@
       "url": "https://cronica.uno/enclaves-preguntar-detectar-riesgo-suicidio-comunidades-afectadas-terremotos/"
     },
     {
+      "id": "ve-20260904-cronicauno-41-escuelas-aragua",
+      "fecha": "2026-09-04",
+      "titulo": "41 escuelas de Aragua siguen con daños sísmicos a menos de dos semanas del inicio del año escolar",
+      "resumen": "El Centro de Ingenieros de Aragua avaló solo 45 de los 86 planteles evaluados: 38 están en amarillo y tres en condición crítica. De 1.945 estructuras inspeccionadas en los 18 municipios, 1.461 fueron declaradas seguras; en Maracay nueve edificios permanecen en rojo y uno se derrumbó por completo. El gremio pide no reanudar clases el 14 de septiembre en escuelas sin revisar ni reparar.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/41-escuelas-aragua-siguen-danos-sismicos-dos-semanas-inicio-ano-escolar/"
+    },
+    {
+      "id": "ve-20260903-oim-sitrep-27",
+      "fecha": "2026-09-03",
+      "titulo": "La OIM publica su Reporte de Situación N.° 27 sobre la respuesta al terremoto (28 de agosto al 2 de septiembre)",
+      "resumen": "La Organización Internacional para las Migraciones mantuvo su respuesta multisectorial en campamentos planificados y comunidades afectadas: coordinación y gestión de campamentos, alojamiento, salud y salud mental, protección, agua, saneamiento e higiene, gestión de información y prevención de la explotación y el abuso sexual. Informe en PDF disponible en ReliefWeb.",
+      "fuente": "OIM · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-republica-bolivariana-de-respuesta-terremotos-reporte-de-situacion-27-28-de-agosto-al-2-de-septiembre-2026"
+    },
+    {
       "id": "ve-20260903-lapatilla-fenasopadres-ano-escolar",
       "fecha": "2026-09-03",
       "titulo": "Fenasopadres reclama información sobre el estado de los planteles antes del inicio de clases del 14 de septiembre",
@@ -111,6 +122,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://lapatilla.com/2026/09/03/hay-condiciones-en-venezuela-para-iniciar-el-ano-escolar-tras-el-doble-terremoto/"
+    },
+    {
+      "id": "ve-20260903-lapatilla-deficit-viviendas-monagas",
+      "fecha": "2026-09-03",
+      "titulo": "La Cámara de la Construcción de Monagas estima en 2,7 millones el déficit de viviendas del país tras los terremotos",
+      "resumen": "Wilfredo Andérico, presidente del gremio en Monagas, cifró el déficit nacional en unos 2.700.000 inmuebles, entre 80.000 y 100.000 de ellos en ese estado. Es una estimación gremial regional, distinta de las 25.000 unidades que el Parlamento calcula necesarias para los damnificados del sismo y de los datos oficiales de vivienda del SitRep de OCHA.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/03/camara-de-la-construccion-estima-en-27-millones-el-deficit-de-viviendas-en-venezuela-tras-terremotos/"
     },
     {
       "id": "ve-20260903-elnacional-provea-cifras",
@@ -135,28 +157,6 @@
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/ministro-de-transporte-preve-que-el-aeropuerto-de-maiquetia-se-reactive-a-mediados-de-2027/",
       "espejo": "https://bitlysdowssl-aws.com/2026/09/ministro-de-transporte-preve-que-el-aeropuerto-de-maiquetia-se-reactive-a-mediados-de-2027/"
-    },
-    {
-      "id": "ve-20260903-oim-sitrep-27",
-      "fecha": "2026-09-03",
-      "titulo": "La OIM publica su Reporte de Situación N.° 27 sobre la respuesta al terremoto (28 de agosto al 2 de septiembre)",
-      "resumen": "La Organización Internacional para las Migraciones mantuvo su respuesta multisectorial en campamentos planificados y comunidades afectadas: coordinación y gestión de campamentos, alojamiento, salud y salud mental, protección, agua, saneamiento e higiene, gestión de información y prevención de la explotación y el abuso sexual. Informe en PDF disponible en ReliefWeb.",
-      "fuente": "OIM · ReliefWeb",
-      "tipoFuente": "oficial",
-      "categoria": "Ayuda humanitaria",
-      "tipo": "oficial",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-republica-bolivariana-de-respuesta-terremotos-reporte-de-situacion-27-28-de-agosto-al-2-de-septiembre-2026"
-    },
-    {
-      "id": "ve-20260903-lapatilla-deficit-viviendas-monagas",
-      "fecha": "2026-09-03",
-      "titulo": "La Cámara de la Construcción de Monagas estima en 2,7 millones el déficit de viviendas del país tras los terremotos",
-      "resumen": "Wilfredo Andérico, presidente del gremio en Monagas, cifró el déficit nacional en unos 2.700.000 inmuebles, entre 80.000 y 100.000 de ellos en ese estado. Es una estimación gremial regional, distinta de las 25.000 unidades que el Parlamento calcula necesarias para los damnificados del sismo y de los datos oficiales de vivienda del SitRep de OCHA.",
-      "fuente": "La Patilla",
-      "tipoFuente": "medio",
-      "categoria": "Reconstrucción",
-      "tipo": "noticia",
-      "url": "https://lapatilla.com/2026/09/03/camara-de-la-construccion-estima-en-27-millones-el-deficit-de-viviendas-en-venezuela-tras-terremotos/"
     },
     {
       "id": "ve-20260902-elnacional-regreso-clases",
