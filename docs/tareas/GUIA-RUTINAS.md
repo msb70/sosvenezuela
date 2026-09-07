@@ -20,16 +20,19 @@ Ninguna pieza usa el conector Hostinger, ni WebFetch, ni el Mac. Nada pide permi
 ## Horarios (todo UTC)
 | Pieza | Cron UTC | Madrid |
 |---|---|---|
-| recolectar.yml (mañana: prensa VE+CO) | `40 7 * * *` | 09:40 |
+| recolectar.yml (madrugada, dos intentos: prensa VE+CO) | `23 3 * * *` y `23 5 * * *` | 05:23 y 07:23 |
 | rutina noticias VE | `0 8 * * *` | 10:00 |
 | rutina noticias CO | `0 9 * * *` | 11:00 |
-| recolectar.yml (tarde: prensa CO) | `40 16 * * *` | 18:40 |
+| recolectar.yml (tarde: prensa VE+CO) | `23 14 * * *` | 16:23 |
 | rutina balance CO | `0 18 * * *` | 20:00 |
-| recolectar.yml (viernes: SitReps + PDF) | `30 6 * * 5` | vie 08:30 |
+| recolectar.yml (viernes: SitReps + PDF) | `53 2 * * 5` | vie 04:53 |
 | rutina SitRep VE | `0 7 * * 5` | vie 09:00 |
 
-El recolector corre ~20 min antes de cada rutina. Si un día no corre, la rutina lo detecta
-(la materia prima no es de hoy) y avisa por push sin publicar a ciegas.
+**GitHub no respeta la hora del cron de `schedule`: entre el 03 y el 07/09/2026 el cron de las
+07:40 UTC corrió a las 11-12 UTC, después de las rutinas, que paraban con «NO PUBLICADO».** Por eso
+el recolector corre de madrugada (dos intentos) y las rutinas aceptan materia prima de hasta
+20 horas: la corrida de la tarde anterior siempre cubre la mañana. Si pasan más de 20 h sin
+recolector, la rutina lo detecta y avisa por push sin publicar a ciegas.
 
 ## Paso a paso (una vez, desde claude.ai/code con el repo msb70/sosvenezuela seleccionado)
 Ya comprobaste que en ese contexto `git push` a `main` funciona. Ahora:

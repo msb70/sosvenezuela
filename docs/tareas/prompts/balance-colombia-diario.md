@@ -13,8 +13,9 @@ Tu entorno SOLO tiene red hacia GitHub. NO leas prensa ni apoyo-fem-vzla.org (da
 python3 - <<'PY'
 import json,datetime,sys
 d=json.load(open('docs/tareas/candidatos-co.json'))
-print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
-if d['generado'][:10]!=datetime.date.today().isoformat() or d['fuentes_leidas']==0:
+gen=datetime.datetime.fromisoformat(d['generado']); horas=(datetime.datetime.now(datetime.timezone.utc)-gen).total_seconds()/3600
+print('generado',d['generado'],'| hace %.1f h'%horas,'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
+if horas>20 or d['fuentes_leidas']==0:
     print('STOP'); sys.exit(2)
 PY
 Si termina en STOP: PushNotification («Balance CO: sin materia prima de Actions») + «⚠️ NO PUBLICADO».

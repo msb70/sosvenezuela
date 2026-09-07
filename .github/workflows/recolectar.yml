@@ -10,9 +10,13 @@ name: Recolectar materia prima para las rutinas
 
 on:
   schedule:
-    - cron: '40 7 * * *'    # 09:40 Madrid, antes de VE (10:00) y CO (11:00)
-    - cron: '40 16 * * *'   # 18:40 Madrid, antes del balance CO (20:00)
-    - cron: '30 6 * * 5'    # viernes 08:30 Madrid, antes del SitRep (09:00), con PDFs
+    # GitHub retrasa los crones de schedule varias horas (visto: '40 7' corría a las 11-12 UTC).
+    # Por eso hay dos intentos de madrugada, minutos poco cargados, y las rutinas aceptan
+    # materia prima de hasta 20 h (la corrida de la tarde cubre la mañana siguiente).
+    - cron: '23 3 * * *'    # 05:23 Madrid, primer intento antes de VE (10:00) y CO (11:00)
+    - cron: '23 5 * * *'    # 07:23 Madrid, segundo intento
+    - cron: '23 14 * * *'   # 16:23 Madrid, antes del balance CO (20:00) y red de seguridad del día siguiente
+    - cron: '53 2 * * 5'    # viernes 04:53 Madrid, antes del SitRep (09:00), con PDFs
   workflow_dispatch:
 
 concurrency:
@@ -34,7 +38,7 @@ jobs:
       - name: Recolectar
         run: |
           # Los viernes por la manana incluye los SitReps (mas lento); el resto solo prensa.
-          if [ "$(date -u +%u)" = "5" ] && [ "$(date -u +%H)" -lt 12 ]; then
+          if [ "$(date -u +%u)" = "5" ] && [ "$(date -u +%H)" -lt 9 ]; then
             python3 docs/tareas/recolectar_candidatos.py --dias 3 --sitreps
           else
             python3 docs/tareas/recolectar_candidatos.py --dias 2

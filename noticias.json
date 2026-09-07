@@ -1,7 +1,106 @@
 {
-  "actualizado": "2026-09-03",
+  "actualizado": "2026-09-07",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260907-elnacional-conviasa-19-destinos",
+      "fecha": "2026-09-07",
+      "titulo": "Conviasa habilita 19 destinos nacionales e internacionales desde las terminales temporales de Maiquetía",
+      "resumen": "Tras la puesta en marcha de las terminales modulares del Aeropuerto Internacional Simón Bolívar, la aerolínea estatal opera frecuencias a 17 ciudades del país (Porlamar, Barcelona, Cumaná, Maracaibo, Maturín, Puerto Ordaz, Barquisimeto, Barinas, Canaima o Los Roques, entre otras) y a La Habana y Santa Lucía (México). La estructura modular, de 10.000 m², cuenta con áreas de chequeo, inspección, zona comercial y conexión inalámbrica.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/conviasa-habilito-19-destinos-dentro-y-fuera-del-pais-tras-habilitarse-terminales-temporales-del-aeropuerto-de-maiquetia/"
+    },
+    {
+      "id": "ve-20260906-elnacional-cruz-roja-4000-familias",
+      "fecha": "2026-09-06",
+      "titulo": "La Cruz Roja Venezolana supera las 4.000 familias asistidas desde los terremotos",
+      "resumen": "La organización alcanzó la cifra tras una jornada en la que atendió de forma simultánea a 1.064 familias en Las Salinas (La Guaira): 344 en Taguao, 595 en La Candelaria, Sunagoto, Las Salinas, La Gonzalera y Puerto Carayaca, y 125 en Villa Croacia, Paraíso y Costalinda. Entregó kits de higiene y cocina, mosquiteros, cubetas, pastillas potabilizadoras y bidones de agua.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/cruz-roja-venezolana-supero-las-4-000-familias-asistidas-desde-los-terremotos/"
+    },
+    {
+      "id": "ve-20260905-elnacional-comision-63179-evaluadas",
+      "fecha": "2026-09-05",
+      "titulo": "La Comisión Presidencial de Habitabilidad eleva a 63.179 las edificaciones evaluadas: 18 % en rojo",
+      "resumen": "Según el reporte actualizado al 4 de septiembre, 36.698 inmuebles recibieron etiqueta verde (58 %), 14.920 amarilla (24 %) y 11.561 roja (18 %). El proceso, que sigue en marcha más de dos meses después de los sismos, ha desplegado 3.084 inspectores y suma en los últimos días acompañamiento técnico de especialistas internacionales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/comision-presidencial-actualizo-balance-63-179-edificaciones-fueron-evaluadas-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20260905-elnacional-plus-ultra-maiquetia",
+      "fecha": "2026-09-05",
+      "titulo": "Plus Ultra retoma sus vuelos a Maiquetía a partir del 8 de septiembre",
+      "resumen": "La aerolínea española operará la ruta Madrid-Caracas los martes, jueves y sábados, con retornos los martes, jueves y domingos; la frecuencia de los lunes seguirá llegando al aeropuerto Arturo Michelena de Valencia. La conexión Caracas-Tenerife Norte volará los sábados con regreso los domingos. Se suma a Air Europa, Iberia, Copa, Avianca y American en la reactivación de Maiquetía.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/aerolinea-plus-ultra-anuncio-que-retomara-sus-operaciones-hacia-venezuela/"
+    },
+    {
+      "id": "ve-20260905-elnacional-demolicion-luisa-caceres",
+      "fecha": "2026-09-05",
+      "titulo": "Demolidas las torres A y B del complejo Luisa Cáceres de Arismendi en Playa Grande, Catia La Mar",
+      "resumen": "Las dos torres, con graves daños estructurales por los terremotos del 24 de junio, fueron derribadas de forma controlada el sábado ante antiguos residentes que acudieron a presenciarlo. Un día antes se había ejecutado la sexta demolición programada en La Guaira, en las residencias Arrecife de Tanaguarena, coordinada por el Estado Mayor para la Contingencia dentro del plan Venezuela Renace.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/demolieron-las-torres-a-y-b-del-complejo-residencial-luisa-caceres-de-arismendi-en-playa-grande/"
+    },
+    {
+      "id": "ve-20260904-elnacional-miyamoto-escombros",
+      "fecha": "2026-09-04",
+      "titulo": "Venezuela firma un acuerdo con Miyamoto International para retirar tres millones de toneladas de escombros",
+      "resumen": "El Ministerio de Obras Públicas y la firma estadounidense de ingeniería sísmica, fundada por Kit Miyamoto, suscribieron en Caracas un convenio para una primera etapa de remoción de escombros en La Guaira. Según el Ministerio de Comunicación, el programa incluye intercambio de conocimientos técnicos, refuerzo de los estándares de construcción y asistencia técnica al proceso de recuperación.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/venezuela-firma-acuerdo-con-miyamoto-para-retirar-escombros-tras-terremotos/"
+    },
+    {
+      "id": "ve-20260904-elnacional-funvisis-96-sismos",
+      "fecha": "2026-09-04",
+      "titulo": "Funvisis registra 96 sismos en una semana y eleva a 1.915 los eventos acumulados desde el 24 de junio",
+      "resumen": "Entre el 28 de agosto y el 3 de septiembre el organismo contabilizó 96 movimientos con magnitudes entre 1,4 y 4,4. El mapa de sismicidad acumulada, con corte a las 6:00 p. m. del 3 de septiembre (1.704 horas de monitoreo), suma 1.915 eventos. El sábado 5 se registró además un sismo de 3,2 a 39 km al oeste de La Guaira, a 5 km de profundidad.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-contabiliza-96-sismos-en-venezuela-durante-la-ultima-semana/"
+    },
+    {
+      "id": "ve-20260904-cronicauno-41-escuelas-aragua",
+      "fecha": "2026-09-04",
+      "titulo": "41 escuelas de Aragua siguen con daños sísmicos a menos de dos semanas del inicio del año escolar",
+      "resumen": "El Centro de Ingenieros de Aragua avaló solo 45 de los 86 planteles evaluados: 38 están en amarillo y tres en condición crítica. De 1.945 estructuras inspeccionadas en los 18 municipios, 1.461 fueron declaradas seguras; en Maracay nueve edificios permanecen en rojo y uno se derrumbó por completo. El gremio pide no reanudar clases el 14 de septiembre en escuelas sin revisar ni reparar.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/41-escuelas-aragua-siguen-danos-sismicos-dos-semanas-inicio-ano-escolar/"
+    },
+    {
+      "id": "ve-20260904-cronicauno-salud-mental-refugios",
+      "fecha": "2026-09-04",
+      "titulo": "Claves para detectar el riesgo suicida en refugios y campamentos a dos meses y medio del sismo",
+      "resumen": "El psicólogo Héctor Valtierrez explica que la tristeza y la desesperanza son respuestas adaptativas tras un terremoto, y propone pautas comunitarias para reconocer señales de alarma, romper el tabú sobre la salud mental y ofrecer acompañamiento a tiempo. Más de 712.000 personas habitaban los municipios más expuestos a los sismos del 24 de junio, según la evaluación situacional de emergencia.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/enclaves-preguntar-detectar-riesgo-suicidio-comunidades-afectadas-terremotos/"
+    },
     {
       "id": "ve-20260903-lapatilla-fenasopadres-ano-escolar",
       "fecha": "2026-09-03",
@@ -36,6 +135,28 @@
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/ministro-de-transporte-preve-que-el-aeropuerto-de-maiquetia-se-reactive-a-mediados-de-2027/",
       "espejo": "https://bitlysdowssl-aws.com/2026/09/ministro-de-transporte-preve-que-el-aeropuerto-de-maiquetia-se-reactive-a-mediados-de-2027/"
+    },
+    {
+      "id": "ve-20260903-oim-sitrep-27",
+      "fecha": "2026-09-03",
+      "titulo": "La OIM publica su Reporte de Situación N.° 27 sobre la respuesta al terremoto (28 de agosto al 2 de septiembre)",
+      "resumen": "La Organización Internacional para las Migraciones mantuvo su respuesta multisectorial en campamentos planificados y comunidades afectadas: coordinación y gestión de campamentos, alojamiento, salud y salud mental, protección, agua, saneamiento e higiene, gestión de información y prevención de la explotación y el abuso sexual. Informe en PDF disponible en ReliefWeb.",
+      "fuente": "OIM · ReliefWeb",
+      "tipoFuente": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "oficial",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-republica-bolivariana-de-respuesta-terremotos-reporte-de-situacion-27-28-de-agosto-al-2-de-septiembre-2026"
+    },
+    {
+      "id": "ve-20260903-lapatilla-deficit-viviendas-monagas",
+      "fecha": "2026-09-03",
+      "titulo": "La Cámara de la Construcción de Monagas estima en 2,7 millones el déficit de viviendas del país tras los terremotos",
+      "resumen": "Wilfredo Andérico, presidente del gremio en Monagas, cifró el déficit nacional en unos 2.700.000 inmuebles, entre 80.000 y 100.000 de ellos en ese estado. Es una estimación gremial regional, distinta de las 25.000 unidades que el Parlamento calcula necesarias para los damnificados del sismo y de los datos oficiales de vivienda del SitRep de OCHA.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/03/camara-de-la-construccion-estima-en-27-millones-el-deficit-de-viviendas-en-venezuela-tras-terremotos/"
     },
     {
       "id": "ve-20260902-elnacional-regreso-clases",

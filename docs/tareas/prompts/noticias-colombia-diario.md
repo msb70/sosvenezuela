@@ -15,12 +15,13 @@ Tu entorno SOLO tiene red hacia GitHub: NO puedes leer prensa ni apoyo-fem-vzla.
 python3 - <<'PY'
 import json,datetime,sys
 d=json.load(open('docs/tareas/candidatos-co.json'))
-gen=d['generado'][:10]; hoy=datetime.date.today().isoformat()
-print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
-if gen!=hoy or d['fuentes_leidas']==0:
-    print('STOP: la materia prima no es de hoy o no se leyó ninguna fuente'); sys.exit(2)
+gen=datetime.datetime.fromisoformat(d['generado']); ahora=datetime.datetime.now(datetime.timezone.utc)
+horas=(ahora-gen).total_seconds()/3600
+print('generado',d['generado'],'| hace %.1f h'%horas,'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
+if horas>20 or d['fuentes_leidas']==0:
+    print('STOP: la materia prima tiene más de 20 horas o no se leyó ninguna fuente'); sys.exit(2)
 PY
-Si ese bloque termina con STOP / código distinto de 0, el recolector de Actions no corrió hoy: NO publiques a ciegas. Manda PushNotification («Noticias CO: sin materia prima fresca de Actions — no publicado») y responde empezando por «⚠️ NO PUBLICADO». (Puedes forzar el recolector si tienes gh: `gh workflow run recolectar.yml` y reintentar en 3 min; si no, para.)
+Si ese bloque termina con STOP / código distinto de 0, el recolector de Actions lleva más de 20 h sin correr (GitHub retrasa sus crones varias horas; por eso se acepta materia prima de la tarde anterior): NO publiques a ciegas. Manda PushNotification («Noticias CO: sin materia prima fresca de Actions — no publicado») y responde empezando por «⚠️ NO PUBLICADO». (Puedes forzar el recolector si tienes gh: `gh workflow run recolectar.yml` y reintentar en 3 min; si no, para.)
 
 =========================================================
 2. PARTIR DE LO PUBLICADO
