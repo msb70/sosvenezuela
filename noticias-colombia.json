@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07",
+  "actualizado": "2026-09-08",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
     {
@@ -12,6 +12,116 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/07/estas-son-las-siete-medidas-de-vivienda-y-creditos-blandos-para-los-damnificados-por-el-terremoto-del-10-de-agosto-que-el-gobierno-anuncio/"
+    },
+    {
+      "id": "co-20260907-infobae-plan-reconstruccion-choco-empresarios",
+      "fecha": "2026-09-07",
+      "titulo": "El Gobierno anuncia en Quibdó un plan de reconstrucción para el Chocó con 1 billón de pesos en infraestructura, incentivos tributarios y régimen minero especial",
+      "resumen": "Tras una cumbre en Quibdó con los principales grupos empresariales del país (Valorem, Grupo Aval, Gilinski, Nubank, Bancolombia, Olímpica, Colombina, Tecnoglass, Grupo Bolívar y Ardila Lülle), el Gobierno nacional oficializó recursos para proyectos como el Malecón de Quibdó, un paquete de infraestructura por 1 billón de pesos, incentivos tributarios y un régimen especial minero para el departamento epicentro del terremoto del 10 de agosto. Asistieron los ministros de Comercio y de Transporte, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/07/abelardo-de-la-espriella-lanzo-plan-marshall-para-reconstruir-el-territorio-tras-el-terremoto-el-choco-no-nacio-para-ser-pobre/"
+    },
+    {
+      "id": "co-20260907-infobae-once-caldas-550-millones-manizales",
+      "fecha": "2026-09-07",
+      "titulo": "Once Caldas y su propietario donan cerca de 550 millones de pesos para el hospital Santa Sofía y la catedral de Manizales",
+      "resumen": "La Fundación Once Caldas aportará 50 millones de pesos para un autoclave del Hospital Departamental Santa Sofía y el dueño del club, Jaime Pineda, donará 500 millones junto con otra persona para reconstruir la torre dañada de la Catedral Basílica de Nuestra Señora del Rosario, afectada por el terremoto del 10 de agosto en Manizales, según Infobae, que cita a Caracol Radio.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/deportes/2026/09/07/once-caldas-donara-cerca-de-550-millones-para-la-reconstruccion-de-manizales-despues-del-terremoto-que-sacudio-a-colombia/"
+    },
+    {
+      "id": "co-20260907-eltiempo-primera-casa-pacifico-choco",
+      "fecha": "2026-09-07",
+      "titulo": "Entregan en Quibdó la primera de las 500 «Casas Pacífico» sismorresistentes donadas a damnificados del Chocó",
+      "resumen": "Grupo Argos y el cantante Nicky Jam entregaron el 7 de septiembre en el barrio Medrano de Quibdó la primera de las 500 «Casas Pacífico» prometidas a familias que perdieron su vivienda en el terremoto del 10 de agosto. La primera beneficiaria fue Julia Asprilla, cuya familia de cinco personas perdió su casa en el sismo con epicentro en San José del Palmar. Las cifras oficiales sitúan en más de 464.000 las personas afectadas en el país, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/medellin/entregaron-la-primera-de-las-500-casas-pacifico-para-las-victimas-del-terremoto-en-choco-una-familia-de-cinco-personas-fue-la-primera-beneficiaria-3584187"
+    },
+    {
+      "id": "co-20260907-eltiempo-gerente-reconstruccion-choco",
+      "fecha": "2026-09-07",
+      "titulo": "José Leonidas Tobón será el gerente de la reconstrucción del Chocó y enlace con el Gobierno nacional",
+      "resumen": "El Gobierno nacional confirmó que José Leonidas Tobón será el encargado de vigilar la reconstrucción del Chocó, departamento epicentro del terremoto del 10 de agosto, y servirá de enlace entre la región y el Gobierno. El anuncio se hizo en Quibdó tras la reunión con los grupos empresariales que se desplazaron al departamento para definir la hoja de ruta de la reconstrucción, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-gerente-para-la-reconstruccion-del-choco-y-otras-medidas-para-potenciar-el-departamento-3584245"
+    },
+    {
+      "id": "co-20260907-eltiempo-falso-simulacro-8-septiembre",
+      "fecha": "2026-09-07",
+      "titulo": "La Alcaldía de Cali desmiente el supuesto simulacro nacional de evacuación por terremoto del 8 de septiembre",
+      "resumen": "Cadenas de WhatsApp y redes sociales difundieron un supuesto simulacro nacional de evacuación por terremoto para el martes 8 de septiembre a las 10:00 a. m., con activación de alarmas en los celulares. La Secretaría de Gestión del Riesgo de Emergencias y Desastres de Cali desmintió categóricamente la información y pidió no difundir mensajes sin fuente oficial, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/no-coma-cuento-la-alcaldia-de-cali-aclara-que-no-habra-simulacro-de-evacuacion-este-martes-8-de-septiembre-3584308"
+    },
+    {
+      "id": "co-20260907-elpais-oim-ayuda-30-municipios",
+      "fecha": "2026-09-07",
+      "titulo": "La OIM distribuye durante septiembre ayuda humanitaria de Estados Unidos en 30 municipios de cinco departamentos",
+      "resumen": "La Organización Internacional para las Migraciones (OIM) inició la entrega de materiales de emergencia a familias afectadas por el terremoto del 10 de agosto, que durante septiembre se distribuirán en 30 municipios de cinco departamentos. Las entregas corresponden a las donaciones en especie enviadas por Estados Unidos para la atención inmediata, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/colombia/oim-lleva-ayuda-humanitaria-a-30-municipios-afectados-por-el-terremoto-en-colombia-asi-se-distribuye-0712.html"
+    },
+    {
+      "id": "co-20260907-elpais-homenaje-90-segundos-un-mes",
+      "fecha": "2026-09-07",
+      "titulo": "Cali convoca 90 segundos de homenaje a las víctimas al cumplirse un mes del terremoto",
+      "resumen": "La Alcaldía de Cali invitó a la ciudadanía a guardar 90 segundos de homenaje a las víctimas al cumplirse un mes del terremoto del 10 de agosto: sonarán las campanas de todas las iglesias y se pide a los conductores detener sus vehículos y hacer sonar los pitos para acompañar a las familias afectadas, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alcalde-alejandro-eder-invita-a-los-calenos-a-hacer-90-segundos-de-homenaje-por-las-victimas-del-terremoto-a-un-mes-de-la-tragedia-0727.html"
+    },
+    {
+      "id": "co-20260907-elpais-eder-balance-clase-media",
+      "fecha": "2026-09-07",
+      "titulo": "El alcalde de Cali cifra en 154 los fallecidos y 24 los edificios derrumbados en la ciudad y estima que el 70 % de las familias afectadas son de clase media",
+      "resumen": "A casi un mes del terremoto, el alcalde Alejandro Eder hace balance en una entrevista con El País (Cali): 154 personas murieron en la ciudad, 24 edificios se derrumbaron y miles de familias quedaron sin casa. Según el alcalde, el 70 % de las familias afectadas son de clase media, lo que condiciona el diseño de las ayudas de vivienda; estima el costo de estabilización y reconstrucción de la ciudad en unos 10 billones de pesos.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alejandro-eder-alcalde-de-cali-el-70-de-las-familias-afectadas-por-el-terremoto-en-la-ciudad-son-de-clase-media-0622.html"
+    },
+    {
+      "id": "co-20260907-elpais-derribar-o-reforzar-guia",
+      "fecha": "2026-09-07",
+      "titulo": "¿Derribar o reforzar? Cómo decide Cali qué edificios averiados por el terremoto se demuelen y cuáles se refuerzan",
+      "resumen": "Casi un mes después del sismo, la emergencia en Cali entra en la etapa de definir el futuro de las edificaciones averiadas. La Secretaría de Gestión del Riesgo explica en una guía cómo avanza el estudio técnico para determinar qué estructuras deben derribarse por daños graves y cuáles pueden reforzarse y seguir en pie, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/derribar-o-reforzar-los-edificios-que-estan-averiados-tras-el-terremoto-en-cali-guia-de-orientacion-0606.html"
+    },
+    {
+      "id": "co-20260907-elpais-demolicion-maria-mercedes-lloreda",
+      "fecha": "2026-09-07",
+      "titulo": "Cali demuele el edificio María Mercedes Lloreda, el primero de los 11 inmuebles con daños estructurales que serán derribados",
+      "resumen": "La Alcaldía de Cali ejecutó el lunes 7 de septiembre la demolición controlada del edificio María Mercedes Lloreda, en la calle 4.ª con carrera 57 (Cuarto de Legua), que sufrió un colapso parcial en el terremoto del 10 de agosto. Es el primero de los 11 inmuebles (seis residenciales, además de hoteles, moteles y locales comerciales) incluidos en el plan de demoliciones; las familias que los habitaban tendrán prioridad en las primeras soluciones de vivienda, según El País (Cali) e Infobae.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/edificio-maria-mercedes-lloreda-del-sur-de-cali-sera-la-primera-estructura-demolida-tras-afectaciones-por-el-terremoto-0744.html"
     },
     {
       "id": "co-20260906-eltiempo-minvivienda-estratos-4-5-6",

@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-07",
+  "actualizado": "2026-09-08",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260907-lapatilla-desplazados-la-guaira-anzoategui",
+      "fecha": "2026-09-07",
+      "titulo": "Unas 1.000 familias de La Guaira desplazadas por los terremotos intentan rehacer su vida en Anzoátegui",
+      "resumen": "Alrededor de 1.000 sobrevivientes de La Guaira se trasladaron por sus propios medios al estado Anzoátegui para refugiarse en casas de parientes o amigos tras perder sus hogares el 24 de junio; algunos salieron solo con la ropa que llevaban puesta. La Patilla recoge los testimonios de familias que intentan empezar de cero lejos del litoral mientras conservan el anhelo de regresar.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/07/nada-es-lo-mismo-familias-de-la-guaira-desplazadas-por-los-terremotos-buscan-reconstruir-sus-vidas-en-anzoategui/"
+    },
+    {
+      "id": "ve-20260907-lapatilla-caritas-petare-donaciones",
+      "fecha": "2026-09-07",
+      "titulo": "Cáritas Petare alerta de la caída de las donaciones y pide medicamentos e insumos para los damnificados en refugios",
+      "resumen": "Cáritas Diocesana de Petare mantiene la atención a las familias damnificadas que siguen en refugios transitorios y espacios improvisados del municipio Sucre, pero alertó de que las donaciones cayeron tras el primer mes de emergencia. Solicita medicamentos, antiparasitarios y antigripales, artículos de higiene, ropa de cama, pañales y apoyo médico y psicológico, según Radio Fe y Alegría, citada por La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/07/caritas-petare-busca-mantener-la-ayuda-a-damnificados-por-terremotos-mientras-disminuyen-las-donaciones/"
+    },
+    {
+      "id": "ve-20260907-infobae-inspecciones-la-guaira-lentitud",
+      "fecha": "2026-09-07",
+      "titulo": "Damnificados de Playa Grande denuncian más de un mes de espera por la segunda inspección de sus edificios",
+      "resumen": "Vecinos de Playa Grande, uno de los sectores de La Guaira más golpeados por los terremotos, llevan más de un mes esperando la segunda inspección que la Comisión Presidencial de Habitabilidad prometió tras marcar sus edificios con etiqueta roja. Denuncian lentitud y falta de organización en el proceso del «semáforo» (verde, amarillo, rojo) y robos de cableado en los inmuebles desalojados, según un reportaje de Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/07/venezuela-damnificados-por-los-terremotos-denuncian-lentitud-y-falta-de-organizacion-en-las-inspecciones/"
+    },
+    {
+      "id": "ve-20260907-elnacional-pinto-salinas-colapso",
+      "fecha": "2026-09-07",
+      "titulo": "Viviendas con etiqueta roja en el barrio Pinto Salinas de Caracas siguen habitadas y a punto de colapsar",
+      "resumen": "Varias casas de la vereda 9 del barrio Pinto Salinas, en el municipio Libertador, presentan paredes y columnas deterioradas por los terremotos y las réplicas de los últimos dos meses. Aunque fueron clasificadas con etiqueta roja en la inspección técnica, las familias no han sido trasladadas a un refugio ni han comenzado los trabajos de reconstrucción, según la denuncia del periodista Carlos Julio Rojas recogida por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/viviendas-del-barrio-pinto-salinas-en-caracas-estan-a-punto-de-colapsar/"
+    },
     {
       "id": "ve-20260907-elnacional-conviasa-19-destinos",
       "fecha": "2026-09-07",
@@ -12,6 +56,50 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/conviasa-habilito-19-destinos-dentro-y-fuera-del-pais-tras-habilitarse-terminales-temporales-del-aeropuerto-de-maiquetia/"
+    },
+    {
+      "id": "ve-20260907-elnacional-440-viviendas-ruperto-lugo",
+      "fecha": "2026-09-07",
+      "titulo": "El Gobierno entrega 440 viviendas rehabilitadas en Ruperto Lugo y eleva a 1.400 los inmuebles restaurados en Caracas",
+      "resumen": "El Ejecutivo entregó el lunes 440 viviendas rehabilitadas en tres edificios del sector Ruperto Lugo, parroquia Sucre de Caracas, dentro del Plan Venezuela Renace, lo que permitió reubicar a más de 1.100 personas que permanecían en refugios temporales y eleva a 1.400 los inmuebles restaurados tras el doble sismo. También se anunció financiamiento para rehabilitar 35 condominios de la zona, con más de 14.000 habitantes beneficiados, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-entrego-440-viviendas-rehabilitadas-en-el-sector-ruperto-lugo-tras-los-sismos-de-junio/"
+    },
+    {
+      "id": "ve-20260907-efectococuyo-39-demoliciones-la-guaira",
+      "fecha": "2026-09-07",
+      "titulo": "El Ministerio de Obras Públicas publica la lista de 39 edificaciones que serán demolidas en La Guaira",
+      "resumen": "El Ministerio de Obras Públicas informó que 39 edificaciones del estado La Guaira con fallas estructurales severas por los sismos del 24 de junio serán demolidas en las próximas semanas, dentro del plan de mitigación de riesgos. Los escombros irán al Centro de Disposición Transitorio de Caraballeda, con capacidad para triturar hasta 600 toneladas por hora. La lista incluye los bloques 1, 2 y 3 de La Páez en Catia La Mar y edificios de Macuto, Tanaguarena, Playa Grande y Caraballeda, según Efecto Cocuyo.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/anuncian-demolicion-de-39-edificios-danados-en-la-guaira-tras-los-terremotos-de-junio/"
+    },
+    {
+      "id": "ve-20260907-cronicauno-miedo-sismos-vacaciones-infantiles",
+      "fecha": "2026-09-07",
+      "titulo": "El miedo a los sismos y la falta de opciones marcaron las vacaciones de los niños en Caracas",
+      "resumen": "Con las playas de La Guaira cerradas y planes vacacionales escasos o de hasta 100 dólares, las familias caraqueñas recurrieron a dinámicas en casa durante el largo receso escolar derivado de los terremotos. Especialistas consultados por Crónica.Uno explican que el juego no busca borrar el susto, sino ofrecer un entorno seguro que devuelva la calma a los niños que muestran inquietud, hiperactividad y temor a permanecer en sus viviendas.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/el-miedo-sismos-pocas-opciones-marcaron-vacaciones-infantiles-caracas/"
+    },
+    {
+      "id": "ve-20260907-cronicauno-creditos-venezuela-renace",
+      "fecha": "2026-09-07",
+      "titulo": "Burocracia, fallas de sistema y contradicciones frenan el acceso a los créditos del plan Venezuela Renace",
+      "resumen": "A dos meses del doble terremoto, los damnificados que buscan los subsidios y créditos del plan Venezuela Renace (cobertura bancaria de hasta el 80 % para inmuebles destruidos) chocan con sistemas caídos, códigos QR que marcan como habitables apartamentos derrumbados, versiones contradictorias de los funcionarios y la imposibilidad de censarse mediante poder notarial. Crónica.Uno documenta el recorrido de varias familias ante el Banavih en la primera entrega de un reportaje en dos partes.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/burocracia-fallas-sistema-contradicciones-frenan-acceso-creditos-plan-venezuela-renace/"
     },
     {
       "id": "ve-20260906-elnacional-cruz-roja-4000-familias",
