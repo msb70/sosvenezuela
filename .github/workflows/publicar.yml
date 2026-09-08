@@ -1,0 +1,213 @@
+name: Publicar (recolectar + criterio + deploy)
+
+# Sustituye a las rutinas de claude.ai (08/09/2026). TODO corre aquí, en GitHub Actions:
+#   1. recolectar_candidatos.py lee la prensa/ReliefWeb y deja la materia prima en docs/tareas/
+#   2. se descarga de PRODUCCIÓN el archivo que toca (noticias.json, colombia.html, index.html...)
+#      para que Claude trabaje sobre lo publicado, nunca sobre el repo a secas
+#   3. claude-code-action aplica el criterio de docs/tareas/prompts/<rutina>.md y EDITA el archivo
+#   4. el workflow valida, commitea a main y lanza deploy.yml (un push con GITHUB_TOKEN no dispara
+#      otros workflows, por eso se lanza con gh)
+#   5. se comprueba en producción (actualizado = hoy / cifra nueva). Si no cuadra, el job FALLA en rojo.
+# Sin proxy, sin permisos que aprobar, sin Mac. Único secreto: CLAUDE_CODE_OAUTH_TOKEN
+# (generado con `claude setup-token`; suscripción Pro/Max). Si falta, el job falla en el primer paso.
+
+on:
+  schedule:
+    # GitHub retrasa los crones de schedule (hasta horas en minutos cargados): minutos "raros".
+    - cron: '7 6 * * *'     # 08:07 Madrid — noticias VE
+    - cron: '7 7 * * *'     # 09:07 Madrid — noticias CO
+    - cron: '7 16 * * *'    # 18:07 Madrid — balance UNGRD CO
+    - cron: '7 5 * * 5'     # viernes 07:07 Madrid — SitRep OCHA VE
+  workflow_dispatch:
+    inputs:
+      rutina:
+        description: 'Qué rutina ejecutar'
+        required: true
+        type: choice
+        options: [ noticias-ve, noticias-co, balance-co, sitrep-ve ]
+
+concurrency:
+  group: publicar-sosvenezuela
+  cancel-in-progress: false
+
+env:
+  SITIO: https://apoyo-fem-vzla.org
+
+jobs:
+  publicar:
+    name: ${{ github.event.inputs.rutina || github.event.schedule }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - name: Comprobar que existe el secret CLAUDE_CODE_OAUTH_TOKEN
+        env:
+          TOK: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          [ -n "$TOK" ] || { echo "::error::Falta el secret CLAUDE_CODE_OAUTH_TOKEN (Settings → Secrets → Actions). Generar con: claude setup-token"; exit 1; }
+
+      - name: Determinar la rutina
+        id: rutina
+        run: |
+          case "${{ github.event.inputs.rutina }}${{ github.event.schedule }}" in
+            noticias-ve|'7 6 * * *')   r=noticias-ve;  archivo=noticias.json;          pais=ve ;;
+            noticias-co|'7 7 * * *')   r=noticias-co;  archivo=noticias-colombia.json; pais=co ;;
+            balance-co|'7 16 * * *')   r=balance-co;   archivo=colombia.html;          pais=co ;;
+            sitrep-ve|'7 5 * * 5')     r=sitrep-ve;    archivo=index.html;             pais=ve ;;
+            *) echo "::error::rutina desconocida"; exit 1 ;;
+          esac
+          echo "rutina=$r"   >> "$GITHUB_OUTPUT"
+          echo "archivo=$archivo" >> "$GITHUB_OUTPUT"
+          echo "pais=$pais"  >> "$GITHUB_OUTPUT"
+          echo "Rutina: $r → edita $archivo"
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Instalar pdftotext (SitReps)
+        if: steps.rutina.outputs.rutina == 'sitrep-ve'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: 1. Recolectar materia prima (prensa, ReliefWeb, snapshot de producción)
+        run: |
+          if [ "${{ steps.rutina.outputs.rutina }}" = "sitrep-ve" ]; then
+            python3 docs/tareas/recolectar_candidatos.py --dias 3 --sitreps
+          else
+            python3 docs/tareas/recolectar_candidatos.py --dias 2 --solo ${{ steps.rutina.outputs.pais }}
+          fi
+          python3 - <<'PY'
+          import json,sys
+          pais="${{ steps.rutina.outputs.pais }}"
+          d=json.load(open(f'docs/tareas/candidatos-{pais}.json'))
+          print('generado',d['generado'],'| fuentes',d['fuentes_leidas'],'/',d['fuentes_totales'],'| candidatos',len(d['candidatos']))
+          if d['fuentes_leidas']==0:
+              print('::error::el recolector no pudo leer ninguna fuente'); sys.exit(1)
+          PY
+
+      - name: Guardar la materia prima en main (no bloquea si falla)
+        continue-on-error: true
+        run: |
+          git config user.name  "recolector-bot"
+          git config user.email "bot@apoyo-fem-vzla.org"
+          git add docs/tareas/candidatos-*.json docs/tareas/produccion-*.json \
+                  docs/tareas/sitreps-ve.json docs/tareas/sitreps/ 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Materia prima sin cambios."; else
+            git commit -q -m "recolectar: materia prima $(date -u +'%F %H:%MZ')"
+            git pull -q --rebase --autostash origin main && git push -q origin main && echo "Materia prima en main."
+          fi
+
+      - name: 2. Base de trabajo = lo que sirve PRODUCCIÓN ahora
+        id: base
+        run: |
+          a="${{ steps.rutina.outputs.archivo }}"
+          curl -fsS --retry 3 "$SITIO/$a?v=$RANDOM" -o "$a.prod" || {
+            echo "::warning::producción no respondió; uso la rama deploy"
+            git show origin/deploy:"$a" > "$a.prod"; }
+          case "$a" in *.json) python3 -m json.tool "$a.prod" >/dev/null ;; *.html) grep -q '</html>' "$a.prod" ;; esac
+          mv "$a.prod" "$a"
+          cp "$a" "/tmp/$a.antes"
+          echo "Base: $a ($(wc -c <"$a") bytes) tomada de producción"
+          case "$a" in *.json) python3 -c "import json;d=json.load(open('$a'));print('actualizado',d['actualizado'],'items',len(d['items']))";; esac
+
+      - name: 3. Claude aplica el criterio y edita ${{ steps.rutina.outputs.archivo }}
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: |
+            Estás en un checkout del repo msb70/sosvenezuela dentro de GitHub Actions (directorio actual).
+            Lee el archivo docs/tareas/prompts/${{ steps.rutina.outputs.rutina }}.md y sigue sus instrucciones
+            al pie de la letra. Solo debes modificar el archivo ${{ steps.rutina.outputs.archivo }}.
+            NO hagas git commit ni git push: el workflow lo hace después de validar.
+            Si concluyes que NO se debe publicar, escribe el motivo en NO_PUBLICADO.txt y termina.
+          claude_args: |
+            --model opus
+            --max-turns 90
+            --allowedTools Bash,Read,Write,Edit,Glob,Grep
+
+      - name: 4. Validar lo que dejó Claude
+        id: validar
+        run: |
+          a="${{ steps.rutina.outputs.archivo }}"
+          if [ -f NO_PUBLICADO.txt ]; then echo "::error::Claude decidió no publicar: $(cat NO_PUBLICADO.txt)"; exit 1; fi
+          # Claude solo puede haber tocado el archivo de su rutina (y docs/tareas, que no se commitea)
+          otros=$(git status --porcelain | grep -v " docs/tareas/" | grep -v " $a\$" | grep -v '^??' || true)
+          [ -z "$otros" ] && echo "OK: solo cambió $a" || { echo "::error::cambios fuera de $a:"; echo "$otros"; exit 1; }
+          python3 .github/scripts/validar_noticias.py noticias.json noticias-colombia.json
+          case "$a" in
+            *.json) python3 - "$a" <<'PY'
+          import json,sys,datetime
+          a=sys.argv[1]; hoy=datetime.date.today().isoformat()
+          d=json.load(open(a)); antes=json.load(open('/tmp/'+a+'.antes'))
+          assert d['actualizado']==hoy, f"actualizado={d['actualizado']} y hoy es {hoy}"
+          assert len(d['items'])>=len(antes['items']), "se perdieron items respecto a producción"
+          print('OK', a, 'actualizado', d['actualizado'], 'items', len(antes['items']), '→', len(d['items']))
+          PY
+            ;;
+            *.html) python3 - "$a" <<'PY'
+          import sys,re
+          a=sys.argv[1]; s=open(a).read(); antes=open('/tmp/'+a+'.antes').read()
+          assert '</html>' in s and '<title' in s, 'HTML incompleto'
+          assert abs(len(s)-len(antes)) < 0.15*len(antes), 'el tamaño del HTML cambió más de un 15 %: sospechoso'
+          assert len(re.findall(r'<section',s))==len(re.findall(r'</section>',s)), 'secciones desbalanceadas'
+          print('OK', a, len(antes), '→', len(s), 'bytes')
+          PY
+            ;;
+          esac
+          if cmp -s "$a" "/tmp/$a.antes"; then echo "cambio=false" >> "$GITHUB_OUTPUT"; echo "Sin cambios respecto a producción."
+          else echo "cambio=true" >> "$GITHUB_OUTPUT"; git --no-pager diff --stat -- "$a"; fi
+
+      - name: 5. Commit a main
+        if: steps.validar.outputs.cambio == 'true'
+        id: commit
+        run: |
+          a="${{ steps.rutina.outputs.archivo }}"
+          git config user.name  "sosvenezuela-bot"
+          git config user.email "bot@apoyo-fem-vzla.org"
+          git add "$a"
+          git commit -q -m "${{ steps.rutina.outputs.rutina }} $(date -u +%F) (Actions)"
+          git pull -q --rebase --autostash origin main && git push -q origin main
+          echo "sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+          echo "Commit $(git rev-parse --short HEAD) en main."
+
+      - name: 6. Lanzar deploy.yml y esperar
+        if: steps.validar.outputs.cambio == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          sleep 5
+          gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref main
+          sleep 30
+          id=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow deploy.yml --limit 1 --json databaseId -q '.[0].databaseId')
+          gh run watch "$id" --repo "$GITHUB_REPOSITORY" --exit-status
+          sleep 60
+
+      - name: 7. VERIFICAR EN PRODUCCIÓN (la única prueba que vale)
+        if: steps.validar.outputs.cambio == 'true'
+        run: |
+          a="${{ steps.rutina.outputs.archivo }}"
+          for i in 1 2 3 4 5 6; do
+            if curl -fsS "$SITIO/$a?v=$RANDOM$i" -o /tmp/prod && python3 - "$a" <<'PY'
+          import sys,json
+          a=sys.argv[1]; p=open('/tmp/prod',encoding='utf-8').read(); l=open(a,encoding='utf-8').read()
+          if a.endswith('.json'):
+              P,L=json.loads(p),json.loads(l)
+              ok = P['actualizado']==L['actualizado'] and [i['id'] for i in P['items']]==[i['id'] for i in L['items']]
+              print('producción:',P['actualizado'],len(P['items']),'items | local:',L['actualizado'],len(L['items']))
+          else:
+              ok = p.replace('\r\n','\n').strip()==l.replace('\r\n','\n').strip()
+          sys.exit(0 if ok else 1)
+          PY
+            then echo "✅ Producción sirve el archivo publicado ($a)"; exit 0; fi
+            echo "intento $i: producción aún no refleja el cambio; espero 30 s"; sleep 30
+          done
+          echo "::error::⚠️ NO PUBLICADO: producción no refleja el commit ${{ steps.commit.outputs.sha }} tras 3 min"
+          exit 1
+
+      - name: Resumen
+        if: always()
+        run: |
+          echo "rutina=${{ steps.rutina.outputs.rutina }} archivo=${{ steps.rutina.outputs.archivo }} cambio=${{ steps.validar.outputs.cambio }} sha=${{ steps.commit.outputs.sha }}"

@@ -1,67 +1,62 @@
-# Guía: publicación automática sin Mac y sin nadie aprobando
+# Guía: publicación automática sin Mac, sin rutinas de claude.ai y sin nadie aprobando
 
-## La arquitectura (por qué son dos piezas)
-El entorno donde corren las rutinas (Claude Code en la nube) puede hacer `git push` pero
-**solo tiene red hacia GitHub**: no puede leer prensa ni `apoyo-fem-vzla.org`. GitHub Actions
-sí tiene red abierta pero no aplica criterio editorial. Así que el trabajo se parte:
+> Vigente desde el 08/09/2026. Sustituye a la arquitectura «recolector en Actions + rutina de
+> claude.ai». Aquella nunca publicó sola: las rutinas nacían sin el repo vinculado
+> (`sources: []`) y el proxy bloqueaba el `git push` en cada corrida.
+
+## La arquitectura: TODO corre en GitHub Actions
+Un solo workflow, `.github/workflows/publicar.yml`, hace la cadena completa en un mismo job:
 
 ```
-GitHub Actions (recolectar.yml)          Rutina (Claude Code, ligada al repo)
-  · lee la prensa por RSS                   · clona el repo (solo GitHub)
-  · verifica fecha y baja el cuerpo         · lee candidatos-*.json y produccion-*.json
-  · snapshot de producción                  · aplica el criterio editorial
-  · baja los PDF de los SitReps      ──▶    · edita el JSON / HTML
-  · commitea la materia prima a main        · git push a main
-                                            · verifica por la rama deploy
-                              deploy.yml construye deploy → Hostinger sirve en <1 min
+publicar.yml (GitHub Actions, red abierta, sin proxy, sin permisos que aprobar)
+  1. recolectar_candidatos.py     → docs/tareas/candidatos-*.json, sitreps (materia prima)
+  2. curl a producción             → el archivo a editar parte de LO PUBLICADO, no del repo
+  3. claude-code-action            → Claude lee docs/tareas/prompts/<rutina>.md y EDITA el archivo
+                                     (solo criterio editorial; sin git, sin internet)
+  4. validar                       → validar_noticias.py + solo cambió el archivo de la rutina
+  5. commit a main                 → con GITHUB_TOKEN
+  6. gh workflow run deploy.yml    → un push con GITHUB_TOKEN no dispara workflows: se lanza a mano
+  7. curl a producción             → si no sirve lo publicado en 3 min, el job FALLA en rojo
 ```
-Ninguna pieza usa el conector Hostinger, ni WebFetch, ni el Mac. Nada pide permiso.
+Si Claude decide no publicar, escribe `NO_PUBLICADO.txt` y el job falla en rojo. Un job rojo
+manda email de GitHub (a quien hizo el último commit del workflow). Un job verde = publicado y
+comprobado en producción. No hay estado intermedio «SUCCEEDED pero sin publicar».
 
-## Horarios (todo UTC)
-| Pieza | Cron UTC | Madrid |
-|---|---|---|
-| recolectar.yml (madrugada, dos intentos: prensa VE+CO) | `23 3 * * *` y `23 5 * * *` | 05:23 y 07:23 |
-| rutina noticias VE | `0 8 * * *` | 10:00 |
-| rutina noticias CO | `0 9 * * *` | 11:00 |
-| recolectar.yml (tarde: prensa VE+CO) | `23 14 * * *` | 16:23 |
-| rutina balance CO | `0 18 * * *` | 20:00 |
-| recolectar.yml (viernes: SitReps + PDF) | `53 2 * * 5` | vie 04:53 |
-| rutina SitRep VE | `0 7 * * 5` | vie 09:00 |
+## Rutinas y horarios (cron UTC; GitHub puede retrasarlos minutos u horas)
+| Rutina (`inputs.rutina`) | Cron | Madrid | Edita | Prompt |
+|---|---|---|---|---|
+| `noticias-ve` | `7 6 * * *` | 08:07 | `noticias.json` | `prompts/noticias-ve.md` |
+| `noticias-co` | `7 7 * * *` | 09:07 | `noticias-colombia.json` | `prompts/noticias-co.md` |
+| `balance-co` | `7 16 * * *` | 18:07 | `colombia.html` | `prompts/balance-co.md` |
+| `sitrep-ve` | `7 5 * * 5` (viernes) | 07:07 | `index.html` | `prompts/sitrep-ve.md` |
 
-**GitHub no respeta la hora del cron de `schedule`: entre el 03 y el 07/09/2026 el cron de las
-07:40 UTC corrió a las 11-12 UTC, después de las rutinas, que paraban con «NO PUBLICADO».** Por eso
-el recolector corre de madrugada (dos intentos) y las rutinas aceptan materia prima de hasta
-20 horas: la corrida de la tarde anterior siempre cubre la mañana. Si pasan más de 20 h sin
-recolector, la rutina lo detecta y avisa por push sin publicar a ciegas.
+`recolectar.yml` ya no tiene cron: el recolector corre dentro de `publicar.yml`. Queda con
+`workflow_dispatch` por si se quiere refrescar la materia prima a mano. `reconciliar.yml` sigue
+igual (red de seguridad si producción y `main` divergen).
 
-## Paso a paso (una vez, desde claude.ai/code con el repo msb70/sosvenezuela seleccionado)
-Ya comprobaste que en ese contexto `git push` a `main` funciona. Ahora:
+## Lo único manual, una sola vez: el secret
+El paso de Claude usa la suscripción (Pro/Max), no una API key de pago:
+1. En el Mac, en una terminal: `claude setup-token` → copia el token que imprime.
+2. GitHub → repo `msb70/sosvenezuela` → Settings → Secrets and variables → Actions →
+   New repository secret → nombre `CLAUDE_CODE_OAUTH_TOKEN`, valor el token.
+3. Probar: Actions → «Publicar (recolectar + criterio + deploy)» → Run workflow → rutina `noticias-ve`.
+Si el secret falta, el job falla en el primer paso con un mensaje claro. Si el token caduca,
+falla en el paso 3 (rojo + email): repetir 1-2.
 
-1. Menú lateral → **Rutinas** → **Nueva rutina**, con el chip **sosvenezuela · main** puesto.
-2. Crea las cuatro, pegando ENTERO el archivo de prompt indicado (están en el repo):
-   | nombre | cron | prompt |
-   |---|---|---|
-   | noticias-terremoto-venezuela-diario | `0 8 * * *` | prompts/noticias-venezuela-diario.md |
-   | noticias-terremoto-colombia-diario | `0 9 * * *` | prompts/noticias-colombia-diario.md |
-   | balance-colombia-diario | `0 18 * * *` | prompts/balance-colombia-diario.md |
-   | sitrep-ocha-venezuela-quincenal | `0 7 * * 5` | prompts/sitrep-ocha-venezuela-quincenal.md |
-   Modelo: Opus. Notificaciones: push ON.
-3. Antes de fiarte, lanza a mano el recolector y una rutina:
-   - En el chat (contexto sosvenezuela · main): `gh workflow run recolectar.yml` y espera ~2 min,
-     o entra a GitHub → Actions → "Recolectar materia prima" → Run workflow.
-   - Comprueba que en el repo aparecieron/actualizaron `docs/tareas/candidatos-ve.json`
-     y `produccion-ve.json` con la fecha de hoy.
-   - Lanza la rutina de Venezuela ("Run now"), abre la sesión: debe terminar SIN ningún cuadro
-     «¿Permitir…?», con un SHA, y el bloque de verificación debe mostrar la rama `deploy` con
-     `actualizado` de hoy.
-   - Abre `https://apoyo-fem-vzla.org/noticias.json` en el navegador: `actualizado` de hoy.
-4. Cuando funcione, avísame y **desactivo las cuatro rutinas viejas** (las creadas desde Cowork)
-   para que no corran dos a la vez.
+## Lanzar a mano / diagnosticar
+- Lanzar: `gh workflow run publicar.yml --repo msb70/sosvenezuela -f rutina=noticias-ve`
+- Ver: `gh run list --repo msb70/sosvenezuela --workflow publicar.yml --limit 5`
+- Log de un run: `gh run view <id> --repo msb70/sosvenezuela --log`
+- La prueba de verdad, siempre: `curl -s "https://apoyo-fem-vzla.org/noticias.json?v=$RANDOM" | python3 -c "import sys,json;d=json.load(sys.stdin);print(d['actualizado'],len(d['items']))"`
 
-## Qué NO hacer
-- No metas WebFetch, WebSearch, curl a prensa ni MCP en los prompts: la rutina no necesita red
-  más allá de GitHub, y esas herramientas piden permiso o fallan.
-- No pongas protección de rama en `main`: rompería el push de las rutinas. La red de seguridad
-  está en `deploy.yml` (valida los JSON antes de publicar), no en la rama.
-- El recolector escribe en `docs/tareas/`, que NO se despliega (no está en la lista `ARCHIVOS`
-  de deploy.yml). Las rutinas no deben commitear esos archivos.
+## Cambiar el criterio editorial
+Editar `docs/tareas/CRITERIO-VE.md` / `CRITERIO-CO.md` o el prompt correspondiente en
+`docs/tareas/prompts/` y hacer commit a `main`. La siguiente corrida ya lo usa. No hay nada
+que tocar en claude.ai.
+
+## Reglas que siguen valiendo
+1. Verificar producción, nunca el push. (El workflow lo hace en el paso 7.)
+2. El deploy reconstruye la web entera desde `main`: por eso el archivo editado parte de producción
+   (paso 2) y así cada publicación reconcilia de paso.
+3. Claude solo toca el archivo de su rutina; el workflow falla si cambió algo más.
+4. Publicar a mano desde el Mac sigue funcionando igual (commit + push a `main`); reconciliar antes.
