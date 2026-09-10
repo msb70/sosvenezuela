@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-08",
+  "actualizado": "2026-09-10",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260910-elnacional-convocatoria-ingenieros",
+      "fecha": "2026-09-10",
+      "titulo": "El Ministerio de Transporte convoca a ingenieros y empresas de cálculo estructural para reparar las edificaciones dañadas",
+      "resumen": "El ministro de Transporte, Francisco Garcés, pidió a empresas de cálculo estructural, ingenieros civiles y estudiantes de último año de Ingeniería y Arquitectura registrarse en una plataforma oficial para recibir adiestramiento y certificación antes de ejecutar proyectos de inspección, reparación y reforzamiento de viviendas. El plan cuenta con el respaldo técnico del Colegio de Ingenieros de Venezuela y se suma al acuerdo con Miyamoto International para retirar tres millones de toneladas de escombros, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-venezolano-convoca-a-ingenieros-y-empresas-para-la-reparacion-de-edificaciones-danadas-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260910-efectococuyo-ucab-condiciones-retorno-clases",
+      "fecha": "2026-09-10",
+      "titulo": "Una investigadora de la Ucab plantea cinco condiciones mínimas para el regreso a clases tras los sismos",
+      "resumen": "La abogada y docente de la Universidad Católica Andrés Bello Yumildre Castillo planteó cinco requisitos previos a la reapertura de los planteles: certificación estructural formal por ingeniería civil, desalojo de las escuelas que aún sirven de refugio, servicios básicos garantizados, y atención al estado emocional de niños y adolescentes. «Si el espacio físico o emocional está comprometido, el retorno a las aulas en lugar de proteger, revictimiza», dijo a Efecto Cocuyo a pocos días del inicio del año escolar 2026-2027.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/escuelas-no-pueden-ser-escenarios-de-riesgo/"
+    },
+    {
+      "id": "ve-20260909-lapatilla-codigo-emergencia-sismica",
+      "fecha": "2026-09-09",
+      "titulo": "La Comisión Presidencial de Habitabilidad prepara un código de emergencia sísmica para las nuevas construcciones",
+      "resumen": "El ministro de Transporte, Francisco Garcés, presidente de la Comisión Presidencial para la Evaluación de Habitabilidad de Infraestructuras, anunció que se elabora un código de emergencia y normas complementarias de construcción más estrictas que la norma vigente. La redacción quedó encomendada al recién juramentado Comité Técnico Asesor del Terremoto, asistido por un comité técnico internacional. En La Guaira, precisó, las casas nuevas se proyectan con mayor amenaza sísmica y límites de ductilidad y desplazamiento, según Unión Radio vía La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/09/chavismo-prepara-nuevas-normas-de-construccion-tras-los-terremotos-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260909-lapatilla-asociacion-bancaria-creditos",
+      "fecha": "2026-09-09",
+      "titulo": "La Asociación Bancaria detalla el crédito social para damnificados: hasta 100.000 dólares a 25 años y 5 % de interés",
+      "resumen": "El presidente de la Asociación Bancaria de Venezuela, Pedro Pacheco, explicó que el programa de crédito social permite comprar vivienda en el mercado secundario con un tope de 100.000 dólares, plazos de 25 años y una tasa fija del 5 %. El Estado añade un subsidio directo del 80 % para inmuebles de hasta 70.000 dólares y del 50 % por encima de esa cifra. Pacheco afirmó que los trámites se quieren resolver «en forma prácticamente inmediata», en declaraciones al Circuito Éxitos recogidas por La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/09/asociacion-bancaria-busca-dar-respuesta-inmediata-a-creditos-habitacionales-para-afectados-por-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20260909-elnacional-528-viviendas-entregadas",
+      "fecha": "2026-09-09",
+      "titulo": "El Gobierno eleva a 528 las viviendas entregadas a damnificados y mantiene la meta de 4.000 en diciembre",
+      "resumen": "Un balance oficial difundido el 9 de septiembre por los medios del Estado sitúa en 528 las viviendas adjudicadas a familias afectadas por el doble terremoto, tras la entrega de 151 nuevas unidades en un acto en Fuerte Tiuna. La presidenta encargada, Delcy Rodríguez, ratificó el cronograma de entregas mensuales hasta alcanzar 4.000 unidades en diciembre y el compromiso de reubicar a quienes siguen en refugios. El Ejecutivo estima en unas 18.000 las personas que perdieron su hogar, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-venezolano-ha-entregado-528-viviendas-a-damnificados-por-los-sismos/"
+    },
+    {
+      "id": "ve-20260909-efectococuyo-19-aerolineas-maiquetia",
+      "fecha": "2026-09-09",
+      "titulo": "Diecinueve aerolíneas operan ya en las terminales temporales de Maiquetía",
+      "resumen": "Once aerolíneas internacionales y ocho nacionales operan en las terminales provisionales del aeropuerto Simón Bolívar, habilitadas el 1 de septiembre, según informó el Ministerio de Transporte. Con ellas se ha restablecido el 49 % de las operaciones nacionales y el 46 % de las internacionales, y la conexión directa con España, Estados Unidos, Panamá, Colombia y Brasil. Las estructuras tienen capacidad para 2.168 personas, informó EFE a través de Efecto Cocuyo.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/19-aerolineas-operan-en-terminales-temporales-de-maiquetia/"
+    },
+    {
+      "id": "ve-20260909-cronicauno-serenisima-sur",
+      "fecha": "2026-09-09",
+      "titulo": "Las 72 familias de la torre Serenísima Sur conviven con muros colapsados y desalojos temporales por las obras",
+      "resumen": "Crónica.Uno documenta la vida en el edificio Serenísima Sur, en el centro-norte de Caracas, donde 72 familias quedaron con las divisiones interiores derrumbadas por el doble sismo de magnitudes 7,2 y 7,5 del 24 de junio. Los residentes alternan la convivencia entre escombros con desalojos temporales mientras avanzan las labores de demolición técnica y restauración, con casos como el de una madre cuyo hijo con trastorno del espectro autista ha perdido su entorno y su rutina.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/doble-terremoto-rompio-intimidad-rutina-72-familias-torre-serenisima-sur/"
+    },
+    {
+      "id": "ve-20260908-cronicauno-etiqueta-amarilla-creditos",
+      "fecha": "2026-09-08",
+      "titulo": "Los damnificados con etiqueta amarilla quedan fuera del censo y de los créditos oficiales pese a tener la vivienda inhabitable",
+      "resumen": "La clasificación técnica de daños —rojo para colapso o demolición, amarillo para daños con o sin acceso restringido— se ha convertido en un filtro que deja sin censo ni ayuda a familias cuyas casas son inhabitables, según documenta Crónica.Uno en la segunda entrega de su serie sobre el plan Venezuela Renace. A las fallas del registro del Banavih y del Ministerio de Hábitat y Vivienda se suma la falta de aclaraciones oficiales sobre el criterio. El reportaje cifra en 17.900 los desplazados y en 23.000 las personas en asentamientos temporales.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/damnificados-etiqueta-amarilla-obstaculos-creditos-oficiales/"
+    },
     {
       "id": "ve-20260907-lapatilla-desplazados-la-guaira-anzoategui",
       "fecha": "2026-09-07",
