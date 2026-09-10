@@ -1,7 +1,128 @@
 {
-  "actualizado": "2026-09-08",
+  "actualizado": "2026-09-10",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260910-infobae-save-the-children-infancia",
+      "fecha": "2026-09-10",
+      "titulo": "Save the Children advierte de que más de 300.000 niños están expuestos a riesgos de protección tras el terremoto",
+      "resumen": "La interrupción de las clases afecta a 988.180 matrículas y deja a más de 300.000 menores expuestos a separación familiar, violencia, desescolarización y reclutamiento, según el balance que cita la organización. Su directora en Colombia, María Mercedes Liévano, explicó a Infobae que la destrucción de viviendas y escuelas, el hacinamiento y la pérdida de rutinas agravaron la vulnerabilidad de miles de familias, sobre todo en el Chocó.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/especial-un-mes-despues-del-terremoto-en-colombia-estos-son-riesgos-invisibles-para-la-infancia-mas-de-300-mil-ninos-estan-expuestos-a-separacion-familiar-violencia-desescolarizacion-y-reclutamiento/"
+    },
+    {
+      "id": "co-20260910-infobae-once-decretos-fondo-milagro",
+      "fecha": "2026-09-10",
+      "titulo": "El Gobierno expide once decretos de emergencia que crean el Fondo Milagro y permiten financiar la reconstrucción con recursos de otros territorios",
+      "resumen": "Los decretos 1379 a 1389, firmados el 9 de septiembre en desarrollo de la emergencia económica, abren nuevos mecanismos de financiación y medidas en energía, salud, educación y obras públicas para los municipios con menor capacidad fiscal. El Decreto 1379 deja en firme el Fondo Milagro y el paquete habilita que las entidades territoriales no afectadas —que concentran cerca del 55 % de los ingresos corrientes de libre destinación y presupuestaron 924.027 millones de pesos en sus fondos de gestión del riesgo para 2026— inviertan en las zonas golpeadas, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/abelardo-de-la-espriella-firmo-11-decretos-para-acelerar-la-reconstruccion-de-los-territorios-golpeados-por-el-terremoto-en-que-consisten/"
+    },
+    {
+      "id": "co-20260910-infobae-james-rodriguez-donacion",
+      "fecha": "2026-09-10",
+      "titulo": "El futbolista James Rodríguez dona 150 millones de pesos para las familias afectadas por el terremoto",
+      "resumen": "El aporte procede de parte de los resultados de JR10 Legend, su colaboración con la marca Monastery, y será canalizado por esa empresa y la Fundación Colombia Somos Todos. El anuncio se hizo en su cuenta de X al cumplirse un mes del sismo, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/a-un-mes-del-terremoto-en-colombia-james-rodriguez-anuncio-importante-donacion-para-apoyar-a-las-victimas-y-familias-afectadas/"
+    },
+    {
+      "id": "co-20260910-infobae-iets-salud-mental",
+      "fecha": "2026-09-10",
+      "titulo": "El Iets actualiza su tablero de apoyo en salud mental para las víctimas del terremoto con 44 recursos de atención",
+      "resumen": "La plataforma del Instituto de Evaluación Tecnológica en Salud reúne líneas de atención, rutas territoriales, primeros auxilios psicológicos y acompañamiento en el duelo: 14 recursos proceden de fuentes oficiales, 16 corresponden a rutas con cobertura territorial y 30 informan sobre condiciones de gratuidad. La actualización se divulgó el 10 de septiembre, Día Mundial para la Prevención del Suicidio, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/actualizaron-aplicativo-que-ofrece-ayudas-a-victimas-del-terremoto-con-problemas-de-salud-mental-como-pueden-acceder-y-que-servicios-tiene/"
+    },
+    {
+      "id": "co-20260910-infobae-balance-ungrd-un-mes",
+      "fecha": "2026-09-10",
+      "titulo": "La UNGRD eleva a 466.345 los afectados por el terremoto al cumplirse un mes: 331 fallecidos, 4.505 heridos y 111 desaparecidos",
+      "resumen": "Con corte al 10 de septiembre, la Unidad Nacional para la Gestión del Riesgo de Desastres contabiliza 466.345 personas afectadas en 497 municipios de 16 departamentos, además de 331 fallecidos, 4.505 heridos y 111 desaparecidos. La Alcaldía de Cali mantiene 154 fallecidos, 1.600 heridos y 45.000 familias afectadas, mientras Manizales reporta 11.513 viviendas impactadas, 1.505 de ellas con pérdida total, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/a-un-mes-del-sismo-de-74-en-colombia-asi-va-la-reconstruccion-de-las-zonas-mas-afectadas-no-queremos-solo-ayuda-queremos-inversion/"
+    },
+    {
+      "id": "co-20260910-eltiempo-sgc-300-replicas",
+      "fecha": "2026-09-10",
+      "titulo": "El Servicio Geológico Colombiano registra más de 300 réplicas del sismo y un enjambre con 1.200 eventos en el Chocó",
+      "resumen": "Freddy Tovar, coordinador de la Red Sismológica Nacional, informó que con corte al 10 de septiembre se han identificado más de 300 réplicas asociadas al terremoto del 10 de agosto, todas a profundidades superiores a 70 kilómetros. A ellas se suma un enjambre sísmico en el Chocó con más de 1.200 eventos a menos de 70 kilómetros de profundidad; el SGC ha recorrido más de 20 municipios en trabajos de campo, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/un-mes-despues-del-terremoto-en-choco-el-sgc-ha-registrado-mas-de-300-replicas-y-un-enjambre-con-1-200-eventos-3585009"
+    },
+    {
+      "id": "co-20260910-eltiempo-sena-uniminuto-descuento",
+      "fecha": "2026-09-10",
+      "titulo": "El Sena y Uniminuto ofrecen un 40 % de descuento en matrículas de educación superior a los afectados por el terremoto",
+      "resumen": "La alianza, anunciada el 9 de septiembre, está dirigida a aprendices, egresados y miembros de la comunidad del Sena damnificados por el sismo de magnitud 7,4. El beneficio se aplica en Caldas, Risaralda, Quindío, Valle del Cauca y Chocó, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/educacion/afectados-por-el-terremoto-en-colombia-podran-acceder-a-educacion-superior-con-40-de-descuento-por-una-alianza-entre-el-sena-y-uniminuto-3585017"
+    },
+    {
+      "id": "co-20260910-eltiempo-quibdo-edificio-barrio-jardin",
+      "fecha": "2026-09-10",
+      "titulo": "Vecinos del barrio El Jardín, en Quibdó, duermen fuera de sus casas por un edificio en riesgo de colapso que sigue sin demolerse",
+      "resumen": "Una edificación de seis pisos del sector Las Dalias quedó con daños estructurales visibles el 10 de agosto y las autoridades ordenaron su demolición, pero un mes después continúa en pie. Las familias vecinas, algunas con viviendas intactas, abandonan sus casas cada noche y han tenido que pagar arriendos por temor a que la estructura se desplome, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/nos-da-susto-que-nos-caiga-encima-en-el-barrio-jardin-de-quibdo-vecinos-no-duermen-en-sus-casas-por-miedo-a-un-edificio-afectado-por-el-terremoto-3585136"
+    },
+    {
+      "id": "co-20260910-eltiempo-hospital-ismael-roldan-quibdo",
+      "fecha": "2026-09-10",
+      "titulo": "El hospital Ismael Roldán de Quibdó sigue con hospitalización cerrada y cortes de electricidad un mes después del sismo",
+      "resumen": "El segundo y el tercer piso de uno de los principales centros asistenciales del Chocó permanecen inhabilitados y el servicio eléctrico falla de forma persistente. Dos carpas donadas por la Defensa Civil funcionan como urgencias en el parqueadero exterior, mientras la antigua área de urgencias se usa como hospitalización de emergencia, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/salud/un-mes-despues-del-sismo-el-hospital-ismael-roldan-de-quibdo-permanece-con-sus-areas-de-hospitalizacion-cerradas-y-cortes-constantes-de-electricidad-3585122"
+    },
+    {
+      "id": "co-20260910-eltiempo-cruz-roja-dos-anos",
+      "fecha": "2026-09-10",
+      "titulo": "La Cruz Roja Colombiana calcula que la recuperación de los territorios afectados tomará al menos dos años",
+      "resumen": "Su director ejecutivo, Francisco Moreno, explicó a El Tiempo que la fase de rescate ya dio paso a la estabilización y que lo que viene «es grande, demorado y mucho más costoso» que la respuesta inmediata. El terremoto afectó a más de diez departamentos y 498 municipios del país.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/justicia/investigacion/la-recuperacion-de-los-territorios-afectados-por-el-terremoto-tomara-al-menos-dos-anos-segun-la-cruz-roja-colombiana-3584986"
+    },
+    {
+      "id": "co-20260910-eltiempo-banco-alimentos-1300-toneladas",
+      "fecha": "2026-09-10",
+      "titulo": "El Banco de Alimentos de Bogotá ha movilizado 1.300 toneladas de ayuda a 45 comunidades de cinco departamentos",
+      "resumen": "La entidad reporta más de 33.000 mercados y otros insumos entregados con aportes económicos de 40.550 personas y el trabajo de 6.800 voluntarios. El Valle del Cauca concentra 768 toneladas —sobre todo en Cali, Palmira, Buenaventura, Cartago y La Unión—, seguido de Risaralda con 205 toneladas y Chocó con 176, incluidas comunidades rurales y resguardos indígenas, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/banco-de-alimentos-de-bogota-movilizo-1-300-toneladas-de-ayuda-humanitaria-tras-el-terremoto-de-7-4-que-afecto-varias-ciudades-del-pais-3585046"
+    },
     {
       "id": "co-20260907-infobae-siete-medidas-vivienda-credito",
       "fecha": "2026-09-07",
