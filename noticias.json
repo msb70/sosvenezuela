@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-10",
+  "actualizado": "2026-09-11",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260911-cronicauno-panaderias-la-guaira",
+      "fecha": "2026-09-11",
+      "titulo": "Fevipan calcula que el 80 % de las panaderías de La Guaira resultó afectado por el doble terremoto",
+      "resumen": "El presidente de la Federación Venezolana de Industriales de la Harina de Trigo, Panaderías y Afines (Fevipan), Tomás Ramos, indicó que 80 % de las panaderías del estado La Guaira sufrió daños por el doblete sísmico del 24 de junio y que las pérdidas materiales aún no han sido cuantificadas. Ramos aseguró que el gremio garantiza el abastecimiento nacional de harina de trigo y productos panaderos para la temporada decembrina, con una capacidad de procesamiento que pasó de 1,2 a 1,7 millones de toneladas, según Crónica.Uno.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/80-de-las-panaderias-de-la-guaira-resultaron-afectadas-por-el-doblete-sismico/"
+    },
+    {
+      "id": "ve-20260910-elnacional-registro-unico-vivienda",
+      "fecha": "2026-09-10",
+      "titulo": "Habilitado el Registro Único de Vivienda para los damnificados con inmuebles en etiqueta roja",
+      "resumen": "El Ministerio de Hábitat y Vivienda abrió el Registro Único de Vivienda para las personas cuyas casas colapsaron o quedaron inhabitables (etiqueta roja), con atención presencial en su sede de Chacao de 8:00 am a 12:00 m, en el Banavih y en las oficinas regionales, dentro del plan Venezuela Renace. La ministra Paola Posani declaró a Unión Radio que el censo ya ha sistematizado datos de casi 40.000 familias —unas 128.000 personas— en La Guaira, Miranda, Yaracuy, Falcón, Carabobo, Aragua y el Distrito Capital, y que 80 % de los inscritos (unas 32.000 familias) procede de La Guaira, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/habilitan-registro-unico-de-vivienda-para-atender-a-los-afectados-por-los-terremotos/"
+    },
     {
       "id": "ve-20260910-elnacional-convocatoria-ingenieros",
       "fecha": "2026-09-10",
@@ -14,6 +36,17 @@
       "url": "https://www.elnacional.com/2026/09/gobierno-venezolano-convoca-a-ingenieros-y-empresas-para-la-reparacion-de-edificaciones-danadas-por-los-terremotos/"
     },
     {
+      "id": "ve-20260910-elnacional-chacao-palos-grandes",
+      "fecha": "2026-09-10",
+      "titulo": "Chacao repara cerca de 400 apartamentos dañados por los terremotos y ha entregado medio centenar",
+      "resumen": "La Alcaldía de Chacao ejecuta trabajos en los edificios Vista Hermosa, Deco, Río de la Plata y Esmeralda de Los Palos Grandes, dentro de un plan de recuperación iniciado hace mes y medio que prioriza las viviendas con daños moderados o severos y a los residentes mayores de 65 años. El alcalde Gustavo Duque señaló que unos 400 apartamentos están en proceso de reparación y alrededor de 50 ya fueron devueltos a sus propietarios, sobre un total de 5.500 apartamentos afectados en el municipio, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/alcalde-gustavo-duque-superviso-avances-de-reparaciones-en-edificios-afectados-por-los-terremotos-en-los-palos-grandes/"
+    },
+    {
       "id": "ve-20260910-efectococuyo-ucab-condiciones-retorno-clases",
       "fecha": "2026-09-10",
       "titulo": "Una investigadora de la Ucab plantea cinco condiciones mínimas para el regreso a clases tras los sismos",
@@ -23,6 +56,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://efectococuyo.com/la-humanidad/escuelas-no-pueden-ser-escenarios-de-riesgo/"
+    },
+    {
+      "id": "ve-20260910-efectococuyo-maiquetia-48-por-ciento",
+      "fecha": "2026-09-10",
+      "titulo": "Maiquetía opera entre el 48 % y el 49 % de los vuelos previos al sismo y su recuperación parcial se prevé para 2027",
+      "resumen": "El ministro de Transporte y presidente de la Comisión Presidencial para la Evaluación de la Habitabilidad de la Infraestructura, Francisco Garcés, informó que el aeropuerto internacional de Maiquetía ha recuperado entre 48 % y 49 % de los vuelos que operaba antes del doble sismo del 24 de junio y que la terminal principal no volverá a estar en servicio, ni siquiera parcialmente, hasta el primer semestre de 2027. Garcés explicó que la pista, atravesada por la falla sísmica, ya fue reparada, pero que los cerramientos, el cableado y las instalaciones requieren meses de trabajo; las terminales temporales se levantaron en 35 días y operan desde el 1 de septiembre, según Efecto Cocuyo.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/economia/garces-maiquetia-opera-al-48-pero-tenemos-mas-vuelos-internacionales-que-el-ano-pasado/"
     },
     {
       "id": "ve-20260909-lapatilla-codigo-emergencia-sismica",
@@ -45,6 +89,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://lapatilla.com/2026/09/09/asociacion-bancaria-busca-dar-respuesta-inmediata-a-creditos-habitacionales-para-afectados-por-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20260909-elnacional-aeropostal-vuelos-nacionales",
+      "fecha": "2026-09-09",
+      "titulo": "Aeropostal suma vuelos entre Maracaibo, Caracas y Porlamar tras la reapertura de Maiquetía",
+      "resumen": "La aerolínea Aeropostal amplió su programación nacional con una frecuencia semanal entre el aeropuerto La Chinita de Maracaibo y Maiquetía, incorporada el 4 de septiembre, y una conexión directa entre Maracaibo y Porlamar. La ampliación se produce después de que Maiquetía retomara sus operaciones el 1 de septiembre en terminales temporales, tras los daños causados por los terremotos del 24 de junio, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/aeropostal-amplia-vuelos-nacionales-tras-reactivacion-del-aeropuerto-internacional-de-maiquetia/"
     },
     {
       "id": "ve-20260909-elnacional-528-viviendas-entregadas",
