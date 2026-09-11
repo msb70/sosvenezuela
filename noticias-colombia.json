@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-10",
+  "actualizado": "2026-09-11",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260911-infobae-unicef-regreso-clases",
+      "fecha": "2026-09-11",
+      "titulo": "Unicef pide acelerar el regreso seguro a clases: 4.268 sedes educativas quedaron afectadas por el terremoto",
+      "resumen": "Al cumplirse un mes del sismo de magnitud 7,4, Unicef advirtió que más de 4.268 sedes educativas resultaron dañadas en Cauca, Valle del Cauca, Quindío, Chocó y Risaralda, lo que compromete la continuidad de las clases de más de un millón de estudiantes. La organización, citada por Infobae, pidió sostener la respuesta humanitaria en educación, agua segura, salud y protección, y subrayó que reabrir las aulas no basta: hacen falta entornos seguros que permitan a los niños recuperar sus rutinas.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/11/unicef-pide-acelerar-regreso-a-clases-de-ninos-afectados-por-terremoto-en-colombia/"
+    },
+    {
+      "id": "co-20260911-infobae-procuraduria-licencias-edificios",
+      "fecha": "2026-09-11",
+      "titulo": "La Procuraduría revisará las licencias y la interventoría de los edificios que se vinieron abajo con el terremoto",
+      "resumen": "El Ministerio Público investigará si hubo fallas, negligencia o incumplimiento de las normas de sismorresistencia en las edificaciones afectadas en Chocó, el Eje Cafetero y el Valle del Cauca. Según Infobae, el procurador general, Gregorio Eljach, anunció que se revisará todo el recorrido institucional de cada inmueble, desde la licencia otorgada por las curadurías hasta la ejecución final de la obra, incluidas las oficinas de planeación y los responsables de interventoría y supervisión. La entidad buscará en archivos y registros qué funcionarios tenían competencia en cada etapa y si lo construido correspondía a lo autorizado.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/11/procuraduria-revisara-licencias-y-obras-de-edificios-afectados-por-terremoto-en-colombia/"
+    },
+    {
+      "id": "co-20260911-eltiempo-quibdo-829-inmuebles-demolicion",
+      "fecha": "2026-09-11",
+      "titulo": "Quibdó tiene 829 inmuebles colapsados o en riesgo de caer y 890 no habitables: la demolición frena la reconstrucción",
+      "resumen": "En la capital del Chocó, epicentro de la emergencia, las estructuras agrietadas de tres a seis pisos que siguen en pie son hoy el principal obstáculo para reconstruir, según una crónica de El Tiempo sobre el terreno. La ciudad reporta 829 inmuebles colapsados o en riesgo de colapso y otros 890 declarados no habitables, y hay familias que duermen fuera de casa aunque su vivienda esté intacta, por miedo a la del vecino. La Alcaldía pide maquinaria y materiales para avanzar en la fase de estabilización previa a las obras.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/cronica-desde-el-choco-a-un-mes-del-terremoto-asi-vive-quibdo-tras-mas-de-30-dias-de-la-emergencia-que-tuvo-epicentro-en-el-departamento-3585213"
+    },
     {
       "id": "co-20260910-infobae-save-the-children-infancia",
       "fecha": "2026-09-10",
@@ -56,6 +89,17 @@
       "categoria": "Balance y cifras",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/10/a-un-mes-del-sismo-de-74-en-colombia-asi-va-la-reconstruccion-de-las-zonas-mas-afectadas-no-queremos-solo-ayuda-queremos-inversion/"
+    },
+    {
+      "id": "co-20260910-eltiempo-valle-roldanillo-autoconstruccion",
+      "fecha": "2026-09-10",
+      "titulo": "El Valle del Cauca pone en marcha un modelo de autoconstrucción asistida en Roldanillo, con más de 300.000 personas sin hogar",
+      "resumen": "La Gobernación del Valle presentó su apuesta de reconstrucción al cumplirse un mes del terremoto, con un plan piloto de autoconstrucción asistida en Roldanillo, uno de los municipios más golpeados, donde más de 1.300 viviendas resultaron afectadas. El Tiempo recoge que el departamento pasa de la atención inmediata de la emergencia a la fase de reconstrucción de viviendas, hospitales, colegios e infraestructura, con más de 300.000 personas sin hogar.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/el-valle-lo-reconstruimos-juntos-la-apuesta-del-departamento-para-levantarse-tras-un-mes-del-terremoto-3585237"
     },
     {
       "id": "co-20260910-eltiempo-sgc-300-replicas",
@@ -113,6 +157,17 @@
       "url": "https://www.eltiempo.com/justicia/investigacion/la-recuperacion-de-los-territorios-afectados-por-el-terremoto-tomara-al-menos-dos-anos-segun-la-cruz-roja-colombiana-3584986"
     },
     {
+      "id": "co-20260910-eltiempo-concejo-cali-exencion-predial-ica",
+      "fecha": "2026-09-10",
+      "titulo": "El Concejo de Cali aprueba en primer debate exonerar del predial y del ICA a los afectados por el sismo",
+      "resumen": "La Comisión de Presupuesto del Concejo de Cali aprobó en primer debate el Proyecto de Acuerdo 100 de 2026, que establece medidas tributarias temporales para quienes sufrieron pérdidas materiales por el terremoto del 10 de agosto y la posterior declaratoria de calamidad pública. Según El Tiempo, la iniciativa, formulada por el Departamento Administrativo de Hacienda del Distrito, contempla la exoneración del impuesto Predial y del de Industria y Comercio. Le falta aún el segundo debate para convertirse en acuerdo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/un-respiro-para-las-victimas-del-terremoto-en-cali-avanza-en-el-concejo-proyecto-que-busca-exonerarlas-de-impuestos-a-predios-e-industrias-3585211"
+    },
+    {
       "id": "co-20260910-eltiempo-banco-alimentos-1300-toneladas",
       "fecha": "2026-09-10",
       "titulo": "El Banco de Alimentos de Bogotá ha movilizado 1.300 toneladas de ayuda a 45 comunidades de cinco departamentos",
@@ -122,6 +177,17 @@
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/colombia/banco-de-alimentos-de-bogota-movilizo-1-300-toneladas-de-ayuda-humanitaria-tras-el-terremoto-de-7-4-que-afecto-varias-ciudades-del-pais-3585046"
+    },
+    {
+      "id": "co-20260910-eltiempo-andi-empresas-218230-millones",
+      "fecha": "2026-09-10",
+      "titulo": "Las empresas han movilizado 218.230 millones de pesos en ayuda y materiales para las zonas afectadas",
+      "resumen": "La iniciativa Empresas Unidas por Colombia, liderada por la ANDI, ha reunido cerca de 218.230 millones de pesos entre aportes en dinero y donaciones en especie —alimentos, medicamentos y materiales de construcción— para las comunidades golpeadas por el terremoto, informó El Tiempo. Los recursos se destinan tanto a la atención de necesidades prioritarias como a la reconstrucción de los territorios.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/empresas/empresas-movilizan-218-230-millones-de-pesos-para-atender-y-reconstruir-zonas-afectadas-por-el-terremoto-3585227"
     },
     {
       "id": "co-20260907-infobae-siete-medidas-vivienda-credito",
