@@ -1,7 +1,128 @@
 {
-  "actualizado": "2026-09-07",
+  "actualizado": "2026-09-10",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260910-infobae-save-the-children-infancia",
+      "fecha": "2026-09-10",
+      "titulo": "Save the Children advierte de que más de 300.000 niños están expuestos a riesgos de protección tras el terremoto",
+      "resumen": "La interrupción de las clases afecta a 988.180 matrículas y deja a más de 300.000 menores expuestos a separación familiar, violencia, desescolarización y reclutamiento, según el balance que cita la organización. Su directora en Colombia, María Mercedes Liévano, explicó a Infobae que la destrucción de viviendas y escuelas, el hacinamiento y la pérdida de rutinas agravaron la vulnerabilidad de miles de familias, sobre todo en el Chocó.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/especial-un-mes-despues-del-terremoto-en-colombia-estos-son-riesgos-invisibles-para-la-infancia-mas-de-300-mil-ninos-estan-expuestos-a-separacion-familiar-violencia-desescolarizacion-y-reclutamiento/"
+    },
+    {
+      "id": "co-20260910-infobae-once-decretos-fondo-milagro",
+      "fecha": "2026-09-10",
+      "titulo": "El Gobierno expide once decretos de emergencia que crean el Fondo Milagro y permiten financiar la reconstrucción con recursos de otros territorios",
+      "resumen": "Los decretos 1379 a 1389, firmados el 9 de septiembre en desarrollo de la emergencia económica, abren nuevos mecanismos de financiación y medidas en energía, salud, educación y obras públicas para los municipios con menor capacidad fiscal. El Decreto 1379 deja en firme el Fondo Milagro y el paquete habilita que las entidades territoriales no afectadas —que concentran cerca del 55 % de los ingresos corrientes de libre destinación y presupuestaron 924.027 millones de pesos en sus fondos de gestión del riesgo para 2026— inviertan en las zonas golpeadas, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/abelardo-de-la-espriella-firmo-11-decretos-para-acelerar-la-reconstruccion-de-los-territorios-golpeados-por-el-terremoto-en-que-consisten/"
+    },
+    {
+      "id": "co-20260910-infobae-james-rodriguez-donacion",
+      "fecha": "2026-09-10",
+      "titulo": "El futbolista James Rodríguez dona 150 millones de pesos para las familias afectadas por el terremoto",
+      "resumen": "El aporte procede de parte de los resultados de JR10 Legend, su colaboración con la marca Monastery, y será canalizado por esa empresa y la Fundación Colombia Somos Todos. El anuncio se hizo en su cuenta de X al cumplirse un mes del sismo, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/a-un-mes-del-terremoto-en-colombia-james-rodriguez-anuncio-importante-donacion-para-apoyar-a-las-victimas-y-familias-afectadas/"
+    },
+    {
+      "id": "co-20260910-infobae-iets-salud-mental",
+      "fecha": "2026-09-10",
+      "titulo": "El Iets actualiza su tablero de apoyo en salud mental para las víctimas del terremoto con 44 recursos de atención",
+      "resumen": "La plataforma del Instituto de Evaluación Tecnológica en Salud reúne líneas de atención, rutas territoriales, primeros auxilios psicológicos y acompañamiento en el duelo: 14 recursos proceden de fuentes oficiales, 16 corresponden a rutas con cobertura territorial y 30 informan sobre condiciones de gratuidad. La actualización se divulgó el 10 de septiembre, Día Mundial para la Prevención del Suicidio, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/actualizaron-aplicativo-que-ofrece-ayudas-a-victimas-del-terremoto-con-problemas-de-salud-mental-como-pueden-acceder-y-que-servicios-tiene/"
+    },
+    {
+      "id": "co-20260910-infobae-balance-ungrd-un-mes",
+      "fecha": "2026-09-10",
+      "titulo": "La UNGRD eleva a 466.345 los afectados por el terremoto al cumplirse un mes: 331 fallecidos, 4.505 heridos y 111 desaparecidos",
+      "resumen": "Con corte al 10 de septiembre, la Unidad Nacional para la Gestión del Riesgo de Desastres contabiliza 466.345 personas afectadas en 497 municipios de 16 departamentos, además de 331 fallecidos, 4.505 heridos y 111 desaparecidos. La Alcaldía de Cali mantiene 154 fallecidos, 1.600 heridos y 45.000 familias afectadas, mientras Manizales reporta 11.513 viviendas impactadas, 1.505 de ellas con pérdida total, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/10/a-un-mes-del-sismo-de-74-en-colombia-asi-va-la-reconstruccion-de-las-zonas-mas-afectadas-no-queremos-solo-ayuda-queremos-inversion/"
+    },
+    {
+      "id": "co-20260910-eltiempo-sgc-300-replicas",
+      "fecha": "2026-09-10",
+      "titulo": "El Servicio Geológico Colombiano registra más de 300 réplicas del sismo y un enjambre con 1.200 eventos en el Chocó",
+      "resumen": "Freddy Tovar, coordinador de la Red Sismológica Nacional, informó que con corte al 10 de septiembre se han identificado más de 300 réplicas asociadas al terremoto del 10 de agosto, todas a profundidades superiores a 70 kilómetros. A ellas se suma un enjambre sísmico en el Chocó con más de 1.200 eventos a menos de 70 kilómetros de profundidad; el SGC ha recorrido más de 20 municipios en trabajos de campo, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/un-mes-despues-del-terremoto-en-choco-el-sgc-ha-registrado-mas-de-300-replicas-y-un-enjambre-con-1-200-eventos-3585009"
+    },
+    {
+      "id": "co-20260910-eltiempo-sena-uniminuto-descuento",
+      "fecha": "2026-09-10",
+      "titulo": "El Sena y Uniminuto ofrecen un 40 % de descuento en matrículas de educación superior a los afectados por el terremoto",
+      "resumen": "La alianza, anunciada el 9 de septiembre, está dirigida a aprendices, egresados y miembros de la comunidad del Sena damnificados por el sismo de magnitud 7,4. El beneficio se aplica en Caldas, Risaralda, Quindío, Valle del Cauca y Chocó, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/educacion/afectados-por-el-terremoto-en-colombia-podran-acceder-a-educacion-superior-con-40-de-descuento-por-una-alianza-entre-el-sena-y-uniminuto-3585017"
+    },
+    {
+      "id": "co-20260910-eltiempo-quibdo-edificio-barrio-jardin",
+      "fecha": "2026-09-10",
+      "titulo": "Vecinos del barrio El Jardín, en Quibdó, duermen fuera de sus casas por un edificio en riesgo de colapso que sigue sin demolerse",
+      "resumen": "Una edificación de seis pisos del sector Las Dalias quedó con daños estructurales visibles el 10 de agosto y las autoridades ordenaron su demolición, pero un mes después continúa en pie. Las familias vecinas, algunas con viviendas intactas, abandonan sus casas cada noche y han tenido que pagar arriendos por temor a que la estructura se desplome, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/nos-da-susto-que-nos-caiga-encima-en-el-barrio-jardin-de-quibdo-vecinos-no-duermen-en-sus-casas-por-miedo-a-un-edificio-afectado-por-el-terremoto-3585136"
+    },
+    {
+      "id": "co-20260910-eltiempo-hospital-ismael-roldan-quibdo",
+      "fecha": "2026-09-10",
+      "titulo": "El hospital Ismael Roldán de Quibdó sigue con hospitalización cerrada y cortes de electricidad un mes después del sismo",
+      "resumen": "El segundo y el tercer piso de uno de los principales centros asistenciales del Chocó permanecen inhabilitados y el servicio eléctrico falla de forma persistente. Dos carpas donadas por la Defensa Civil funcionan como urgencias en el parqueadero exterior, mientras la antigua área de urgencias se usa como hospitalización de emergencia, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/salud/un-mes-despues-del-sismo-el-hospital-ismael-roldan-de-quibdo-permanece-con-sus-areas-de-hospitalizacion-cerradas-y-cortes-constantes-de-electricidad-3585122"
+    },
+    {
+      "id": "co-20260910-eltiempo-cruz-roja-dos-anos",
+      "fecha": "2026-09-10",
+      "titulo": "La Cruz Roja Colombiana calcula que la recuperación de los territorios afectados tomará al menos dos años",
+      "resumen": "Su director ejecutivo, Francisco Moreno, explicó a El Tiempo que la fase de rescate ya dio paso a la estabilización y que lo que viene «es grande, demorado y mucho más costoso» que la respuesta inmediata. El terremoto afectó a más de diez departamentos y 498 municipios del país.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/justicia/investigacion/la-recuperacion-de-los-territorios-afectados-por-el-terremoto-tomara-al-menos-dos-anos-segun-la-cruz-roja-colombiana-3584986"
+    },
+    {
+      "id": "co-20260910-eltiempo-banco-alimentos-1300-toneladas",
+      "fecha": "2026-09-10",
+      "titulo": "El Banco de Alimentos de Bogotá ha movilizado 1.300 toneladas de ayuda a 45 comunidades de cinco departamentos",
+      "resumen": "La entidad reporta más de 33.000 mercados y otros insumos entregados con aportes económicos de 40.550 personas y el trabajo de 6.800 voluntarios. El Valle del Cauca concentra 768 toneladas —sobre todo en Cali, Palmira, Buenaventura, Cartago y La Unión—, seguido de Risaralda con 205 toneladas y Chocó con 176, incluidas comunidades rurales y resguardos indígenas, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/banco-de-alimentos-de-bogota-movilizo-1-300-toneladas-de-ayuda-humanitaria-tras-el-terremoto-de-7-4-que-afecto-varias-ciudades-del-pais-3585046"
+    },
     {
       "id": "co-20260907-infobae-siete-medidas-vivienda-credito",
       "fecha": "2026-09-07",
@@ -12,6 +133,116 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/07/estas-son-las-siete-medidas-de-vivienda-y-creditos-blandos-para-los-damnificados-por-el-terremoto-del-10-de-agosto-que-el-gobierno-anuncio/"
+    },
+    {
+      "id": "co-20260907-infobae-plan-reconstruccion-choco-empresarios",
+      "fecha": "2026-09-07",
+      "titulo": "El Gobierno anuncia en Quibdó un plan de reconstrucción para el Chocó con 1 billón de pesos en infraestructura, incentivos tributarios y régimen minero especial",
+      "resumen": "Tras una cumbre en Quibdó con los principales grupos empresariales del país (Valorem, Grupo Aval, Gilinski, Nubank, Bancolombia, Olímpica, Colombina, Tecnoglass, Grupo Bolívar y Ardila Lülle), el Gobierno nacional oficializó recursos para proyectos como el Malecón de Quibdó, un paquete de infraestructura por 1 billón de pesos, incentivos tributarios y un régimen especial minero para el departamento epicentro del terremoto del 10 de agosto. Asistieron los ministros de Comercio y de Transporte, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/07/abelardo-de-la-espriella-lanzo-plan-marshall-para-reconstruir-el-territorio-tras-el-terremoto-el-choco-no-nacio-para-ser-pobre/"
+    },
+    {
+      "id": "co-20260907-infobae-once-caldas-550-millones-manizales",
+      "fecha": "2026-09-07",
+      "titulo": "Once Caldas y su propietario donan cerca de 550 millones de pesos para el hospital Santa Sofía y la catedral de Manizales",
+      "resumen": "La Fundación Once Caldas aportará 50 millones de pesos para un autoclave del Hospital Departamental Santa Sofía y el dueño del club, Jaime Pineda, donará 500 millones junto con otra persona para reconstruir la torre dañada de la Catedral Basílica de Nuestra Señora del Rosario, afectada por el terremoto del 10 de agosto en Manizales, según Infobae, que cita a Caracol Radio.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/deportes/2026/09/07/once-caldas-donara-cerca-de-550-millones-para-la-reconstruccion-de-manizales-despues-del-terremoto-que-sacudio-a-colombia/"
+    },
+    {
+      "id": "co-20260907-eltiempo-primera-casa-pacifico-choco",
+      "fecha": "2026-09-07",
+      "titulo": "Entregan en Quibdó la primera de las 500 «Casas Pacífico» sismorresistentes donadas a damnificados del Chocó",
+      "resumen": "Grupo Argos y el cantante Nicky Jam entregaron el 7 de septiembre en el barrio Medrano de Quibdó la primera de las 500 «Casas Pacífico» prometidas a familias que perdieron su vivienda en el terremoto del 10 de agosto. La primera beneficiaria fue Julia Asprilla, cuya familia de cinco personas perdió su casa en el sismo con epicentro en San José del Palmar. Las cifras oficiales sitúan en más de 464.000 las personas afectadas en el país, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/medellin/entregaron-la-primera-de-las-500-casas-pacifico-para-las-victimas-del-terremoto-en-choco-una-familia-de-cinco-personas-fue-la-primera-beneficiaria-3584187"
+    },
+    {
+      "id": "co-20260907-eltiempo-gerente-reconstruccion-choco",
+      "fecha": "2026-09-07",
+      "titulo": "José Leonidas Tobón será el gerente de la reconstrucción del Chocó y enlace con el Gobierno nacional",
+      "resumen": "El Gobierno nacional confirmó que José Leonidas Tobón será el encargado de vigilar la reconstrucción del Chocó, departamento epicentro del terremoto del 10 de agosto, y servirá de enlace entre la región y el Gobierno. El anuncio se hizo en Quibdó tras la reunión con los grupos empresariales que se desplazaron al departamento para definir la hoja de ruta de la reconstrucción, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-gerente-para-la-reconstruccion-del-choco-y-otras-medidas-para-potenciar-el-departamento-3584245"
+    },
+    {
+      "id": "co-20260907-eltiempo-falso-simulacro-8-septiembre",
+      "fecha": "2026-09-07",
+      "titulo": "La Alcaldía de Cali desmiente el supuesto simulacro nacional de evacuación por terremoto del 8 de septiembre",
+      "resumen": "Cadenas de WhatsApp y redes sociales difundieron un supuesto simulacro nacional de evacuación por terremoto para el martes 8 de septiembre a las 10:00 a. m., con activación de alarmas en los celulares. La Secretaría de Gestión del Riesgo de Emergencias y Desastres de Cali desmintió categóricamente la información y pidió no difundir mensajes sin fuente oficial, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/no-coma-cuento-la-alcaldia-de-cali-aclara-que-no-habra-simulacro-de-evacuacion-este-martes-8-de-septiembre-3584308"
+    },
+    {
+      "id": "co-20260907-elpais-oim-ayuda-30-municipios",
+      "fecha": "2026-09-07",
+      "titulo": "La OIM distribuye durante septiembre ayuda humanitaria de Estados Unidos en 30 municipios de cinco departamentos",
+      "resumen": "La Organización Internacional para las Migraciones (OIM) inició la entrega de materiales de emergencia a familias afectadas por el terremoto del 10 de agosto, que durante septiembre se distribuirán en 30 municipios de cinco departamentos. Las entregas corresponden a las donaciones en especie enviadas por Estados Unidos para la atención inmediata, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/colombia/oim-lleva-ayuda-humanitaria-a-30-municipios-afectados-por-el-terremoto-en-colombia-asi-se-distribuye-0712.html"
+    },
+    {
+      "id": "co-20260907-elpais-homenaje-90-segundos-un-mes",
+      "fecha": "2026-09-07",
+      "titulo": "Cali convoca 90 segundos de homenaje a las víctimas al cumplirse un mes del terremoto",
+      "resumen": "La Alcaldía de Cali invitó a la ciudadanía a guardar 90 segundos de homenaje a las víctimas al cumplirse un mes del terremoto del 10 de agosto: sonarán las campanas de todas las iglesias y se pide a los conductores detener sus vehículos y hacer sonar los pitos para acompañar a las familias afectadas, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alcalde-alejandro-eder-invita-a-los-calenos-a-hacer-90-segundos-de-homenaje-por-las-victimas-del-terremoto-a-un-mes-de-la-tragedia-0727.html"
+    },
+    {
+      "id": "co-20260907-elpais-eder-balance-clase-media",
+      "fecha": "2026-09-07",
+      "titulo": "El alcalde de Cali cifra en 154 los fallecidos y 24 los edificios derrumbados en la ciudad y estima que el 70 % de las familias afectadas son de clase media",
+      "resumen": "A casi un mes del terremoto, el alcalde Alejandro Eder hace balance en una entrevista con El País (Cali): 154 personas murieron en la ciudad, 24 edificios se derrumbaron y miles de familias quedaron sin casa. Según el alcalde, el 70 % de las familias afectadas son de clase media, lo que condiciona el diseño de las ayudas de vivienda; estima el costo de estabilización y reconstrucción de la ciudad en unos 10 billones de pesos.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alejandro-eder-alcalde-de-cali-el-70-de-las-familias-afectadas-por-el-terremoto-en-la-ciudad-son-de-clase-media-0622.html"
+    },
+    {
+      "id": "co-20260907-elpais-derribar-o-reforzar-guia",
+      "fecha": "2026-09-07",
+      "titulo": "¿Derribar o reforzar? Cómo decide Cali qué edificios averiados por el terremoto se demuelen y cuáles se refuerzan",
+      "resumen": "Casi un mes después del sismo, la emergencia en Cali entra en la etapa de definir el futuro de las edificaciones averiadas. La Secretaría de Gestión del Riesgo explica en una guía cómo avanza el estudio técnico para determinar qué estructuras deben derribarse por daños graves y cuáles pueden reforzarse y seguir en pie, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/derribar-o-reforzar-los-edificios-que-estan-averiados-tras-el-terremoto-en-cali-guia-de-orientacion-0606.html"
+    },
+    {
+      "id": "co-20260907-elpais-demolicion-maria-mercedes-lloreda",
+      "fecha": "2026-09-07",
+      "titulo": "Cali demuele el edificio María Mercedes Lloreda, el primero de los 11 inmuebles con daños estructurales que serán derribados",
+      "resumen": "La Alcaldía de Cali ejecutó el lunes 7 de septiembre la demolición controlada del edificio María Mercedes Lloreda, en la calle 4.ª con carrera 57 (Cuarto de Legua), que sufrió un colapso parcial en el terremoto del 10 de agosto. Es el primero de los 11 inmuebles (seis residenciales, además de hoteles, moteles y locales comerciales) incluidos en el plan de demoliciones; las familias que los habitaban tendrán prioridad en las primeras soluciones de vivienda, según El País (Cali) e Infobae.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/edificio-maria-mercedes-lloreda-del-sur-de-cali-sera-la-primera-estructura-demolida-tras-afectaciones-por-el-terremoto-0744.html"
     },
     {
       "id": "co-20260906-eltiempo-minvivienda-estratos-4-5-6",
