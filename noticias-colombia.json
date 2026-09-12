@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-11",
+  "actualizado": "2026-09-12",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260912-infobae-iva-tiquetes-aereos",
+      "fecha": "2026-09-12",
+      "titulo": "El Gobierno estudia rebajar el IVA de los tiquetes aéreos hacia las zonas afectadas para reactivar el turismo",
+      "resumen": "Desde el Quindío, el Ejecutivo anunció que analiza reducir el IVA de los tiquetes con origen o destino en los territorios golpeados por el terremoto del 10 de agosto, con el Eje Cafetero como principal destinatario de la medida. La propuesta sigue en revisión por su impacto fiscal y no tiene fecha de aplicación, según recoge Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/12/gobierno-estudia-bajar-iva-a-tiquetes-para-impulsar-turismo-en-zonas-golpeadas-por-terremoto/"
+    },
+    {
+      "id": "co-20260912-infobae-informes-danos-municipios",
+      "fecha": "2026-09-12",
+      "titulo": "204 municipios afectados aún no han enviado el informe de daños y el plazo vence el 17 de septiembre",
+      "resumen": "Un mes después del sismo, más de la mitad de los municipios damnificados no había remitido al Gobierno el consolidado de afectaciones que se necesita para estructurar el plan de reconstrucción: 204 en total, cuando faltaban cinco días para que venciera el plazo. En un acto en Quimbaya (Quindío), el Ejecutivo pidió celeridad a alcaldes y gobernadores y recordó que sin esa caracterización municipal no se puede organizar la recuperación, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/12/abelardo-de-la-espriella-apreto-a-los-alcaldes-por-informes-sobre-el-terremoto-no-se-puede-estructurar-la-reconstruccion/"
+    },
     {
       "id": "co-20260911-infobae-unicef-regreso-clases",
       "fecha": "2026-09-11",
@@ -12,6 +34,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/11/unicef-pide-acelerar-regreso-a-clases-de-ninos-afectados-por-terremoto-en-colombia/"
+    },
+    {
+      "id": "co-20260911-infobae-replica-45-choco-istmina",
+      "fecha": "2026-09-11",
+      "titulo": "Un sismo de magnitud 4,5 con epicentro en el Chocó obliga a evacuar edificios en Cali",
+      "resumen": "El Servicio Geológico Colombiano registró el viernes 11 a las 11:42 a. m. un sismo de magnitud 4,5 a 27 kilómetros de Sipí (Chocó), con referencia en Istmina y 41 kilómetros de profundidad, según Infobae. El movimiento se sintió en Cali, Pereira y Manizales, donde varias edificaciones fueron evacuadas de forma preventiva. Hasta el cierre de la información no se reportaban daños ni personas afectadas.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/11/un-mes-despues-del-terremoto-volvio-a-teblar-en-el-pacifico-sismo-de-45-con-epicentro-en-el-choco-se-sintio-en-cali-pereira-y-manizales/"
     },
     {
       "id": "co-20260911-infobae-procuraduria-licencias-edificios",
@@ -25,6 +58,28 @@
       "url": "https://www.infobae.com/colombia/2026/09/11/procuraduria-revisara-licencias-y-obras-de-edificios-afectados-por-terremoto-en-colombia/"
     },
     {
+      "id": "co-20260911-eltiempo-templos-afectados-valle",
+      "fecha": "2026-09-11",
+      "titulo": "149 iglesias del Valle del Cauca quedaron dañadas y en Cali las misas se celebran al aire libre",
+      "resumen": "El arzobispo de Cali, Luis Fernando Rodríguez Velásquez, cifró en 149 los templos y capillas afectados en el departamento, 47 de ellos en Cali, donde seis presentan daños graves, según El Tiempo. Entre los más comprometidos hay bienes patrimoniales como el complejo de La Merced y la catedral San Pedro Apóstol. Mientras se evalúan las estructuras, las comunidades celebran las misas al aire libre o de forma virtual.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/templos-averiados-y-la-fe-al-aire-libre-el-drama-de-las-iglesias-afectadas-por-el-terremoto-en-el-valle-del-cauca-3585454"
+    },
+    {
+      "id": "co-20260911-eltiempo-quindio-turismo-caida",
+      "fecha": "2026-09-11",
+      "titulo": "El turismo del Quindío cae cerca de un 85 % tras el terremoto y el departamento prepara un plan de reactivación",
+      "resumen": "La cancelación masiva de reservas dejó los ingresos de hoteles, parques temáticos, restaurantes y atractivos turísticos en niveles que no se veían desde la pandemia: la ocupación hotelera pasó del 78 % antes del sismo al 14 %, según el gobernador Juan Miguel Galvis, citado por El Tiempo. Empresarios del sector ya han tenido que despedir personal y el departamento diseña una estrategia para atraer de nuevo visitantes.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-cifras-que-preocupan-en-el-quindio-por-fuerte-descenso-en-turismo-luego-del-terremoto-que-sacudio-al-pais-esta-es-su-estrategia-para-reactivarse-3585358"
+    },
+    {
       "id": "co-20260911-eltiempo-quibdo-829-inmuebles-demolicion",
       "fecha": "2026-09-11",
       "titulo": "Quibdó tiene 829 inmuebles colapsados o en riesgo de caer y 890 no habitables: la demolición frena la reconstrucción",
@@ -34,6 +89,39 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/vida/medio-ambiente/cronica-desde-el-choco-a-un-mes-del-terremoto-asi-vive-quibdo-tras-mas-de-30-dias-de-la-emergencia-que-tuvo-epicentro-en-el-departamento-3585213"
+    },
+    {
+      "id": "co-20260911-elpais-empresas-afectadas-cali",
+      "fecha": "2026-09-11",
+      "titulo": "El terremoto afectó a 7.263 empresas en Cali, con pérdidas estimadas en 188.700 millones de pesos",
+      "resumen": "El censo de la Secretaría de Desarrollo Económico y la Cámara de Comercio de Cali, con corte al 2 de septiembre, contabiliza 7.263 empresas y unidades productivas con afectaciones: el 90 % son microempresas y el 60,7 % sufrió daños graves o críticos. La Alcaldía activó alivios tributarios, medidas de protección del empleo y otros apoyos para comerciantes y trabajadores, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/terremoto-en-cali-afecto-7263-empresas-la-alcaldia-activo-alivios-tributarios-proteccion-del-empleo-y-otros-apoyos-1057.html"
+    },
+    {
+      "id": "co-20260911-elpais-cali-reconstruccion-20000-familias",
+      "fecha": "2026-09-11",
+      "titulo": "Cali entra en la fase de reconstrucción con 20.000 familias todavía fuera de sus viviendas",
+      "resumen": "El alcalde Alejandro Eder afirmó que la prioridad de la Administración es la reconstrucción de vivienda y que 20.000 familias caleñas siguen sin poder volver a sus casas, mientras varios edificios continúan evacuados de forma preventiva. La Alcaldía adelanta evaluaciones técnicas para decidir qué inmuebles deben demolerse y ya ha identificado once edificios para demolición, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/cali-inicia-la-reconstruccion-tras-el-terremoto-20000-familias-siguen-fuera-de-sus-viviendas-1057.html"
+    },
+    {
+      "id": "co-20260911-elpais-ayudas-economicas-damnificados-cali",
+      "fecha": "2026-09-11",
+      "titulo": "La Alcaldía de Cali empieza a pagar las ayudas económicas a damnificados: 9.688 personas en la base de beneficiarios",
+      "resumen": "El secretario de Gestión del Riesgo de Cali, Breayner Ricardo Peñuela, explicó a El País (Cali) que la dispersión de los recursos arrancó el viernes 11 y se extenderá los próximos días, con una ayuda equivalente al 60 % del salario mínimo. Los pagos se harán por cuentas bancarias y a través de SuperGIROS, con 109 puntos habilitados para el cobro.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/damnificados-del-terremoto-en-cali-comenzaran-a-recibir-ayudas-economicas-conozca-los-detalles-sobre-la-entrega-1149.html"
     },
     {
       "id": "co-20260910-infobae-save-the-children-infancia",
