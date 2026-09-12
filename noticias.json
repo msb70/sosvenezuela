@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-09-11",
+  "actualizado": "2026-09-12",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260912-cronicauno-refugio-ciudadela-catia",
+      "fecha": "2026-09-12",
+      "titulo": "Más de 70 familias damnificadas conviven en el refugio Ciudadela de Catia sin baños seguros ni privacidad",
+      "resumen": "Más de 70 familias desplazadas por el doble terremoto del 24 de junio permanecen en el refugio transitorio Ciudadela de Catia, en el oeste de Caracas, donde comparten espacios comunes con más de 200 personas. Crónica.Uno documenta que la falta de baños seguros, la ausencia de privacidad y la inexistencia de registros oficiales desagregados por sexo agravan la vulnerabilidad de mujeres, adolescentes y niñas mientras esperan la asignación de viviendas. El recinto, utilizado ya como albergue tras la tragedia de Vargas de 1999, aloja a damnificados del Distrito Capital y del estado La Guaira.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/hacinamiento-falta-privacidad-mujeres-adolescentes-ninas-riesgos-refugios/"
+    },
+    {
+      "id": "ve-20260911-lapatilla-gmvv-estudios-suelo",
+      "fecha": "2026-09-11",
+      "titulo": "Una arquitecta atribuye el colapso de viviendas de la Gran Misión Vivienda en La Guaira a la ausencia de estudios de suelo",
+      "resumen": "La arquitecta y urbanista Janeira Wilson sostuvo en una entrevista con RFI y France 24 que la falta de estudios de suelo y la escasa adaptación de algunos proyectos de la Gran Misión Vivienda Venezuela a las condiciones geológicas de La Guaira pudieron influir en el colapso de varias edificaciones durante los terremotos del 24 de junio. Wilson, que visitó la zona recientemente, describió un escenario aún marcado por derrumbes y escombros y afirmó que todavía hay personas desaparecidas bajo los restos de los edificios, según La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/11/la-tierra-se-habia-tragado-estos-edificios-por-que-algunas-viviendas-colapsaron-y-otras-no-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260911-elnacional-ley-arrendamiento-ucab",
+      "fecha": "2026-09-11",
+      "titulo": "Un foro de la UCAB analiza la nueva Ley de Arrendamiento de Vivienda ante el aumento de la demanda habitacional por los sismos",
+      "resumen": "Juristas y una diputada de la Asamblea Nacional debatieron en un foro de la Cátedra Libre Andrés Bello de Ética Cívica de la UCAB la Ley de Régimen Especial de Arrendamiento de Inmuebles Destinados a Vivienda, en vigor desde el 7 de agosto de 2026 según la Gaceta Oficial N.º 7.065 Extraordinario, que restituye la autonomía contractual y suprime los controles administrativos del esquema de 2011. Los ponentes situaron la norma en un contexto de escasez de crédito hipotecario, inflación y mayor demanda de vivienda tras los terremotos del 24 de junio, y detallaron que el texto surgió de una consulta pública realizada en julio que recogió más de 900 propuestas, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/especialistas-y-legisladores-debatieron-los-alcances-de-la-nueva-ley-de-arrendamiento-de-vivienda-y-su-impacto-en-el-mercado-inmobiliario-venezolano/"
+    },
+    {
+      "id": "ve-20260911-elnacional-funvisis-105-sismos",
+      "fecha": "2026-09-11",
+      "titulo": "Funvisis contabiliza 105 sismos entre el 4 y el 10 de septiembre, ninguno de magnitud 5 o superior",
+      "resumen": "El informe semanal de la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 105 eventos telúricos en el territorio nacional y áreas marítimas adyacentes entre el 4 y el 10 de septiembre, con magnitudes de 1,4 a 4,4. Del total, 65 sismos se situaron entre 2,0 y 3,0; 20 entre 3,0 y 4,0; 18 entre 1,0 y 2,0, y solo 2 superaron la magnitud 4,0. El organismo precisó que no hubo eventos de magnitud igual o superior a 5,0 y que los epicentros se concentraron en las fallas activas del norte, el noroccidente y el nororiente del país, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-registro-105-sismos-de-menor-intensidad-en-venezuela-entre-el-4-y-el-10-de-septiembre/"
+    },
+    {
+      "id": "ve-20260911-elnacional-fe-y-alegria-polar",
+      "fecha": "2026-09-11",
+      "titulo": "Fe y Alegría recibe 131.600 dólares de la Fundación Empresas Polar para recuperar tres planteles en Caracas",
+      "resumen": "El Movimiento de Educación Popular Fe y Alegría destinará 131.600 dólares aportados por la Fundación Empresas Polar a la reconstrucción de tres unidades educativas en Caracas y al acompañamiento emocional de los estudiantes. Su director general, José Gregorio Terán, indicó que de 93 instalaciones inspeccionadas en el país 84 sufrieron daños tras los sismos del 24 de junio, 56 están en zonas críticas y 33 registran daños significativos, de las cuales 19 ya se recuperan con apoyo estatal y privado. Entre los planteles priorizados está la Escuela Técnica La Rinconada, marcada con etiqueta roja por riesgo estructural, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fundacion-empresas-polar-financia-la-recuperacion-de-tres-planteles-de-fe-y-alegria-en-caracas/"
+    },
     {
       "id": "ve-20260911-cronicauno-panaderias-la-guaira",
       "fecha": "2026-09-11",
