@@ -1,7 +1,75 @@
 {
-  "actualizado": "2026-09-12",
+  "actualizado": "2026-09-13",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260913-efectococuyo-docentes-retorno-clases",
+      "fecha": "2026-09-13",
+      "titulo": "Entre 6.300 y 7.200 docentes perdieron sus aulas de cara al regreso a clases del 14 de septiembre",
+      "resumen": "El año escolar 2026-2027 arranca el 14 de septiembre con entre 6.300 y 7.200 profesores que se quedaron sin aula tras el doble sismo del 24 de junio, según el reportaje de Efecto Cocuyo. El Ministerio de Educación cifra en cerca de 900 los planteles afectados de los 27.000 que hay en el país y el ministro Héctor Rodríguez informó el 31 de agosto que se interviene en 1.500 escuelas, 1.000 de ellas dañadas por los terremotos. Consenso Educativo calcula entre 120 y 130 los educadores activos, jubilados y pensionados fallecidos en La Guaira.",
+      "fuente": "Efecto Cocuyo",
+      "autor": "Mabel Sarmiento",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/aulas-en-ruinas-maestros-sin-casa-el-sistema-educativo-en-supervivencia/"
+    },
+    {
+      "id": "ve-20260912-elnacional-rezonificacion-estudiantes",
+      "fecha": "2026-09-12",
+      "titulo": "Educación rezonifica a 86.031 estudiantes por el colapso de 11 escuelas y los daños en otros 87 planteles",
+      "resumen": "El Ministerio de Educación reubicó a 86.031 alumnos en planteles seguros para sostener el año escolar tras los terremotos del 24 de junio, que derribaron 11 escuelas y dejaron daños estructurales en otras 87, informó el ministro Héctor Rodríguez. El plan de contingencia traslada la matrícula a centros de comunidades vecinas y aplica dobles turnos donde la escuela receptora ya está llena. Rodríguez añadió que las instalaciones usadas como campamentos transitorios se reacondicionaron con impermeabilización, pintura y dotación de laboratorios y cocinas, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ministerio-de-educacion-reubico-a-mas-86-mil-estudiantes-debido-a-danos-en-escuelas-causados-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260912-elnacional-ops-salud-mental",
+      "fecha": "2026-09-12",
+      "titulo": "La OPS y el Gobierno lanzan una campaña de salud mental y apoyo psicosocial en las comunidades afectadas por los sismos",
+      "resumen": "La Organización Panamericana de la Salud (OPS) y el Gobierno venezolano anunciaron el viernes la campaña Comunicación de Riesgos y Participación Comunitaria (CRPC), dirigida a las comunidades afectadas por los terremotos del 24 de junio. Los mensajes se difundirán por redes sociales, grupos comunitarios de WhatsApp, afiches y volantes, y abarcan salud mental y apoyo psicosocial, salud ambiental, servicios públicos, inocuidad de los alimentos, vigilancia epidemiológica y prevención de la explotación y el abuso sexual. La OPS indicó en un comunicado, recogido por EFE y El Nacional, que la campaña forma parte del refuerzo de la respuesta sanitaria a la emergencia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-y-ops-desplegaron-plan-sobre-salud-mental-y-prevencion-de-riesgos-para-comunidades-afectadas-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260912-elnacional-lluvias-carpas-naiguata",
+      "fecha": "2026-09-12",
+      "titulo": "Las lluvias anegan las carpas de los damnificados en el sector Campo de Golf de Naiguatá, en La Guaira",
+      "resumen": "Las precipitaciones de la noche del viernes inundaron las carpas del campamento de damnificados situado en el sector Campo de Golf de Caribe, detrás de la estación de servicio de Naiguatá (La Guaira), a 79 días de los terremotos del 24 de junio. Entre los afectados hay adultos mayores, niños, mujeres embarazadas y personas con discapacidad, que perdieron enseres por el agua y el barro acumulados en el terreno, según el reporte de La Verdad de Vargas recogido por El Nacional. Los refugiados, que organizaron rondas nocturnas por la presencia de babas en el terreno anegado, reiteraron a las instituciones la petición de reubicación en viviendas seguras.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fuertes-lluvias-inundaron-las-carpas-de-los-damnificados-por-los-terremotos-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260912-elnacional-funvisis-1979-acumulados",
+      "fecha": "2026-09-12",
+      "titulo": "Funvisis eleva a 1.979 los sismos acumulados entre el 24 de junio y el 10 de septiembre",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) contabilizó 1.979 eventos sísmicos desde el doble terremoto del 24 de junio hasta el 10 de septiembre, tras 1.872 horas de monitoreo continuo de la red nacional de estaciones. Los epicentros se concentran en los sistemas de fallas del centro-occidente y la franja norte-costera, con actividad en Yaracuy, Lara, Carabobo, Aragua, Miranda, La Guaira, Cojedes, el Distrito Capital y la cuenca marina del Caribe. El organismo señala una tendencia de estabilización progresiva: los 105 eventos de la última semana se movieron entre 2,0 y 4,0 Mw, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-contabilizo-cerca-de-2-000-sismos-tras-los-terremotos-del-24-de-junio/"
+    },
+    {
+      "id": "ve-20260912-efectococuyo-creditos-hipotecarios",
+      "fecha": "2026-09-12",
+      "titulo": "Más de 1.600 familias damnificadas tienen ya preaprobado el crédito social para comprar vivienda",
+      "resumen": "Más de 1.600 familias que perdieron su vivienda principal en el doble terremoto cuentan con la preaprobación del crédito social del plan Venezuela Renace, que se otorga a 25 años y 5 % de interés para inmuebles de hasta 100.000 dólares, con un subsidio de entre el 50 % y el 80 % según el precio final. El Banco de Venezuela reporta 1.682 preaprobaciones y el Banco Digital de los Trabajadores ya atiende las solicitudes tramitadas en agosto. El economista Aarón Olmos (IESA) explicó a Efecto Cocuyo que esos fondos no salen de las captaciones de la banca nacional sino de recursos externos, principalmente los 346 millones de dólares que el FMI dispuso tras los sismos, por lo que la reactivación del crédito hipotecario tradicional exige más decisiones.",
+      "fuente": "Efecto Cocuyo",
+      "autor": "Margaret López",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/economia/creditos-hipotecarios-en-venezuela-reactivacion/"
+    },
     {
       "id": "ve-20260912-cronicauno-refugio-ciudadela-catia",
       "fecha": "2026-09-12",
@@ -12,6 +80,17 @@
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
       "url": "https://cronica.uno/hacinamiento-falta-privacidad-mujeres-adolescentes-ninas-riesgos-refugios/"
+    },
+    {
+      "id": "ve-20260911-lapatilla-sismos-yaracuy-la-guaira",
+      "fecha": "2026-09-11",
+      "titulo": "Dos sismos de magnitud 3,7 y 3,3 se sintieron en Yaracuy y La Guaira el 10 de septiembre",
+      "resumen": "Funvisis registró dos movimientos telúricos la tarde del jueves 10 de septiembre, sin daños ni víctimas: el primero, de magnitud 3,7 a las 17:18 hora local y 1,4 kilómetros de profundidad, con epicentro a 28 kilómetros al noroeste de Aroa (Yaracuy); el segundo, de magnitud 3,3 a las 17:20 y 6,4 kilómetros de profundidad, a 9 kilómetros al suroeste de Naiguatá (La Guaira). Ambos forman parte de la secuencia sísmica abierta por el doble terremoto del 24 de junio, según La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/11/dos-sismos-de-magnitud-37-y-33-se-sintieron-en-venezuela-la-tarde-de-este-10sep/"
     },
     {
       "id": "ve-20260911-lapatilla-gmvv-estudios-suelo",
