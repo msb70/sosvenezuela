@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-12",
+  "actualizado": "2026-09-13",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260912-infobae-ungrd-pagos-choco-fondo-milagro",
+      "fecha": "2026-09-12",
+      "titulo": "La UNGRD empieza a pagar el apoyo de vivienda en 14 municipios de Chocó y el Gobierno crea el Fondo Milagro",
+      "resumen": "La Unidad Nacional para la Gestión del Riesgo de Desastres destinó más de 3.324 millones de pesos al primer mes del apoyo económico temporal de vivienda para los hogares de Quibdó, Alto y Bajo Baudó, Riosucio, Bahía Solano y otros nueve municipios del Chocó, dentro de una ayuda prevista para tres meses. El cobro es presencial en los puntos de SuperGiros, durante 15 días calendario, con cédula original y solo para el jefe de hogar inscrito en el Registro Único de Damnificados con vivienda destruida o no habitable. El Decreto 1379 de 2026 crea además el Fondo Milagro, que reunirá recursos públicos, donaciones y cooperación internacional para la reconstrucción, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/12/la-ungrd-activo-los-pagos-para-damnificados-del-sismo-en-14-municipios-de-choco-y-el-gobierno-anuncio-el-fondo-milagro-para-la-reconstruccion/"
+    },
     {
       "id": "co-20260912-infobae-iva-tiquetes-aereos",
       "fecha": "2026-09-12",
@@ -23,6 +34,39 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/12/abelardo-de-la-espriella-apreto-a-los-alcaldes-por-informes-sobre-el-terremoto-no-se-puede-estructurar-la-reconstruccion/"
+    },
+    {
+      "id": "co-20260912-eltiempo-sismo-46-istmina-choco",
+      "fecha": "2026-09-12",
+      "titulo": "Un sismo de magnitud 4,6 en Istmina (Chocó) se sintió en Cali, Pereira y Armenia",
+      "resumen": "El Servicio Geológico Colombiano registró a las 6:16 de la mañana del sábado 12 de septiembre un sismo de magnitud 4,6 con epicentro en Istmina, Chocó, y 43 kilómetros de profundidad, seguido de otro de magnitud 3,9. El movimiento se percibió en municipios del Valle del Cauca, Risaralda y el propio Chocó, entre ellos Cali, Pereira y Armenia, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/sismo-de-magnitud-4-6-se-registro-en-la-manana-de-este-sabado-se-sintio-en-cali-pereira-y-varios-municipios-este-fue-el-epicentro-3585549"
+    },
+    {
+      "id": "co-20260912-eltiempo-prioridades-valle-reconstruccion",
+      "fecha": "2026-09-12",
+      "titulo": "El Valle del Cauca acuerda 13 prioridades de reconstrucción para llevarlas al Congreso y al Gobierno",
+      "resumen": "La bancada parlamentaria del Valle del Cauca, las autoridades departamentales y locales y voceros del sector productivo formalizaron el sábado 12 de septiembre una agenda unificada con 13 prioridades estratégicas de gestión y reconstrucción tras el terremoto del 10 de agosto. La propuesta busca articular las inversiones de la nación con los proyectos de recuperación económica y social del departamento y será presentada ante el Congreso y el Gobierno nacional, informó El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/las-13-prioridades-estrategicas-y-de-reconstruccion-para-el-valle-del-cauca-definidas-en-un-encuentro-multisectorial-tras-el-terremoto-3585624"
+    },
+    {
+      "id": "co-20260912-elpais-cierres-viales-cali",
+      "fecha": "2026-09-12",
+      "titulo": "Cali mantiene los cierres viales en las zonas afectadas mientras se evalúan las estructuras",
+      "resumen": "La Secretaría de Movilidad informó el sábado 12 de septiembre de que los cierres viales establecidos tras el terremoto del 10 de agosto seguirán vigentes mientras avanzan las evaluaciones y los trabajos para asegurar las estructuras dañadas. Los puntos restringidos cuentan con acompañamiento de la Policía Nacional y agentes de tránsito, que vigilan que peatones y conductores no retiren las cintas ni entren en las zonas acordonadas, según El País de Cali.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/cali-mantiene-cierres-viales-tras-el-terremoto-del-10-de-agosto-estas-son-las-zonas-restringidas-movilidad-entrega-detalles-1248.html"
     },
     {
       "id": "co-20260911-infobae-unicef-regreso-clases",
@@ -67,6 +111,17 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/colombia/cali/templos-averiados-y-la-fe-al-aire-libre-el-drama-de-las-iglesias-afectadas-por-el-terremoto-en-el-valle-del-cauca-3585454"
+    },
+    {
+      "id": "co-20260911-eltiempo-roldanillo-piloto-reconstruccion",
+      "fecha": "2026-09-11",
+      "titulo": "Roldanillo será el piloto de reconstrucción que la Gobernación del Valle quiere replicar en el resto del departamento",
+      "resumen": "La Gobernación del Valle del Cauca designó a Roldanillo, uno de los Pueblos Mágicos del norte del departamento, como laboratorio del plan piloto de reconstrucción tras el terremoto del 10 de agosto. El municipio quedó con buena parte de sus inmuebles destruidos, sobre todo en su zona turística y comercial, y la iniciativa busca sentar las bases para recuperar a los demás municipios afectados, informó El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/asi-es-el-plan-piloto-con-el-que-roldanillo-le-apuesta-a-levantarse-de-los-escombros-y-ser-modelo-para-la-reconstruccion-del-valle-del-cauca-3585486"
     },
     {
       "id": "co-20260911-eltiempo-quindio-turismo-caida",
