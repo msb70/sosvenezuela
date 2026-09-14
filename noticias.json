@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-13",
+  "actualizado": "2026-09-14",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260913-elnacional-transparencia-ruta-ayuda",
+      "fecha": "2026-09-13",
+      "titulo": "Transparencia Venezuela cifra en 1.344 millones de dólares los compromisos de ayuda y advierte que no puede verificarse su ejecución",
+      "resumen": "El proyecto Ruta de la Ayuda, de Transparencia Venezuela, contabilizó 1.344 millones de dólares en compromisos de asistencia internacional al 25 de agosto, frente a los 694 millones registrados al 10 de julio. La organización precisa que Estados Unidos dispuso 386 millones y que el Financial Tracking Service de la ONU anota 330 millones, cifras que se solapan porque parte de los fondos estadounidenses se canaliza a través de Unicef, la OIM y el PMA. De las 201 acciones de asistencia analizadas, al menos el 44 % no indica destino concreto; entre las que sí lo especifican, La Guaira y el Distrito Capital concentran el 81 %, según el informe recogido por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/transparencia-venezuela-denuncia-falta-de-informacion-sobre-el-destino-de-la-ayuda-humanitaria-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260913-elnacional-pensum-sismorresistente",
+      "fecha": "2026-09-13",
+      "titulo": "Las universidades incorporan una asignatura de construcción sismorresistente a las carreras de ingeniería",
+      "resumen": "Varias universidades venezolanas sumaron la asignatura 'Sismorresistente' a los planes de estudio de ingeniería para reforzar la formación técnica del sector construcción tras los daños estructurales del doble sismo del 24 de junio. El anuncio lo hizo el presidente de la Comisión Presidencial para la Evaluación de Habitabilidad de Infraestructuras y ministro para el Transporte, Francisco Garcés, quien indicó que el despacho convocó a estudiantes y docentes de las facultades de ingeniería a desplegarse en zonas críticas de Caracas y La Guaira para evaluar la habitabilidad de las edificaciones, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/universidades-venezolanas-actualizaron-pensum-de-ingenieria-con-una-asignatura-enfocada-en-construciones-sismorresistentes/"
+    },
     {
       "id": "ve-20260913-efectococuyo-docentes-retorno-clases",
       "fecha": "2026-09-13",
