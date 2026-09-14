@@ -1,7 +1,84 @@
 {
-  "actualizado": "2026-09-13",
+  "actualizado": "2026-09-14",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260914-infobae-obras-por-impuestos-decreto-1389",
+      "fecha": "2026-09-14",
+      "titulo": "El Gobierno habilita una modalidad temporal de obras por impuestos para financiar la reconstrucción",
+      "resumen": "El Decreto Legislativo 1389 crea un esquema excepcional y temporal para que empresas y otros contribuyentes destinen parte de sus impuestos a proyectos de interés público en los municipios y distritos golpeados por el terremoto de magnitud 7,4 del 10 de agosto. La norma cubre vivienda, sedes educativas, centros de salud, acueductos, saneamiento básico, redes de energía, carreteras, puentes, aeropuertos, transporte, infraestructura productiva y obras de gestión del riesgo. Los proyectos deben tener relación directa con los daños del sismo y se priorizan según la dimensión de la afectación, la población beneficiada y la posibilidad de restablecer servicios básicos, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/14/obras-por-impuestos-la-apuesta-de-abelardo-de-la-espriella-para-reconstruir-las-zonas-afectadas-por-el-terremoto/"
+    },
+    {
+      "id": "co-20260913-infobae-decreto-1382-finanzas-territoriales",
+      "fecha": "2026-09-13",
+      "titulo": "El Decreto 1382 amplía el margen financiero de alcaldías y gobernaciones para atender la emergencia",
+      "resumen": "El Gobierno expidió el Decreto 1382, que permite temporalmente a las administraciones locales recuperar cartera, aceptar el pago de deudas tributarias por cuotas y sin intereses, y decidir sobre capital, intereses y sanciones. También podrán flexibilizar las exenciones del impuesto predial, de industria y comercio y de delineación urbana para los contribuyentes afectados, y reorientar rentas, rendimientos y excedentes no comprometidos. La norma habilita además anticipar hasta el 10 % de determinados ingresos tributarios futuros, siempre que se destinen a proyectos ligados a la emergencia, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/13/gobierno-revelo-el-alcance-del-decreto-1382-asi-podran-moverse-recursos-para-reconstruir-las-zonas-afectadas-por-el-terremoto/"
+    },
+    {
+      "id": "co-20260913-eltiempo-subsidio-vivienda-tres-montos",
+      "fecha": "2026-09-13",
+      "titulo": "El apoyo de vivienda tiene tres montos distintos según la categoría del municipio: de 787.907 a 1.050.543 pesos",
+      "resumen": "El Tiempo detalla que el apoyo económico temporal de vivienda que empezó a girar la UNGRD no es una cifra única: paga 1.050.543 pesos mensuales en los municipios de categorías 1 y 2 y en los distritos especiales, 875.454,50 pesos en los de categorías 3 y 4 y 787.907,23 pesos en los de categorías 5 y 6. La ayuda se entrega mensualmente durante tres meses a los hogares cuya vivienda quedó destruida o no habitable por el sismo de magnitud 7,4 del 10 de agosto. Esta primera etapa de giros reparte más de 3.324 millones de pesos.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/asi-puede-reclamar-subsidio-de-1-millon-de-pesos-para-familias-afectadas-por-el-terremoto-consulte-si-es-beneficiario-y-ciudades-priorizadas-3585702"
+    },
+    {
+      "id": "co-20260913-elpais-valle-exoneracion-estampillas",
+      "fecha": "2026-09-13",
+      "titulo": "El Valle exonera del 11,7 % en estampillas a los contratos de reconstrucción durante seis meses",
+      "resumen": "La Asamblea Departamental aprobó la Ordenanza 012 de 2026, presentada por la Gobernación, que exime temporalmente del pago de estampillas y de la tasa prodeporte a los contratos destinados a la reconstrucción tras el terremoto del 10 de agosto. La exoneración equivale al 11,7 % y regirá durante seis meses: en un proyecto de mejoramiento de vivienda de 1.000 millones de pesos, ese porcentaje vuelve a la obra en lugar de irse en cobros, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/menos-cobros-mas-cobertura-valle-optimizara-recursos-para-la-reconstruccion-tras-el-terremoto-exoneraran-el-117-en-estampillas-1335.html"
+    },
+    {
+      "id": "co-20260913-elpais-gases-occidente-alivios",
+      "fecha": "2026-09-13",
+      "titulo": "Gases de Occidente suspende la facturación en los predios inhabitables y prepara alivios con tres meses de gracia",
+      "resumen": "La empresa de gas natural del Valle del Cauca y el norte del Cauca informó que suspendió la facturación y la entrega de facturas en los predios declarados inhabitables o colapsados por el terremoto del 10 de agosto, mientras restablece de forma gradual el suministro. En paralelo prepara un plan de alivios para los usuarios afectados, con un período de gracia de tres meses y condonación total de intereses, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/gases-de-occidente-anuncia-alivios-y-periodo-de-gracia-para-las-personas-afectadas-por-el-terremoto-del-10-de-agosto-1317.html"
+    },
+    {
+      "id": "co-20260913-elpais-cali-quince-dias-cobro-ayudas",
+      "fecha": "2026-09-13",
+      "titulo": "Cali pide calma en los puntos de pago: los beneficiarios tienen 15 días hábiles para cobrar la ayuda",
+      "resumen": "Ante la llegada masiva de damnificados a los puntos de pago durante el fin de semana, el Distrito recordó que el cobro no es inmediato: las más de 9.000 personas del primer corte disponen de 15 días hábiles para retirar el dinero en más de 100 puntos habilitados. Las autoridades llamaron a la calma a las familias afectadas por el terremoto del 10 de agosto, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/ayudas-por-terremoto-en-cali-beneficiarios-tienen-15-dias-para-reclamar-el-dinero-1303.html"
+    },
+    {
+      "id": "co-20260913-elpais-balance-ayudas-valle-cauca",
+      "fecha": "2026-09-13",
+      "titulo": "El Gobierno presenta un balance de ayudas para el Valle del Cauca: más de 40.000 millones de pesos y vivienda",
+      "resumen": "En una alocución la noche del domingo 13 de septiembre, el Ejecutivo detalló el alcance de las medidas de emergencia y los recursos destinados al Valle del Cauca tras el terremoto del 10 de agosto, por más de 40.000 millones de pesos. El balance incluye partidas para vivienda, educación, empleo y recuperación de los negocios afectados en un departamento con daños significativos en infraestructura habitacional, educativa y productiva, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/politica/de-la-espriella-presento-balance-de-ayudas-para-el-valle-del-cauca-tras-el-terremoto-viviendas-y-mas-de-40000-millones-1310.html"
+    },
     {
       "id": "co-20260912-infobae-ungrd-pagos-choco-fondo-milagro",
       "fecha": "2026-09-12",
@@ -34,6 +111,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/12/abelardo-de-la-espriella-apreto-a-los-alcaldes-por-informes-sobre-el-terremoto-no-se-puede-estructurar-la-reconstruccion/"
+    },
+    {
+      "id": "co-20260912-eltiempo-sobreviviente-escombros-pereira",
+      "fecha": "2026-09-12",
+      "titulo": "Sobrevivió horas bajo los escombros de su edificio en Pereira y perdió a su madre, a su hermano y a su pareja",
+      "resumen": "Elizabeth quedó atrapada durante horas bajo los restos de su apartamento en la unidad residencial La Lorena, en Pereira, cuando el terremoto golpeó a las 7:34 de la mañana del 10 de agosto. Los rescatistas la sacaron con vida, pero el sismo se llevó a su madre, a su hermano Carlos —que tenía una discapacidad— y a su pareja, además de su vivienda. Un mes después reconstruye su vida, según el relato publicado por El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-aqui-soy-liz-sobrevivio-horas-bajo-los-escombros-del-terremoto-de-pereira-pero-perdio-su-casa-a-su-mama-a-su-hermano-y-a-su-pareja-3585527"
     },
     {
       "id": "co-20260912-eltiempo-sismo-46-istmina-choco",
