@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-14",
+  "actualizado": "2026-09-15",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260915-infobae-arriendos-cinco-ciudades",
+      "fecha": "2026-09-15",
+      "titulo": "La búsqueda de vivienda en arriendo se dispara en las capitales afectadas: Armenia, Quibdó y Cali encabezan el aumento",
+      "resumen": "Datos del portal Fincaraíz muestran que, entre julio y agosto, las consultas de inmuebles en alquiler crecieron 43 % en Armenia, 37 % en Quibdó, 36 % en Cali, 34 % en Manizales y 22 % en Pereira. En Cali cerca de 12.000 familias quedaron sin vivienda tras el terremoto y coinciden una demanda mayor con una oferta más reducida, por lo que el aumento de consultas no significa que los hogares hayan encontrado dónde vivir, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/15/arriendos-se-disparan-tras-el-terremoto-en-colombia-armenia-quibdo-y-cali-concentran-el-mayor-aumento-de-busquedas/"
+    },
+    {
+      "id": "co-20260915-elpais-subasta-ermita-roldanillo",
+      "fecha": "2026-09-15",
+      "titulo": "Roldanillo subastará una obra de arte donada para financiar la recuperación de la capilla de La Ermita",
+      "resumen": "El Ministerio de Cultura inspeccionó en Roldanillo, norte del Valle del Cauca, los severos daños que el sismo del 10 de agosto dejó en La Ermita, una de las capillas coloniales más emblemáticas del municipio. En el recorrido, acompañado por el alcalde Jaime Ríos, el presbítero Germán Andrés Clavijo y el arquitecto Juan Esteban Parra, se confirmó la subasta de un cuadro donado para financiar la reconstrucción del templo, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/subastaran-una-importante-obra-de-arte-para-financiar-la-reconstruccion-de-la-ermita-de-roldanillo-1557.html"
+    },
     {
       "id": "co-20260914-infobae-obras-por-impuestos-decreto-1389",
       "fecha": "2026-09-14",
@@ -12,6 +34,83 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/14/obras-por-impuestos-la-apuesta-de-abelardo-de-la-espriella-para-reconstruir-las-zonas-afectadas-por-el-terremoto/"
+    },
+    {
+      "id": "co-20260914-infobae-enjambre-sismico-istmina",
+      "fecha": "2026-09-14",
+      "titulo": "Cinco sismos sacuden el Chocó en menos de seis horas y el Servicio Geológico los atribuye a un enjambre sísmico",
+      "resumen": "El Servicio Geológico Colombiano reportó el lunes 14 de septiembre una seguidilla de sismos con epicentro en Istmina (Chocó) —magnitudes de 4,9 a las 3:02 p. m., 4,4 a las 3:08 p. m., 4,9 a las 4:13 p. m. y 4,5 a las 5:39 p. m., con profundidades de 39 a 49 kilómetros—, además de un evento menor en Sipí. Con corte a las 4:30 p. m. la entidad había recibido más de 2.000 reportes de personas que los sintieron en Valle del Cauca, Chocó, Risaralda, Antioquia y Tolima, y explicó que varios corresponden a un enjambre sísmico. Infobae advierte que los boletines oficiales mostraron diferencias de magnitud y profundidad para un mismo evento.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/14/se-reportaron-dos-sismos-en-choco-en-menos-de-5-minutos-con-profundidades-de-40-y-39-kilometros/"
+    },
+    {
+      "id": "co-20260914-eltiempo-huv-auxiliar-sobreviviente",
+      "fecha": "2026-09-14",
+      "titulo": "La Gobernación del Valle homenajea al personal de salud y a los rescatistas del terremoto en el Hospital Universitario del Valle",
+      "resumen": "Karen Tamayo, auxiliar de enfermería de 24 años que hacía prácticas en el Hospital Universitario del Valle, sobrevivió al derrumbe de una parte del centro médico y recibió un reconocimiento de la Gobernación del Valle en un acto dirigido al personal de la salud, rescatistas y organismos de socorro que atendieron la emergencia. Tamayo, que aún se recupera de las quemaduras y del impacto psicológico, contó que su prioridad fue salvar a los pacientes de su sala; el sismo deja 154 personas fallecidas en Cali, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/la-vida-puede-cambiar-en-un-segundo-de-salvar-pacientes-a-luchar-por-su-propia-vida-bajo-los-escombros-en-el-hospital-universitario-del-valle-3586047"
+    },
+    {
+      "id": "co-20260914-eltiempo-fasecolda-quinto-reporte",
+      "fecha": "2026-09-14",
+      "titulo": "Las reclamaciones a las aseguradoras llegan a 84.534 y el costo estimado de los siniestros sube a 4,4 billones de pesos",
+      "resumen": "El quinto reporte de Fasecolda, con información con corte al 11 de septiembre, eleva a 4,4 billones de pesos el valor estimado que deberán asumir las aseguradoras por los siniestros del terremoto del 10 de agosto. El gremio contabiliza 84.534 reclamaciones y pagos ya efectuados por 184.770 millones de pesos, y señala que Risaralda concentra el mayor valor estimado por daños, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/sectores/terremoto-reclamaciones-a-aseguradoras-llegan-a-84-534-y-costo-de-siniestros-sube-a-4-4-billones-3585970"
+    },
+    {
+      "id": "co-20260914-eltiempo-colmena-puntos-atencion",
+      "fecha": "2026-09-14",
+      "titulo": "Una aseguradora abre oficinas provisionales en Cali, Pereira, Manizales y Buenaventura para agilizar las indemnizaciones",
+      "resumen": "Colmena Seguros habilitó canales presenciales —entre oficinas permanentes y provisionales— en Cali, Pereira, Manizales y Buenaventura para que los afectados por el terremoto tramiten reclamaciones e indemnizaciones. La medida busca responder a las zonas donde las fallas de energía, internet y telecomunicaciones han dificultado el acceso a los canales habituales, y la compañía anunció que seguirá abriendo puntos según las necesidades que se identifiquen, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/sector-financiero/colmena-abre-puntos-de-atencion-para-agilizar-indemnizaciones-a-afectados-por-el-terremoto-conozca-donde-3585878"
+    },
+    {
+      "id": "co-20260914-elpais-personeros-ruta-conjunta",
+      "fecha": "2026-09-14",
+      "titulo": "Los personeros del país piden una hoja de ruta única para atender a los damnificados del terremoto",
+      "resumen": "La asamblea anual de la Federación Nacional de Personeros, con funcionarios de todos los departamentos, reclamó una hoja de ruta única entre las autoridades comprometidas en la reconstrucción y mayor coordinación institucional para garantizar los derechos de las familias afectadas. El terremoto del 10 de agosto dejó afectaciones en 16 departamentos del país, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/colombia/personeros-de-colombia-piden-una-ruta-conjunta-para-atender-a-damnificados-por-el-terremoto-1450.html"
+    },
+    {
+      "id": "co-20260914-elpais-asesoria-alzas-servicios",
+      "fecha": "2026-09-14",
+      "titulo": "Asesoría gratuita en Cali por alzas injustificadas en servicios y arriendos tras el sismo",
+      "resumen": "La Oficina de Protección al Consumidor de la Alcaldía de Cali y las superintendencias de Servicios Públicos Domiciliarios, Industria y Comercio y Financiera atienden en la Plazoleta Jairo Varela del lunes 14 al viernes 18 de septiembre, de 9:00 a. m. a 4:00 p. m. La jornada ofrece asesoría gratuita a los ciudadanos afectados por el terremoto que enfrentan cobros o alzas injustificadas después de la emergencia, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-y-gobierno-nacional-brindan-asesoria-gratuita-por-alzas-injustificadas-en-servicios-posteriores-al-terremoto-1439.html"
+    },
+    {
+      "id": "co-20260914-elpais-alivios-tributarios-cali",
+      "fecha": "2026-09-14",
+      "titulo": "El Concejo de Cali aprueba un paquete de alivios tributarios para los afectados por el terremoto",
+      "resumen": "El Concejo Distrital de Cali aprobó en segundo debate un paquete de medidas tributarias y no tributarias dirigido a familias, propietarios y comerciantes golpeados por el sismo del 10 de agosto. El acuerdo establece beneficios diferenciados según el nivel de daño registrado en cada predio, en una ciudad que quedó con miles de familias damnificadas y cientos de edificaciones que requirieron evaluación técnica, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alivios-tributarios-en-cali-para-afectados-por-el-terremoto-estas-son-las-medidas-aprobadas-1410.html"
     },
     {
       "id": "co-20260913-infobae-decreto-1382-finanzas-territoriales",
