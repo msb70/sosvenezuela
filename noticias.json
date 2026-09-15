@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-14",
+  "actualizado": "2026-09-15",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260914-elnacional-clases-laguaira",
+      "fecha": "2026-09-14",
+      "titulo": "El año escolar arranca en La Guaira con aulas casi vacías y al menos siete escuelas cerradas por daños",
+      "resumen": "El período escolar 2026-2027 comenzó el 14 de septiembre con muy poca asistencia de alumnos en La Guaira, el estado más afectado por el doble terremoto del 24 de junio, según un recorrido de EFE recogido por El Nacional. Al menos siete escuelas siguen cerradas por daños y otras funcionan todavía como refugios de damnificados, pese a que en julio las autoridades anunciaron que esas personas serían reubicadas en campamentos temporales antes del inicio del curso. En la escuela Guaicoto, de Macuto, solo había llegado un niño pasadas las 7:00 am; su directora, Lizeth Zambrano, espera unos 220 alumnos este año frente a los 205 del anterior, de los cuales murieron tres, además de una docente.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ano-escolar-en-la-guaira-comenzo-con-baja-asistencia-de-alumnos/"
+    },
+    {
+      "id": "ve-20260914-elnacional-baruta-simulacro",
+      "fecha": "2026-09-14",
+      "titulo": "Baruta convoca para el 23 de octubre su primer simulacro masivo de evacuación por terremoto",
+      "resumen": "El municipio Baruta realizará el viernes 23 de octubre su primer simulacro masivo de evacuación por terremoto, anunció el alcalde Darwin González, casi cuatro meses después del doble sismo del 24 de junio. El ejercicio se prepara con el programa de capacitación comunitaria Baruta Preparada, desarrollado con el Concejo Municipal, Cáritas, Biker Venezuela y Primeros Auxilios UCV, mientras Protección Civil recorre los sectores para fijar los puntos de encuentro seguro. La convocatoria está dirigida a vecinos, asociaciones, consejos comunales y empresas privadas, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/baruta-organiza-un-simulacro-de-evacuacion-por-terremoto-para-octubre/"
+    },
+    {
+      "id": "ve-20260914-cronicauno-clases-oeste-caracas",
+      "fecha": "2026-09-14",
+      "titulo": "Las escuelas del oeste de Caracas inician el curso con aulas virtuales, semipresencialidad y mudanzas de matrícula",
+      "resumen": "Los planteles del oeste de Caracas comenzaron el año escolar 2026-2027 el 14 de septiembre con una logística de emergencia: reparaciones en curso, traslados de matrículas completas a sedes provisionales y clases virtuales o semipresenciales, según un recorrido de Crónica.Uno por la zona. El medio constató baja asistencia de alumnos, frente al 83 % de asistencia escolar que reportó el Ministerio de Educación. La Escuela Amanda Schnell, en la parroquia La Vega, no abrió sus puertas: tiene etiqueta amarilla, una clasificación de riesgo por daños estructurales de severidad media que restringe el uso de las instalaciones hasta que lleguen las directrices oficiales de reubicación temporal.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/baja-asistencia-reparaciones-condicionaron-inicio-ano-escolar-2026-2027-oeste-caracas/"
+    },
     {
       "id": "ve-20260913-elnacional-transparencia-ruta-ayuda",
       "fecha": "2026-09-13",
