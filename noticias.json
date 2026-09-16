@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-15",
+  "actualizado": "2026-09-16",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260916-infobae-pdna-recuperacion",
+      "fecha": "2026-09-16",
+      "titulo": "El PNUD cifra en hasta 21.000 millones de dólares las necesidades de recuperación tras los terremotos",
+      "resumen": "La Evaluación de Necesidades Posteriores al Desastre (PDNA), presentada el martes 15 de septiembre por el Programa de las Naciones Unidas para el Desarrollo, estima en hasta 21.000 millones de dólares las necesidades de recuperación de Venezuela tras los sismos de magnitud 7,2 y 7,5 del 24 de junio, y calcula en 14.831 millones los daños y pérdidas en los siete estados afectados. El estudio fue liderado por el Gobierno venezolano y desarrollado con las Naciones Unidas, la Unión Europea y el Banco Mundial, con acompañamiento técnico del BID y la CAF. Según Infobae, la directora regional del PNUD, Michelle Muschett, entregó el documento en Caracas y lo definió como un primer informe que debe servir de insumo para el marco de recuperación resiliente.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/16/estimaron-en-mas-de-usd-20000-millones-la-recuperacion-de-venezuela-tras-los-devastadores-terremotos/"
+    },
+    {
+      "id": "ve-20260916-cronicauno-puerto-cabello",
+      "fecha": "2026-09-16",
+      "titulo": "Puerto Cabello absorbe la carga desviada de La Guaira y la falta de grúas retrasa las entregas",
+      "resumen": "El colapso del puerto de La Guaira tras el doble terremoto del 24 de junio desvió miles de contenedores a Puerto Cabello, que ha pasado a operar al doble de su capacidad habitual, según un reportaje de Crónica.Uno. Desde el inicio de la emergencia han ingresado cerca de 5.000 contenedores adicionales, de los que unos 2.600 ya salieron de la zona portuaria, mientras la falta de grúas y maquinaria frena las entregas. Nelson Bolívar, presidente de la Cámara de Comercio de Puerto Cabello, sostiene que la infraestructura no fue diseñada para una contingencia de esta magnitud; el sector pide recortar trámites y modernizar equipos para evitar un desabastecimiento prolongado.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/puerto-cabello-mantiene-el-pulso-logistico-tras-los-sismos-pese-a-escasez-de-equipos/"
+    },
+    {
+      "id": "ve-20260915-infobae-87-escuelas-riesgo",
+      "fecha": "2026-09-15",
+      "titulo": "Educación identifica 87 escuelas con riesgo estructural y no descarta demoler y reconstruir las más dañadas",
+      "resumen": "El ministro de Educación, Héctor Rodríguez, informó en Venezolana de Televisión que 87 escuelas presentan riesgos estructurales tras el doble terremoto del 24 de junio y que los ingenieros evalúan la recuperación de 56 de ellas; si no pueden repararse, habrá demolición controlada y construcción de nuevos planteles. Según el Gobierno, más de 1.000 de las 27.000 escuelas del país sufrieron daños y 11 quedaron colapsadas, y más de 86.000 alumnos fueron reubicados para el año escolar que arrancó el 14 de septiembre, de acuerdo con la información recogida por Infobae. El ministerio también anunció la incorporación del simulacro sísmico al proceso pedagógico.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/15/venezuela-volvio-a-clases-con-87-escuelas-en-riesgo-y-mas-de-86000-alumnos-reubicados-tras-los-sismos-de-junio/"
+    },
+    {
+      "id": "ve-20260915-elnacional-protesis-bionicas",
+      "fecha": "2026-09-15",
+      "titulo": "El Ejecutivo anuncia un programa de prótesis biónicas para las personas amputadas por el doble sismo",
+      "resumen": "La presidenta encargada, Delcy Rodríguez, anunció un programa de asistencia médica especializada para las personas que sufrieron amputaciones a causa del doble terremoto del 24 de junio, durante un recorrido por el laboratorio de órtesis y prótesis Lenín Molina Peñaloza de Caracas transmitido por Venezolana de Televisión. La primera fase atiende la restitución de miembros superiores con tecnología biónica y después se extenderá a las extremidades inferiores, y el Gobierno prevé suscribir un acuerdo con la empresa japonesa Kawatek para la dotación y la transferencia de tecnología. Según El Nacional, existe un censo oficial de pacientes cuyos totales consolidados no se han divulgado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-anuncia-un-plan-de-atencion-con-tecnologia-bionica-para-victimas-del-doble-terremoto-de-junio/"
+    },
+    {
+      "id": "ve-20260915-elnacional-maiquetia-50-capacidad",
+      "fecha": "2026-09-15",
+      "titulo": "Maiquetía opera entre el 45 % y el 50 % de su capacidad dos semanas después de reanudar vuelos en terminales temporales",
+      "resumen": "El viceministro de Transporte Aéreo y presidente de Bolivariana de Aeropuertos (BAER), Sergio Silvio Prato, informó que el aeropuerto de Maiquetía se mueve entre el 45 % y el 50 % de su capacidad habitual tras dos semanas de operaciones en las terminales temporales levantadas por los daños del doble sismo del 24 de junio. El balance de esa primera quincena, recogido por El Nacional, registra 1.145 vuelos nacionales y 576 internacionales, con unos 75.500 pasajeros en rutas domésticas y 83.000 hacia el exterior. Prato añadió que no hay plazo fijo para reabrir el terminal principal, porque los módulos provisionales están absorbiendo la operación mientras avanza la recuperación de ambas terminales y del edificio 6.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/el-aeropuerto-internacional-de-maiquetia-alcanza-50-de-su-capacidad-operativa-mediante-terminales-temporales/"
+    },
+    {
+      "id": "ve-20260915-elnacional-fvm-asistencia-clases",
+      "fecha": "2026-09-15",
+      "titulo": "La Federación Venezolana de Maestros reporta asistencia «muy baja» en el arranque del curso, frente a las cifras del ministerio",
+      "resumen": "La presidenta de la Federación Venezolana de Maestros (FVM), Carmen Teresa Márquez, informó de una asistencia «muy baja» de docentes y estudiantes en el inicio del año escolar 2026-2027, con reportes recibidos desde Miranda, Carabobo, Apure, Bolívar, Zulia y Distrito Capital. El ministro de Educación, Héctor Rodríguez, había situado la asistencia del personal en 97 %, la estudiantil en 83 % y los planteles abiertos en más del 99 % de un sistema de unas 27.000 instituciones, según El Nacional. El medio apunta que la asistencia está condicionada por los daños de los sismos del 24 de junio y por problemas previos de infraestructura, servicios y alimentación escolar, y que la apertura de un plantel no implica el inicio inmediato de las clases.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fvm-reporto-baja-asistencia-a-clases-pese-a-cifras-ofrecidas-por-el-ministro-hector-rodriguez/"
+    },
+    {
+      "id": "ve-20260915-elnacional-escombros-792000",
+      "fecha": "2026-09-15",
+      "titulo": "Obras Públicas cifra en 792.000 toneladas los escombros ya procesados en La Guaira, el 37 % del total",
+      "resumen": "El ministro de Obras Públicas, Juan José Ramírez, informó que se han procesado más de 792.000 toneladas de escombros en La Guaira, el 37 % de los desechos generados por los terremotos del 24 de junio, durante una jornada de remoción en la parroquia Caraballeda con presencia del PNUD. El Centro de Disposición Transitorio de Caraballeda ocupa ocho hectáreas, emplea a 150 trabajadores en doble turno y puede triturar hasta 600 toneladas por hora, según los datos oficiales recogidos por El Nacional. La directora regional del PNUD, Michelle Muschett, señaló que el organismo usa drones desde el segundo día tras los sismos para medir impactos y priorizar zonas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/mas-de-792-000-toneladas-de-escombros-han-sido-procesadas-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260915-cronicauno-sucre-sin-evaluacion",
+      "fecha": "2026-09-15",
+      "titulo": "Los planteles del estado Sucre inician el año escolar sin evaluación estructural posterior a los sismos",
+      "resumen": "Las escuelas de Sucre comenzaron el período 2026-2027 sin diagnóstico estructural tras los terremotos del 24 de junio, pese a que el Colegio de Ingenieros del estado, Protección Civil y Bomberos de Cumaná conformaron brigadas de inspección, informa Crónica.Uno. La presidenta del CIES, Cristina Blanco de Santana, explicó que solicitaron formalmente a la Alcaldía del municipio Sucre y a la Gobernación que las brigadas entraran en planteles y centros asistenciales, y advierte de filtraciones, modificaciones y sobrecargas por tanques de agua instalados durante la crisis hídrica. La gobernación instaló una mesa técnica de supervisión el 2 de julio; en la entidad no se hacen evaluaciones estructurales desde el terremoto de Cariaco de 1997.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/planteles-del-estado-sucre-iniciaron-ano-escolar-sin-evaluacion-de-estructuras-tras-los-sismos/"
+    },
     {
       "id": "ve-20260914-elnacional-clases-laguaira",
       "fecha": "2026-09-14",
