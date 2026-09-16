@@ -1,7 +1,73 @@
 {
-  "actualizado": "2026-09-15",
+  "actualizado": "2026-09-16",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260916-infobae-minsalud-hospitales",
+      "fecha": "2026-09-16",
+      "titulo": "El Ministerio de Salud pide 1,9 billones de pesos para reconstruir los hospitales dañados por el terremoto",
+      "resumen": "La ministra de Salud, Ana María Vesga, informó que la cartera solicitó al Ministerio de Hacienda 1,9 billones de pesos, dentro de los ajustes al presupuesto de 2027, para recuperar la infraestructura hospitalaria golpeada por el sismo del 10 de agosto. El balance del sector contabiliza 440 afectaciones en infraestructura hospitalaria, 4.517 heridos y 330 fallecidos, además de daños en albergues, centros de acopio de vacunas y laboratorios de salud pública. Del total, 19 instituciones deberán reconstruirse —cerca de 900.000 millones de pesos y 106.000 metros cuadrados— y otras 100 requieren adecuaciones mayores por 582.000 millones, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/16/minsalud-pide-19-billones-para-reparar-hospitales-afectados-por-el-terremoto/"
+    },
+    {
+      "id": "co-20260916-infobae-fitch-calificaciones-territoriales",
+      "fecha": "2026-09-16",
+      "titulo": "Fitch no ve por ahora impacto en las calificaciones de los gobiernos locales por los decretos de emergencia",
+      "resumen": "La calificadora Fitch Ratings analizó los 11 decretos de emergencia económica expedidos el 9 de septiembre para movilizar, asignar y redistribuir recursos tras el terremoto del 10 de agosto, y concluyó que las medidas temporales en materia de impuestos, gasto, endeudamiento y liquidez no modifican por ahora el perfil de riesgo de los gobiernos locales y regionales cobijados por el Decreto 1261 de 2026. Entre las disposiciones revisadas figura el Decreto 1382, que da mayor flexibilidad de endeudamiento, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/16/fitch-ve-sin-cambios-las-notas-territoriales-tras-decretos-por-emergencia-del-terremoto/"
+    },
+    {
+      "id": "co-20260916-infobae-adres-indemnizaciones-gratuitas",
+      "fecha": "2026-09-16",
+      "titulo": "El Gobierno advierte que las indemnizaciones por el terremoto son gratuitas y no requieren intermediarios",
+      "resumen": "Ante consultas y denuncias sobre personas que buscan cobrar por gestionar beneficios a los afectados, la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (Adres) recordó que los trámites de indemnización por muerte, gastos funerarios o incapacidad permanente son gratuitos y se diligencian directamente ante la entidad, sin abogados, tramitadores ni otros agentes. La entidad advirtió que solo son válidas las comunicaciones emitidas por sus canales oficiales o por el Gobierno nacional, y habilitó consultas en la línea de Bogotá 601 4322760, extensiones 1005 y 1727, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/16/el-gobierno-recordo-que-las-victimas-del-terremoto-no-deben-pagar-por-las-indemnizaciones-y-que-tampoco-necesitan-intermediarios/"
+    },
+    {
+      "id": "co-20260916-eltiempo-sismos-choco-16sep",
+      "fecha": "2026-09-16",
+      "titulo": "Cinco sismos sacuden el Chocó en la madrugada del 16 de septiembre; el mayor fue de magnitud 4,5",
+      "resumen": "El Servicio Geológico Colombiano reportó cinco movimientos con magnitudes de 4,5, 4,4, 3,4, 2,9 y 2,6 durante la madrugada del miércoles 16 de septiembre. El mayor ocurrió a la 1:18 a. m. con epicentro en Istmina (Chocó), a 43 kilómetros de profundidad y a 24 kilómetros de Sipí; el segundo, de magnitud 4,4, se registró a las 2:02 a. m. a 40 kilómetros de Bahía Solano, en el océano Pacífico, con profundidad superficial. Usuarios en redes sociales reportaron haberlos sentido, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-seguidilla-de-sismos-en-choco-durante-la-madrugada-de-este-16-de-septiembre-el-mayor-fue-de-magnitud-4-5-detalles-3586399"
+    },
+    {
+      "id": "co-20260915-infobae-retorno-clases-nacional",
+      "fecha": "2026-09-15",
+      "titulo": "El 92 % de los estudiantes con matrícula afectada por el terremoto ya retomó clases, con corte al 14 de septiembre",
+      "resumen": "La viceministra de Educación Preescolar, Básica y Media, Gledy María Foliaco, informó ante la comisión bicameral de seguimiento a los damnificados que 1.173.130 de los 1.275.259 estudiantes cuya matrícula resultó afectada volvieron al servicio educativo (91,99 %), y que 5.048 de las 5.537 sedes dañadas ya reabrieron (91,17 %). En los 16 departamentos priorizados se reportaron 30.930 casos de docentes con afectaciones a su integridad física, daños en sus viviendas o necesidad de apoyo psicosocial, y el ministerio anunció una estrategia de acompañamiento virtual para los maestros, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/15/mas-de-un-millon-de-estudiantes-de-colombia-retomaron-clases-luego-del-terremoto-del-10-de-agosto-pero-aun-intervienen-colegios-afectados-en-caldas/"
+    },
+    {
+      "id": "co-20260915-infobae-primera-vivienda-quibdo",
+      "fecha": "2026-09-15",
+      "titulo": "El Gobierno entrega en Quibdó la primera vivienda reconstruida tras el terremoto y anuncia más de 500 casas en el Chocó",
+      "resumen": "La casa fue entregada el martes 15 de septiembre a la familia Asprilla, un hogar de educadores damnificado por el sismo del 10 de agosto, en un proyecto liderado por Argos y auspiciado por el artista Nicky Jam. El viceministro de Vivienda, José Reinaldo Uribe, precisó que la entrega hace parte de un plan de habitabilidad que contempla la construcción de más de 500 viviendas en distintos puntos del departamento, y detalló los primeros territorios priorizados para avanzar con las obras, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/15/la-primera-casa-reconstruida-tras-el-terremoto-ya-fue-entregada-en-choco-el-gobierno-anuncio-ayuda-para-otras-500-viviendas/"
+    },
     {
       "id": "co-20260915-infobae-arriendos-cinco-ciudades",
       "fecha": "2026-09-15",
@@ -14,6 +80,83 @@
       "url": "https://www.infobae.com/colombia/2026/09/15/arriendos-se-disparan-tras-el-terremoto-en-colombia-armenia-quibdo-y-cali-concentran-el-mayor-aumento-de-busquedas/"
     },
     {
+      "id": "co-20260915-eltiempo-zona65-emprendedores",
+      "fecha": "2026-09-15",
+      "titulo": "Una plazoleta comercial de Cali funciona como centro de acopio y vitrina para emprendedores afectados por el sismo",
+      "resumen": "Zona 65, inaugurada el 29 de mayo, pasó de ser un punto de encuentro gastronómico y familiar a operar como corazón logístico de la ayuda humanitaria y como espacio de visibilidad para emprendedores que intentan recuperar su sustento tras el terremoto del 10 de agosto. Mientras las ventas caían y el comercio tradicional se paralizaba, los comerciantes del lugar abrieron la plazoleta a familias damnificadas y a nuevas iniciativas de negocio, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/mas-que-una-plazoleta-un-salvavidas-la-apuesta-de-zona-65-por-rescatar-emprendedores-tras-el-terremoto-en-cali-3586388"
+    },
+    {
+      "id": "co-20260915-eltiempo-norma-sismorresistente",
+      "fecha": "2026-09-15",
+      "titulo": "Tres de cada cuatro edificaciones del país no tendrían diseño sismorresistente pese a la exigencia de la norma",
+      "resumen": "Un análisis de El Tiempo señala que, aunque Colombia tiene una de las normas de construcción más exigentes de América Latina, tres de cada cuatro edificaciones no contarían con diseño sismorresistente, y expertos piden actualizar la norma con la información sísmica de los últimos 16 años; el Chocó es el departamento más vulnerable. El sismo del 10 de agosto, de magnitud 7,4 y epicentro en San José del Palmar (Chocó) a 103 kilómetros de profundidad, se originó dentro de la placa de Nazca y se sintió en 28 de los 32 departamentos, con afectaciones graves en Chocó, Valle, Caldas, Quindío y Risaralda. Con corte al 15 de septiembre la UNGRD reportaba al menos 335 muertos, 4.516 heridos, 105 desaparecidos y 486.917 personas y 303.934 familias afectadas en 16 departamentos y 500 municipios.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/datos/colombia-tiene-una-de-las-normas-de-construccion-mas-exigentes-de-america-latina-pero-3-de-cada-4-edificaciones-no-tendrian-diseno-sismorresistente-3586032"
+    },
+    {
+      "id": "co-20260915-eltiempo-enjambre-sismico-explicacion",
+      "fecha": "2026-09-15",
+      "titulo": "El Servicio Geológico explica que el enjambre sísmico del Chocó puede mantenerse durante semanas o meses",
+      "resumen": "Freddy Tovar, coordinador de la Red Sismológica Nacional de Colombia, señaló que los sismos que siguen sacudiendo al Chocó —varios de magnitud superior a 4,0 con epicentro en Istmina el 14 de septiembre— hacen parte del enjambre sísmico que el Servicio Geológico Colombiano identificó dos semanas antes, dentro de la secuencia posterior al terremoto de magnitud 7,4. La entidad explicó que este tipo de actividad puede mantenerse durante semanas o meses, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/por-que-sigue-temblando-en-choco-esto-explica-el-servicio-geologico-sobre-el-enjambre-sismico-3586157"
+    },
+    {
+      "id": "co-20260915-eltiempo-empleo-solidario-pereira",
+      "fecha": "2026-09-15",
+      "titulo": "Una plataforma de empleo conecta a damnificados de Pereira con vacantes de empresas nacionales e internacionales",
+      "resumen": "Empleo Solidario Pereira, iniciativa creada desde Miami por un grupo de mujeres pereiranas, permite a quienes perdieron su negocio o su empleo tras el terremoto publicar su perfil profesional y acceder a ofertas laborales. La herramienta no está restringida a una profesión o nivel de formación y reúne desde auxiliares administrativos y tecnólogos hasta artistas y profesionales con posgrado; el sismo dejó cerca de 120.000 personas damnificadas en Pereira, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/plataforma-de-empleo-conecta-a-damnificados-de-pereira-con-empresas-nacionales-e-internacionales-que-buscan-trabajadores-3586351"
+    },
+    {
+      "id": "co-20260915-eltiempo-donacion-monastery-jr10",
+      "fecha": "2026-09-15",
+      "titulo": "Una marca de moda y una fundación donan 150 millones de pesos para damnificados del terremoto",
+      "resumen": "La firma colombiana Monastery y la Fundación Colombia Somos Todos James Rodríguez oficializaron la entrega de 150 millones de pesos, provenientes de la colaboración comercial Monastery x JR10, para atender la emergencia habitacional dejada por el sismo del 10 de agosto. Los recursos se destinarán a la asistencia directa a hogares que perdieron su vivienda y a programas formativos que incluyen becas educativas, acompañamiento psicosocial y talleres para niños, niñas y jóvenes, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/deportes/otros-deportes/monastery-y-la-fundacion-james-rodriguez-aportan-150-millones-a-damnificados-por-el-terremoto-3586383"
+    },
+    {
+      "id": "co-20260915-eltiempo-autoconstruccion-buenaventura",
+      "fecha": "2026-09-15",
+      "titulo": "Buenaventura apuesta por la autoconstrucción asistida: 1.260 kits de materiales para reparar 900 viviendas",
+      "resumen": "La Gobernación del Valle y la Alcaldía de Buenaventura pusieron en marcha un plan que ya moviliza 1.260 kits de materiales para reparar 900 viviendas dañadas por el terremoto y que proyecta además 200 unidades habitacionales nuevas y subsidios para las familias afectadas. Bajo el esquema de autoconstrucción asistida, las dos administraciones asumen el costo de la mano de obra calificada —un maestro de obra y dos ayudantes— mientras la familia aporta su propio trabajo, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/un-maestro-dos-ayudantes-y-una-familia-la-formula-de-autoconstruccion-con-la-que-buenaventura-le-apuesta-a-levantarse-tras-el-terremoto-3586330"
+    },
+    {
+      "id": "co-20260915-elpais-valle-financia-70-reconstruccion",
+      "fecha": "2026-09-15",
+      "titulo": "El Gobierno reconoce que la Gobernación del Valle ha asumido el 70 % de la inversión en reconstrucción",
+      "resumen": "Durante una visita al Distrito de Buenaventura el 15 de septiembre, el Gobierno nacional confirmó que el departamento ha financiado el 70 % de las obras de reconstrucción emprendidas tras el terremoto del 10 de agosto. El pronunciamiento se dio en la entrega de una vivienda y en la asignación de ayudas económicas para cerca de 4.000 familias vulnerables afectadas en el puerto marítimo, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/politica/gobernacion-del-valle-ha-financiado-el-70-de-la-reconstruccion-tras-el-terremoto-1517.html"
+    },
+    {
       "id": "co-20260915-elpais-subasta-ermita-roldanillo",
       "fecha": "2026-09-15",
       "titulo": "Roldanillo subastará una obra de arte donada para financiar la recuperación de la capilla de La Ermita",
@@ -23,6 +166,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elpais.com.co/valle/subastaran-una-importante-obra-de-arte-para-financiar-la-reconstruccion-de-la-ermita-de-roldanillo-1557.html"
+    },
+    {
+      "id": "co-20260915-elpais-retorno-clases-valle",
+      "fecha": "2026-09-15",
+      "titulo": "El Valle del Cauca suma 780 sedes educativas con diagnóstico técnico y 473 albergues escolares habilitados",
+      "resumen": "La Gobernación del Valle informó que 780 de las 1.043 sedes educativas oficiales de los 34 municipios no certificados del departamento ya cuentan con diagnóstico técnico para determinar si pueden continuar con actividades presenciales, y que están habilitados 473 albergues educativos en 129 sedes. Más de 46.000 estudiantes han regresado a las aulas; el terremoto dejó en el departamento 154 personas fallecidas y afectaciones en más de 112.000 viviendas, además de daños en infraestructura de salud, educación y vías, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-avanza-en-el-retorno-a-clases-tras-el-terremoto-mas-de-46000-estudiantes-volvieron-a-clases-1552.html"
     },
     {
       "id": "co-20260914-infobae-obras-por-impuestos-decreto-1389",
