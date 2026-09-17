@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-16",
+  "actualizado": "2026-09-17",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260917-infobae-minambiente-madera-decomisada",
+      "fecha": "2026-09-17",
+      "titulo": "El Ministerio de Ambiente autoriza usar madera y otros productos forestales decomisados para atender la emergencia",
+      "resumen": "El Ministerio de Ambiente y Desarrollo Sostenible autorizó destinar los productos forestales decomisados de forma definitiva y que permanecen bajo custodia de las autoridades ambientales a la recuperación de las comunidades golpeadas por el terremoto del 10 de agosto. La medida, anunciada por el ministro Fabio Arjona Hincapié mediante una circular, cobija madera, guadua, bambú, caña brava y manglar, y busca que esos materiales, ya en manos del Estado, se usen en las zonas afectadas, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/17/minambiente-autoriza-usar-madera-y-otros-productos-forestales-decomisados-para-atender-emergencia-tras-terremoto/"
+    },
+    {
+      "id": "co-20260916-infobae-sismos-choco-tarde-16sep",
+      "fecha": "2026-09-16",
+      "titulo": "Cuatro sismos sacuden el Chocó en poco más de 40 minutos en la tarde del 16 de septiembre; el mayor fue de magnitud 4,7",
+      "resumen": "El Servicio Geológico Colombiano reportó una nueva seguidilla de temblores del enjambre del Chocó durante la tarde del miércoles 16 de septiembre: magnitud 4,7 a las 3:12 p. m. en Medio San Juan (corregimiento de Andagoya), a 40 kilómetros de profundidad; 4,4 a las 3:14 p. m. en Sipí, a 37 kilómetros; 3,6 a las 3:18 p. m. de nuevo en Medio San Juan, a 38 kilómetros; y 4,4 a las 3:55 p. m. en Istmina, también a 38 kilómetros. La secuencia, recogida por Infobae a partir de los boletines del SGC, se suma a los cinco movimientos de la madrugada del mismo día y se sintió en Cali y otras zonas del occidente del país.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/16/tres-sismos-sacudieron-a-choco-en-menos-de-diez-minutos-asi-fue-la-secuencia-de-temblores-del-16-de-septiembre-de-2026/"
+    },
     {
       "id": "co-20260916-infobae-minsalud-hospitales",
       "fecha": "2026-09-16",
@@ -45,6 +67,61 @@
       "categoria": "Réplicas y sismología",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-seguidilla-de-sismos-en-choco-durante-la-madrugada-de-este-16-de-septiembre-el-mayor-fue-de-magnitud-4-5-detalles-3586399"
+    },
+    {
+      "id": "co-20260916-eltiempo-jornada-benefica-choco",
+      "fecha": "2026-09-16",
+      "titulo": "Una jornada académica benéfica recaudará fondos el 26 de octubre para reconstruir viviendas en el Chocó",
+      "resumen": "‘Educación para reconstruir Colombia’, una jornada híbrida de 12 horas continuas prevista para el 26 de octubre en el Movistar Arena de Bogotá, buscará recaudar fondos destinados de forma directa a la reconstrucción de viviendas en las comunidades del Chocó más afectadas por el terremoto del 10 de agosto. El encuentro reunirá a expertos en liderazgo, emprendimiento, finanzas y negocios, y una de las cabezas de la iniciativa es el conferencista Gabriel Vallejo López, que explicó su origen en entrevista con El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/educacion-para-reconstruir-colombia-esta-es-la-fecha-y-lo-que-debe-saber-para-asistir-al-evento-que-busca-ayudar-al-choco-tras-el-terremoto-3586497"
+    },
+    {
+      "id": "co-20260916-eltiempo-iglesia-montenegro-demolicion",
+      "fecha": "2026-09-16",
+      "titulo": "La parroquia San José de Montenegro, en el Quindío, será demolida por completo tras los daños del terremoto",
+      "resumen": "El templo San José de Montenegro (Quindío), inaugurado en 1924 y considerado patrimonio cultural y religioso de la región, tendrá que ser derribado en su totalidad por riesgo de colapso después de las evaluaciones técnicas realizadas tras el terremoto del 10 de agosto, entre otros por el ingeniero Javier Valencia y el patólogo de estructuras Frank Osorio. El anuncio lo hizo el obispo de Armenia, monseñor Carlos Arturo Quintero, en declaraciones recogidas por El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-iglesia-principal-de-montenegro-a-la-que-iban-centenares-de-turistas-y-que-se-construyo-hace-100-anos-tendra-que-ser-demolida-tras-el-terremoto-3586587"
+    },
+    {
+      "id": "co-20260916-eltiempo-fenalco-congreso-reprogramado",
+      "fecha": "2026-09-16",
+      "titulo": "Fenalco aplaza por primera vez en su historia su Congreso Nacional por los daños del terremoto",
+      "resumen": "La Federación Nacional de Comerciantes (Fenalco) reprogramó su Congreso Nacional de Comerciantes Empresarios, previsto para el 14, 15 y 16 de octubre en Bogotá, ante la magnitud de los daños del sismo del 10 de agosto y la situación de más de 30.000 comerciantes afectados. Según El Tiempo, es la primera vez que el gremio aplaza este encuentro, y la Junta Nacional tomó la decisión para concentrar esfuerzos en la recuperación de los empresarios y de las economías regionales golpeadas por la emergencia.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/sectores/terremoto-lleva-a-fenalco-a-reprogramar-por-primera-vez-en-su-historia-su-congreso-nacional-3586552"
+    },
+    {
+      "id": "co-20260916-elpais-ungrd-pagos-buenaventura-roldanillo",
+      "fecha": "2026-09-16",
+      "titulo": "La UNGRD comienza a pagar el apoyo económico de vivienda en Buenaventura y Roldanillo",
+      "resumen": "La Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) inició el 16 de septiembre en Buenaventura los pagos del apoyo económico temporal de vivienda para las familias que perdieron su casa en el terremoto del 10 de agosto, con una inversión superior a 4.062 millones de pesos, y anunció que al día siguiente empezaría la entrega en Roldanillo. Según El País (Cali), se trata del primer mes de ayuda y los jefes de hogar beneficiarios tendrán 15 días calendario para reclamar los recursos.",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/ungrd-inicia-entrega-de-apoyo-para-familias-afectadas-por-terremoto-en-buenaventura-y-roldanillo-1641.html"
+    },
+    {
+      "id": "co-20260916-elpais-capital-semilla-roldanillo",
+      "fecha": "2026-09-16",
+      "titulo": "Roldanillo entregará capital semilla de hasta 5 millones de pesos a 350 emprendedores afectados por el sismo",
+      "resumen": "La Gobernación del Valle del Cauca y el Gobierno nacional presentaron el 16 de septiembre un plan de reactivación económica para Roldanillo que beneficiará a 350 emprendedores locales golpeados por el terremoto del 10 de agosto, mediante créditos condonables de hasta 5 millones de pesos como capital semilla. La financiación se ejecutará en partes iguales entre la Nación y el departamento, y el plan fue socializado con los comerciantes del municipio por la gobernadora Dilian Francisca Toro, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/valle/inyeccion-de-capital-semilla-busca-reactivar-a-350-emprendedores-en-roldanillo-tras-el-sismo-del-10-de-agosto-1642.html"
     },
     {
       "id": "co-20260915-infobae-retorno-clases-nacional",
@@ -100,6 +177,17 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://www.eltiempo.com/datos/colombia-tiene-una-de-las-normas-de-construccion-mas-exigentes-de-america-latina-pero-3-de-cada-4-edificaciones-no-tendrian-diseno-sismorresistente-3586032"
+    },
+    {
+      "id": "co-20260915-eltiempo-funcion-benefica-miami",
+      "fecha": "2026-09-15",
+      "titulo": "Una función benéfica en Miami destinará lo recaudado a la campaña S.O.S. Pacífico para los damnificados",
+      "resumen": "El documental colombiano 'El juego de la vida', dirigido por el periodista Andrés Ruiz, se exhibirá el 30 de septiembre en el Teatro Trail de Miami en una proyección benéfica cuyos recursos irán a la campaña S.O.S. Pacífico, enfocada en la reconstrucción y la asistencia a las comunidades damnificadas por el terremoto del 10 de agosto. La película ya recaudó 20.700 dólares en su estreno en Nueva York, destinados a ayudas para el Valle del Cauca, según El Tiempo; la función la organizan Cineplex, Teatro Trail, Manos Visibles y la Universidad de los Andes.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/cultura/cine-y-tv/funcion-especial-de-el-juego-de-la-vida-en-miami-busca-recaudar-fondos-para-las-victimas-del-terremoto-en-colombia-3586345"
     },
     {
       "id": "co-20260915-eltiempo-enjambre-sismico-explicacion",
