@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-16",
+  "actualizado": "2026-09-17",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260917-elnacional-balnearios-la-guaira",
+      "fecha": "2026-09-17",
+      "titulo": "El Ministerio de Turismo y la gobernación de La Guaira anuncian la rehabilitación de 43 balnearios dañados por los sismos",
+      "resumen": "El Ministerio del Poder Popular para el Turismo y la gobernación de La Guaira anunciaron el miércoles 16 de septiembre un plan de rehabilitación integral de 43 balnearios y playas afectados por los terremotos de magnitud 7,2 y 7,5 del 24 de junio, dentro del programa estatal Plan Venezuela Renace. El esquema de financiamiento se basa en una convocatoria de «padrinazgo» de cada playa por entes del Estado y del empresariado: la gobernación asumió dos y el ministerio tres, según El Nacional. El gobernador José Alejandro Terán señaló que la franja costera es el principal motor productivo y comercial del estado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-nacional-anuncia-el-plan-de-rehabilitacion-para-43-balnearios-de-la-guaira-tras-los-terremotos-de-junio/"
+    },
+    {
+      "id": "ve-20260916-infobae-provea-rezonificacion-hacinamiento",
+      "fecha": "2026-09-16",
+      "titulo": "Provea advierte que la reubicación de 86.000 alumnos genera hacinamiento, doble turno y presión sobre los servicios",
+      "resumen": "El Programa Venezolano de Educación-Acción en Derechos Humanos (Provea) advirtió que la «rezonificación» de 86.031 estudiantes tras el doble terremoto del 24 de junio implica hacinamiento, doble turno y presión sobre el agua, la electricidad e internet en escuelas que ya arrastraban fallas, con riesgo de aumentar la deserción escolar. La organización recuerda, citando datos de la plataforma HUM Venezuela, que en 2025 el 65 % de los planteles presentaba fallas físicas y el 75 % carecía de agua constante. El ministro de Educación, Héctor Rodríguez, había explicado que el traslado de matrícula obliga a implantar el doble turno en las escuelas receptoras, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/16/venezuela-reubicacion-de-alumnos-tras-terremotos-genera-hacinamiento-y-presion-sobre-los-servicios/"
+    },
     {
       "id": "ve-20260916-infobae-pdna-recuperacion",
       "fecha": "2026-09-16",
@@ -23,6 +45,17 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://cronica.uno/puerto-cabello-mantiene-el-pulso-logistico-tras-los-sismos-pese-a-escasez-de-equipos/"
+    },
+    {
+      "id": "ve-20260916-cronicauno-colegio-iberoamericano-junquito",
+      "fecha": "2026-09-16",
+      "titulo": "El Colegio Iberoamericano de El Junquito abre el curso en una sede provisional tras el colapso de su edificio",
+      "resumen": "El Colegio Iberoamericano, en el kilómetro 14 de El Junquito, habilitó un anexo que funcionaba como internado para dar clases en el año escolar 2026-2027 después de que su sede colapsara en el doblete sísmico del 24 de junio; durante julio y agosto se rehicieron paredes, iluminación y baños, según relató a Crónica.Uno su propietario, Homero Rodríguez. El plantel es uno de los 11 que colapsaron por completo según cifras oficiales, a los que se suman 87 con afectaciones severas y unos 900 con daños leves en reparación. Otros colegios de la parroquia retrasaron el inicio de clases por obras inconclusas.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/colegio-iberoamericano-de-el-junquito-reinventa-sus-aulas-para-no-dejar-a-sus-alumnos-sin-escuela/"
     },
     {
       "id": "ve-20260915-infobae-87-escuelas-riesgo",
