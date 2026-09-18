@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-17",
+  "actualizado": "2026-09-18",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260918-infobae-sismos-sipi-17sep",
+      "fecha": "2026-09-18",
+      "titulo": "Dos sismos sacuden Sipí, en el Chocó, en diez minutos: el mayor, de magnitud 4,6, se sintió en Cali",
+      "resumen": "El Servicio Geológico Colombiano registró en la tarde del jueves 17 de septiembre dos movimientos con epicentro en Sipí (Chocó), ambos a 37 kilómetros de profundidad: el primero de magnitud 4,6 y el segundo, diez minutos después, de magnitud 3,3. Habitantes del norte de Cali, de Yumbo y de otros municipios del Valle del Cauca reportaron haber sentido el más fuerte, y el SGC pidió a la ciudadanía informar dónde lo percibió, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/colombia/2026/09/18/dos-sismos-en-menos-de-diez-minutos-sacudieron-a-choco-en-la-tarde-del-17-de-septiembre-reportaron-temblores-en-cali-y-el-valle-del-cauca/"
+    },
+    {
+      "id": "co-20260918-elpais-sismo-istmina-madrugada",
+      "fecha": "2026-09-18",
+      "titulo": "Un sismo de magnitud 4,6 con epicentro en Istmina sacude el suroccidente en la madrugada del 18 de septiembre",
+      "resumen": "El Servicio Geológico Colombiano reportó un temblor de magnitud 4,6 y 42 kilómetros de profundidad con epicentro en Istmina (Chocó), que se sintió con fuerza en Sipí, Trujillo y El Dovio. En la misma madrugada se registró otro sismo de magnitud 4,4, a menos de 30 kilómetros de profundidad, frente a Juradó, en el Pacífico chocoano, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/colombia/nuevo-sismo-sacude-al-suroccidente-colombiano-durante-la-madrugada-de-este-viernes-18-de-septiembre-del-2026-1828.html"
+    },
+    {
+      "id": "co-20260918-elpais-calzagosto-inauguracion",
+      "fecha": "2026-09-18",
+      "titulo": "La Feria Social CalzAgosto abre en Cali con un homenaje a las víctimas del terremoto",
+      "resumen": "La muestra de confecciones, calzado y accesorios del Valle del Cauca se inauguró el 17 de septiembre con un tributo a las víctimas y damnificados del sismo del 10 de agosto, entre ellos periodistas que perdieron a familiares. La feria, con entrada libre, se mantendrá hasta el lunes 21 de septiembre en La Estación Centro Comercial y busca dinamizar un sector golpeado por la caída de ventas tras el terremoto, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/con-un-emotivo-homenaje-a-las-victimas-del-sismo-se-inauguro-la-feria-social-calzagosto-1746.html"
+    },
     {
       "id": "co-20260917-infobae-minambiente-madera-decomisada",
       "fecha": "2026-09-17",
@@ -12,6 +45,61 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/17/minambiente-autoriza-usar-madera-y-otros-productos-forestales-decomisados-para-atender-emergencia-tras-terremoto/"
+    },
+    {
+      "id": "co-20260917-eltiempo-supergiros-620-viviendas",
+      "fecha": "2026-09-17",
+      "titulo": "SuperGiros destinará 15.000 millones de pesos a reparar 620 viviendas dañadas por el terremoto",
+      "resumen": "La compañía anunció el 17 de septiembre una inversión de 15.000 millones de pesos para asumir la totalidad de los costos de reparación de 620 viviendas de colaboradores damnificados por el sismo del 10 de agosto, dentro de un plan que ya empezó por la identificación y priorización de casos. Su propio censo contabiliza 1.226 familias afectadas en Chocó, Buenaventura, Risaralda, Quindío, el Valle del Cauca, Caldas y Cali, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/economia/sector-financiero/supergiros-destinara-15-000-millones-para-reconstruir-viviendas-de-colaboradores-afectados-por-el-terremoto-3586853"
+    },
+    {
+      "id": "co-20260917-eltiempo-san-andresito-reubicacion",
+      "fecha": "2026-09-17",
+      "titulo": "Reubican en la antigua La 14 de Pasoancho a 167 comerciantes de San Andresito del Sur que vendían en la calle",
+      "resumen": "Los comerciantes, que atendían a la intemperie desde que el terremoto del 10 de agosto dejó inutilizable su centro comercial en Cali, fueron trasladados al segundo piso de la antigua La 14 de Pasoancho, a pocos metros del sitio original. El traslado lo gestionaron la Alcaldía de Cali, ProPacífico y el agente liquidador de La 14, aunque parte de los emprendedores se muestra escéptica por el bajo tránsito de público en el nuevo espacio, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/colombia/cali/entre-el-escepticismo-y-la-reactivacion-reubican-a-167-comerciantes-de-san-andresito-del-sur-que-atendian-en-la-calle-tras-el-terremoto-en-cali-3586861"
+    },
+    {
+      "id": "co-20260917-eltiempo-fisuras-senales-alerta",
+      "fecha": "2026-09-17",
+      "titulo": "Cinco señales para saber si una fisura dejada por el terremoto es grave en casas y edificios",
+      "resumen": "Los especialistas consultados recomiendan no tapar, resanar ni volver a pintar una grieta antes de establecer por qué apareció, y advierten que las fisuras mayores de un milímetro deben ser evaluadas por un experto. La guía se publica en el contexto del terremoto de magnitud 7,4 del 10 de agosto, con epicentro en San José del Palmar (Chocó), y sus réplicas, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.eltiempo.com/cultura/gente/como-saber-si-una-fisura-tras-un-terremoto-es-grave-cinco-senales-de-alerta-en-casas-y-edificios-3586889"
+    },
+    {
+      "id": "co-20260917-elpais-cambulos-cables-edificios",
+      "fecha": "2026-09-17",
+      "titulo": "Vecinos de Los Cámbulos, en Cali, alertan por los cables acumulados en postes junto a edificios averiados por el terremoto",
+      "resumen": "Habitantes de la Calle 8A con Carrera 41 denuncian que las empresas de telecomunicaciones amontonan redes —algunas en desuso y a baja altura— en postes que ya conviven con edificaciones gravemente dañadas por el sismo, como el edificio Archinié de la Carrera 41 con Calle 7. La comunidad, que califica la situación de «peligro inminente» por el paso de vehículos de carga, pide la intervención de las autoridades, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/habitantes-de-los-cambulos-denuncian-marana-de-cables-y-alertan-por-edificios-afectados-tras-el-terremoto-es-un-peligro-inminente-1719.html"
+    },
+    {
+      "id": "co-20260917-elpais-becas-tecnologia-cali",
+      "fecha": "2026-09-17",
+      "titulo": "La Alcaldía de Cali ofrecerá 8.000 becas en tecnología para jóvenes dentro del plan de reconstrucción",
+      "resumen": "La administración municipal dispondrá de 8.000 becas para que jóvenes caleños cursen programas de educación superior en áreas tecnológicas, presentadas como parte de la reconstrucción de la ciudad tras el terremoto del 10 de agosto. El objetivo declarado es ampliar el acceso a nuevas oportunidades de empleo y frenar la migración de la juventud al exterior, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elpais.com.co/cali/alcalde-alejandro-anuncia-8000-becas-en-tecnologia-para-jovenes-en-cali-la-reconstruccion-debe-poner-a-los-jovenes-en-el-centro-1710.html"
     },
     {
       "id": "co-20260916-infobae-sismos-choco-tarde-16sep",
