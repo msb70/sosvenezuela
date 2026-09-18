@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-17",
+  "actualizado": "2026-09-18",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260917-elnacional-venezuela-renace-339-viviendas",
+      "fecha": "2026-09-17",
+      "titulo": "El Ejecutivo entrega 339 viviendas rehabilitadas en Caracas, Aragua y La Guaira y eleva a 1.815 los inmuebles reparados",
+      "resumen": "El Gobierno nacional entregó el jueves 17 de septiembre 339 viviendas rehabilitadas en el Distrito Capital, Aragua y La Guaira dentro del Plan Venezuela Renace, con lo que el programa acumula 1.815 inmuebles reparados y más de 6.600 personas beneficiadas en los estados afectados por los sismos del 24 de junio. La jornada central se celebró en el urbanismo Vida Nueva, en la parroquia Santa Teresa de Caracas, donde se asignaron 96 viviendas, según El Nacional. El Ejecutivo otorgó además financiamientos a 20 juntas de condominio para obras menores y adecuaciones estructurales en edificios residenciales. La cifra corresponde a viviendas rehabilitadas, distinta del conteo de viviendas nuevas entregadas a damnificados.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-entrego-339-viviendas-rehabilitadas-en-caracas-aragua-y-la-guaira/"
+    },
+    {
+      "id": "ve-20260917-elnacional-save-the-children-escolares",
+      "fecha": "2026-09-17",
+      "titulo": "Save the Children calcula en un millón los alumnos venezolanos con la educación alterada por el doble sismo",
+      "resumen": "Save the Children estimó el jueves 17 de septiembre que los terremotos del 24 de junio, los más potentes en un siglo en Venezuela, obligaron a suspender las clases de más de 21.000 estudiantes y alteraron la educación de un millón de alumnos, alrededor de uno de cada ocho menores en edad escolar. La organización señala que las consecuencias empiezan a notarse ahora, con el regreso a las aulas de esta semana, porque los sismos ocurrieron al filo de las vacaciones de fin de curso. El dato forma parte de un balance de la ONG sobre seis países —Nepal, Japón, Colombia, Venezuela, Indonesia y Filipinas— con unos 13 millones de escolares afectados por desastres en los últimos tres meses, difundido por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/venezuela-y-otros-5-paises-suman-13-millones-de-alumnos-afectados-por-desastres-naturales/"
+    },
+    {
+      "id": "ve-20260917-elnacional-refugios-avenida-bolivar",
+      "fecha": "2026-09-17",
+      "titulo": "Damnificados alojados en la avenida Bolívar de Caracas piden asistencia ante el deterioro de las carpas por las lluvias",
+      "resumen": "Familias damnificadas que siguen en refugios temporales de la avenida Bolívar de Caracas reclamaron el jueves 17 de septiembre más atención oficial por las condiciones de habitabilidad, agravadas por la intensificación de las lluvias. Proceden de desarrollos de la Gran Misión Vivienda Venezuela con daños estructurales y esperan la conclusión de las reparaciones del plan Venezuela Renace. Según El Nacional, denuncian que el suministro de alimentos depende sobre todo de donaciones de grupos religiosos y comunitarios, y que las carpas quedan expuestas al tráfico pese a los baños portátiles instalados semanas atrás por el gobierno de Caracas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/familias-damnificadas-en-la-avenida-bolivar-de-caracas-exigen-asistencia-oficial-urgente-ante-el-deterioro-de-los-refugios-temporales/"
+    },
+    {
+      "id": "ve-20260917-elnacional-latam-bogota-caracas",
+      "fecha": "2026-09-17",
+      "titulo": "Latam Airlines Colombia pasa de dos a siete frecuencias semanales entre Bogotá y Maiquetía",
+      "resumen": "Latam Airlines Colombia opera desde el 16 de septiembre vuelos diarios en la ruta Bogotá–Caracas–Bogotá, frente a las dos frecuencias semanales que mantenía tras la interrupción de sus operaciones por los terremotos del 24 de junio. Las salidas desde Bogotá son a las 4:15 am y el regreso desde Maiquetía a las 8:55 am, según El Nacional. La aerolínea mantiene el aeropuerto de Barcelona José Antonio Anzoátegui como terminal alterno de la ruta y continúa con el servicio de carga desde Estados Unidos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/latam-airlines-colombia-reactivo-sus-vuelos-diarios-en-la-ruta-bogota-caracas/"
+    },
     {
       "id": "ve-20260917-elnacional-balnearios-la-guaira",
       "fecha": "2026-09-17",
