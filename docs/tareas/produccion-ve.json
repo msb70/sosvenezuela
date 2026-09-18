@@ -1,7 +1,339 @@
 {
-  "actualizado": "2026-09-10",
+  "actualizado": "2026-09-17",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260917-elnacional-balnearios-la-guaira",
+      "fecha": "2026-09-17",
+      "titulo": "El Ministerio de Turismo y la gobernación de La Guaira anuncian la rehabilitación de 43 balnearios dañados por los sismos",
+      "resumen": "El Ministerio del Poder Popular para el Turismo y la gobernación de La Guaira anunciaron el miércoles 16 de septiembre un plan de rehabilitación integral de 43 balnearios y playas afectados por los terremotos de magnitud 7,2 y 7,5 del 24 de junio, dentro del programa estatal Plan Venezuela Renace. El esquema de financiamiento se basa en una convocatoria de «padrinazgo» de cada playa por entes del Estado y del empresariado: la gobernación asumió dos y el ministerio tres, según El Nacional. El gobernador José Alejandro Terán señaló que la franja costera es el principal motor productivo y comercial del estado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-nacional-anuncia-el-plan-de-rehabilitacion-para-43-balnearios-de-la-guaira-tras-los-terremotos-de-junio/"
+    },
+    {
+      "id": "ve-20260916-infobae-provea-rezonificacion-hacinamiento",
+      "fecha": "2026-09-16",
+      "titulo": "Provea advierte que la reubicación de 86.000 alumnos genera hacinamiento, doble turno y presión sobre los servicios",
+      "resumen": "El Programa Venezolano de Educación-Acción en Derechos Humanos (Provea) advirtió que la «rezonificación» de 86.031 estudiantes tras el doble terremoto del 24 de junio implica hacinamiento, doble turno y presión sobre el agua, la electricidad e internet en escuelas que ya arrastraban fallas, con riesgo de aumentar la deserción escolar. La organización recuerda, citando datos de la plataforma HUM Venezuela, que en 2025 el 65 % de los planteles presentaba fallas físicas y el 75 % carecía de agua constante. El ministro de Educación, Héctor Rodríguez, había explicado que el traslado de matrícula obliga a implantar el doble turno en las escuelas receptoras, según Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/16/venezuela-reubicacion-de-alumnos-tras-terremotos-genera-hacinamiento-y-presion-sobre-los-servicios/"
+    },
+    {
+      "id": "ve-20260916-infobae-pdna-recuperacion",
+      "fecha": "2026-09-16",
+      "titulo": "El PNUD cifra en hasta 21.000 millones de dólares las necesidades de recuperación tras los terremotos",
+      "resumen": "La Evaluación de Necesidades Posteriores al Desastre (PDNA), presentada el martes 15 de septiembre por el Programa de las Naciones Unidas para el Desarrollo, estima en hasta 21.000 millones de dólares las necesidades de recuperación de Venezuela tras los sismos de magnitud 7,2 y 7,5 del 24 de junio, y calcula en 14.831 millones los daños y pérdidas en los siete estados afectados. El estudio fue liderado por el Gobierno venezolano y desarrollado con las Naciones Unidas, la Unión Europea y el Banco Mundial, con acompañamiento técnico del BID y la CAF. Según Infobae, la directora regional del PNUD, Michelle Muschett, entregó el documento en Caracas y lo definió como un primer informe que debe servir de insumo para el marco de recuperación resiliente.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/16/estimaron-en-mas-de-usd-20000-millones-la-recuperacion-de-venezuela-tras-los-devastadores-terremotos/"
+    },
+    {
+      "id": "ve-20260916-cronicauno-puerto-cabello",
+      "fecha": "2026-09-16",
+      "titulo": "Puerto Cabello absorbe la carga desviada de La Guaira y la falta de grúas retrasa las entregas",
+      "resumen": "El colapso del puerto de La Guaira tras el doble terremoto del 24 de junio desvió miles de contenedores a Puerto Cabello, que ha pasado a operar al doble de su capacidad habitual, según un reportaje de Crónica.Uno. Desde el inicio de la emergencia han ingresado cerca de 5.000 contenedores adicionales, de los que unos 2.600 ya salieron de la zona portuaria, mientras la falta de grúas y maquinaria frena las entregas. Nelson Bolívar, presidente de la Cámara de Comercio de Puerto Cabello, sostiene que la infraestructura no fue diseñada para una contingencia de esta magnitud; el sector pide recortar trámites y modernizar equipos para evitar un desabastecimiento prolongado.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/puerto-cabello-mantiene-el-pulso-logistico-tras-los-sismos-pese-a-escasez-de-equipos/"
+    },
+    {
+      "id": "ve-20260916-cronicauno-colegio-iberoamericano-junquito",
+      "fecha": "2026-09-16",
+      "titulo": "El Colegio Iberoamericano de El Junquito abre el curso en una sede provisional tras el colapso de su edificio",
+      "resumen": "El Colegio Iberoamericano, en el kilómetro 14 de El Junquito, habilitó un anexo que funcionaba como internado para dar clases en el año escolar 2026-2027 después de que su sede colapsara en el doblete sísmico del 24 de junio; durante julio y agosto se rehicieron paredes, iluminación y baños, según relató a Crónica.Uno su propietario, Homero Rodríguez. El plantel es uno de los 11 que colapsaron por completo según cifras oficiales, a los que se suman 87 con afectaciones severas y unos 900 con daños leves en reparación. Otros colegios de la parroquia retrasaron el inicio de clases por obras inconclusas.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/colegio-iberoamericano-de-el-junquito-reinventa-sus-aulas-para-no-dejar-a-sus-alumnos-sin-escuela/"
+    },
+    {
+      "id": "ve-20260915-infobae-87-escuelas-riesgo",
+      "fecha": "2026-09-15",
+      "titulo": "Educación identifica 87 escuelas con riesgo estructural y no descarta demoler y reconstruir las más dañadas",
+      "resumen": "El ministro de Educación, Héctor Rodríguez, informó en Venezolana de Televisión que 87 escuelas presentan riesgos estructurales tras el doble terremoto del 24 de junio y que los ingenieros evalúan la recuperación de 56 de ellas; si no pueden repararse, habrá demolición controlada y construcción de nuevos planteles. Según el Gobierno, más de 1.000 de las 27.000 escuelas del país sufrieron daños y 11 quedaron colapsadas, y más de 86.000 alumnos fueron reubicados para el año escolar que arrancó el 14 de septiembre, de acuerdo con la información recogida por Infobae. El ministerio también anunció la incorporación del simulacro sísmico al proceso pedagógico.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/15/venezuela-volvio-a-clases-con-87-escuelas-en-riesgo-y-mas-de-86000-alumnos-reubicados-tras-los-sismos-de-junio/"
+    },
+    {
+      "id": "ve-20260915-elnacional-protesis-bionicas",
+      "fecha": "2026-09-15",
+      "titulo": "El Ejecutivo anuncia un programa de prótesis biónicas para las personas amputadas por el doble sismo",
+      "resumen": "La presidenta encargada, Delcy Rodríguez, anunció un programa de asistencia médica especializada para las personas que sufrieron amputaciones a causa del doble terremoto del 24 de junio, durante un recorrido por el laboratorio de órtesis y prótesis Lenín Molina Peñaloza de Caracas transmitido por Venezolana de Televisión. La primera fase atiende la restitución de miembros superiores con tecnología biónica y después se extenderá a las extremidades inferiores, y el Gobierno prevé suscribir un acuerdo con la empresa japonesa Kawatek para la dotación y la transferencia de tecnología. Según El Nacional, existe un censo oficial de pacientes cuyos totales consolidados no se han divulgado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-anuncia-un-plan-de-atencion-con-tecnologia-bionica-para-victimas-del-doble-terremoto-de-junio/"
+    },
+    {
+      "id": "ve-20260915-elnacional-maiquetia-50-capacidad",
+      "fecha": "2026-09-15",
+      "titulo": "Maiquetía opera entre el 45 % y el 50 % de su capacidad dos semanas después de reanudar vuelos en terminales temporales",
+      "resumen": "El viceministro de Transporte Aéreo y presidente de Bolivariana de Aeropuertos (BAER), Sergio Silvio Prato, informó que el aeropuerto de Maiquetía se mueve entre el 45 % y el 50 % de su capacidad habitual tras dos semanas de operaciones en las terminales temporales levantadas por los daños del doble sismo del 24 de junio. El balance de esa primera quincena, recogido por El Nacional, registra 1.145 vuelos nacionales y 576 internacionales, con unos 75.500 pasajeros en rutas domésticas y 83.000 hacia el exterior. Prato añadió que no hay plazo fijo para reabrir el terminal principal, porque los módulos provisionales están absorbiendo la operación mientras avanza la recuperación de ambas terminales y del edificio 6.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/el-aeropuerto-internacional-de-maiquetia-alcanza-50-de-su-capacidad-operativa-mediante-terminales-temporales/"
+    },
+    {
+      "id": "ve-20260915-elnacional-fvm-asistencia-clases",
+      "fecha": "2026-09-15",
+      "titulo": "La Federación Venezolana de Maestros reporta asistencia «muy baja» en el arranque del curso, frente a las cifras del ministerio",
+      "resumen": "La presidenta de la Federación Venezolana de Maestros (FVM), Carmen Teresa Márquez, informó de una asistencia «muy baja» de docentes y estudiantes en el inicio del año escolar 2026-2027, con reportes recibidos desde Miranda, Carabobo, Apure, Bolívar, Zulia y Distrito Capital. El ministro de Educación, Héctor Rodríguez, había situado la asistencia del personal en 97 %, la estudiantil en 83 % y los planteles abiertos en más del 99 % de un sistema de unas 27.000 instituciones, según El Nacional. El medio apunta que la asistencia está condicionada por los daños de los sismos del 24 de junio y por problemas previos de infraestructura, servicios y alimentación escolar, y que la apertura de un plantel no implica el inicio inmediato de las clases.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fvm-reporto-baja-asistencia-a-clases-pese-a-cifras-ofrecidas-por-el-ministro-hector-rodriguez/"
+    },
+    {
+      "id": "ve-20260915-elnacional-escombros-792000",
+      "fecha": "2026-09-15",
+      "titulo": "Obras Públicas cifra en 792.000 toneladas los escombros ya procesados en La Guaira, el 37 % del total",
+      "resumen": "El ministro de Obras Públicas, Juan José Ramírez, informó que se han procesado más de 792.000 toneladas de escombros en La Guaira, el 37 % de los desechos generados por los terremotos del 24 de junio, durante una jornada de remoción en la parroquia Caraballeda con presencia del PNUD. El Centro de Disposición Transitorio de Caraballeda ocupa ocho hectáreas, emplea a 150 trabajadores en doble turno y puede triturar hasta 600 toneladas por hora, según los datos oficiales recogidos por El Nacional. La directora regional del PNUD, Michelle Muschett, señaló que el organismo usa drones desde el segundo día tras los sismos para medir impactos y priorizar zonas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/mas-de-792-000-toneladas-de-escombros-han-sido-procesadas-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260915-cronicauno-sucre-sin-evaluacion",
+      "fecha": "2026-09-15",
+      "titulo": "Los planteles del estado Sucre inician el año escolar sin evaluación estructural posterior a los sismos",
+      "resumen": "Las escuelas de Sucre comenzaron el período 2026-2027 sin diagnóstico estructural tras los terremotos del 24 de junio, pese a que el Colegio de Ingenieros del estado, Protección Civil y Bomberos de Cumaná conformaron brigadas de inspección, informa Crónica.Uno. La presidenta del CIES, Cristina Blanco de Santana, explicó que solicitaron formalmente a la Alcaldía del municipio Sucre y a la Gobernación que las brigadas entraran en planteles y centros asistenciales, y advierte de filtraciones, modificaciones y sobrecargas por tanques de agua instalados durante la crisis hídrica. La gobernación instaló una mesa técnica de supervisión el 2 de julio; en la entidad no se hacen evaluaciones estructurales desde el terremoto de Cariaco de 1997.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/planteles-del-estado-sucre-iniciaron-ano-escolar-sin-evaluacion-de-estructuras-tras-los-sismos/"
+    },
+    {
+      "id": "ve-20260914-elnacional-clases-laguaira",
+      "fecha": "2026-09-14",
+      "titulo": "El año escolar arranca en La Guaira con aulas casi vacías y al menos siete escuelas cerradas por daños",
+      "resumen": "El período escolar 2026-2027 comenzó el 14 de septiembre con muy poca asistencia de alumnos en La Guaira, el estado más afectado por el doble terremoto del 24 de junio, según un recorrido de EFE recogido por El Nacional. Al menos siete escuelas siguen cerradas por daños y otras funcionan todavía como refugios de damnificados, pese a que en julio las autoridades anunciaron que esas personas serían reubicadas en campamentos temporales antes del inicio del curso. En la escuela Guaicoto, de Macuto, solo había llegado un niño pasadas las 7:00 am; su directora, Lizeth Zambrano, espera unos 220 alumnos este año frente a los 205 del anterior, de los cuales murieron tres, además de una docente.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ano-escolar-en-la-guaira-comenzo-con-baja-asistencia-de-alumnos/"
+    },
+    {
+      "id": "ve-20260914-elnacional-baruta-simulacro",
+      "fecha": "2026-09-14",
+      "titulo": "Baruta convoca para el 23 de octubre su primer simulacro masivo de evacuación por terremoto",
+      "resumen": "El municipio Baruta realizará el viernes 23 de octubre su primer simulacro masivo de evacuación por terremoto, anunció el alcalde Darwin González, casi cuatro meses después del doble sismo del 24 de junio. El ejercicio se prepara con el programa de capacitación comunitaria Baruta Preparada, desarrollado con el Concejo Municipal, Cáritas, Biker Venezuela y Primeros Auxilios UCV, mientras Protección Civil recorre los sectores para fijar los puntos de encuentro seguro. La convocatoria está dirigida a vecinos, asociaciones, consejos comunales y empresas privadas, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/baruta-organiza-un-simulacro-de-evacuacion-por-terremoto-para-octubre/"
+    },
+    {
+      "id": "ve-20260914-cronicauno-clases-oeste-caracas",
+      "fecha": "2026-09-14",
+      "titulo": "Las escuelas del oeste de Caracas inician el curso con aulas virtuales, semipresencialidad y mudanzas de matrícula",
+      "resumen": "Los planteles del oeste de Caracas comenzaron el año escolar 2026-2027 el 14 de septiembre con una logística de emergencia: reparaciones en curso, traslados de matrículas completas a sedes provisionales y clases virtuales o semipresenciales, según un recorrido de Crónica.Uno por la zona. El medio constató baja asistencia de alumnos, frente al 83 % de asistencia escolar que reportó el Ministerio de Educación. La Escuela Amanda Schnell, en la parroquia La Vega, no abrió sus puertas: tiene etiqueta amarilla, una clasificación de riesgo por daños estructurales de severidad media que restringe el uso de las instalaciones hasta que lleguen las directrices oficiales de reubicación temporal.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/baja-asistencia-reparaciones-condicionaron-inicio-ano-escolar-2026-2027-oeste-caracas/"
+    },
+    {
+      "id": "ve-20260913-elnacional-transparencia-ruta-ayuda",
+      "fecha": "2026-09-13",
+      "titulo": "Transparencia Venezuela cifra en 1.344 millones de dólares los compromisos de ayuda y advierte que no puede verificarse su ejecución",
+      "resumen": "El proyecto Ruta de la Ayuda, de Transparencia Venezuela, contabilizó 1.344 millones de dólares en compromisos de asistencia internacional al 25 de agosto, frente a los 694 millones registrados al 10 de julio. La organización precisa que Estados Unidos dispuso 386 millones y que el Financial Tracking Service de la ONU anota 330 millones, cifras que se solapan porque parte de los fondos estadounidenses se canaliza a través de Unicef, la OIM y el PMA. De las 201 acciones de asistencia analizadas, al menos el 44 % no indica destino concreto; entre las que sí lo especifican, La Guaira y el Distrito Capital concentran el 81 %, según el informe recogido por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/transparencia-venezuela-denuncia-falta-de-informacion-sobre-el-destino-de-la-ayuda-humanitaria-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260913-elnacional-pensum-sismorresistente",
+      "fecha": "2026-09-13",
+      "titulo": "Las universidades incorporan una asignatura de construcción sismorresistente a las carreras de ingeniería",
+      "resumen": "Varias universidades venezolanas sumaron la asignatura 'Sismorresistente' a los planes de estudio de ingeniería para reforzar la formación técnica del sector construcción tras los daños estructurales del doble sismo del 24 de junio. El anuncio lo hizo el presidente de la Comisión Presidencial para la Evaluación de Habitabilidad de Infraestructuras y ministro para el Transporte, Francisco Garcés, quien indicó que el despacho convocó a estudiantes y docentes de las facultades de ingeniería a desplegarse en zonas críticas de Caracas y La Guaira para evaluar la habitabilidad de las edificaciones, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/universidades-venezolanas-actualizaron-pensum-de-ingenieria-con-una-asignatura-enfocada-en-construciones-sismorresistentes/"
+    },
+    {
+      "id": "ve-20260913-efectococuyo-docentes-retorno-clases",
+      "fecha": "2026-09-13",
+      "titulo": "Entre 6.300 y 7.200 docentes perdieron sus aulas de cara al regreso a clases del 14 de septiembre",
+      "resumen": "El año escolar 2026-2027 arranca el 14 de septiembre con entre 6.300 y 7.200 profesores que se quedaron sin aula tras el doble sismo del 24 de junio, según el reportaje de Efecto Cocuyo. El Ministerio de Educación cifra en cerca de 900 los planteles afectados de los 27.000 que hay en el país y el ministro Héctor Rodríguez informó el 31 de agosto que se interviene en 1.500 escuelas, 1.000 de ellas dañadas por los terremotos. Consenso Educativo calcula entre 120 y 130 los educadores activos, jubilados y pensionados fallecidos en La Guaira.",
+      "fuente": "Efecto Cocuyo",
+      "autor": "Mabel Sarmiento",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/aulas-en-ruinas-maestros-sin-casa-el-sistema-educativo-en-supervivencia/"
+    },
+    {
+      "id": "ve-20260912-elnacional-rezonificacion-estudiantes",
+      "fecha": "2026-09-12",
+      "titulo": "Educación rezonifica a 86.031 estudiantes por el colapso de 11 escuelas y los daños en otros 87 planteles",
+      "resumen": "El Ministerio de Educación reubicó a 86.031 alumnos en planteles seguros para sostener el año escolar tras los terremotos del 24 de junio, que derribaron 11 escuelas y dejaron daños estructurales en otras 87, informó el ministro Héctor Rodríguez. El plan de contingencia traslada la matrícula a centros de comunidades vecinas y aplica dobles turnos donde la escuela receptora ya está llena. Rodríguez añadió que las instalaciones usadas como campamentos transitorios se reacondicionaron con impermeabilización, pintura y dotación de laboratorios y cocinas, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ministerio-de-educacion-reubico-a-mas-86-mil-estudiantes-debido-a-danos-en-escuelas-causados-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260912-elnacional-ops-salud-mental",
+      "fecha": "2026-09-12",
+      "titulo": "La OPS y el Gobierno lanzan una campaña de salud mental y apoyo psicosocial en las comunidades afectadas por los sismos",
+      "resumen": "La Organización Panamericana de la Salud (OPS) y el Gobierno venezolano anunciaron el viernes la campaña Comunicación de Riesgos y Participación Comunitaria (CRPC), dirigida a las comunidades afectadas por los terremotos del 24 de junio. Los mensajes se difundirán por redes sociales, grupos comunitarios de WhatsApp, afiches y volantes, y abarcan salud mental y apoyo psicosocial, salud ambiental, servicios públicos, inocuidad de los alimentos, vigilancia epidemiológica y prevención de la explotación y el abuso sexual. La OPS indicó en un comunicado, recogido por EFE y El Nacional, que la campaña forma parte del refuerzo de la respuesta sanitaria a la emergencia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-y-ops-desplegaron-plan-sobre-salud-mental-y-prevencion-de-riesgos-para-comunidades-afectadas-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260912-elnacional-lluvias-carpas-naiguata",
+      "fecha": "2026-09-12",
+      "titulo": "Las lluvias anegan las carpas de los damnificados en el sector Campo de Golf de Naiguatá, en La Guaira",
+      "resumen": "Las precipitaciones de la noche del viernes inundaron las carpas del campamento de damnificados situado en el sector Campo de Golf de Caribe, detrás de la estación de servicio de Naiguatá (La Guaira), a 79 días de los terremotos del 24 de junio. Entre los afectados hay adultos mayores, niños, mujeres embarazadas y personas con discapacidad, que perdieron enseres por el agua y el barro acumulados en el terreno, según el reporte de La Verdad de Vargas recogido por El Nacional. Los refugiados, que organizaron rondas nocturnas por la presencia de babas en el terreno anegado, reiteraron a las instituciones la petición de reubicación en viviendas seguras.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fuertes-lluvias-inundaron-las-carpas-de-los-damnificados-por-los-terremotos-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260912-elnacional-funvisis-1979-acumulados",
+      "fecha": "2026-09-12",
+      "titulo": "Funvisis eleva a 1.979 los sismos acumulados entre el 24 de junio y el 10 de septiembre",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) contabilizó 1.979 eventos sísmicos desde el doble terremoto del 24 de junio hasta el 10 de septiembre, tras 1.872 horas de monitoreo continuo de la red nacional de estaciones. Los epicentros se concentran en los sistemas de fallas del centro-occidente y la franja norte-costera, con actividad en Yaracuy, Lara, Carabobo, Aragua, Miranda, La Guaira, Cojedes, el Distrito Capital y la cuenca marina del Caribe. El organismo señala una tendencia de estabilización progresiva: los 105 eventos de la última semana se movieron entre 2,0 y 4,0 Mw, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-contabilizo-cerca-de-2-000-sismos-tras-los-terremotos-del-24-de-junio/"
+    },
+    {
+      "id": "ve-20260912-efectococuyo-creditos-hipotecarios",
+      "fecha": "2026-09-12",
+      "titulo": "Más de 1.600 familias damnificadas tienen ya preaprobado el crédito social para comprar vivienda",
+      "resumen": "Más de 1.600 familias que perdieron su vivienda principal en el doble terremoto cuentan con la preaprobación del crédito social del plan Venezuela Renace, que se otorga a 25 años y 5 % de interés para inmuebles de hasta 100.000 dólares, con un subsidio de entre el 50 % y el 80 % según el precio final. El Banco de Venezuela reporta 1.682 preaprobaciones y el Banco Digital de los Trabajadores ya atiende las solicitudes tramitadas en agosto. El economista Aarón Olmos (IESA) explicó a Efecto Cocuyo que esos fondos no salen de las captaciones de la banca nacional sino de recursos externos, principalmente los 346 millones de dólares que el FMI dispuso tras los sismos, por lo que la reactivación del crédito hipotecario tradicional exige más decisiones.",
+      "fuente": "Efecto Cocuyo",
+      "autor": "Margaret López",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/economia/creditos-hipotecarios-en-venezuela-reactivacion/"
+    },
+    {
+      "id": "ve-20260912-cronicauno-refugio-ciudadela-catia",
+      "fecha": "2026-09-12",
+      "titulo": "Más de 70 familias damnificadas conviven en el refugio Ciudadela de Catia sin baños seguros ni privacidad",
+      "resumen": "Más de 70 familias desplazadas por el doble terremoto del 24 de junio permanecen en el refugio transitorio Ciudadela de Catia, en el oeste de Caracas, donde comparten espacios comunes con más de 200 personas. Crónica.Uno documenta que la falta de baños seguros, la ausencia de privacidad y la inexistencia de registros oficiales desagregados por sexo agravan la vulnerabilidad de mujeres, adolescentes y niñas mientras esperan la asignación de viviendas. El recinto, utilizado ya como albergue tras la tragedia de Vargas de 1999, aloja a damnificados del Distrito Capital y del estado La Guaira.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/hacinamiento-falta-privacidad-mujeres-adolescentes-ninas-riesgos-refugios/"
+    },
+    {
+      "id": "ve-20260911-lapatilla-sismos-yaracuy-la-guaira",
+      "fecha": "2026-09-11",
+      "titulo": "Dos sismos de magnitud 3,7 y 3,3 se sintieron en Yaracuy y La Guaira el 10 de septiembre",
+      "resumen": "Funvisis registró dos movimientos telúricos la tarde del jueves 10 de septiembre, sin daños ni víctimas: el primero, de magnitud 3,7 a las 17:18 hora local y 1,4 kilómetros de profundidad, con epicentro a 28 kilómetros al noroeste de Aroa (Yaracuy); el segundo, de magnitud 3,3 a las 17:20 y 6,4 kilómetros de profundidad, a 9 kilómetros al suroeste de Naiguatá (La Guaira). Ambos forman parte de la secuencia sísmica abierta por el doble terremoto del 24 de junio, según La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/11/dos-sismos-de-magnitud-37-y-33-se-sintieron-en-venezuela-la-tarde-de-este-10sep/"
+    },
+    {
+      "id": "ve-20260911-lapatilla-gmvv-estudios-suelo",
+      "fecha": "2026-09-11",
+      "titulo": "Una arquitecta atribuye el colapso de viviendas de la Gran Misión Vivienda en La Guaira a la ausencia de estudios de suelo",
+      "resumen": "La arquitecta y urbanista Janeira Wilson sostuvo en una entrevista con RFI y France 24 que la falta de estudios de suelo y la escasa adaptación de algunos proyectos de la Gran Misión Vivienda Venezuela a las condiciones geológicas de La Guaira pudieron influir en el colapso de varias edificaciones durante los terremotos del 24 de junio. Wilson, que visitó la zona recientemente, describió un escenario aún marcado por derrumbes y escombros y afirmó que todavía hay personas desaparecidas bajo los restos de los edificios, según La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/11/la-tierra-se-habia-tragado-estos-edificios-por-que-algunas-viviendas-colapsaron-y-otras-no-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260911-elnacional-ley-arrendamiento-ucab",
+      "fecha": "2026-09-11",
+      "titulo": "Un foro de la UCAB analiza la nueva Ley de Arrendamiento de Vivienda ante el aumento de la demanda habitacional por los sismos",
+      "resumen": "Juristas y una diputada de la Asamblea Nacional debatieron en un foro de la Cátedra Libre Andrés Bello de Ética Cívica de la UCAB la Ley de Régimen Especial de Arrendamiento de Inmuebles Destinados a Vivienda, en vigor desde el 7 de agosto de 2026 según la Gaceta Oficial N.º 7.065 Extraordinario, que restituye la autonomía contractual y suprime los controles administrativos del esquema de 2011. Los ponentes situaron la norma en un contexto de escasez de crédito hipotecario, inflación y mayor demanda de vivienda tras los terremotos del 24 de junio, y detallaron que el texto surgió de una consulta pública realizada en julio que recogió más de 900 propuestas, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/especialistas-y-legisladores-debatieron-los-alcances-de-la-nueva-ley-de-arrendamiento-de-vivienda-y-su-impacto-en-el-mercado-inmobiliario-venezolano/"
+    },
+    {
+      "id": "ve-20260911-elnacional-funvisis-105-sismos",
+      "fecha": "2026-09-11",
+      "titulo": "Funvisis contabiliza 105 sismos entre el 4 y el 10 de septiembre, ninguno de magnitud 5 o superior",
+      "resumen": "El informe semanal de la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 105 eventos telúricos en el territorio nacional y áreas marítimas adyacentes entre el 4 y el 10 de septiembre, con magnitudes de 1,4 a 4,4. Del total, 65 sismos se situaron entre 2,0 y 3,0; 20 entre 3,0 y 4,0; 18 entre 1,0 y 2,0, y solo 2 superaron la magnitud 4,0. El organismo precisó que no hubo eventos de magnitud igual o superior a 5,0 y que los epicentros se concentraron en las fallas activas del norte, el noroccidente y el nororiente del país, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-registro-105-sismos-de-menor-intensidad-en-venezuela-entre-el-4-y-el-10-de-septiembre/"
+    },
+    {
+      "id": "ve-20260911-elnacional-fe-y-alegria-polar",
+      "fecha": "2026-09-11",
+      "titulo": "Fe y Alegría recibe 131.600 dólares de la Fundación Empresas Polar para recuperar tres planteles en Caracas",
+      "resumen": "El Movimiento de Educación Popular Fe y Alegría destinará 131.600 dólares aportados por la Fundación Empresas Polar a la reconstrucción de tres unidades educativas en Caracas y al acompañamiento emocional de los estudiantes. Su director general, José Gregorio Terán, indicó que de 93 instalaciones inspeccionadas en el país 84 sufrieron daños tras los sismos del 24 de junio, 56 están en zonas críticas y 33 registran daños significativos, de las cuales 19 ya se recuperan con apoyo estatal y privado. Entre los planteles priorizados está la Escuela Técnica La Rinconada, marcada con etiqueta roja por riesgo estructural, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fundacion-empresas-polar-financia-la-recuperacion-de-tres-planteles-de-fe-y-alegria-en-caracas/"
+    },
+    {
+      "id": "ve-20260911-cronicauno-panaderias-la-guaira",
+      "fecha": "2026-09-11",
+      "titulo": "Fevipan calcula que el 80 % de las panaderías de La Guaira resultó afectado por el doble terremoto",
+      "resumen": "El presidente de la Federación Venezolana de Industriales de la Harina de Trigo, Panaderías y Afines (Fevipan), Tomás Ramos, indicó que 80 % de las panaderías del estado La Guaira sufrió daños por el doblete sísmico del 24 de junio y que las pérdidas materiales aún no han sido cuantificadas. Ramos aseguró que el gremio garantiza el abastecimiento nacional de harina de trigo y productos panaderos para la temporada decembrina, con una capacidad de procesamiento que pasó de 1,2 a 1,7 millones de toneladas, según Crónica.Uno.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/80-de-las-panaderias-de-la-guaira-resultaron-afectadas-por-el-doblete-sismico/"
+    },
+    {
+      "id": "ve-20260910-elnacional-registro-unico-vivienda",
+      "fecha": "2026-09-10",
+      "titulo": "Habilitado el Registro Único de Vivienda para los damnificados con inmuebles en etiqueta roja",
+      "resumen": "El Ministerio de Hábitat y Vivienda abrió el Registro Único de Vivienda para las personas cuyas casas colapsaron o quedaron inhabitables (etiqueta roja), con atención presencial en su sede de Chacao de 8:00 am a 12:00 m, en el Banavih y en las oficinas regionales, dentro del plan Venezuela Renace. La ministra Paola Posani declaró a Unión Radio que el censo ya ha sistematizado datos de casi 40.000 familias —unas 128.000 personas— en La Guaira, Miranda, Yaracuy, Falcón, Carabobo, Aragua y el Distrito Capital, y que 80 % de los inscritos (unas 32.000 familias) procede de La Guaira, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/habilitan-registro-unico-de-vivienda-para-atender-a-los-afectados-por-los-terremotos/"
+    },
     {
       "id": "ve-20260910-elnacional-convocatoria-ingenieros",
       "fecha": "2026-09-10",
@@ -14,6 +346,17 @@
       "url": "https://www.elnacional.com/2026/09/gobierno-venezolano-convoca-a-ingenieros-y-empresas-para-la-reparacion-de-edificaciones-danadas-por-los-terremotos/"
     },
     {
+      "id": "ve-20260910-elnacional-chacao-palos-grandes",
+      "fecha": "2026-09-10",
+      "titulo": "Chacao repara cerca de 400 apartamentos dañados por los terremotos y ha entregado medio centenar",
+      "resumen": "La Alcaldía de Chacao ejecuta trabajos en los edificios Vista Hermosa, Deco, Río de la Plata y Esmeralda de Los Palos Grandes, dentro de un plan de recuperación iniciado hace mes y medio que prioriza las viviendas con daños moderados o severos y a los residentes mayores de 65 años. El alcalde Gustavo Duque señaló que unos 400 apartamentos están en proceso de reparación y alrededor de 50 ya fueron devueltos a sus propietarios, sobre un total de 5.500 apartamentos afectados en el municipio, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/alcalde-gustavo-duque-superviso-avances-de-reparaciones-en-edificios-afectados-por-los-terremotos-en-los-palos-grandes/"
+    },
+    {
       "id": "ve-20260910-efectococuyo-ucab-condiciones-retorno-clases",
       "fecha": "2026-09-10",
       "titulo": "Una investigadora de la Ucab plantea cinco condiciones mínimas para el regreso a clases tras los sismos",
@@ -23,6 +366,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://efectococuyo.com/la-humanidad/escuelas-no-pueden-ser-escenarios-de-riesgo/"
+    },
+    {
+      "id": "ve-20260910-efectococuyo-maiquetia-48-por-ciento",
+      "fecha": "2026-09-10",
+      "titulo": "Maiquetía opera entre el 48 % y el 49 % de los vuelos previos al sismo y su recuperación parcial se prevé para 2027",
+      "resumen": "El ministro de Transporte y presidente de la Comisión Presidencial para la Evaluación de la Habitabilidad de la Infraestructura, Francisco Garcés, informó que el aeropuerto internacional de Maiquetía ha recuperado entre 48 % y 49 % de los vuelos que operaba antes del doble sismo del 24 de junio y que la terminal principal no volverá a estar en servicio, ni siquiera parcialmente, hasta el primer semestre de 2027. Garcés explicó que la pista, atravesada por la falla sísmica, ya fue reparada, pero que los cerramientos, el cableado y las instalaciones requieren meses de trabajo; las terminales temporales se levantaron en 35 días y operan desde el 1 de septiembre, según Efecto Cocuyo.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/economia/garces-maiquetia-opera-al-48-pero-tenemos-mas-vuelos-internacionales-que-el-ano-pasado/"
     },
     {
       "id": "ve-20260909-lapatilla-codigo-emergencia-sismica",
@@ -45,6 +399,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://lapatilla.com/2026/09/09/asociacion-bancaria-busca-dar-respuesta-inmediata-a-creditos-habitacionales-para-afectados-por-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20260909-elnacional-aeropostal-vuelos-nacionales",
+      "fecha": "2026-09-09",
+      "titulo": "Aeropostal suma vuelos entre Maracaibo, Caracas y Porlamar tras la reapertura de Maiquetía",
+      "resumen": "La aerolínea Aeropostal amplió su programación nacional con una frecuencia semanal entre el aeropuerto La Chinita de Maracaibo y Maiquetía, incorporada el 4 de septiembre, y una conexión directa entre Maracaibo y Porlamar. La ampliación se produce después de que Maiquetía retomara sus operaciones el 1 de septiembre en terminales temporales, tras los daños causados por los terremotos del 24 de junio, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/aeropostal-amplia-vuelos-nacionales-tras-reactivacion-del-aeropuerto-internacional-de-maiquetia/"
     },
     {
       "id": "ve-20260909-elnacional-528-viviendas-entregadas",
