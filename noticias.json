@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-18",
+  "actualizado": "2026-09-19",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260919-elnacional-funvisis-94-sismos",
+      "fecha": "2026-09-19",
+      "titulo": "Funvisis contabiliza 94 sismos en Venezuela entre el 11 y el 17 de septiembre",
+      "resumen": "El balance semanal de la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 94 movimientos sísmicos en el territorio nacional entre el viernes 11 y el jueves 17 de septiembre, con magnitudes de entre 1,5 y 4,0 Mw. La región occidental concentró 42 eventos, la central 39 y la oriental 13, y no se detectó ningún sismo de magnitud igual o superior a 5,0. El mayor grupo se situó entre 2,0 y 2,9 Mw, con 54 registros, según el informe difundido por el organismo y recogido por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-contabilizo-94-movimientos-sismicos-en-el-territorio-nacional-durante-la-ultima-semana/"
+    },
+    {
+      "id": "ve-20260918-lapatilla-tierra-viva-carabobo",
+      "fecha": "2026-09-18",
+      "titulo": "La Fundación Tierra Viva pide apoyo para sostener la asistencia a damnificados en el litoral de Carabobo",
+      "resumen": "La Fundación Tierra Viva busca financiación para mantener sus proyectos en el litoral carabobeño, entre ellos la ayuda humanitaria a los damnificados de la parroquia Morón, en el municipio Juan José Mora. Su educadora de campo, Verónica Flores, señaló a La Patilla que las familias siguen en refugios y carpas y necesitan alimentos, productos de higiene y atención psicosocial. La organización desarrolla además el proyecto Costa Viva con pescadores, emprendedores agroecológicos y prestadores de servicios turísticos y gastronómicos de la zona.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/18/tierra-viva-en-carabobo-sigue-impulsando-economia-sostenible-y-el-apoyo-a-damnificados-por-terremotos/"
+    },
+    {
+      "id": "ve-20260918-infobae-creditos-reglas-claras",
+      "fecha": "2026-09-18",
+      "titulo": "Damnificados de La Guaira denuncian falta de reglas claras e información sobre los créditos de vivienda",
+      "resumen": "Afectados por el doble sismo del 24 de junio en el estado La Guaira aseguran que los trámites del plan hipotecario para damnificados están detenidos por la desinformación y las trabas burocráticas, mientras buscan alternativas en un mercado inmobiliario con los precios al alza. El plan cubre viviendas de hasta 100.000 dólares: subsidio del 80 % y crédito por el 20 % restante para inmuebles de hasta 70.000 dólares, y subsidio del 50 % para los de 70.001 a 100.000, en ambos casos a 25 años, con 12 meses de gracia y 5 % de interés anual. El reportaje es de Infobae, que recoge testimonios de vecinos del sector Playa Grande.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/18/plan-de-creditos-por-los-terremotos-genera-incertidumbre-estamos-a-merced-del-estado/"
+    },
+    {
+      "id": "ve-20260917-lapatilla-pnud-danos-colombia",
+      "fecha": "2026-09-17",
+      "titulo": "El PNUD estima en 14.000 millones de dólares los daños del terremoto del 10 de agosto en Colombia",
+      "resumen": "El Programa de las Naciones Unidas para el Desarrollo calcula en una primera valoración que el terremoto de magnitud 7,4 del 10 de agosto dejó en Colombia daños por unos 14.000 millones de dólares, por encima del cálculo preliminar de 9.500 millones del Gobierno colombiano. La directora del Pnud para América Latina y el Caribe, Michelle Muschett, indicó a EFE que los efectos se concentran en infraestructura, vivienda y servicios básicos y golpean sobre todo a zonas rezagadas como el departamento del Chocó. La entrevista fue difundida en Venezuela por La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Colombia",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/17/onu-estima-que-el-terremoto-de-colombia-dejo-danos-por-14-mil-millones-de-dolares/"
+    },
     {
       "id": "ve-20260917-elnacional-venezuela-renace-339-viviendas",
       "fecha": "2026-09-17",
