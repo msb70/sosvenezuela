@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-18",
+  "actualizado": "2026-09-19",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260919-infobae-decreto-1426-programas-sociales",
+      "fecha": "2026-09-19",
+      "titulo": "El Gobierno permite mantener los pagos de programas sociales a damnificados que no puedan acreditar requisitos",
+      "resumen": "El Decreto Legislativo 1426 del 17 de septiembre autoriza a Prosperidad Social a suspender de forma excepcional y temporal las verificaciones de requisitos y corresponsabilidades de Renta Ciudadana, Compensación del IVA, Colombia Mayor y Renta Joven cuando dependan de infraestructura, servicios o sistemas dañados por el terremoto. La suspensión puede extenderse hasta doce meses y deberá levantarse de forma progresiva; no crea un subsidio nuevo ni aumenta el valor de las transferencias, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/19/gobierno-mantendra-subsidios-a-afectados-por-terremoto-aunque-no-pueda-verificar-requisitos/"
+    },
+    {
+      "id": "co-20260919-infobae-amcham-renta-20",
+      "fecha": "2026-09-19",
+      "titulo": "AmCham respalda el impuesto de renta del 20 % para atraer inversión a las zonas golpeadas por el sismo",
+      "resumen": "La Cámara de Comercio Colombo Americana considera que los incentivos tributarios anunciados para la reconstrucción, entre ellos una tarifa de renta del 20 % para nuevas inversiones, pueden movilizar capital privado, recuperar el tejido empresarial y generar empleo en los territorios afectados. Su presidenta, María Claudia Lacouture, precisó que las compañías deberán cumplir montos mínimos de inversión para acceder a los beneficios, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/19/amcham-respalda-renta-del-20-para-atraer-inversion-a-zonas-afectadas-por-terremoto/"
+    },
+    {
+      "id": "co-20260919-eltiempo-sismos-madrugada-19sep",
+      "fecha": "2026-09-19",
+      "titulo": "Ocho sismos en la madrugada del 19 de septiembre: el mayor, de magnitud 4,0, con epicentro en el Chocó",
+      "resumen": "El Servicio Geológico Colombiano reportó ocho movimientos telúricos en la madrugada del sábado 19 de septiembre, con magnitudes de entre 2,0 y 4,0. Varios tuvieron epicentro en Istmina y Sipí (Chocó), la zona de la secuencia iniciada el 10 de agosto, y otros en Piedecuesta, Los Santos y Zapatoca (Santander) y El Difícil (Magdalena), ajenos a ella, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-4-0-en-istmina-choco-durante-la-madrugada-del-sabado-19-de-septiembre-profundidad-y-detalles-3587259"
+    },
     {
       "id": "co-20260918-infobae-sismos-sipi-17sep",
       "fecha": "2026-09-18",
@@ -12,6 +45,72 @@
       "categoria": "Réplicas y sismología",
       "tipo": "noticia",
       "url": "https://www.infobae.com/colombia/2026/09/18/dos-sismos-en-menos-de-diez-minutos-sacudieron-a-choco-en-la-tarde-del-17-de-septiembre-reportaron-temblores-en-cali-y-el-valle-del-cauca/"
+    },
+    {
+      "id": "co-20260918-infobae-quince-decretos-emergencia",
+      "fecha": "2026-09-18",
+      "titulo": "El Gobierno expide 15 nuevos decretos de la emergencia con medidas en salud, vivienda, transporte, impuestos y empleo",
+      "resumen": "Los decretos, publicados por la Presidencia, se suman a los once iniciales de la emergencia económica, social y ecológica declarada el 19 de agosto y modificada el 31 de agosto, y se aplicarán en los municipios que acrediten afectación directa. El primero de ellos, el 1412, incorporó 624.656 millones de pesos al Presupuesto General de la Nación de 2026 con cargo a un crédito externo de 200 millones de dólares. Infobae cita un balance de la UNGRD de 335 fallecidos, 4.505 heridos, 111 desaparecidos, 36.478 viviendas destruidas y 206.931 averiadas.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/18/estos-son-los-15-decretos-que-expidio-abelardo-de-la-espriella-para-atender-la-emergencia-por-el-terremoto-del-10-de-agosto-incluye-medidas-en-salud-transporte-vivienda-impuestos-y-empleo/"
+    },
+    {
+      "id": "co-20260918-infobae-pnud-danos-14000-millones",
+      "fecha": "2026-09-18",
+      "titulo": "El Pnud calcula los daños del terremoto en 14.000 millones de dólares, 4.500 millones más que el cálculo del Gobierno",
+      "resumen": "El Programa de las Naciones Unidas para el Desarrollo estimó de forma preliminar que el sismo de magnitud 7,4 dejó daños por 14.000 millones de dólares en 16 de los 32 departamentos, sobre todo en vivienda, infraestructura y servicios básicos, frente a los 9.500 millones calculados inicialmente por el Gobierno nacional. El Fondo de Población de la ONU pidió además 14,83 millones de dólares para un plan de respuesta y recuperación temprana de doce meses en San José del Palmar, dirigido a 370.950 personas de una población afectada superior a 466.000, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/18/la-recuperacion-tras-el-terremoto-en-colombia-costara-mas-de-lo-que-se-habia-calculado-esta-es-la-millonada-en-dolares-que-revelo-la-onu/"
+    },
+    {
+      "id": "co-20260918-infobae-cajas-compensacion-auxilio",
+      "fecha": "2026-09-18",
+      "titulo": "Las cajas de compensación entregarán un auxilio de un salario mínimo a quienes perdieron el empleo por el terremoto",
+      "resumen": "El Decreto 1417 del 17 de septiembre crea un apoyo excepcional de 1.750.000 pesos, que se pagará en dos cuotas a través de la última caja de compensación a la que estuvo afiliado el trabajador. Está dirigido a trabajadores dependientes e independientes incluidos en los registros oficiales de damnificados de la UNGRD, que además deberán acreditar su situación actual y sus aportes previos al sistema; el auxilio no incluye subsidio de transporte, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/18/cajas-de-compensacion-entregaran-un-salario-minimo-a-personas-que-se-quedaron-sin-empleo-en-zonas-afectadas-por-el-terremoto-estos-son-los-requisitos-y-como-tramitar-el-auxilio/"
+    },
+    {
+      "id": "co-20260918-eltiempo-sismo-istmina-tarde",
+      "fecha": "2026-09-18",
+      "titulo": "Un sismo de magnitud 4,4 en Istmina, el octavo del 18 de septiembre, vuelve a sacudir el Chocó",
+      "resumen": "El Servicio Geológico Colombiano informó de un movimiento de magnitud 4,4 registrado a la 1:41 p. m. del viernes 18 de septiembre, con epicentro en inmediaciones de Istmina (Chocó) y 46 kilómetros de profundidad. Fue el octavo sismo reportado en el país ese día, mientras los organismos oficiales mantienen el monitoreo de la Red Sismológica Nacional, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-viernes-18-de-septiembre-servicio-geologico-colombiano-reporto-un-octavo-sismo-magnitud-epicentro-y-detalles-3587136"
+    },
+    {
+      "id": "co-20260918-eltiempo-alivios-arriendo-propiedad-horizontal",
+      "fecha": "2026-09-18",
+      "titulo": "El Gobierno prorroga seis meses los contratos de arriendo de los hogares y locales afectados por el terremoto",
+      "resumen": "Las medidas extraordinarias y transitorias adoptadas en materia de arrendamiento y propiedad horizontal establecen que los contratos de vivienda urbana y de inmuebles comerciales que venzan entre el 10 de agosto y el 31 de diciembre de 2026 se prorrogarán por seis meses cuando el arrendatario acredite afectación directa por el sismo. Durante ese plazo deberá seguir pagando el canon, porque la prórroga no condona las obligaciones del contrato, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/gobierno-nacional-decreta-alivios-para-familias-que-viven-en-arriendo-y-resultaron-afectadas-por-el-terremoto-3587233"
+    },
+    {
+      "id": "co-20260918-elpais-valle-campo-sismo",
+      "fecha": "2026-09-18",
+      "titulo": "El Valle del Cauca pide apoyo al Gobierno para recuperar el campo tras el sismo y el fenómeno de El Niño",
+      "resumen": "La Gobernación del Valle llevó al Gobierno nacional las necesidades más apremiantes de los productores rurales, golpeados a la vez por el terremoto del 10 de agosto y por las condiciones asociadas al fenómeno de El Niño. La solicitud se presentó durante la reactivación de una instancia nacional del sector agropecuario, con el objetivo de garantizar la continuidad de las actividades y acelerar la recuperación de las zonas rurales afectadas, según El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/valle-del-cauca-pide-apoyo-al-gobierno-nacional-para-recuperar-el-campo-tras-el-sismo-y-el-fenomeno-de-el-nino-1800.html"
     },
     {
       "id": "co-20260918-elpais-sismo-istmina-madrugada",
@@ -25,6 +124,72 @@
       "url": "https://www.elpais.com.co/colombia/nuevo-sismo-sacude-al-suroccidente-colombiano-durante-la-madrugada-de-este-viernes-18-de-septiembre-del-2026-1828.html"
     },
     {
+      "id": "co-20260918-elpais-salud-cali-450000-millones",
+      "fecha": "2026-09-18",
+      "titulo": "La reconstrucción de la red pública de salud de Cali superaría los 450.000 millones de pesos",
+      "resumen": "El secretario de Salud de Cali, Germán Escobar, advirtió que la inversión necesaria para reponer la infraestructura hospitalaria pública dañada por el sismo de magnitud 7,4 podría rebasar esa cifra. La Administración distrital revisa los seguros de las instituciones afectadas y los recursos con los que contará para avanzar en la recuperación, según El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/secretaria-de-salud-advierte-que-reconstruccion-del-sistema-de-salud-en-cali-superaria-los-450000-millones-1837.html"
+    },
+    {
+      "id": "co-20260918-elpais-pma-tarjetas-alimentos",
+      "fecha": "2026-09-18",
+      "titulo": "Cali y el Programa Mundial de Alimentos entregan 3.000 tarjetas de 120.000 pesos mensuales a damnificados",
+      "resumen": "La Alcaldía de Cali anunció junto al Programa Mundial de Alimentación de las Naciones Unidas la entrega de unas 3.000 tarjetas con 120.000 pesos al mes durante tres meses para comprar alimentos en tiendas y supermercados. Las primeras ya se están repartiendo y la Alcaldía espera ampliar la cobertura en las próximas semanas, según El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/nuevas-ayudas-humanitarias-para-los-damnificados-por-el-terremoto-del-10-de-agosto-esto-dijo-la-alcaldia-de-cali-1823.html"
+    },
+    {
+      "id": "co-20260918-elpais-demolicion-16-edificios",
+      "fecha": "2026-09-18",
+      "titulo": "Cali empieza a demoler 16 edificios irrecuperables, entre ellos el conjunto Guadalupe y el motel Molino Rojo",
+      "resumen": "El alcalde de Cali, Alejandro Eder, confirmó al mediodía del viernes 18 de septiembre que ya comenzaron los derribos de los primeros 16 inmuebles sin posibilidad de recuperación tras el terremoto: en el barrio Cuarto de Legua ya cayó una edificación y las máquinas avanzan con el Conjunto Residencial Guadalupe y el Motel Molino Rojo. Las demoliciones continuarán de forma progresiva en otros puntos de la ciudad según las evaluaciones técnicas, informó El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-inicia-demolicion-de-16-edificios-afectados-por-el-terremoto-esta-el-conjunto-guadalupe-y-el-motel-molino-rojo-1832.html"
+    },
+    {
+      "id": "co-20260918-elpais-decreto-1415-copagos-salud",
+      "fecha": "2026-09-18",
+      "titulo": "Los damnificados quedan exentos de copagos y cuotas moderadoras en salud durante un año",
+      "resumen": "El Decreto 1415 de 2026 adopta medidas extraordinarias para evitar la interrupción de los servicios de salud en las zonas afectadas por el sismo y destina recursos inmediatos a la reconstrucción de la red hospitalaria pública. Los damnificados no pagarán cuotas moderadoras ni copagos por ningún servicio o tecnología en salud durante doce meses, siempre que estén inscritos en el Registro Único de Damnificados, informó El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/politica/gobierno-elimina-cobros-en-salud-por-un-ano-para-afectados-por-el-sismo-y-destina-fondos-a-hospitales-1854.html"
+    },
+    {
+      "id": "co-20260918-elpais-chiminangos-reconstruccion",
+      "fecha": "2026-09-18",
+      "titulo": "La Alcaldía de Cali asumiría la reconstrucción de las torres de Chiminangos 1 y 2 si lo determinan los estudios técnicos",
+      "resumen": "Tras reunirse con representantes de los dos conjuntos residenciales, el alcalde Alejandro Eder aseguró que la Administración dispondrá los recursos necesarios para los trabajos que requieran las torres dañadas por el terremoto del 10 de agosto. Ingenieros evalúan las edificaciones para definir cuál sería la mejor intervención, según El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-asumiria-costos-de-reconstruccion-de-torres-afectadas-en-chiminangos-si-estudios-tecnicos-lo-determinan-1830.html"
+    },
+    {
+      "id": "co-20260918-elpais-capilla-medalla-milagrosa",
+      "fecha": "2026-09-18",
+      "titulo": "La capilla de la Medalla Milagrosa, en Cali, sigue cerrada y sostenida con gatos hidráulicos",
+      "resumen": "El templo de Nuestra Señora de la Medalla Milagrosa, junto a la avenida Roosevelt, permanece cerrado desde el 10 de agosto por las grietas y los daños que impiden abrir la puerta principal y las alternas. Tras 76 años de actividad, se mantiene en pie gracias a refuerzos estructurales provisionales, entre ellos gatos hidráulicos, y sus fieles llevan seis martes sin el rosario y las eucaristías habituales, relata El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/capilla-de-la-medalla-milagrosa-76-anos-de-fe-fracturados-por-el-terremoto-pero-inquebrantables-en-la-esperanza-1848.html"
+    },
+    {
       "id": "co-20260918-elpais-calzagosto-inauguracion",
       "fecha": "2026-09-18",
       "titulo": "La Feria Social CalzAgosto abre en Cali con un homenaje a las víctimas del terremoto",
@@ -34,6 +199,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elpais.com.co/cali/con-un-emotivo-homenaje-a-las-victimas-del-sismo-se-inauguro-la-feria-social-calzagosto-1746.html"
+    },
+    {
+      "id": "co-20260918-elpais-alerta-falsa-prediccion",
+      "fecha": "2026-09-18",
+      "titulo": "La Alcaldía de Cali desmiente un mensaje falso atribuido a la UNGRD que anuncia un próximo terremoto",
+      "resumen": "El secretario de Gestión del Riesgo de Cali, Ricardo Peñuela, pidió no replicar una cadena que circula en redes sociales con una supuesta alerta de la Unidad Nacional para la Gestión del Riesgo de Desastres sobre un sismo inminente en Colombia. Las autoridades recordaron que los sismos no se pueden predecir y que ese tipo de contenidos solo genera alarma y desinformación, según El País.",
+      "fuente": "El País (Cali)",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/alcaldia-de-cali-desmiente-alerta-falsa-de-una-prediccion-de-terremoto-en-colombia-que-circula-en-redes-1836.html"
     },
     {
       "id": "co-20260917-infobae-minambiente-madera-decomisada",
