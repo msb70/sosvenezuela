@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-19",
+  "actualizado": "2026-09-20",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260920-infobae-belalcazar-caldas-reconstruccion",
+      "fecha": "2026-09-20",
+      "titulo": "Belalcázar, en Caldas, pide ayuda para reconstruirse: el terremoto afectó a cerca del 30 % del municipio",
+      "resumen": "El alcalde de Belalcázar, Fabio Andrés Ramírez Giraldo, calcula que alrededor del 30 % del municipio sufrió algún impacto por el sismo de magnitud 7,4 y que 1.867 personas resultaron afectadas, con daños en viviendas, comercios, instituciones públicas, espacios culturales y establecimientos educativos, aunque sin víctimas mortales. En entrevista con Infobae pide materiales y recursos para reparar las edificaciones y llama a visitar el municipio, conocido por su Cristo Redentor de 45 metros, para reactivar el comercio y los servicios turísticos.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/20/alcalde-de-belalcazar-conocido-municipio-turistico-de-caldas-solicita-apoyo-para-su-reconstruccion-tras-el-terremoto-tenemos-impactos-grandes/"
+    },
     {
       "id": "co-20260919-infobae-decreto-1426-programas-sociales",
       "fecha": "2026-09-19",
@@ -12,6 +23,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/09/19/gobierno-mantendra-subsidios-a-afectados-por-terremoto-aunque-no-pueda-verificar-requisitos/"
+    },
+    {
+      "id": "co-20260919-infobae-decreto-1417-apoyo-nomina",
+      "fecha": "2026-09-19",
+      "titulo": "El Gobierno crea un aporte del 40 % de un salario mínimo por trabajador para sostener el empleo en las zonas afectadas",
+      "resumen": "El Decreto 1417 de 2026 crea el Beneficio Extraordinario de Apoyo al Pago de Nómina: cerca de 700.000 pesos mensuales por cada trabajador que gane entre uno y dos salarios mínimos en micro y pequeñas empresas damnificadas por el terremoto del 10 de agosto. El dinero lo recibe el empleador, no el trabajador, puede concederse durante seis ciclos mensuales y su continuidad depende de que siga vigente el contrato de cada persona postulada; también pueden acceder las personas naturales empleadoras, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/19/el-gobierno-nacional-creo-un-subsidio-del-40-de-un-salario-minimo-para-sostener-el-empleo-en-zonas-afectadas-por-el-terremoto/"
     },
     {
       "id": "co-20260919-infobae-amcham-renta-20",
@@ -34,6 +56,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-4-0-en-istmina-choco-durante-la-madrugada-del-sabado-19-de-septiembre-profundidad-y-detalles-3587259"
+    },
+    {
+      "id": "co-20260919-eltiempo-sismo-choco-manana-19sep",
+      "fecha": "2026-09-19",
+      "titulo": "Un sismo de magnitud 4,6 con epicentro en el Chocó se siente en Cali la mañana del 19 de septiembre",
+      "resumen": "El Servicio Geológico Colombiano reportó el movimiento a las 8:44 a. m. del sábado 19 de septiembre, con epicentro en el departamento del Chocó y magnitud 4,6. El sismo se sintió en Cali y en otras ciudades del suroccidente y se suma a la secuencia de réplicas del terremoto del 10 de agosto, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-fuerte-sismo-de-4-6-de-magnitud-la-manana-de-este-sabado-19-de-septiembre-se-sintio-en-cali-y-otras-ciudades-3587275"
+    },
+    {
+      "id": "co-20260919-eltiempo-desmentido-gran-terremoto",
+      "fecha": "2026-09-19",
+      "titulo": "Gestión del Riesgo desmiente la alerta viral de un «gran terremoto» en Cali y explica el enjambre sísmico",
+      "resumen": "El secretario de Gestión del Riesgo de Cali, Ricardo Peñuela, desmintió las cadenas de redes sociales que anuncian un gran terremoto inminente y atribuyen falsamente esa advertencia al Gobierno Nacional: la UNGRD no ha emitido ninguna alerta de ese tipo y los temblores recientes corresponden a un enjambre sísmico, no a una predicción. El Tiempo recuerda que los terremotos no pueden predecirse y que las autoridades piden informarse solo por canales oficiales en una ciudad donde el sismo del 10 de agosto dejó 154 muertos.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/gestion-del-riesgo-desmiente-alerta-de-un-gran-terremoto-en-cali-y-explica-que-es-el-enjambre-sismico-3587284"
+    },
+    {
+      "id": "co-20260919-eltiempo-decreto-1412-banco-mundial",
+      "fecha": "2026-09-19",
+      "titulo": "El Gobierno habilita 624.656 millones de pesos de un crédito del Banco Mundial para la reconstrucción",
+      "resumen": "El Ministerio de Hacienda incorporó al Presupuesto General de la Nación de 2026 un total de 624.656 millones de pesos procedentes de un crédito del BIRF, el brazo del Grupo Banco Mundial que presta a gobiernos, mediante el Decreto 1412. El Tiempo precisa que la norma no trae dinero nuevo: habilita jurídicamente el uso de un desembolso que el país ya tenía en su cuenta desde agosto y lo articula con el Fondo Milagro, el patrimonio autónomo creado tras el terremoto para administrar los recursos de la emergencia.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/gobierno-habilita-624-656-millones-del-banco-mundial-para-gastarlos-en-la-reconstruccion-tras-el-terremoto-3587316"
+    },
+    {
+      "id": "co-20260919-eltiempo-bomberos-carga-emocional",
+      "fecha": "2026-09-19",
+      "titulo": "«Ser tan fuertes nos pesa»: la carga emocional de los bomberos que trabajaron en Cali y Pereira",
+      "resumen": "El Tiempo entrevista a integrantes del Cuerpo de Bomberos de Bogotá enviados al suroccidente tras el sismo de magnitud 7,4 del 10 de agosto, con epicentro cerca de San José del Palmar (Chocó) a 103 kilómetros de profundidad. Entre ellos está el equipo Usar COL 12, con 133 integrantes especializados en estructuras colapsadas —rescatistas, médicos, ingenieros, logísticos y binomios caninos—, que rescataron sobrevivientes y recuperaron cuerpos y relatan el peso emocional de esas jornadas y el apoyo entre compañeros.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/bogota/ser-tan-fuertes-nos-pesa-la-batalla-emocional-de-los-bomberos-en-y-despues-del-terremoto-en-colombia-3587371"
+    },
+    {
+      "id": "co-20260919-elpais-ungrd-onu-recuperacion-cali",
+      "fecha": "2026-09-19",
+      "titulo": "La UNGRD y Naciones Unidas recorren Cali para agilizar la recuperación tras el terremoto",
+      "resumen": "La Unidad Nacional para la Gestión del Riesgo de Desastres desarrolla en Cali una agenda de alto nivel con Naciones Unidas para revisar lo hecho desde el 10 de agosto, las dificultades detectadas y los retos que persisten. Participa Kamal Kishore, representante especial del secretario general de la ONU para la Reducción del Riesgo de Desastres y jefe de la UNDRR, y el objetivo es consolidar una agenda de trabajo con Cali, el Valle del Cauca y Naciones Unidas que convierta las lecciones del terremoto en decisiones, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/ungrd-y-naciones-unidas-recorren-cali-para-agilizar-la-reconstruccion-tras-el-terremoto-del-10-de-agosto-1907.html"
+    },
+    {
+      "id": "co-20260919-elpais-adultos-mayores-bolivar-valle",
+      "fecha": "2026-09-19",
+      "titulo": "Una parroquia del norte del Valle organiza ayuda para una pareja de adultos mayores que perdió su vivienda",
+      "resumen": "Geovanny Franco e Ilda Rosa Moreno, habitantes del corregimiento La Herradura, en Bolívar (Valle del Cauca), quedaron sin casa por el terremoto del 10 de agosto y no cuentan con red de apoyo familiar. La parroquia San Sebastián de Roldanillo abandera una campaña de solidaridad y la pareja recibió atención médica en una jornada parroquial: ambos arrastran problemas de ceguera, afecciones cardíacas y diabetes, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/pareja-de-adultos-mayores-en-bolivar-valle-perdio-su-vivienda-tras-terremoto-1921.html"
     },
     {
       "id": "co-20260918-infobae-sismos-sipi-17sep",
