@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20",
+  "actualizado": "2026-09-21",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
     {
@@ -12,6 +12,50 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/09/20/alcalde-de-belalcazar-conocido-municipio-turistico-de-caldas-solicita-apoyo-para-su-reconstruccion-tras-el-terremoto-tenemos-impactos-grandes/"
+    },
+    {
+      "id": "co-20260920-eltiempo-decreto-1416-creditos-vivienda",
+      "fecha": "2026-09-20",
+      "titulo": "El Gobierno permite créditos de vivienda sin cuota inicial para los damnificados del terremoto",
+      "resumen": "El Decreto 1416 del 17 de septiembre habilita durante los doce meses siguientes a su entrada en vigencia créditos de vivienda sin cuota inicial para las personas afectadas por el sismo del 10 de agosto. Según El Tiempo, la medida cubre municipios de Antioquia, Bolívar, Caldas, Caquetá, Cauca, Chocó, Cundinamarca, Huila, Nariño, Norte de Santander, Quindío, Risaralda, Santander, Sucre, Tolima y Valle del Cauca, además de otros donde se acredite afectación concreta. La norma incluye también alivios para inmuebles asegurados y facilidades para retirar los recursos de personas fallecidas en el desastre.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/afectados-por-el-terremoto-del-pasado-10-de-agosto-podran-acceder-a-creditos-de-vivienda-sin-cuota-inicial-asi-funciona-el-beneficio-3587536"
+    },
+    {
+      "id": "co-20260920-elpais-sobreviviente-protesis-airuani",
+      "fecha": "2026-09-20",
+      "titulo": "Una sobreviviente del edificio Airuaní espera prótesis tras perder las dos piernas protegiendo a su hija",
+      "resumen": "Stephany Echevarría, de 36 años, quedó ocho horas atrapada bajo los escombros del edificio Airuaní, de cinco pisos, junto a su hija Sofía, de dos años, a la que protegió durante el colapso del 10 de agosto. Perdió la pierna izquierda por amputación y la derecha por desarticulación, y tras más de quince cirugías y una estancia en cuidados intensivos espera, según El País, recibir las prótesis que le devuelvan la movilidad.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/sobreviviente-del-terremoto-en-cali-espera-protesis-tras-perder-sus-piernas-al-proteger-a-su-hija-2035.html"
+    },
+    {
+      "id": "co-20260920-elpais-costo-demoliciones-cali",
+      "fecha": "2026-09-20",
+      "titulo": "Cada demolición de un edificio dañado por el terremoto en Cali costaría hasta 2.000 millones de pesos",
+      "resumen": "El secretario de Gestión del Riesgo de Cali, Ricardo Peñuela, cifró en hasta 2.000 millones de pesos el costo de demoler cada uno de los edificios afectados por el terremoto del 10 de agosto, gasto que asumirá el Gobierno Distrital siempre que la estructura represente un peligro real para la comunidad vecina. Las labores empezaron hace más de una semana y la maquinaria especializada ya entró en la Unidad Residencial Guadalupe para una demolición mecánica controlada. Peñuela advirtió además a El País que el enjambre sísmico que se siente en la ciudad podría extenderse hasta tres meses.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cada-demolicion-de-edificios-afectados-por-el-terremoto-costaria-hasta-2000-millones-segun-cifras-de-gestion-del-riesgo-2052.html"
+    },
+    {
+      "id": "co-20260920-elpais-comercio-plaza-cayzedo",
+      "fecha": "2026-09-20",
+      "titulo": "Los cierres viales alrededor de la Plaza de Cayzedo hunden las ventas del comercio del centro de Cali",
+      "resumen": "Las restricciones de circulación adoptadas tras el terremoto del 10 de agosto por el deterioro de varias edificaciones cambiaron el tránsito en el entorno de la Plaza de Cayzedo, uno de los puntos tradicionales del centro de Cali. Los comerciantes consultados por El País en un recorrido por el sector aseguran que la menor llegada de compradores ya está golpeando sus ingresos.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cierres-viales-y-menos-visitantes-comerciantes-de-la-plaza-de-cayzedo-cuentan-como-los-afecto-el-terremoto-2047.html"
     },
     {
       "id": "co-20260919-infobae-decreto-1426-programas-sociales",
@@ -78,6 +122,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/cali/gestion-del-riesgo-desmiente-alerta-de-un-gran-terremoto-en-cali-y-explica-que-es-el-enjambre-sismico-3587284"
+    },
+    {
+      "id": "co-20260919-eltiempo-demolicion-motel-molino-rojo",
+      "fecha": "2026-09-19",
+      "titulo": "Empieza la demolición del motel Molino Rojo, la primera de las 16 estructuras prioritarias de Cali",
+      "resumen": "El antiguo motel Molino Rojo, en la autopista Suroriental de Cali, comenzó a ser demolido el sábado 19 de septiembre por su riesgo inminente de colapso. El inmueble, levantado hace más de 22 años por una pareja de adultos mayores, encabezaba el plan de intervenciones prioritarias tras el terremoto de magnitud 7,4, que lo dejó con daños estructurales severos y en el que, según El Tiempo, murió una persona y otras siete resultaron heridas.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/empezo-la-dolorosa-demolicion-del-motel-molino-rojo-en-pleno-fin-de-semana-de-amor-y-amistad-en-cali-3587307"
     },
     {
       "id": "co-20260919-eltiempo-decreto-1412-banco-mundial",
