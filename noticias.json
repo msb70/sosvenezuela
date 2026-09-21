@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-20",
+  "actualizado": "2026-09-21",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260920-elnacional-ucv-voluntarios-laguaira",
+      "fecha": "2026-09-20",
+      "titulo": "La UCV reconoce a más de 300 voluntarios tras ocho semanas de atención social en La Guaira",
+      "resumen": "La Universidad Central de Venezuela entregó reconocimientos a más de 300 profesores y estudiantes que durante ocho semanas realizaron labores de atención social e intervención comunitaria en Playa Grande y Tanaguarenas, en el estado La Guaira, el más afectado por los sismos del 24 de junio. La vicerrectora académica, Fátima Garcés, pidió dar continuidad a los programas de asistencia en el litoral central y describió la reconstrucción como una tarea de largo plazo. El acto se celebró en el auditorio de la Facultad de Farmacia, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/mas-de-300-voluntarios-de-la-ucv-recibieron-reconocimiento-tras-ocho-semanas-de-atencion-social-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260919-elnacional-sgc-sismos-istmina",
+      "fecha": "2026-09-19",
+      "titulo": "El Servicio Geológico Colombiano registra dos sismos en Chocó cerca del epicentro del terremoto del 10 de agosto",
+      "resumen": "El Servicio Geológico Colombiano (SGC) reportó el sábado dos movimientos sísmicos con epicentro en Istmina, de magnitudes 4,6 y 3,1 y profundidades de 39 y 43 kilómetros, en la misma zona del terremoto de magnitud 7,4 del 10 de agosto en Colombia. El organismo contabiliza unas 300 réplicas en las semanas posteriores a aquel sismo y durante esta semana registró otro evento de magnitud 4,9 en el mismo departamento. El último balance de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), divulgado ese mismo día, cifra en 335 los fallecidos y 4.516 los heridos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Colombia",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/dos-nuevos-sismos-sacuden-la-zona-del-epicentro-del-terremoto-del-10-de-agosto-en-colombia/"
+    },
     {
       "id": "ve-20260919-elnacional-funvisis-94-sismos",
       "fecha": "2026-09-19",
