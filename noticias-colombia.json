@@ -3,6 +3,28 @@
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
     {
+      "id": "co-20260921-eltiempo-mabe-planta-manizales",
+      "fecha": "2026-09-21",
+      "titulo": "La planta de electrodomésticos de Manizales reactiva su operación tras las medidas preventivas por el terremoto",
+      "resumen": "El terremoto del 10 de agosto obligó a la multinacional Mabe a tomar medidas preventivas en su planta de Manizales, una de sus principales operaciones industriales en Colombia y desde la que abastece al mercado nacional y a otros países de América Latina. En entrevista con El Tiempo, el gerente de Mabe Colombia, Juan Zavala, explicó las medidas de seguridad adoptadas y cómo se garantizó la reactivación de la planta, en el año en que la compañía cumple 80 años en el país.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/empresas/mabe-que-cumple-80-anos-en-el-pais-cuenta-como-el-terremoto-afecto-su-planta-en-manizales-y-como-garantizo-su-operacion-3587230"
+    },
+    {
+      "id": "co-20260921-elpais-amenazas-periodista-risaralda",
+      "fecha": "2026-09-21",
+      "titulo": "Periodistas de Risaralda rechazan las amenazas de muerte contra una comunicadora que denunció fallas en la atención del terremoto",
+      "resumen": "La periodista Ángela María Villegas Aristizábal recibió amenazas de muerte después de denunciar el escaso avance de la administración de Pereira y del departamento de Risaralda en la atención a las zonas golpeadas por el terremoto del 10 de agosto. Varios colegas firmaron este lunes una carta de respaldo y de rechazo a las amenazas, según El País (Cali), que recuerda que la UNGRD contabiliza 19.142 viviendas destruidas por el sismo de magnitud 7,4, con las afectaciones concentradas en Cali y Pereira.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/periodistas-de-risaralda-rechazan-amenazas-contra-angela-villegas-por-denuncias-en-la-atencion-tras-el-terremoto-2105.html"
+    },
+    {
       "id": "co-20260920-infobae-belalcazar-caldas-reconstruccion",
       "fecha": "2026-09-20",
       "titulo": "Belalcázar, en Caldas, pide ayuda para reconstruirse: el terremoto afectó a cerca del 30 % del municipio",
@@ -102,6 +124,17 @@
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-4-0-en-istmina-choco-durante-la-madrugada-del-sabado-19-de-septiembre-profundidad-y-detalles-3587259"
     },
     {
+      "id": "co-20260919-eltiempo-sismo-istmina-tarde-19sep",
+      "fecha": "2026-09-19",
+      "titulo": "Un sismo de magnitud 4,3 con epicentro en Istmina, en el Chocó, se registra la tarde del 19 de septiembre",
+      "resumen": "El Servicio Geológico Colombiano reportó un movimiento telúrico a las 6:20 p. m. del 19 de septiembre con epicentro en Istmina, en el Chocó, el mismo departamento donde se originó la secuencia del 10 de agosto. El organismo lo situó inicialmente en magnitud 4,1 y minutos después actualizó el boletín a magnitud 4,3 con 40 kilómetros de profundidad, según El Tiempo, que no reporta daños asociados.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-4-1-en-istmina-choco-en-la-tarde-de-este-19-de-septiembre-3587372"
+    },
+    {
       "id": "co-20260919-eltiempo-sismo-choco-manana-19sep",
       "fecha": "2026-09-19",
       "titulo": "Un sismo de magnitud 4,6 con epicentro en el Chocó se siente en Cali la mañana del 19 de septiembre",
@@ -166,6 +199,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/ungrd-y-naciones-unidas-recorren-cali-para-agilizar-la-reconstruccion-tras-el-terremoto-del-10-de-agosto-1907.html"
+    },
+    {
+      "id": "co-20260919-elpais-hospital-terron-colorado",
+      "fecha": "2026-09-19",
+      "titulo": "El nuevo hospital de Terrón Colorado, en Cali, no sufrió daños por el terremoto y avanza al 20 % de ejecución",
+      "resumen": "La Alcaldía de Cali verificó en una visita a las obras del nuevo hospital del barrio Terrón Colorado, en el oeste de la ciudad, que la construcción no resultó afectada por el terremoto del 10 de agosto y se mantiene dentro del cronograma establecido. Según El País (Cali), el proyecto —uno de los cuatro hospitales con los que el distrito busca reforzar su red pública de salud— alcanza cerca del 20 % de ejecución y trabaja en la cimentación y en la fundición de la losa del primer piso.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/tras-visita-al-hospital-terron-colorado-alcalde-eder-destaca-que-obra-no-se-vio-afectada-por-el-terremoto-1927.html"
     },
     {
       "id": "co-20260919-elpais-adultos-mayores-bolivar-valle",
