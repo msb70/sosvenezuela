@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-21",
+  "actualizado": "2026-09-22",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260922-infobae-taxis-planilla-puvo",
+      "fecha": "2026-09-22",
+      "titulo": "El Gobierno vuelve a exigir la planilla de viaje a los taxis que circulan entre municipios afectados por el terremoto",
+      "resumen": "El Decreto 1424 de 2026 restablece de forma temporal la Planilla Única de Viaje Ocasional (PUVO) para los taxis que se desplazan entre municipios contiguos cobijados por la declaratoria de desastre, según detalló Infobae. La medida, contenida en el artículo 36 de la norma, suspende la flexibilización que había introducido el Decreto 1001 de 2026 y regirá mientras persista la situación de desastre en las zonas golpeadas por el sismo del 10 de agosto.",
+      "fuente": "Infobae",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/22/los-taxis-de-las-zonas-afectadas-por-el-terremoto-deberan-volver-a-usar-una-planilla-para-circular-entre-municipios/"
+    },
+    {
+      "id": "co-20260922-infobae-aseguradoras-fasecolda",
+      "fecha": "2026-09-22",
+      "titulo": "Las aseguradoras pagan 274.590 millones de pesos y las reclamaciones por el terremoto llegan a 85.496",
+      "resumen": "Seis semanas después del terremoto del 10 de agosto, las compañías de seguros han recibido 85.496 reclamaciones y pagado 274.590 millones de pesos en indemnizaciones, con corte al 18 de septiembre, según las cifras de Fasecolda recogidas por Infobae. El valor estimado de los siniestros reportados sube a 5,5 billones de pesos, un billón más que en el informe de la semana anterior, y los pagos crecieron un 48 % en ocho días. El ramo de incendio y terremoto concentra 61.250 reclamaciones y pérdidas cercanas a los 4 billones de pesos.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/22/aseguradoras-pagan-274590-millones-tras-terremoto-y-reclamaciones-superan-las-85000/"
+    },
+    {
+      "id": "co-20260922-eltiempo-racionamiento-agua-cali",
+      "fecha": "2026-09-22",
+      "titulo": "Emcali reparte el agua por días alternos en las comunas 18 y 20 de Cali por la sequía y los daños del sismo",
+      "resumen": "Desde este martes 22 de septiembre, los barrios de ladera de las comunas 18 y 20 de Cali reciben agua potable en días alternos, confirmó Emcali a El Tiempo. La empresa atribuye la medida a la fuerte disminución de los caudales de los ríos Cali y Meléndez por el fenómeno de El Niño, sumada a los daños estructurales que aún afectan la red de acueducto tras el terremoto del 10 de agosto. Con la alternancia se busca nivelar la presión y permitir que se recuperen los tanques que surten a los sectores más altos de la ciudad.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/por-sequia-y-secuelas-del-terremoto-emcali-aplicara-racionamiento-de-agua-programado-en-las-comunas-18-y-20-de-cali-3587870"
+    },
+    {
+      "id": "co-20260921-infobae-sismos-chaparral-tolima",
+      "fecha": "2026-09-21",
+      "titulo": "El Servicio Geológico atribuye a fallas activas del Tolima los más de 130 sismos registrados en Chaparral",
+      "resumen": "La Red Sismológica Nacional contabilizó más de 130 temblores de magnitud superior a 2,0 en Chaparral (Tolima) entre el 20 y el 21 de septiembre, cinco de ellos de magnitud 4,0 o mayor, informó Infobae. El Servicio Geológico Colombiano atribuye la actividad a las fallas geológicas activas que atraviesan ese departamento y precisa que se trata de una secuencia propia de eventos superficiales, a menos de 30 kilómetros de profundidad, cuyo volumen supera el promedio de las semanas anteriores. La entidad recibió más de 1.000 reportes ciudadanos, sobre todo desde Tolima, Huila, Valle del Cauca, Risaralda, Cauca y Quindío.",
+      "fuente": "Infobae",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/21/mas-de-130-temblores-sacudieron-chaparral-tolima-el-20-y-21-de-septiembre-el-servicio-geologico-explico-el-porque-de-la-actividad-sismica/"
+    },
     {
       "id": "co-20260921-eltiempo-mabe-planta-manizales",
       "fecha": "2026-09-21",
@@ -12,6 +56,50 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/economia/empresas/mabe-que-cumple-80-anos-en-el-pais-cuenta-como-el-terremoto-afecto-su-planta-en-manizales-y-como-garantizo-su-operacion-3587230"
+    },
+    {
+      "id": "co-20260921-elpais-salud-mental-cali",
+      "fecha": "2026-09-21",
+      "titulo": "Un mes después del terremoto persisten las secuelas emocionales en Cali y los especialistas señalan las señales de alarma",
+      "resumen": "A más de un mes del terremoto del 10 de agosto, que dejó 154 fallecidos en Cali, muchos habitantes siguen con secuelas emocionales que les dificultan ir al trabajo, llevar a los hijos al colegio o dormir con tranquilidad, según un reportaje de El País de Cali. Un informe de Coomeva Medicina Prepagada que cita a la Organización Mundial de la Salud advierte de que tras una emergencia así puede persistir el sufrimiento psicológico, con ansiedad, tristeza, insomnio, cansancio e irritabilidad, y recomienda retomar las rutinas de forma gradual.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/la-salud-mental-despues-del-terremoto-en-cali-como-volver-poco-a-poco-a-la-vida-cotidiana-y-las-senales-que-no-se-deben-ignorar-2139.html"
+    },
+    {
+      "id": "co-20260921-elpais-ninos-acompanamiento-psicosocial",
+      "fecha": "2026-09-21",
+      "titulo": "Un psicólogo escolar propone una hoja de ruta para hablarles a los niños afectados por el sismo",
+      "resumen": "El psicólogo educativo Santiago Montaña plantea en El País de Cali una hoja de ruta psicosocial para acompañar a los niños tras el terremoto del 10 de agosto, basada en el vínculo, en decirles la verdad y en reconstruir las rutinas diarias. Unicef y el Colegio de Psicólogos advierten de que la ansiedad, el insomnio y el miedo a las réplicas exigen un acompañamiento sostenido, sobre todo en el Chocó y en Buenaventura, las zonas donde más sedes educativas quedaron afectadas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/entretenimiento/como-hablarles-a-los-ninos-colombianos-despues-del-sismo-segun-un-psicologo-escolar-2142.html"
+    },
+    {
+      "id": "co-20260921-elpais-audiencia-reconstruccion-valle",
+      "fecha": "2026-09-21",
+      "titulo": "La Gobernación del Valle reasigna 60.000 millones de pesos a vivienda y rinde cuentas de la reconstrucción en audiencia pública",
+      "resumen": "En una audiencia pública de seis horas celebrada en Cali, la Gobernación del Valle del Cauca detalló los recursos movilizados y el avance de la reconstrucción tras el terremoto del 10 de agosto, con 60.000 millones de pesos redireccionados a programas de vivienda, informó El País de Cali. El gerente designado para la reconstrucción del departamento, Adrián Zamora, expuso las líneas de trabajo en vivienda, agua potable, desarrollo económico y atención rural ante autoridades, agencias nacionales y decenas de damnificados.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/reconstruccion-del-valle-luego-del-terremoto-gobernacion-revela-cuanto-ha-destinado-y-que-sigue-2109.html"
+    },
+    {
+      "id": "co-20260921-elpais-asocana-buenaventura",
+      "fecha": "2026-09-21",
+      "titulo": "Asocaña se suma a la reconstrucción de Buenaventura con obras financiadas por el mecanismo de obras por impuestos",
+      "resumen": "La Asociación de Cultivadores de Caña de Azúcar (Asocaña) respaldará la reconstrucción de Buenaventura con iniciativas financiadas mediante el mecanismo de obras por impuestos, anunció la Gobernación del Valle del Cauca, según El País de Cali. El gremio responde al llamado hecho tras la presentación del balance de afectaciones y necesidades del distrito, donde los daños del terremoto se concentraron en los estratos 1, 2 y 3.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-anuncia-respaldo-de-asocana-para-reconstruir-buenaventura-tras-el-terremoto-asi-se-financiaran-las-obras-2158.html"
     },
     {
       "id": "co-20260921-elpais-amenazas-periodista-risaralda",
