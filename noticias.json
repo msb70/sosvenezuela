@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-21",
+  "actualizado": "2026-09-22",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260922-elnacional-duelo-profesora-laguaira",
+      "fecha": "2026-09-22",
+      "titulo": "Una profesora de La Guaira relata el duelo por los más de 200 alumnos que murieron en el doble sismo",
+      "resumen": "La docente Madeleine Cova, que daba clases en el colegio privado Alejandro Otero y coordinaba segundo año en el liceo público Juan José Mendoza, describe el duelo por los más de 200 estudiantes fallecidos en los terremotos del 24 de junio. La Guaira es el estado más golpeado por el doble sismo, que dejó más de 6.500 muertos según las cifras oficiales, además de un número indeterminado de desaparecidos. El testimonio fue publicado por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/eran-como-mis-hijos-el-duelo-de-una-profesora-que-perdio-a-mas-de-200-alumnos-en-el-doble-terremoto-de-venezuela/"
+    },
+    {
+      "id": "ve-20260921-elnacional-portugal-240-toneladas",
+      "fecha": "2026-09-21",
+      "titulo": "Llega a Venezuela el primer lote de las 240 toneladas de ayuda humanitaria enviadas desde Portugal",
+      "resumen": "Un primer cargamento de 40 toneladas de alimentos y medicinas, de un total de 240 previstas, arribó a Venezuela para las familias afectadas por los terremotos del 24 de junio. El envío fue gestionado por las organizaciones Venexos y la Associação Amigos da Diáspora e dos Emigrantes Madeirenses (Aadem) a partir de campañas de acopio en Portugal, y se entregó a varias ONG en Caracas para su distribución. El resto de los suministros llegará de forma gradual en las próximas semanas, según informó a El Nacional el representante de Venexos, Jesús Testa.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/venezuela-recibio-240-toneladas-de-ayuda-humanitaria-de-portugal/"
+    },
+    {
+      "id": "ve-20260921-elnacional-camara-inmobiliaria-precios-laguaira",
+      "fecha": "2026-09-21",
+      "titulo": "La Cámara Inmobiliaria de La Guaira advierte de alzas en los precios de venta y alquiler en las zonas afectadas",
+      "resumen": "La presidenta de la Cámara Inmobiliaria de La Guaira, María Teresa Brito, señaló que las zonas más dañadas por el doble terremoto del 24 de junio registran aumentos en los precios de compra y alquiler de inmuebles, fijados sin estudios técnicos sobre el estado del terreno. Según Brito, el tope de 100.000 dólares de la ayuda crediticia disponible está sirviendo de referencia para elevar las cotizaciones: inmuebles que antes del sismo costaban 70.000 dólares se ofrecen ahora en 150.000. Las declaraciones, a Globovisión, fueron recogidas por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/denuncian-aumentos-de-precios-de-alquiler-y-compra-de-inmuebles-en-la-guaira/"
+    },
+    {
+      "id": "ve-20260921-cronicauno-santa-rosalia-carpas-lopez-diez",
+      "fecha": "2026-09-21",
+      "titulo": "Familias desalojadas del urbanismo López Diez, en Caracas, siguen en carpas casi tres meses después de los sismos",
+      "resumen": "Varias familias del urbanismo López Diez (OPP 10), en la parroquia caraqueña de Santa Rosalía, duermen en carpas en la calle desde que el doble sismo del 24 de junio agrietó las paredes internas de la torre y obligó a suspender los servicios de gas y agua. Los vecinos afirman que las cuadrillas tardaron dos meses en llegar y ejecutan obras menores que no corrigen las fallas de origen; los daños mayores se concentran en los seis primeros pisos. El complejo forma parte de los 41.624 hogares con daños contabilizados oficialmente, de los que 13.000 están en recuperación, según Crónica.Uno.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/familias-de-santa-rosalia-siguen-en-carpas-a-la-espera-de-reparaciones-tras-los-sismos/"
+    },
     {
       "id": "ve-20260920-elnacional-ucv-voluntarios-laguaira",
       "fecha": "2026-09-20",
