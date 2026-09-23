@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-22",
+  "actualizado": "2026-09-23",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260923-elnacional-autismo-vulnerabilidad",
+      "fecha": "2026-09-23",
+      "titulo": "La Organización Venezolana de Autismo registra más de 1.190 personas con TEA afectadas por los sismos",
+      "resumen": "La Organización Venezolana de Autismo (OVA) contabiliza más de 1.190 personas con trastorno del espectro autista afectadas por los terremotos del 24 de junio y calcula que la cifra real supera las 2.000, sin estadísticas oficiales que permitan dimensionarla. La pérdida de la vivienda, el traslado a refugios y campamentos y la interrupción de terapias rompen las rutinas que esta población necesita y derivan en crisis de ansiedad, según la coordinadora de la OVA, Joanna Peñalver. La directora de Sovenia, María Russo, añade que la emergencia dejó más visible la falta de espacios de terapia y de personal capacitado, en declaraciones a El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/terremotos-agravaron-vulnerabilidad-de-las-personas-con-autismo/"
+    },
+    {
+      "id": "ve-20260923-cronicauno-carabobo-inmuebles-inspeccionados",
+      "fecha": "2026-09-23",
+      "titulo": "El Colegio de Ingenieros de Carabobo clasifica como rojo o colapsado el 51,8 % de los 2.435 inmuebles revisados",
+      "resumen": "El Colegio de Ingenieros de Carabobo ha inspeccionado 2.435 inmuebles en el estado a casi tres meses del doble sismo del 24 de junio: 18,2 % recibió etiqueta verde, 30,1 % amarilla y 43,7 % roja, mientras que un 8,1 % corresponde a viviendas que colapsaron por completo. El despliegue lo ejecutan 653 inspectores acreditados por el gremio, con el respaldo de Protección Civil, y la clasificación orienta las labores de reparación y demolición. Los datos los aportó a Crónica.Uno el directivo y coordinador regional de la comisión, Carlos Muñiz.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/casi-mitad-inmuebles-carabobo-danos-severos-tres-meses-sismos/"
+    },
     {
       "id": "ve-20260922-elnacional-duelo-profesora-laguaira",
       "fecha": "2026-09-22",
@@ -12,6 +34,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/eran-como-mis-hijos-el-duelo-de-una-profesora-que-perdio-a-mas-de-200-alumnos-en-el-doble-terremoto-de-venezuela/"
+    },
+    {
+      "id": "ve-20260922-elnacional-comite-emergencia-espanol",
+      "fecha": "2026-09-22",
+      "titulo": "Ocho ONG del Comité de Emergencia Español advierten de consecuencias a largo plazo en la fase de recuperación",
+      "resumen": "El Comité de Emergencia Español, que agrupa a Acción contra el Hambre, Aldeas Infantiles SOS, Educo, Entreculturas, Médicos del Mundo, Oxfam Intermón, Plan International y World Vision, alerta de que miles de personas afrontan las consecuencias a largo plazo de los terremotos, agravadas por las lluvias y el inicio del retorno a las aulas. Sus prioridades son la protección infantil, la continuidad educativa, la salud mental, la atención primaria, la vivienda, el agua y saneamiento y la asistencia alimentaria en Distrito Capital, La Guaira, Miranda y Falcón, con planes de expansión a Carabobo y Aragua. La organización pide protocolos de actuación y rutas de evacuación en los planteles ante posibles réplicas, según recogió El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ong-alertan-que-miles-de-venezolanos-se-enfrentan-a-consecuencias-a-largo-plazo-tras-los-terremotos/"
     },
     {
       "id": "ve-20260921-elnacional-portugal-240-toneladas",
