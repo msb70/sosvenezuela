@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-22",
+  "actualizado": "2026-09-23",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260923-infobae-volveremos-fest-pereira",
+      "fecha": "2026-09-23",
+      "titulo": "Un festival solidario en Pereira recaudará fondos para damnificados y comerciantes afectados por el terremoto",
+      "resumen": "El 'Volveremos Fest' se celebrará en Pereira del 2 al 4 de octubre de 2026 para recaudar recursos destinados a las familias y los comerciantes golpeados por el sismo del 10 de agosto y reactivar la economía de la ciudad, según Infobae. El bono solidario cuesta 40.000 pesos por día o 100.000 pesos por las tres jornadas y se vende a través de mundoboletos.com, con aportes adicionales mediante un código QR sin monto mínimo. Los artistas convocados donarán sus presentaciones y asumirán sus gastos de hospedaje y viáticos.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/23/jhonny-rivera-reunira-a-35-artistas-y-creadores-de-contenido-en-festival-benefico-para-los-damnificados-del-terremoto-en-pereira/"
+    },
     {
       "id": "co-20260922-infobae-taxis-planilla-puvo",
       "fecha": "2026-09-22",
@@ -34,6 +45,94 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/cali/por-sequia-y-secuelas-del-terremoto-emcali-aplicara-racionamiento-de-agua-programado-en-las-comunas-18-y-20-de-cali-3587870"
+    },
+    {
+      "id": "co-20260922-eltiempo-pnud-danos-42-billones",
+      "fecha": "2026-09-22",
+      "titulo": "El Pnud estima en 42,1 billones de pesos los daños físicos del terremoto en el Chocó",
+      "resumen": "Una evaluación preliminar del Programa de las Naciones Unidas para el Desarrollo, con corte al 27 de agosto, calcula en 42,1 billones de pesos los daños físicos directos en estructuras y en 16,9 millones de metros cúbicos el volumen de escombros, según informó El Tiempo. La cifra aún no incluye las pérdidas económicas ni el impacto sobre los hogares, que se incorporarán a la evaluación integral que adelanta el Gobierno. El representante del organismo en Colombia, Claudio Tomasi, advirtió que el reto va más allá de reconstruir viviendas, vías e infraestructura pública.",
+      "fuente": "El Tiempo",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/terremoto-en-choco-danos-fisicos-ya-se-estiman-en-42-1-billones-segun-el-pnud-3587843"
+    },
+    {
+      "id": "co-20260922-eltiempo-juntos-por-el-pacifico-cali",
+      "fecha": "2026-09-22",
+      "titulo": "La feria 'Juntos por el Pacífico' deja 400 millones de pesos en ventas para emprendedores damnificados de Cali",
+      "resumen": "La iniciativa ciudadana 'Juntos por el Pacífico' cerró su edición en la cancha del barrio El Guabal, en Cali, con más de 400 millones de pesos en ventas y cerca de 100.000 asistentes en tres días, según El Tiempo. Los 65 stands instalados correspondieron a emprendedores que lo perdieron todo con el terremoto del 10 de agosto y que ofrecieron gastronomía tradicional, bebidas ancestrales, moda y artesanías.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/400-millones-y-100-000-corazones-asi-juntos-por-el-pacifico-convirtio-la-solidaridad-en-reactivacion-economica-tras-el-terremoto-en-cali-3588158"
+    },
+    {
+      "id": "co-20260922-eltiempo-axa-care-medicos-del-mundo",
+      "fecha": "2026-09-22",
+      "titulo": "Una alianza humanitaria atenderá en salud a 10.000 afectados por el terremoto en Chocó, Risaralda y Valle del Cauca",
+      "resumen": "La Fundación AXA para el Progreso Humano oficializó una alianza con las organizaciones CARE y Médicos del Mundo para atender a más de 10.000 personas y 3.000 hogares de Chocó, Risaralda y Valle del Cauca, según El Tiempo. El plan incluye equipos médicos comunitarios de atención primaria, seguimiento de pacientes crónicos, entrega de medicamentos e insumos, prevención de riesgos epidemiológicos y acompañamiento psicosocial. Médicos del Mundo ya inició operaciones directas en Chocó ante la afectación de la red hospitalaria local.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/empresas/alianza-estrategica-desplegara-atencion-sanitaria-y-ayuda-humanitaria-para-10-000-afectados-por-terremoto-en-colombia-3588090"
+    },
+    {
+      "id": "co-20260922-elpais-jornada-medica-valle",
+      "fecha": "2026-09-22",
+      "titulo": "Una jornada de médicos voluntarios atiende a 82 pacientes en municipios del Valle golpeados por el sismo",
+      "resumen": "La Gobernación del Valle del Cauca, a través del voluntariado de médicos coordinado por la Secretaría de Salud departamental, llevó atención especializada a territorios donde el terremoto del 10 de agosto afectó el servicio de salud, según El País (Cali). En la jornada se ofrecieron pediatría, medicina interna, ginecología y nutrición, y fueron atendidos 82 pacientes.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-brinda-atencion-medica-voluntaria-a-habitantes-de-municipios-y-territorios-afectados-por-el-terremoto-2257.html"
+    },
+    {
+      "id": "co-20260922-elpais-enjambre-chaparral-sgc",
+      "fecha": "2026-09-22",
+      "titulo": "El enjambre sísmico de Chaparral supera los 200 temblores y el Servicio Geológico no descarta que sea una respuesta tardía al terremoto",
+      "resumen": "Chaparral (Tolima) acumula en 48 horas más de 200 temblores de magnitud superior a 2, al menos diez de ellos por encima de 4, una actividad que provocó evacuaciones preventivas en edificaciones de Ibagué, informó El País (Cali). Mónica Arcila Rivera, directora técnica encargada de geoamenazas del Servicio Geológico Colombiano, explicó que la seguidilla encaja en la definición de enjambre sísmico —muchos eventos concentrados en poco tiempo sin el patrón de un sismo principal con réplicas— y señaló que podría tratarse de una respuesta tardía al terremoto de magnitud 7,4 del 10 de agosto.",
+      "fuente": "El País (Cali)",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/experta-explica-si-enjambre-sismico-en-chaparral-es-secuela-del-terremoto-del-pasado-10-de-agosto-2251.html"
+    },
+    {
+      "id": "co-20260922-elpais-emcali-clausuras-suspensiones",
+      "fecha": "2026-09-22",
+      "titulo": "Emcali reporta 431 clausuras de servicios y más de 20.000 solicitudes de suspensión temporal por los daños del sismo",
+      "resumen": "Emcali informó que tras el terremoto del 10 de agosto ha realizado 431 clausuras de servicios públicos y ha recibido más de 20.000 solicitudes de suspensión temporal de usuarios cuyos inmuebles quedaron dañados, según El País (Cali). La Secretaría de Gestión del Riesgo le entregó a la empresa información sobre 1.541 edificaciones que agrupan a 12.940 suscriptores. El formulario para pedir la suspensión, habilitado desde el 14 de agosto, seguirá abierto hasta el 10 de octubre de 2026.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/emcali-reporta-431-clausuras-de-servicios-publicos-y-mas-de-20000-solicitudes-de-suspension-temporal-tras-terremoto-2235.html"
+    },
+    {
+      "id": "co-20260922-elpais-el-cairo-kits-viviendas",
+      "fecha": "2026-09-22",
+      "titulo": "El Cairo recibe 264 kits de materiales para reparar viviendas dañadas por el terremoto",
+      "resumen": "El municipio de El Cairo, en el norte del Valle del Cauca, empezó a recibir los materiales destinados a la reconstrucción de las viviendas afectadas por el sismo del 10 de agosto: en total se entregaron 264 kits para que las familias damnificadas adelanten reparaciones y reforzamiento estructural, informó El País (Cali). El proceso contempla además la construcción de 178 viviendas nuevas mediante el esquema de autoconstrucción asistida.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/asi-avanza-la-reconstruccion-de-viviendas-afectadas-por-el-terremoto-en-el-cairo-valle-del-cauca-2220.html"
+    },
+    {
+      "id": "co-20260922-elpais-edificio-arabico-cali",
+      "fecha": "2026-09-22",
+      "titulo": "Vecinos denuncian que siguen sin ejecutarse el apuntalamiento y el drenaje del edificio Arábico en Cali",
+      "resumen": "El edificio Arábico, en la Calle 5 con Carrera 66 de Cali, continúa bajo revisión por los daños del terremoto del 10 de agosto, pero los ciudadanos que hacen seguimiento denuncian que aún no se ejecutan dos labores anunciadas por la Alcaldía: el apuntalamiento de la estructura y la evacuación del agua acumulada en los parqueaderos, según El País (Cali). Sí se reforzó la vigilancia, con presencia permanente de la Policía en tres turnos alrededor del inmueble.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/edificio-arabico-continua-bajo-revision-tras-el-terremoto-ciudadanos-esperan-las-medidas-anunciadas-por-la-alcaldia-2254.html"
     },
     {
       "id": "co-20260921-infobae-sismos-chaparral-tolima",
