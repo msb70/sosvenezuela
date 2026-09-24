@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-23",
+  "actualizado": "2026-09-24",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260924-eltiempo-sgc-chaparral-choco",
+      "fecha": "2026-09-24",
+      "titulo": "El Servicio Geológico estudia si el enjambre de Chaparral está ligado al terremoto del Chocó: ya van más de 437 sismos",
+      "resumen": "El Servicio Geológico Colombiano (SGC) evalúa varias hipótesis para establecer si la actividad sísmica de Chaparral (Tolima) está relacionada con el terremoto de magnitud 7,4 del 10 de agosto en San José del Palmar (Chocó), según El Tiempo. Desde el 20 de septiembre se han contabilizado más de 437 eventos de magnitud superior a 2, 16 de ellos por encima de 4, todos a menos de 35 kilómetros de profundidad. El SGC publica un boletín diario sobre la sismicidad en Chocó y Tolima mientras se mantenga esta actividad.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/hay-relacion-entre-el-enjambre-sismico-de-choco-y-el-registrado-en-chaparral-tolima-sgc-explico-las-seguidillas-de-temblores-que-se-han-presentado-3588459"
+    },
     {
       "id": "co-20260923-infobae-volveremos-fest-pereira",
       "fecha": "2026-09-23",
@@ -12,6 +23,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/09/23/jhonny-rivera-reunira-a-35-artistas-y-creadores-de-contenido-en-festival-benefico-para-los-damnificados-del-terremoto-en-pereira/"
+    },
+    {
+      "id": "co-20260923-infobae-corte-colecta-benavides",
+      "fecha": "2026-09-23",
+      "titulo": "La Corte Suprema escucha al representante investigado por una colecta para los damnificados del terremoto",
+      "resumen": "El representante a la Cámara Óscar Benavides rindió versión libre ante la Sala de Instrucción de la Corte Suprema, que investiga el manejo de las donaciones recolectadas para los damnificados del terremoto de magnitud 7,4 con epicentro en el Chocó, informó Infobae. El congresista negó irregularidades y afirmó que los recursos no pasaron por su cuenta personal, sino que se gestionaron a través de la Fundación Bnl2.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/23/oscar-benavides-respondio-ante-la-corte-suprema-por-colecta-para-damnificados-del-choco-a-mi-cuenta-bancaria-no-entro-ningun-peso/"
+    },
+    {
+      "id": "co-20260923-eltiempo-facturas-emcali-inhabitables",
+      "fecha": "2026-09-23",
+      "titulo": "Damnificados de Cali siguen recibiendo facturas de agua y energía por viviendas declaradas inhabitables",
+      "resumen": "Cientos de familias de Cali cuyas viviendas quedaron inhabitables por el terremoto aseguran que les siguen llegando los recibos de energía y acueducto, pese a que los servicios fueron desconectados por seguridad, según El Tiempo. En zonas como Chiminangos, los afectados pagan a la vez el arriendo de un nuevo hogar y las facturas del predio dañado; Emcali explica en la pieza cómo gestiona estos casos.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/facturar-en-las-ruinas-el-calvario-de-pagar-servicios-publicos-por-viviendas-inhabitables-tras-el-terremoto-en-cali-3588233"
+    },
+    {
+      "id": "co-20260923-eltiempo-estafa-alcalde-dosquebradas",
+      "fecha": "2026-09-23",
+      "titulo": "Suplantan a un senador para estafar al alcalde de Dosquebradas con falsas ayudas para el terremoto",
+      "resumen": "El alcalde de Dosquebradas (Risaralda), Roberto Jiménez Naranjo, denunció que fue víctima de una estafa tras el sismo del 10 de agosto: personas que se hicieron pasar por un congresista le prometieron el envío de auxilios e insumos millonarios y le exigieron pagar antes el flete y el transporte de los materiales desde Bogotá, según El Tiempo. El caso se suma a las alertas de engaños que aprovechan la emergencia para pedir dinero por supuestas ayudas.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-dosquebradas-denuncia-que-fue-victima-de-estafa-tras-falsas-promesas-de-ayudas-por-el-terremoto-se-hicieron-pasar-por-un-senador-3588490"
+    },
+    {
+      "id": "co-20260923-elpais-balance-alcaldia-cali-fase2",
+      "fecha": "2026-09-23",
+      "titulo": "Cali inicia la fase de estabilización y recuperación con 3.403 edificaciones evaluadas y unas 45.000 familias damnificadas (corte 23/09)",
+      "resumen": "Con corte a las 8:00 a. m. del 23 de septiembre, la Alcaldía de Cali reporta 3.403 predios caracterizados con el protocolo ATC-20, bajo los lineamientos de la UNGRD, y más de 45.000 familias damnificadas por el sismo del 10 de agosto, según El País (Cali). La Administración Distrital inició formalmente la Fase 2 de atención, centrada en la estabilización y recuperación de la infraestructura afectada.",
+      "fuente": "El País (Cali)",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-entrega-balance-de-gestion-tras-el-sismo-mas-de-3400-edificaciones-evaluadas-y-45000-familias-damnificadas-2338.html"
+    },
+    {
+      "id": "co-20260923-elpais-asamblea-valle-98000-millones",
+      "fecha": "2026-09-23",
+      "titulo": "La Asamblea del Valle aprueba reorientar 98.000 millones de pesos a vivienda, educación e infraestructura tras el terremoto",
+      "resumen": "La Asamblea Departamental del Valle del Cauca aprobó por unanimidad modificar el presupuesto de 2026 para redistribuir 98.000 millones de pesos procedentes de un crédito hacia la atención de la emergencia del 10 de agosto, informó El País (Cali). Según la Gobernación, 50.000 millones irán a vivienda y 20.000 millones a educación, y el resto a infraestructura.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/asamblea-del-valle-modifica-presupuesto-de-2026-y-aprueba-98000-millones-para-atender-emergencia-por-terremoto-del-10-de-agosto-2327.html"
+    },
+    {
+      "id": "co-20260923-elpais-ariguani-estudios-torres",
+      "fecha": "2026-09-23",
+      "titulo": "Las torres que siguen en pie del conjunto Ariguaní, en Cali, pasarán por estudios estructurales para definir su reforzamiento",
+      "resumen": "La Alcaldía de Cali avanza en la recuperación del Conjunto Residencial Ariguaní, en el sur de la ciudad, donde colapsó una de sus torres durante el terremoto del 10 de agosto, informó El País (Cali). Las torres que no se desplomaron serán sometidas a estudios de ingeniería estructural y patológica para definir las obras de reforzamiento necesarias.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-avanza-en-recuperacion-del-conjunto-residencial-ariguani-afectado-por-el-terremoto-torres-seran-analizadas-2340.html"
     },
     {
       "id": "co-20260922-infobae-taxis-planilla-puvo",
