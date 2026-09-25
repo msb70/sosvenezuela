@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-24",
+  "actualizado": "2026-09-25",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260925-infobae-ocha-vacios-informacion",
+      "fecha": "2026-09-25",
+      "titulo": "OCHA alerta de vacíos de información y atención tras un terremoto que ya suma 486.917 personas afectadas",
+      "resumen": "La Oficina de la ONU para la Coordinación de Asuntos Humanitarios (OCHA) advierte que persisten vacíos de información y de atención en varias regiones golpeadas por el sismo del 10 de agosto, sobre todo en municipios apartados y zonas rurales del Chocó y el Valle, según Infobae citando a Blu Radio. Con corte al 23 de septiembre, su informe recoge 486.917 personas afectadas (303.934 familias) en 500 municipios de 16 departamentos, 335 fallecidos, 4.516 heridos, 105 desaparecidos y 36.478 viviendas destruidas. OCHA avisa de que estos balances aún pueden cambiar.",
+      "fuente": "Infobae",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/25/ocha-alerta-vacios-de-informacion-y-atencion-tras-terremoto-que-deja-486917-afectados-en-colombia/"
+    },
+    {
+      "id": "co-20260924-infobae-cooperativas-creditos-no-asociados",
+      "fecha": "2026-09-24",
+      "titulo": "Los damnificados del terremoto podrán pedir créditos y abrir cuentas en cooperativas sin ser asociados",
+      "resumen": "El Decreto Legislativo 1416 del 17 de septiembre, dictado en el marco del estado de emergencia, permite de forma temporal que las cooperativas de ahorro y crédito concedan préstamos y presten servicios de depósito a personas y empresas afectadas por el sismo aunque no sean asociadas, según Infobae. La medida busca llevar financiación y subsidios a municipios donde la banca tradicional no opera; Fogacoop explicó su alcance.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/america/inhouse/2026/09/24/nueva-medida-tras-el-terremoto-en-colombia-permitira-a-afectados-acceder-a-creditos-sin-estar-asociados/"
+    },
     {
       "id": "co-20260924-eltiempo-sgc-chaparral-choco",
       "fecha": "2026-09-24",
@@ -12,6 +34,50 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/hay-relacion-entre-el-enjambre-sismico-de-choco-y-el-registrado-en-chaparral-tolima-sgc-explico-las-seguidillas-de-temblores-que-se-han-presentado-3588459"
+    },
+    {
+      "id": "co-20260924-eltiempo-sgc-arcila-actividad-sismica",
+      "fecha": "2026-09-24",
+      "titulo": "El Servicio Geológico diferencia las réplicas del Chocó del enjambre del Tolima y advierte que los sismos seguirán",
+      "resumen": "Mónica Arcila, directora de Geoamenazas del Servicio Geológico Colombiano, explicó a El Tiempo que el país vive dos fenómenos a la vez: la secuencia de réplicas del sismo de magnitud 7,4 del 10 de agosto y un nuevo enjambre en Chaparral y Roncesvalles (Tolima). Según la experta, ambos responden a la compleja dinámica tectónica del noroccidente de Suramérica, pero no son exactamente el mismo tipo de actividad, y los sismos «nos van a seguir afectando».",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/que-estamos-viviendo-en-terminos-sismicos-en-colombia-experta-del-sgc-explica-que-pasa-en-tolima-y-choco-los-sismos-nos-van-a-seguir-afectando-3588555"
+    },
+    {
+      "id": "co-20260924-eltiempo-bancomundial-200-millones",
+      "fecha": "2026-09-24",
+      "titulo": "El Banco Mundial aprueba otros 200 millones de dólares para la recuperación tras el terremoto",
+      "resumen": "El Banco Mundial aprobó 200 millones de dólares adicionales para apoyar la atención y la recuperación de las zonas golpeadas por el terremoto del 10 de agosto, informó El Tiempo. Se suman a los 200 millones de una línea contingente aprobada en febrero de 2025 que se desembolsó tras la tragedia y fue una de las primeras fuentes externas de recursos para atender la emergencia.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/banco-mundial-amplia-apoyo-a-colombia-tras-terremoto-aprueba-otros-us-200-millones-para-atender-emergencia-3588718"
+    },
+    {
+      "id": "co-20260924-elpais-pascual-guerrero-grietas",
+      "fecha": "2026-09-24",
+      "titulo": "El estadio Pascual Guerrero de Cali mantiene cerrado un sector de la tribuna occidental por las grietas del terremoto",
+      "resumen": "Un video difundido por un aficionado muestra grandes grietas y un escalón a punto de desprenderse en el tercer piso de la tribuna occidental del estadio Pascual Guerrero, informó El País (Cali). La Secretaría de Deportes de Cali cerró ese sector tras la inspección posterior al sismo del 10 de agosto, que concluyó que la estructura principal no sufrió daños, y el estadio sigue operando solo con las tribunas habilitadas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/deportes/video-las-impresionantes-grietas-que-dejo-el-terremoto-en-una-de-las-tribunas-del-estadio-pascual-guerrero-hay-restriccion-en-esa-zona-2440.html"
+    },
+    {
+      "id": "co-20260924-elpais-minvivienda-20000-viviendas",
+      "fecha": "2026-09-24",
+      "titulo": "El Ministerio de Vivienda proyecta 20.000 viviendas nuevas en tres años para la reconstrucción tras el terremoto",
+      "resumen": "El ministro de Vivienda, Jaime Andrés Beltrán, explicó a El País (Cali) que el plan de reconstrucción, articulado con el Fondo Milagro, prevé 20.000 viviendas nuevas en los próximos tres años para las familias afectadas por el sismo. El anuncio se hizo en Cali durante la entrega simbólica, por parte del Gobierno y seis constructoras, de nueve apartamentos a personas que sufrieron amputaciones u otras heridas graves en el terremoto del 10 de agosto.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/reconstruccion-de-cali-minvivienda-proyecta-20000-viviendas-nuevas-en-los-proximos-tres-anos-asi-es-el-plan-2428.html"
     },
     {
       "id": "co-20260923-infobae-volveremos-fest-pereira",
@@ -34,6 +100,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/09/23/oscar-benavides-respondio-ante-la-corte-suprema-por-colecta-para-damnificados-del-choco-a-mi-cuenta-bancaria-no-entro-ningun-peso/"
+    },
+    {
+      "id": "co-20260923-eltiempo-presupuesto-525-billones",
+      "fecha": "2026-09-23",
+      "titulo": "El Gobierno anuncia 5,25 billones de pesos en el Presupuesto de 2027 para atender la emergencia por el terremoto",
+      "resumen": "Durante el debate del Presupuesto General de la Nación para 2027 (596,7 billones de pesos) en las comisiones económicas conjuntas del Congreso, el Ministerio de Hacienda anunció 5,25 billones de pesos destinados a atender la emergencia por el terremoto, según El Tiempo. El ministro Miguel Gómez defendió además una estrategia de reducción del gasto al advertir que el país llegó al límite de financiarse con deuda.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/en-comisiones-conjuntas-gobierno-defiende-presupuesto-y-anuncia-5-25-billones-para-atender-emergencia-por-terremoto-3588439"
     },
     {
       "id": "co-20260923-eltiempo-facturas-emcali-inhabitables",
