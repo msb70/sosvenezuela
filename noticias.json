@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-24",
+  "actualizado": "2026-09-25",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260925-infobae-puerto-laguaira-96",
+      "fecha": "2026-09-25",
+      "titulo": "El Ministerio de Transporte cifra en 96-97 % la recuperación de las operaciones del puerto de La Guaira",
+      "resumen": "El ministro de Transporte, Francisco Garcés, afirmó que el puerto de La Guaira recuperó entre el 96 % y el 97 % de sus operaciones a tres meses del doble terremoto, aunque partes de la infraestructura portuaria requieren un plan de rehabilitación de mayor alcance, según recoge Infobae. Sobre Maiquetía, indicó que una de las pistas ya fue reparada y la otra, con daños mayores, demandará más tiempo; 19 aerolíneas, 11 de ellas internacionales, operan desde las terminales temporales habilitadas el 1 de septiembre.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/25/venezuela-anuncio-la-recuperacion-casi-total-de-las-operaciones-en-el-puerto-de-la-guaira-tras-los-danos-del-doble-terremoto/"
+    },
+    {
+      "id": "ve-20260925-elnacional-moron-tres-meses",
+      "fecha": "2026-09-25",
+      "titulo": "Morón, a tres meses de los terremotos: reparaciones en Colinas de Mara y bloques de Cadafe aún sin evaluar",
+      "resumen": "En Morón (Carabobo), donde murieron 15 personas y 273 familias perdieron sus casas, la misión Venezuela Renace repara los bloques 3, 4 y 5 de Colinas de Mara, con daños solo de mampostería, según un reportaje de El Nacional. En los bloques del antiguo Cadafe los trabajos no han comenzado: están deshabitados y los damnificados esperan en refugios los resultados de las inspecciones estructurales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/moron-a-tres-meses-de-los-terremotos-lo-que-se-hace-y-lo-que-falta/"
+    },
+    {
+      "id": "ve-20260925-cronicauno-catia-templo-danado",
+      "fecha": "2026-09-25",
+      "titulo": "Al menos 25 de las 100 iglesias de la Arquidiócesis de Caracas sufrieron daños por los terremotos",
+      "resumen": "El vicario general de la Arquidiócesis de Caracas, Neptalí Balza, indicó que al menos 25 de las 100 iglesias de la circunscripción sufrieron daños de distinta magnitud por los sismos del 24 de junio, según Crónica.Uno. Entre ellas, el templo Santos Ángeles Custodios, en Lomas de Urdaneta (Catia), tiene daños estructurales en sus niveles superiores y su feligresía busca fondos para repararlo sin ayuda estatal.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/feligresia-catia-pide-ayuda-reparar-templo-terremotos/"
+    },
+    {
+      "id": "ve-20260924-elnacional-worldvision-agua-ninez",
+      "fecha": "2026-09-24",
+      "titulo": "World Vision alerta de falta de agua potable y de riesgos sanitarios en campamentos de damnificados",
+      "resumen": "World Vision informó que su respuesta ha alcanzado a 130.321 personas de 27.809 hogares, entre ellas 38.663 menores, y que los damnificados de La Guaira, Miranda y Distrito Capital siguen sin acceso regular a agua potable y alimentación, según El Nacional. La organización advierte de más casos de deshidratación y enfermedades gastrointestinales en los campamentos por el calor y las lluvias, y mantiene 20 Espacios Amigables para la Niñez.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/terremotos-venezuela-world-vision-falta-agua-ninez-2026/"
+    },
     {
       "id": "ve-20260924-elnacional-laguaira-comercio-escombros",
       "fecha": "2026-09-24",
@@ -25,6 +69,17 @@
       "url": "https://www.elnacional.com/2026/09/terremoto-la-guaira-damnificados-carpas-reconstruccion-viviendas-2026/"
     },
     {
+      "id": "ve-20260924-elnacional-cruzroja-24000-asistidos",
+      "fecha": "2026-09-24",
+      "titulo": "La Cruz Roja Venezolana ha asistido a unas 24.000 personas en La Guaira en tres meses",
+      "resumen": "La Cruz Roja Venezolana atendió a más de 6.000 familias damnificadas en La Guaira, unas 24.000 personas, con más de 760 actividades de 24 filiales y 1.600 voluntarios, según recoge El Nacional. Mantiene servicios de salud, agua potable y apoyo psicosocial en cuatro parroquias, entre ellos el hospital de campaña de Macuto, el campamento transitorio de Ciudad Caribia y un punto comunitario en Catia La Mar.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/cruz-roja-venezolana-asiste-24000-damnificados-la-guaira-2026/"
+    },
+    {
       "id": "ve-20260924-elnacional-costo-construccion-sismorresistente",
       "fecha": "2026-09-24",
       "titulo": "Ingenieros explican cuánto cuesta construir y reparar con la norma sismorresistente en Venezuela",
@@ -34,6 +89,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/cuanto-cuesta-construir-y-reparar-edificaciones-en-venezuela/"
+    },
+    {
+      "id": "ve-20260924-efectococuyo-caraballeda-implosiones",
+      "fecha": "2026-09-24",
+      "titulo": "Implosionan al menos diez edificios dañados en Caraballeda mientras familias siguen buscando a desaparecidos",
+      "resumen": "Las autoridades ejecutaron el 24 de septiembre la implosión controlada de al menos diez edificaciones con daños irreversibles en la urbanización Caribe de Caraballeda (La Guaira), donde la remoción de escombros ha dejado terrenos planos, según Efecto Cocuyo. Vecinos que aún buscan a familiares atrapados bajo los escombros denuncian que las maquinarias trabajan sin cuidado, mientras cuadrillas del Ministerio de Obras Públicas y del Plan Venezuela Renace intentan restaurar los inmuebles que quedaron en pie.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/a-3-meses-de-los-sismos-caraballeda-entre-terrenos-planos-refugios-vulnerables-y-la-espera-por-viviendas/"
     },
     {
       "id": "ve-20260924-cronicauno-postales-la-guaira",
