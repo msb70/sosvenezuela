@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25",
+  "actualizado": "2026-09-26",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
@@ -14,6 +14,28 @@
       "url": "https://www.infobae.com/venezuela/2026/09/25/venezuela-anuncio-la-recuperacion-casi-total-de-las-operaciones-en-el-puerto-de-la-guaira-tras-los-danos-del-doble-terremoto/"
     },
     {
+      "id": "ve-20260925-elnacional-sobrevivientes-volver-a-empezar",
+      "fecha": "2026-09-25",
+      "titulo": "Sobrevivientes de los terremotos, entre casas prestadas, alquileres y edificios por demoler a tres meses del sismo",
+      "resumen": "Un reportaje de El Nacional recoge testimonios de damnificados de La Guaira que, tres meses después de los terremotos, no han podido volver a sus viviendas o saben que sus edificios serán demolidos. Muchas familias viven en casas prestadas o pagan alquiler mientras esperan la asignación de viviendas o créditos anunciados por las autoridades.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/sobrevivientes-de-los-terremotos-intentan-reconstruir-sus-vidas/"
+    },
+    {
+      "id": "ve-20260925-elnacional-ops-equipos-medicos",
+      "fecha": "2026-09-25",
+      "titulo": "La OPS y las autoridades sanitarias preparan una hoja de ruta de Equipos Médicos de Emergencia tras los terremotos",
+      "resumen": "La Organización Panamericana de la Salud inició con las autoridades sanitarias venezolanas un taller de seis días para implantar Equipos Médicos de Emergencia (EMT) y una Célula de Información y Coordinación Médica, con participación de equipos de salud y rescate de La Guaira y Miranda, según El Nacional. Desde el 24 de junio, la OPS ha movilizado más de 40 toneladas de insumos médicos y apoyado la aplicación de más de 31.000 dosis de vacunas en las zonas afectadas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/la-ops-y-las-autoridades-sanitarias-de-venezuela-disenan-una-hoja-de-ruta-para-reforzar-la-respuesta-medica-ante-emergencias-sismicas/"
+    },
+    {
       "id": "ve-20260925-elnacional-moron-tres-meses",
       "fecha": "2026-09-25",
       "titulo": "Morón, a tres meses de los terremotos: reparaciones en Colinas de Mara y bloques de Cadafe aún sin evaluar",
@@ -23,6 +45,28 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/moron-a-tres-meses-de-los-terremotos-lo-que-se-hace-y-lo-que-falta/"
+    },
+    {
+      "id": "ve-20260925-elnacional-inspecciones-65000",
+      "fecha": "2026-09-25",
+      "titulo": "La comisión de habitabilidad detecta «prácticas inadecuadas» de construcción tras inspeccionar más de 65.000 edificaciones",
+      "resumen": "El ministro de Transporte y presidente de la comisión presidencial de habitabilidad, Francisco Garcés, informó en Unión Radio que las inspecciones a más de 65.000 viviendas y edificaciones tras los terremotos revelaron métodos constructivos inadecuados en inmuebles colapsados o muy dañados, y que no se permitirán nuevas construcciones en La Guaira que no eleven los estándares sismorresistentes, según El Nacional. Garcés ratificó la meta de 4.000 viviendas este año, con más de 1.000 adjudicadas, y las autoridades reportan recogido cerca del 40 % de los escombros.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/francisco-garces-confirma-el-hallazgo-de-practicas-inadecuadas-en-la-inspeccion-de-mas-de-65-000-edificaciones-tras-el-terremoto/"
+    },
+    {
+      "id": "ve-20260925-elnacional-balance-oficial-sin-actualizar",
+      "fecha": "2026-09-25",
+      "titulo": "El balance oficial de víctimas de los terremotos cumple un mes sin actualizarse",
+      "resumen": "El último boletín oficial, del 24 de agosto, cifraba en 6.509 los fallecidos, en 6.462 los rescatados y en 226.696 las personas atendidas en hospitales; desde entonces no se ha publicado otro, según El Nacional. La cifra oficial de desaparecidos sigue en 157 desde el 25 de junio, mientras el gobernador de La Guaira habló de más de 1.500 y varias ONG documentan cifras muy superiores; Amnistía Internacional ha pedido datos desglosados.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-de-delcy-rodriguez-tiene-un-mes-sin-publicar-el-balance-oficial-por-los-terremotos/"
     },
     {
       "id": "ve-20260925-cronicauno-catia-templo-danado",
