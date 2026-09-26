@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25",
+  "actualizado": "2026-09-26",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
     {
@@ -12,6 +12,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/09/25/ocha-alerta-vacios-de-informacion-y-atencion-tras-terremoto-que-deja-486917-afectados-en-colombia/"
+    },
+    {
+      "id": "co-20260925-infobae-mi-casa-milagro-reconstruccion",
+      "fecha": "2026-09-25",
+      "titulo": "El Gobierno reorienta los subsidios de vivienda de 'Mi Casa Milagro' hacia la reconstrucción de las zonas afectadas por el terremoto",
+      "resumen": "El ministro de Vivienda, Jaime Andrés Beltrán, anunció que los recursos de Mi Casa Milagro, sucesor del programa Mi Casa Ya, se administrarán desde el Fondo Milagro con prioridad para los territorios golpeados por el sismo del 10 de agosto, según Infobae. La decisión aplaza la reactivación general de los subsidios de vivienda en el resto del país, suspendidos desde diciembre de 2024, por lo que muchos hogares fuera de las zonas afectadas no podrán acceder a ellos por ahora.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/25/gobierno-de-abelardo-de-la-espriella-anuncio-cambios-en-el-programa-mi-casa-ya-por-mi-casa-milagro-muchos-ya-no-podran-acceder-a-subsidios/"
+    },
+    {
+      "id": "co-20260925-eltiempo-mirador-filandia-demolicion",
+      "fecha": "2026-09-25",
+      "titulo": "El mirador 'Colina Iluminada' de Filandia, en Quindío, será demolido por los daños del terremoto",
+      "resumen": "El alcalde de Filandia, Duverney Pareja, anunció que los conceptos técnicos aconsejan demoler el mirador 'Colina Iluminada', una torre de madera de 35 metros y 21 años de antigüedad, según El Tiempo. Permanece cerrado desde el 10 de agosto por recomendación de ingenieros del IDIGER de Bogotá, que también restringieron el acceso a la Casa del Artesano; en 2024 se habían invertido cerca de 900 millones de pesos en su mantenimiento.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-emblematico-y-recordado-mirador-turistico-de-filandia-quindio-sera-demolido-tras-danos-causados-por-el-terremoto-del-10-de-agosto-3588929"
+    },
+    {
+      "id": "co-20260925-eltiempo-clinica-comfamiliar-pereira",
+      "fecha": "2026-09-25",
+      "titulo": "La Clínica Comfamiliar de Pereira, que perdió el 83 % de su capacidad por el terremoto, busca 380.000 millones de pesos para reconstruirse",
+      "resumen": "Comfamiliar Risaralda creó la Fundación Incondicionales con Risaralda, sin ánimo de lucro, para recaudar los recursos con los que reconstruir su clínica de Pereira, que tras el sismo del 10 de agosto quedó con el 83,63 % de su capacidad operativa fuera de servicio, según El Tiempo. La clínica llevaba 29 años funcionando y es uno de los principales centros hospitalarios de Risaralda, una región que ya arrastraba un déficit de entre 750 y 850 camas hospitalarias.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/asi-buscan-reconstruir-la-clinica-de-pereira-que-perdio-el-83-de-su-capacidad-tras-el-terremoto-buscan-380-000-millones-3588972"
+    },
+    {
+      "id": "co-20260925-elpais-nueve-viviendas-sobrevivientes",
+      "fecha": "2026-09-25",
+      "titulo": "El Gobierno y seis constructoras entregan nueve apartamentos a sobrevivientes del terremoto en Cali que perdieron extremidades",
+      "resumen": "En un acto celebrado el 24 de septiembre en la Fundación Valle del Lili, el Gobierno nacional, la Alcaldía de Cali y las constructoras Jaramillo Mora, Meléndez, Cusezar, Bolívar, Solanillas y Prodesa entregaron nueve apartamentos a personas heridas en el sismo del 10 de agosto que perdieron alguna extremidad, según El País (Cali). Entre las beneficiarias está Stephany Echavarría, sobreviviente del edificio Airuaní que perdió las dos piernas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/abelardo-de-la-espriella-y-un-grupo-de-constructoras-entrega-nueve-viviendas-a-sobrevivientes-del-terremoto-de-cali-2427.html"
+    },
+    {
+      "id": "co-20260925-elpais-convocatoria-cultura-levantarnos",
+      "fecha": "2026-09-25",
+      "titulo": "Cali abre una convocatoria de 1.300 millones de pesos para recuperar el sector cultural afectado por el terremoto",
+      "resumen": "La Secretaría de Cultura de Cali abrió el tercer ciclo de la Convocatoria Estímulos 2026 'Cultura para levantarnos', con más de 1.300 millones de pesos para la recuperación y reactivación del sector cultural tras el sismo del 10 de agosto, según El País (Cali). Pueden participar personas naturales, personas jurídicas y grupos conformados; la estrategia combina los programas de Estímulos y de Concertación.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/secretaria-de-cultura-abre-convocatoria-para-recuperar-al-sector-cultural-de-cali-afectado-por-el-terremoto-asi-puede-aplicar-2511.html"
+    },
+    {
+      "id": "co-20260925-elpais-carga-cuidado-mujeres",
+      "fecha": "2026-09-25",
+      "titulo": "Un informe advierte que el terremoto aumentó la carga de cuidado sobre las mujeres en Cali",
+      "resumen": "El informe 'El peso invisible del cuidado', de la Fundación WWB Colombia, señala que el 57 % de las personas fallecidas en el sismo del 10 de agosto fueron mujeres, proporción que en Cali llegó al 63 %, según cifras del Observatorio para la Equidad de las Mujeres recogidas por El País (Cali). El estudio advierte que la interrupción de la educación y la atención en salud trasladó a los hogares tareas de cuidado de mayores, enfermos y niños, además de la gestión de ayudas, que recaen sobre todo en ellas y dificultan la recuperación de sus ingresos.",
+      "fuente": "El País (Cali)",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/terremoto-en-cali-aumento-la-carga-de-cuidado-sobre-las-mujeres-advierte-informe-2556.html"
     },
     {
       "id": "co-20260924-infobae-cooperativas-creditos-no-asociados",
