@@ -1,7 +1,41 @@
 {
-  "actualizado": "2026-09-26",
+  "actualizado": "2026-09-27",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260927-efectococuyo-busqueda-desaparecido-escombros",
+      "fecha": "2026-09-27",
+      "titulo": "A tres meses del doble terremoto, familias de La Guaira siguen buscando a sus desaparecidos entre los escombros",
+      "resumen": "Efecto Cocuyo relata el caso de Carmen Campos de Pérez, que desde el 24 de junio busca en La Guaira el cuerpo de su esposo, Óscar Daniel Pérez Plana, de 61 años, atrapado bajo las ruinas de un edificio. Se niega a abandonar el lugar o a tramitar una nueva vivienda hasta recuperarlo, y afirma que otras familias continúan en la misma situación a 91 días del doblete sísmico.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/a-tres-meses-del-doble-terremoto-carmen-campos-de-perez-no-deja-de-buscar-a-su-esposo-entre-los-escombros/",
+      "autor": "Reynaldo Mozo Zambrano"
+    },
+    {
+      "id": "ve-20260926-lapatilla-acompanamiento-psicologico-medico",
+      "fecha": "2026-09-26",
+      "titulo": "Voluntarios médicos advierten de la necesidad de acompañamiento psicológico y médico organizado en La Guaira",
+      "resumen": "A tres meses del doblete sísmico, la médica cirujana Moileybick Parada, parte de un grupo de voluntarios de Barquisimeto que trabaja en La Guaira, afirmó que faltan especialistas para atender a las comunidades afectadas. Según el reporte de Radio Fe y Alegría recogido por La Patilla, hay personas en estado de shock que no se alejan de sus hogares y pacientes que abandonan el tratamiento de enfermedades crónicas.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/26/acompanamiento-psicologico-y-medico-organizado-necesidades-a-tres-meses-del-doblete-sismico/"
+    },
+    {
+      "id": "ve-20260926-elnacional-dragone-normas-sismicas",
+      "fecha": "2026-09-26",
+      "titulo": "La evaluación de daños tras los terremotos servirá para actualizar las normas sísmicas de Venezuela, según la ingeniera Silvana Dragone",
+      "resumen": "La ingeniera sísmica Silvana Dragone, que trabaja desde hace casi tres meses en la zona cero con Miyamoto International y un equipo de 80 ingenieros, dijo a El Nacional que del estudio saldrán lineamientos para actualizar la norma sismorresistente vigente, COVENIN 1756-1:2019. La metodología de evaluación de daños se extenderá entre ingenieros venezolanos para las próximas etapas de la reconstrucción, dado que la fuerza del sismo superó lo previsto en estudios anteriores.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/silvana-dragone-del-estudio-tras-los-terremotos-saldran-lineamientos-para-actualizar-las-normas-sismicas-de-venezuela/"
+    },
     {
       "id": "ve-20260925-infobae-puerto-laguaira-96",
       "fecha": "2026-09-25",
