@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-26",
+  "actualizado": "2026-09-27",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260926-infobae-adopta-un-hogar-antioquia",
+      "fecha": "2026-09-26",
+      "titulo": "El programa 'Adopta un Hogar' entrega en Ciudad Bolívar (Antioquia) su segunda vivienda reconstruida tras el terremoto",
+      "resumen": "Una familia caficultora de la vereda Alto de Los Jaramillos, en Ciudad Bolívar, recibió una nueva casa en sustitución de la que dañó el sismo del 10 de agosto, según Infobae. Es la segunda vivienda terminada por la iniciativa de Grupo Argos y el cantante Nicky Jam, y la primera en Antioquia; se construyó con perfiles de acero galvanizado (steel framing) y la selección del hogar contó con la Gobernación de Antioquia y la Alcaldía.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/26/entregan-segunda-vivienda-en-antioquia-de-adopta-un-hogar-el-programa-de-nicky-jam-para-damnificados-por-el-terremoto/"
+    },
+    {
+      "id": "co-20260926-eltiempo-caficultores-eje-cafetero",
+      "fecha": "2026-09-26",
+      "titulo": "Los caficultores del Eje Cafetero, aún sin reponerse del terremoto, afrontan ahora el fenómeno de El Niño",
+      "resumen": "Los productores de café de Caldas, Quindío y Risaralda sufrieron pérdidas millonarias por el sismo del 10 de agosto, que dañó sobre todo viviendas y beneficiaderos justo al inicio de la cosecha de fin de año, según El Tiempo. A ello se suman ahora las altas temperaturas y la sequía de El Niño, que han elevado la infestación de plagas como la broca.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-drama-que-viven-los-caficultores-del-eje-cafetero-aun-no-se-reponen-del-sismo-del-10-de-agosto-y-el-fenomeno-del-nino-ya-los-golpea-3589226"
+    },
+    {
+      "id": "co-20260926-elpais-gobernacion-40-viviendas-bugalagrande",
+      "fecha": "2026-09-26",
+      "titulo": "La Gobernación del Valle anuncia 40 viviendas nuevas y entrega 150 kits de materiales en Bugalagrande para familias afectadas por el terremoto",
+      "resumen": "En Bugalagrande se entregaron 150 kits de materiales para reparar viviendas dañadas por el sismo del 10 de agosto, y la Gobernación del Valle anunció la construcción de 40 viviendas nuevas para familias que perdieron su casa, según El País (Cali). Las nuevas viviendas se levantarán con un esquema de autoconstrucción asistida.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/terremoto-en-colombia-gobernacion-anuncia-40-viviendas-nuevas-para-familias-afectadas-en-el-valle-2641.html"
+    },
     {
       "id": "co-20260925-infobae-ocha-vacios-informacion",
       "fecha": "2026-09-25",
@@ -56,6 +89,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/abelardo-de-la-espriella-y-un-grupo-de-constructoras-entrega-nueve-viviendas-a-sobrevivientes-del-terremoto-de-cali-2427.html"
+    },
+    {
+      "id": "co-20260925-elpais-muro-iglesia-manizales",
+      "fecha": "2026-09-25",
+      "titulo": "Se desploma un muro de la parroquia Nuestra Señora del Carmen de Manizales durante los trabajos de desmonte por el terremoto",
+      "resumen": "Un muro de la parroquia Nuestra Señora del Carmen, en el barrio El Carmen de Manizales, se cayó el 25 de septiembre mientras se adelantaban trabajos de desmonte en el templo, dañado por el sismo del 10 de agosto, según El País (Cali). El momento quedó grabado en video y generó preocupación entre los vecinos.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/video-muro-de-iglesia-en-manizales-se-cayo-durante-trabajos-de-desmonte-tras-el-terremoto-2515.html"
+    },
+    {
+      "id": "co-20260925-elpais-demolicion-guadalupe-cierres",
+      "fecha": "2026-09-25",
+      "titulo": "Avanza la demolición del conjunto Guadalupe en el sur de Cali, con cierres viales en la zona",
+      "resumen": "La Alcaldía de Cali continúa con maquinaria especializada la demolición del conjunto Guadalupe (calle 3 con carrera 56, detrás de la Arena Cañaveralejo), uno de los cerca de 16 edificios de su lista de demolición por daños del terremoto, según El País (Cali). La Secretaría de Movilidad restringió el tránsito en las vías aledañas y en la calle 12A con carrera 56.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/labores-de-demolicion-de-edificios-afectados-por-el-terremoto-siguen-al-sur-de-cali-conozca-los-cierres-viales-2515.html"
     },
     {
       "id": "co-20260925-elpais-convocatoria-cultura-levantarnos",
