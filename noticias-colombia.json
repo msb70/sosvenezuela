@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-09-27",
+  "actualizado": "2026-09-28",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260927-infobae-plan-marshall-choco-conectividad",
+      "fecha": "2026-09-27",
+      "titulo": "El Gobierno avanza en el componente de conectividad del Plan Marshall para el Chocó tras el terremoto: 1 billón de pesos para vías y el aeropuerto de Bahía Solano",
+      "resumen": "El Ministerio de Transporte proyecta una inversión de 1 billón de pesos para cinco corredores viales y el aeropuerto José Celestino Mutis de Bahía Solano, con el fin de atender las afectaciones del terremoto del 10 de agosto en el Chocó, según Infobae. La mitad (500.000 millones) llegaría por Obras por Impuestos y la otra mitad de aportes empresariales; la primera obra sería el corredor hacia el Darién y Urabá.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/27/gobierno-de-la-espriella-avanzo-con-el-plan-marshall-para-el-choco-tras-el-terremoto-del-10-de-agosto-mas-de-1-billon-de-inversion-para-conectividad/"
+    },
+    {
+      "id": "co-20260927-eltiempo-medicina-legal-palacio-justicia",
+      "fecha": "2026-09-27",
+      "titulo": "Grietas y daños persisten en Medicina Legal y el Palacio de Justicia de Cali 48 días después del terremoto",
+      "resumen": "El sindicato Asonal Judicial exige frenar el retorno de los trabajadores al Palacio de Justicia de Cali por los daños que aún presenta el edificio tras el sismo de magnitud 7,4 del 10 de agosto, informa El Tiempo. La sede de Medicina Legal también mantiene grietas, lo que afecta la administración de justicia y los servicios forenses en la ciudad.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/videos-sos-por-drama-que-aun-viven-trabajadores-por-grietas-y-mas-danos-en-medicina-legal-y-el-palacio-de-justicia-de-cali-tras-el-terremoto-3589345"
+    },
+    {
+      "id": "co-20260927-elpais-demoliciones-moulin-rouge-guadalupe",
+      "fecha": "2026-09-27",
+      "titulo": "Avanzan las demoliciones del Moulin Rouge y la Unidad Residencial Guadalupe en Cali, mientras otras familias esperan saber si podrán volver a casa",
+      "resumen": "En el barrio Olímpico, en el sur de Cali, avanza la demolición del apartahotel Moulin Rouge, que el terremoto del 10 de agosto dejó en gran parte convertido en escombros, y también la de la Unidad Residencial Guadalupe, según El País (Cali). En otros edificios averiados, las familias siguen a la espera de conocer si sus viviendas podrán ser rehabitadas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/el-terremoto-no-termino-la-replica-dolorosa-que-viven-familias-de-cali-con-las-demoliciones-2745.html"
+    },
+    {
+      "id": "co-20260927-elpais-andi-obras-por-impuestos-valle",
+      "fecha": "2026-09-27",
+      "titulo": "Los empresarios de la Andi respaldarán proyectos de reconstrucción en Buenaventura y otros municipios del Valle",
+      "resumen": "La gobernadora del Valle, Dilian Francisca Toro, propuso en la junta directiva de la Andi el mecanismo de Obras por Impuestos para financiar la reconstrucción tras el terremoto, y los empresarios se sumaron al proceso, informa El País (Cali). La Gobernación busca articular recursos públicos y privados ahora que el departamento pasó de la respuesta humanitaria inmediata a la fase de reconstrucción.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/empresarios-de-la-andi-respaldaran-proyectos-de-reconstruccion-en-buenaventura-y-otros-municipios-del-valle-2737.html"
+    },
     {
       "id": "co-20260926-infobae-adopta-un-hogar-antioquia",
       "fecha": "2026-09-26",
