@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-28",
+  "actualizado": "2026-09-29",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260928-elnacional-entrega-181-viviendas",
+      "fecha": "2026-09-28",
+      "titulo": "El Ejecutivo entrega 181 viviendas a damnificados de Caracas, Miranda y Carabobo y eleva a 709 las unidades nuevas adjudicadas",
+      "resumen": "En un acto en el Urbanismo Simón Bolívar de Fuerte Tiuna (Caracas), el Gobierno adjudicó 181 viviendas a familias que perdieron sus casas en el doble terremoto del 24 de junio, entre ellas 77 apartamentos en los Valles del Tuy (Miranda) y 88 en Los Guayos (Carabobo), según El Nacional. Con esta entrega suman 709 viviendas nuevas adjudicadas a damnificados, y el plan Venezuela Renace reporta 1.800 estructuras residenciales rehabilitadas por daños moderados o menores.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-entrego-181-viviendas-para-familias-damnificadas-por-el-terremoto-en-caracas-miranda-y-carabobo/"
+    },
+    {
+      "id": "ve-20260928-cronicauno-liceo-luis-hurtado-rezonificacion",
+      "fecha": "2026-09-28",
+      "titulo": "Representantes del liceo Luis Hurtado Higuera de El Junquito rechazan la reubicación de 1.980 alumnos mientras el plantel sirve de refugio",
+      "resumen": "La Unidad Educativa Nacional Luis Hurtado Higuera, en el kilómetro 12 de El Junquito (Caracas), aloja a 344 damnificados de 97 familias desde el doblete sísmico del 24 de junio, y el Ministerio de Educación dispuso reubicar a sus 1.980 estudiantes en tres colegios de la zona, informa Crónica.Uno. Al menos 550 representantes rechazan el plan porque reduce las clases a uno o dos días por semana en turno vespertino, los planteles asignados no tienen capacidad para toda la matrícula y en la comunidad solo operan cuatro jeeps de transporte.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/representantes-del-liceo-luis-hurtado-en-el-junquito-rechazan-rezonificacion-de-1980-estudiantes/"
+    },
     {
       "id": "ve-20260927-elnacional-gala-tampa-hospital-ortopedico",
       "fecha": "2026-09-27",
