@@ -1,7 +1,106 @@
 {
-  "actualizado": "2026-09-28",
+  "actualizado": "2026-09-29",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260928-eltiempo-influencer-casas-buenaventura",
+      "fecha": "2026-09-28",
+      "titulo": "Una creadora de contenido financia con recursos propios la reconstrucción de ocho casas en Buenaventura dañadas por el terremoto",
+      "resumen": "La creadora de contenido conocida como 'La Reina del Chontaduro' anunció que financiará la reconstrucción de ocho viviendas de Buenaventura afectadas por el terremoto de magnitud 7,4 del 10 de agosto, informa El Tiempo. La iniciativa surgió tras los testimonios de damnificados difundidos en redes sociales.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/reconocida-influencer-financio-la-reconstruccion-de-ocho-casas-en-buenaventura-tras-el-fuerte-terremoto-no-se-necesita-ser-millonario-3589423"
+    },
+    {
+      "id": "co-20260928-eltiempo-fasecolda-seguros-catastrofes",
+      "fecha": "2026-09-28",
+      "titulo": "Fasecolda propone incluir en el Plan de Desarrollo alianzas público-privadas de seguros contra catástrofes tras el terremoto",
+      "resumen": "El terremoto del 10 de agosto abrió el debate sobre la baja cobertura de Colombia frente a riesgos catastróficos, y Fasecolda propone al Gobierno esquemas de seguros en alianzas público-privadas dentro del Plan de Desarrollo, según El Tiempo. Con corte al 18 de septiembre, las aseguradoras habían recibido 85.496 reclamaciones por un valor asegurado asociado de 5,5 billones de pesos, y los pagos sumaban 274.590 millones.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/fasecolda-propone-incluir-en-plan-de-desarrollo-seguros-en-alianzas-publico-privadas-contra-catastrofes-tras-terremoto-de-agosto-entrevista-3589072"
+    },
+    {
+      "id": "co-20260928-eltiempo-damnificada-uci-ayudas",
+      "fecha": "2026-09-28",
+      "titulo": "Una damnificada que perdió a su madre y su hogar en el terremoto de Cali denuncia trabas burocráticas para acceder a las ayudas",
+      "resumen": "Constanza Bahamón, de 48 años, sufrió trauma craneal y fracturas en el rostro y la espalda en el terremoto del 10 de agosto, que también le costó la vida a su madre, y pasó por la UCI de la clínica Farallones, en el sur de Cali, relata El Tiempo. Hoy no puede caminar y afirma enfrentar barreras burocráticas para acceder a las ayudas para damnificados.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/mamita-no-la-voy-a-dejar-desgarrador-despertar-en-uci-de-una-damnificada-tras-el-terremoto-que-le-arrebato-a-su-madre-y-su-hogar-clama-por-ayuda-3589642"
+    },
+    {
+      "id": "co-20260928-elpais-yumbo-viviendas",
+      "fecha": "2026-09-28",
+      "titulo": "Familias de Yumbo que perdieron su casa en el terremoto reciben viviendas prefabricadas 50 días después",
+      "resumen": "Cincuenta días después del terremoto, tres familias damnificadas de Yumbo comenzaron a regresar a espacios seguros mientras avanzan las obras de reconstrucción en el municipio, según El País (Cali). Entre las primeras beneficiarias está una mujer de 68 años del corregimiento de San Marcos, que recibió una vivienda prefabricada en reemplazo de su casa de bahareque destruida por el sismo.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/tras-el-terremoto-familias-de-yumbo-reciben-nuevas-viviendas-para-reconstruir-sus-hogares-2810.html"
+    },
+    {
+      "id": "co-20260928-elpais-presupuesto-fondo-milagro",
+      "fecha": "2026-09-28",
+      "titulo": "El Gobierno pide al Congreso modificar el presupuesto para liberar 3,9 billones de pesos: 2,7 billones irían al Fondo Milagro para la reconstrucción",
+      "resumen": "El Gobierno Nacional radicó ante el Congreso un proyecto de ley para modificar el Presupuesto General de 2026 y liberar 3,9 billones de pesos, informa El País (Cali). De ese monto, 2,7 billones se destinarían al Fondo Milagro para la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto y 1,2 billones se trasladarían al sector eléctrico.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/gobierno-pide-al-congreso-modificar-presupuesto-para-liberar-39-billones-y-atender-crisis-electrica-y-terremoto-2815.html"
+    },
+    {
+      "id": "co-20260928-elpais-pot-cali-plazo",
+      "fecha": "2026-09-28",
+      "titulo": "Cali tendrá seis meses más para ajustar su nuevo POT e incorporar las vulnerabilidades reveladas por el terremoto",
+      "resumen": "El Tribunal Administrativo del Valle del Cauca amplió hasta el 9 de julio de 2027 el plazo para que Cali culmine la actualización de su Plan de Ordenamiento Territorial, que vencía el 9 de enero de 2027, informa El País (Cali). El nuevo POT deberá incorporar la información sobre condiciones y vulnerabilidades identificadas tras el sismo del 10 de agosto.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cali-tendra-seis-meses-mas-para-ajustar-su-nuevo-pot-tras-el-terremoto-2855.html"
+    },
+    {
+      "id": "co-20260928-elpais-ocmaes-cena-estudiantes",
+      "fecha": "2026-09-28",
+      "titulo": "La Fundación Ocmaes organiza una cena benéfica para que estudiantes de Cali afectados por el terremoto sigan estudiando",
+      "resumen": "La Fundación Ocmaes celebrará el 14 de octubre en Bogotá una cena benéfica para recaudar fondos destinados a jóvenes de Cali afectados por el terremoto, con el fin de que puedan continuar sus estudios, según El País (Cali). El evento busca reunir a empresarios y aliados comprometidos con la educación.",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/fundacion-ocmaes-prepara-cena-benefica-para-apoyar-a-estudiantes-de-cali-afectados-por-el-terremoto-asi-puede-participar-2824.html"
+    },
+    {
+      "id": "co-20260928-elpais-desvios-sur-cali",
+      "fecha": "2026-09-28",
+      "titulo": "La Alcaldía de Cali habilita nuevos desvíos en el sur de la ciudad por los cierres viales que dejó el terremoto",
+      "resumen": "La Secretaría de Movilidad de Cali habilitó desvíos y nuevos sentidos viales en vías como la Calle 9 y la Avenida Roosevelt para facilitar la circulación de vecinos y comercios afectados por los cierres derivados del terremoto, informa El País (Cali). La medida tendrá una vigencia inicial de entre cuatro y seis meses.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-habilito-nuevos-desvios-en-zonas-afectadas-por-el-terremoto-en-el-sur-de-la-ciudad-para-facilitar-el-transito-vehicular-2816.html"
+    },
+    {
+      "id": "co-20260928-elpais-biblioteca-departamental-albergues",
+      "fecha": "2026-09-28",
+      "titulo": "Con su sede cerrada por el terremoto, la Biblioteca Departamental del Valle lleva talleres y lecturas a albergues y municipios",
+      "resumen": "La Biblioteca Departamental del Valle del Cauca, cuya sede principal de la Calle 5 en Cali sigue cerrada tras el sismo, trasladó sus talleres, lecturas y actividades a albergues, parques, escuelas y municipios del departamento, según El País (Cali). La estrategia itinerante ya suma 54 puntos de atención y más de 3.300 personas atendidas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/tras-el-terremoto-la-biblioteca-departamental-se-toma-las-calles-y-albergues-del-valle-con-oferta-cultural-2847.html"
+    },
     {
       "id": "co-20260927-infobae-plan-marshall-choco-conectividad",
       "fecha": "2026-09-27",
