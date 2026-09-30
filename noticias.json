@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-29",
+  "actualizado": "2026-09-30",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260930-elnacional-ley-arrendamiento-desconfianza",
+      "fecha": "2026-09-30",
+      "titulo": "La Cámara Inmobiliaria afirma que la desconfianza frena la nueva Ley de Arrendamiento aprobada tras el terremoto",
+      "resumen": "La Asamblea Nacional aprobó la Ley de Régimen Especial de Arrendamiento de Inmuebles Destinados a Viviendas para estimular los alquileres y beneficiar a los afectados por el terremoto del 24 de junio, que en La Guaira dejó más de 190 edificios perdidos, recuerda El Nacional. Para Pedro González Travieso, presidente de la Cámara Inmobiliaria de Venezuela, las distorsiones del mercado tras el sismo no permiten todavía medir el impacto real de la ley, y la falta de confianza de los propietarios limita su aplicación.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/la-desconfianza-frena-la-ley-de-arrendamiento/"
+    },
+    {
+      "id": "ve-20260929-elnacional-laguaira-comercio-paralizado",
+      "fecha": "2026-09-29",
+      "titulo": "La Cámara de Comercio de La Guaira estima paralizado más del 50 % del comercio; la Gobernación afirma que el 75 % está activo",
+      "resumen": "Eduardo Quintana, presidente de la Cámara de Comercio y Fedecámaras en La Guaira, informó en Unión Radio que más de la mitad de la actividad comercial del estado sigue paralizada tras el doblete sísmico del 24 de junio y que las pérdidas llegan hasta el 56 %, recoge El Nacional. El gobernador José Alejandro Terán sostiene en cambio que el 75 % de los comercios está activo y que más de la mitad del comercio formal recibió créditos especiales de la banca pública y privada.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fedecamaras-desmiente-cifra-oficial-y-afirma-que-50-del-comercio-en-la-guaira-esta-paralizado/"
+    },
+    {
+      "id": "ve-20260929-cronicauno-lomas-de-urdaneta-bloque-9",
+      "fecha": "2026-09-29",
+      "titulo": "Vecinos del bloque 9 de Lomas de Urdaneta, en Catia, costean inspecciones y reparaciones mientras esperan apoyo oficial",
+      "resumen": "El bloque 9 del Conjunto Residencial Lomas de Urdaneta (Catia, Caracas) presenta escaleras fisuradas, vigas fracturadas, grietas y tuberías rotas tras el doblete sísmico; recibió etiqueta roja, pero los informes técnicos indican que no está en alto riesgo y que los daños son reparables, informa Crónica.Uno. Las familias reúnen fondos para pagar inspecciones y reparaciones —solo la mampostería cuesta hasta 1.000 dólares— a la espera de informes que les permitan solicitar respaldo gubernamental.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/danos-en-el-bloque-9-de-lomas-de-urdaneta-amenazan-a-143-familias-sin-recursos-para-reparaciones/"
+    },
     {
       "id": "ve-20260928-elnacional-entrega-181-viviendas",
       "fecha": "2026-09-28",
