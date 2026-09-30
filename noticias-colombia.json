@@ -1,7 +1,84 @@
 {
-  "actualizado": "2026-09-29",
+  "actualizado": "2026-09-30",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20260930-infobae-carcel-villahermosa-salud",
+      "fecha": "2026-09-30",
+      "titulo": "La Personería de Cali alerta de que seis internos de la cárcel Villahermosa esperan remisiones médicas frenadas por los daños del terremoto en la red hospitalaria",
+      "resumen": "La Personería Distrital de Cali identificó en una visita de verificación a seis internos de la cárcel Villahermosa que necesitan atención especializada externa y cuyas remisiones no se han concretado, informa Infobae. La entidad relaciona las demoras con las afectaciones del terremoto del 10 de agosto sobre la infraestructura y la operación de los centros médicos de la ciudad, y ha pedido explicaciones a las instituciones responsables.",
+      "fuente": "Infobae",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/09/30/alertan-por-crisis-de-salud-en-la-carcel-villahermosa-de-cali-tras-demoras-en-remisiones-medicas/"
+    },
+    {
+      "id": "co-20260930-eltiempo-mineducacion-clases-restablecidas",
+      "fecha": "2026-09-30",
+      "titulo": "El Ministerio de Educación da por restablecido al 100 % el servicio educativo tras el terremoto: 1,27 millones de estudiantes vuelven a clase",
+      "resumen": "El Ministerio de Educación informó que 1.275.967 estudiantes de las zonas afectadas por el terremoto del 10 de agosto ya reciben clases: 990.974 (77,6 %) de forma presencial, 109.640 en alternancia y 175.353 en modalidad híbrida, según El Tiempo. La cartera trabaja para que los 286.186 alumnos que siguen en esquemas transitorios recuperen la presencialidad plena con aulas temporales, reparación de sedes y docentes itinerantes.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/educacion/ministerio-de-educacion-confirma-que-se-restablecieron-las-clases-en-su-totalidad-luego-del-terremoto-en-colombia-3590070"
+    },
+    {
+      "id": "co-20260929-eltiempo-quindio-parroquia-mirador-demolicion",
+      "fecha": "2026-09-29",
+      "titulo": "El gobernador del Quindío pide frenar la demolición de la parroquia de Montenegro y el mirador de Filandia dañados por el terremoto",
+      "resumen": "Tras conocerse que la parroquia San José de Montenegro y el mirador 'Colina Iluminada' de Filandia deberán ser demolidos por los daños del terremoto del 10 de agosto, el gobernador del Quindío, Juan Miguel Galvis, pidió a los alcaldes detener las órdenes y hacer nuevos estudios estructurales, informa El Tiempo. La Gobernación ofrece recursos para evaluar alternativas de reforzamiento o restauración de ambos bienes, de valor histórico y turístico.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernador-del-quindio-pide-frenar-la-demolicion-de-una-parroquia-y-el-emblematico-y-turistico-mirador-tras-terremoto-de-10-agosto-3589968"
+    },
+    {
+      "id": "co-20260929-eltiempo-centro-escombros-corbatin",
+      "fecha": "2026-09-29",
+      "titulo": "Cali habilita en El Corbatín un centro para transformar los escombros del terremoto en materiales de reconstrucción",
+      "resumen": "La Alcaldía de Cali habilitó el Centro de Innovación y Transformación Circular en el predio El Corbatín, donde se recibirán y procesarán los residuos de construcción y demolición generados por el sismo del 10 de agosto, según El Tiempo. El objetivo es convertir esos escombros en ecomateriales que se usarán en nuevas edificaciones de la ciudad.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/asi-funcionara-el-centro-de-innovacion-de-cali-que-reutilizara-los-escombros-del-terremoto-para-la-reconstruccion-urbana-ya-definieron-el-lote-3589826"
+    },
+    {
+      "id": "co-20260929-elpais-reconstruccion-cali-10-billones",
+      "fecha": "2026-09-29",
+      "titulo": "La Alcaldía de Cali estima que la reconstrucción tras el terremoto durará unos cuatro años y costará cerca de 10 billones de pesos",
+      "resumen": "Tras reunirse en la Casa de Nariño con el equipo económico del Gobierno nacional, el alcalde de Cali, Alejandro Eder, señaló que, según estimaciones preliminares de la Alcaldía, la reconstrucción de la ciudad tras el terremoto del 10 de agosto tardaría unos cuatro años y requeriría una inversión cercana a los 10 billones de pesos, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/reconstruccion-de-cali-tras-terremoto-podria-durar-cuatro-anos-y-costar-10-billones-alejandro-eder-2913.html"
+    },
+    {
+      "id": "co-20260929-elpais-reactivacion-negocios-cali",
+      "fecha": "2026-09-29",
+      "titulo": "La Alcaldía de Cali, la Cámara de Comercio y la Fundación WWB movilizan 10.300 millones de pesos para reactivar negocios afectados por el terremoto",
+      "resumen": "La alianza público-privada entre la Alcaldía de Cali, la Cámara de Comercio de Cali y la Fundación WWB Colombia destinará 10.300 millones de pesos a apoyar a más de 1.200 empresas afectadas por el sismo del 10 de agosto, según El País (Cali). Podrán acceder emprendedores, informales y mipymes que reportaron daños en la Línea de Afectaciones Empresariales, y los recursos se destinarán a maquinaria, herramientas, equipos e insumos.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-y-sector-privado-movilizaran-mas-de-10000-millones-para-reactivar-negocios-afectados-por-el-terremoto-2905.html"
+    },
+    {
+      "id": "co-20260929-elpais-caicedonia-reconstruccion",
+      "fecha": "2026-09-29",
+      "titulo": "La Gobernación del Valle inicia la reconstrucción en Caicedonia: 350 mejoramientos de vivienda y 52 casas nuevas para 402 familias",
+      "resumen": "La reconstrucción de Caicedonia tras el sismo del 10 de agosto arrancó con la entrega de los primeros kits y el inicio de obras que beneficiarán a 402 familias, informa El País (Cali). El plan de la Gobernación del Valle combina 350 mejoramientos con 52 viviendas nuevas bajo autoconstrucción asistida, y los beneficiarios se seleccionaron cruzando datos con el Sisbén para priorizar a los hogares más vulnerables.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-inicia-reconstruccion-en-caicedonia-350-mejoramientos-y-52-casas-nuevas-2953.html"
+    },
     {
       "id": "co-20260928-eltiempo-influencer-casas-buenaventura",
       "fecha": "2026-09-28",
