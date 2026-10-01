@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-09-30",
+  "actualizado": "2026-10-01",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261001-infobae-acpm-congelado-octubre",
+      "fecha": "2026-10-01",
+      "titulo": "El ACPM mantiene su precio en octubre por los efectos del terremoto; la gasolina sube 46 pesos para apoyar a los productores de etanol del Valle",
+      "resumen": "El Gobierno mantendrá congelado el precio del ACPM durante octubre, prolongando la medida adoptada en septiembre frente a los efectos del terremoto del 10 de agosto, informa Infobae. La gasolina corriente sube en promedio 46 pesos por galón (0,29 %) por la actualización del precio reconocido a los productores de etanol, una medida orientada a acompañar al sector de la caña de azúcar del Valle del Cauca tras el sismo; en Cali el galón pasa de 16.339 a 16.386 pesos.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/01/gasolina-sube-46-desde-el-1-de-octubre-y-acpm-mantiene-su-precio-asi-quedan-los-combustibles-en-colombia/"
+    },
+    {
+      "id": "co-20261001-eltiempo-cabo-castro-usar",
+      "fecha": "2026-10-01",
+      "titulo": "El jefe de operaciones del equipo USAR COL-1 de los Bomberos de Bogotá relata su experiencia en los rescates del terremoto",
+      "resumen": "La revista Bocas, de El Tiempo, entrevista al cabo Carlos Andrés Castro, de los Bomberos de Bogotá y jefe de operaciones del USAR COL-1, el equipo de búsqueda y rescate urbano acreditado por la ONU que trabajó entre las ruinas tras el terremoto del 10 de agosto. Con más de la mitad de su vida en el cuerpo de bomberos, Castro ha participado también en rescates en Haití, México, Ecuador y Venezuela.",
+      "fuente": "El Tiempo",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/bocas/encontrar-a-alguien-vivo-es-un-trofeo-la-azarosa-historia-del-cabo-carlos-castro-en-las-ruinas-de-un-terremoto-3590167"
+    },
+    {
+      "id": "co-20261001-elpais-singapur-vivienda-demoliciones",
+      "fecha": "2026-10-01",
+      "titulo": "Cali estudia adaptar el modelo de vivienda de Singapur a la reconstrucción tras el terremoto; 32 edificios serán demolidos",
+      "resumen": "El alcalde de Cali recorrió el sector de Cuarto de Legua, en el sur de la ciudad, con una delegación del Centro para Ciudades Habitables de Singapur, que ofreció una transferencia técnica de conocimiento para adaptar su modelo de vivienda a la reconstrucción posterior al terremoto del 10 de agosto, informa El País (Cali). La ciudad prevé demoler 32 edificios inhabitables por daños estructurales, en un proceso de demoliciones controladas que comenzó a principios de septiembre.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-explora-modelo-de-vivienda-de-singapur-para-la-reconstruccion-tras-el-terremoto-32-edificios-seran-demolidos-3059.html"
+    },
     {
       "id": "co-20260930-infobae-carcel-villahermosa-salud",
       "fecha": "2026-09-30",
@@ -14,6 +47,17 @@
       "url": "https://www.infobae.com/colombia/2026/09/30/alertan-por-crisis-de-salud-en-la-carcel-villahermosa-de-cali-tras-demoras-en-remisiones-medicas/"
     },
     {
+      "id": "co-20260930-eltiempo-sgc-replicas-anos",
+      "fecha": "2026-09-30",
+      "titulo": "El Servicio Geológico Colombiano advierte que las réplicas del terremoto del 10 de agosto podrían prolongarse durante años",
+      "resumen": "Freddy Tovar, coordinador de la Red Sismológica Nacional del SGC, explicó a EFE que las réplicas del terremoto de magnitud 7,4 podrían durar días, semanas, meses e incluso años, y que el pico de actividad actual es normal por el reajuste de esfuerzos tras la liberación de energía, recoge El Tiempo. La entidad analiza además si la reciente secuencia de sismos en Tolima guarda relación con el evento de agosto.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/las-replicas-del-terremoto-en-colombia-podrian-durar-anos-explica-freddy-tovar-coordinador-de-la-red-sismologica-nacional-del-scg-3590072"
+    },
+    {
       "id": "co-20260930-eltiempo-mineducacion-clases-restablecidas",
       "fecha": "2026-09-30",
       "titulo": "El Ministerio de Educación da por restablecido al 100 % el servicio educativo tras el terremoto: 1,27 millones de estudiantes vuelven a clase",
@@ -23,6 +67,39 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/vida/educacion/ministerio-de-educacion-confirma-que-se-restablecieron-las-clases-en-su-totalidad-luego-del-terremoto-en-colombia-3590070"
+    },
+    {
+      "id": "co-20260930-eltiempo-fasecolda-575-billones",
+      "fecha": "2026-09-30",
+      "titulo": "Las reclamaciones a aseguradoras por el terremoto suman 92.336 y las reservas alcanzan 5,75 billones de pesos, según Fasecolda",
+      "resumen": "Al corte del 25 de septiembre, las aseguradoras habían recibido 92.336 reclamaciones por el terremoto del 10 de agosto y constituido reservas técnicas preliminares por 5,75 billones de pesos, por encima de la estimación inicial de Fasecolda, informa El Tiempo. Hasta esa fecha se habían pagado unos 401.000 millones de pesos a los afectados, y el gremio advierte que la cifra seguirá creciendo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/terremoto-ya-deja-5-75-billones-en-reclamaciones-a-aseguradoras-fasecolda-advierte-que-la-cifra-seguira-creciendo-3590312"
+    },
+    {
+      "id": "co-20260930-elpais-vias-valle-puente-mariano-ospina",
+      "fecha": "2026-09-30",
+      "titulo": "El terremoto dejó 101 afectaciones en las vías del Valle del Cauca; el puente Mariano Ospina Pérez será demolido",
+      "resumen": "La Gobernación del Valle del Cauca reporta 101 puntos de la red vial departamental afectados por el terremoto del 10 de agosto, informa El País (Cali). El secretario de Infraestructura, Frank Ramírez, confirmó que el puente Mariano Ospina Pérez, que une La Unión y La Victoria, deberá ser demolido por sus graves daños estructurales, y la Gobernación busca con el Gobierno nacional los recursos para la reconstrucción.",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/terremoto-deja-101-afectaciones-en-vias-del-valle-del-cauca-puente-mariano-ospina-perez-sera-demolido-3042.html"
+    },
+    {
+      "id": "co-20260930-elpais-gobernacion-donar-ropa",
+      "fecha": "2026-09-30",
+      "titulo": "La Gobernación del Valle sigue pidiendo donaciones de ropa para las familias afectadas por el terremoto",
+      "resumen": "A casi siete semanas del terremoto del 10 de agosto, la Gobernación del Valle del Cauca mantiene el llamado a donar ropa en buen estado para los damnificados que perdieron sus pertenencias, informa El País (Cali). Las prendas se reciben en el Centro de Acopio de las antiguas bodegas de la Licorera del Valle.",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-mantiene-llamado-a-donar-ropa-para-familias-afectadas-por-el-sismo-en-la-region-3004.html"
     },
     {
       "id": "co-20260929-eltiempo-quindio-parroquia-mirador-demolicion",
