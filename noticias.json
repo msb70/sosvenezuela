@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-30",
+  "actualizado": "2026-10-01",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260930-elnacional-provea-cifras-victimas",
+      "fecha": "2026-09-30",
+      "titulo": "Provea vuelve a pedir la actualización de las cifras oficiales de fallecidos y desaparecidos del doble terremoto",
+      "resumen": "La ONG Provea señaló el 30 de septiembre que el último balance oficial de fallecidos, 6.509, se difundió el 24 de agosto, y que la última cifra oficial de desaparecidos, 157 personas, data del 25 de junio, informa El Nacional. La organización pidió la publicación periódica de ambos registros y recordó que iniciativas ciudadanas reportan miles de personas con paradero desconocido sin un registro público que lo respalde.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/provea-exige-cifras-actualizadas-de-victimas-y-desaparecidos-del-doble-terremoto-en-venezuela/"
+    },
+    {
+      "id": "ve-20260930-elnacional-mercado-inmobiliario-laguaira",
+      "fecha": "2026-09-30",
+      "titulo": "La Cámara Inmobiliaria de La Guaira estima una caída de hasta 60 % en ventas y alquileres tras los terremotos",
+      "resumen": "El inventario inmobiliario de La Guaira se redujo entre un 60 % y un 70 % tras los terremotos del 24 de junio, según María Teresa Brito, presidenta de la Cámara Inmobiliaria de la región, en declaraciones recogidas por El Nacional. Brito indicó que la zona central, en Maiquetía, sufrió menos daños y registra alzas en precios de venta y alquiler, y que la exigencia de pago en divisas por parte de los propietarios incide en las ventas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ventas-y-alquileres-de-inmuebles-en-la-guaira-cayeron-hasta-60/"
+    },
     {
       "id": "ve-20260930-elnacional-ley-arrendamiento-desconfianza",
       "fecha": "2026-09-30",
