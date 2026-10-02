@@ -1,7 +1,228 @@
 {
-  "actualizado": "2026-09-24",
+  "actualizado": "2026-10-01",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20260930-elnacional-provea-cifras-victimas",
+      "fecha": "2026-09-30",
+      "titulo": "Provea vuelve a pedir la actualización de las cifras oficiales de fallecidos y desaparecidos del doble terremoto",
+      "resumen": "La ONG Provea señaló el 30 de septiembre que el último balance oficial de fallecidos, 6.509, se difundió el 24 de agosto, y que la última cifra oficial de desaparecidos, 157 personas, data del 25 de junio, informa El Nacional. La organización pidió la publicación periódica de ambos registros y recordó que iniciativas ciudadanas reportan miles de personas con paradero desconocido sin un registro público que lo respalde.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/provea-exige-cifras-actualizadas-de-victimas-y-desaparecidos-del-doble-terremoto-en-venezuela/"
+    },
+    {
+      "id": "ve-20260930-elnacional-mercado-inmobiliario-laguaira",
+      "fecha": "2026-09-30",
+      "titulo": "La Cámara Inmobiliaria de La Guaira estima una caída de hasta 60 % en ventas y alquileres tras los terremotos",
+      "resumen": "El inventario inmobiliario de La Guaira se redujo entre un 60 % y un 70 % tras los terremotos del 24 de junio, según María Teresa Brito, presidenta de la Cámara Inmobiliaria de la región, en declaraciones recogidas por El Nacional. Brito indicó que la zona central, en Maiquetía, sufrió menos daños y registra alzas en precios de venta y alquiler, y que la exigencia de pago en divisas por parte de los propietarios incide en las ventas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/ventas-y-alquileres-de-inmuebles-en-la-guaira-cayeron-hasta-60/"
+    },
+    {
+      "id": "ve-20260930-elnacional-ley-arrendamiento-desconfianza",
+      "fecha": "2026-09-30",
+      "titulo": "La Cámara Inmobiliaria afirma que la desconfianza frena la nueva Ley de Arrendamiento aprobada tras el terremoto",
+      "resumen": "La Asamblea Nacional aprobó la Ley de Régimen Especial de Arrendamiento de Inmuebles Destinados a Viviendas para estimular los alquileres y beneficiar a los afectados por el terremoto del 24 de junio, que en La Guaira dejó más de 190 edificios perdidos, recuerda El Nacional. Para Pedro González Travieso, presidente de la Cámara Inmobiliaria de Venezuela, las distorsiones del mercado tras el sismo no permiten todavía medir el impacto real de la ley, y la falta de confianza de los propietarios limita su aplicación.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/la-desconfianza-frena-la-ley-de-arrendamiento/"
+    },
+    {
+      "id": "ve-20260929-elnacional-laguaira-comercio-paralizado",
+      "fecha": "2026-09-29",
+      "titulo": "La Cámara de Comercio de La Guaira estima paralizado más del 50 % del comercio; la Gobernación afirma que el 75 % está activo",
+      "resumen": "Eduardo Quintana, presidente de la Cámara de Comercio y Fedecámaras en La Guaira, informó en Unión Radio que más de la mitad de la actividad comercial del estado sigue paralizada tras el doblete sísmico del 24 de junio y que las pérdidas llegan hasta el 56 %, recoge El Nacional. El gobernador José Alejandro Terán sostiene en cambio que el 75 % de los comercios está activo y que más de la mitad del comercio formal recibió créditos especiales de la banca pública y privada.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/fedecamaras-desmiente-cifra-oficial-y-afirma-que-50-del-comercio-en-la-guaira-esta-paralizado/"
+    },
+    {
+      "id": "ve-20260929-cronicauno-lomas-de-urdaneta-bloque-9",
+      "fecha": "2026-09-29",
+      "titulo": "Vecinos del bloque 9 de Lomas de Urdaneta, en Catia, costean inspecciones y reparaciones mientras esperan apoyo oficial",
+      "resumen": "El bloque 9 del Conjunto Residencial Lomas de Urdaneta (Catia, Caracas) presenta escaleras fisuradas, vigas fracturadas, grietas y tuberías rotas tras el doblete sísmico; recibió etiqueta roja, pero los informes técnicos indican que no está en alto riesgo y que los daños son reparables, informa Crónica.Uno. Las familias reúnen fondos para pagar inspecciones y reparaciones —solo la mampostería cuesta hasta 1.000 dólares— a la espera de informes que les permitan solicitar respaldo gubernamental.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/danos-en-el-bloque-9-de-lomas-de-urdaneta-amenazan-a-143-familias-sin-recursos-para-reparaciones/"
+    },
+    {
+      "id": "ve-20260928-elnacional-entrega-181-viviendas",
+      "fecha": "2026-09-28",
+      "titulo": "El Ejecutivo entrega 181 viviendas a damnificados de Caracas, Miranda y Carabobo y eleva a 709 las unidades nuevas adjudicadas",
+      "resumen": "En un acto en el Urbanismo Simón Bolívar de Fuerte Tiuna (Caracas), el Gobierno adjudicó 181 viviendas a familias que perdieron sus casas en el doble terremoto del 24 de junio, entre ellas 77 apartamentos en los Valles del Tuy (Miranda) y 88 en Los Guayos (Carabobo), según El Nacional. Con esta entrega suman 709 viviendas nuevas adjudicadas a damnificados, y el plan Venezuela Renace reporta 1.800 estructuras residenciales rehabilitadas por daños moderados o menores.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-entrego-181-viviendas-para-familias-damnificadas-por-el-terremoto-en-caracas-miranda-y-carabobo/"
+    },
+    {
+      "id": "ve-20260928-cronicauno-liceo-luis-hurtado-rezonificacion",
+      "fecha": "2026-09-28",
+      "titulo": "Representantes del liceo Luis Hurtado Higuera de El Junquito rechazan la reubicación de 1.980 alumnos mientras el plantel sirve de refugio",
+      "resumen": "La Unidad Educativa Nacional Luis Hurtado Higuera, en el kilómetro 12 de El Junquito (Caracas), aloja a 344 damnificados de 97 familias desde el doblete sísmico del 24 de junio, y el Ministerio de Educación dispuso reubicar a sus 1.980 estudiantes en tres colegios de la zona, informa Crónica.Uno. Al menos 550 representantes rechazan el plan porque reduce las clases a uno o dos días por semana en turno vespertino, los planteles asignados no tienen capacidad para toda la matrícula y en la comunidad solo operan cuatro jeeps de transporte.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/representantes-del-liceo-luis-hurtado-en-el-junquito-rechazan-rezonificacion-de-1980-estudiantes/"
+    },
+    {
+      "id": "ve-20260927-elnacional-gala-tampa-hospital-ortopedico",
+      "fecha": "2026-09-27",
+      "titulo": "Venezolanos en Tampa organizan una gala benéfica para niños afectados por el doblete sísmico",
+      "resumen": "La gala «A Night of Dance, Music and Hope for Venezuela», el 2 de octubre en el New Tampa Performing Arts Center (Florida), destinará íntegramente lo recaudado a la Fundación Hospital Ortopédico Infantil de Caracas, que atiende a niños y adolescentes afectados por los terremotos del 24 de junio, informa El Nacional. Participan el Tampa City Ballet, el cuatrista Jorge Glem, WattaKá y The Nucleus Orchestra.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/venezolanos-en-tampa-unen-la-musica-y-la-danza-a-beneficio-del-hospital-ortopedico-infantil/"
+    },
+    {
+      "id": "ve-20260927-elnacional-funvisis-136-sismos",
+      "fecha": "2026-09-27",
+      "titulo": "Funvisis contabiliza 136 sismos entre el 18 y el 24 de septiembre y eleva a 2.099 los eventos acumulados",
+      "resumen": "Según el balance semanal de Funvisis recogido por El Nacional, entre el 18 y el 24 de septiembre se registraron 136 sismos de magnitudes entre 1,3 y 4; dos de ellos estuvieron entre 4 y 5. En las primeras 2.208 horas de seguimiento desde el 24 de junio (corte al 24 de septiembre, 18:00 HLV) el ente contabiliza 2.099 eventos telúricos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/funvisis-reporto-136-sismos-durante-la-ultima-semana-en-venezuela/"
+    },
+    {
+      "id": "ve-20260927-efectococuyo-busqueda-desaparecido-escombros",
+      "fecha": "2026-09-27",
+      "titulo": "A tres meses del doble terremoto, familias de La Guaira siguen buscando a sus desaparecidos entre los escombros",
+      "resumen": "Efecto Cocuyo relata el caso de Carmen Campos de Pérez, que desde el 24 de junio busca en La Guaira el cuerpo de su esposo, Óscar Daniel Pérez Plana, de 61 años, atrapado bajo las ruinas de un edificio. Se niega a abandonar el lugar o a tramitar una nueva vivienda hasta recuperarlo, y afirma que otras familias continúan en la misma situación a 91 días del doblete sísmico.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/a-tres-meses-del-doble-terremoto-carmen-campos-de-perez-no-deja-de-buscar-a-su-esposo-entre-los-escombros/",
+      "autor": "Reynaldo Mozo Zambrano"
+    },
+    {
+      "id": "ve-20260926-lapatilla-acompanamiento-psicologico-medico",
+      "fecha": "2026-09-26",
+      "titulo": "Voluntarios médicos advierten de la necesidad de acompañamiento psicológico y médico organizado en La Guaira",
+      "resumen": "A tres meses del doblete sísmico, la médica cirujana Moileybick Parada, parte de un grupo de voluntarios de Barquisimeto que trabaja en La Guaira, afirmó que faltan especialistas para atender a las comunidades afectadas. Según el reporte de Radio Fe y Alegría recogido por La Patilla, hay personas en estado de shock que no se alejan de sus hogares y pacientes que abandonan el tratamiento de enfermedades crónicas.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/09/26/acompanamiento-psicologico-y-medico-organizado-necesidades-a-tres-meses-del-doblete-sismico/"
+    },
+    {
+      "id": "ve-20260926-elnacional-dragone-normas-sismicas",
+      "fecha": "2026-09-26",
+      "titulo": "La evaluación de daños tras los terremotos servirá para actualizar las normas sísmicas de Venezuela, según la ingeniera Silvana Dragone",
+      "resumen": "La ingeniera sísmica Silvana Dragone, que trabaja desde hace casi tres meses en la zona cero con Miyamoto International y un equipo de 80 ingenieros, dijo a El Nacional que del estudio saldrán lineamientos para actualizar la norma sismorresistente vigente, COVENIN 1756-1:2019. La metodología de evaluación de daños se extenderá entre ingenieros venezolanos para las próximas etapas de la reconstrucción, dado que la fuerza del sismo superó lo previsto en estudios anteriores.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/silvana-dragone-del-estudio-tras-los-terremotos-saldran-lineamientos-para-actualizar-las-normas-sismicas-de-venezuela/"
+    },
+    {
+      "id": "ve-20260925-infobae-puerto-laguaira-96",
+      "fecha": "2026-09-25",
+      "titulo": "El Ministerio de Transporte cifra en 96-97 % la recuperación de las operaciones del puerto de La Guaira",
+      "resumen": "El ministro de Transporte, Francisco Garcés, afirmó que el puerto de La Guaira recuperó entre el 96 % y el 97 % de sus operaciones a tres meses del doble terremoto, aunque partes de la infraestructura portuaria requieren un plan de rehabilitación de mayor alcance, según recoge Infobae. Sobre Maiquetía, indicó que una de las pistas ya fue reparada y la otra, con daños mayores, demandará más tiempo; 19 aerolíneas, 11 de ellas internacionales, operan desde las terminales temporales habilitadas el 1 de septiembre.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/09/25/venezuela-anuncio-la-recuperacion-casi-total-de-las-operaciones-en-el-puerto-de-la-guaira-tras-los-danos-del-doble-terremoto/"
+    },
+    {
+      "id": "ve-20260925-elnacional-sobrevivientes-volver-a-empezar",
+      "fecha": "2026-09-25",
+      "titulo": "Sobrevivientes de los terremotos, entre casas prestadas, alquileres y edificios por demoler a tres meses del sismo",
+      "resumen": "Un reportaje de El Nacional recoge testimonios de damnificados de La Guaira que, tres meses después de los terremotos, no han podido volver a sus viviendas o saben que sus edificios serán demolidos. Muchas familias viven en casas prestadas o pagan alquiler mientras esperan la asignación de viviendas o créditos anunciados por las autoridades.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/sobrevivientes-de-los-terremotos-intentan-reconstruir-sus-vidas/"
+    },
+    {
+      "id": "ve-20260925-elnacional-ops-equipos-medicos",
+      "fecha": "2026-09-25",
+      "titulo": "La OPS y las autoridades sanitarias preparan una hoja de ruta de Equipos Médicos de Emergencia tras los terremotos",
+      "resumen": "La Organización Panamericana de la Salud inició con las autoridades sanitarias venezolanas un taller de seis días para implantar Equipos Médicos de Emergencia (EMT) y una Célula de Información y Coordinación Médica, con participación de equipos de salud y rescate de La Guaira y Miranda, según El Nacional. Desde el 24 de junio, la OPS ha movilizado más de 40 toneladas de insumos médicos y apoyado la aplicación de más de 31.000 dosis de vacunas en las zonas afectadas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/la-ops-y-las-autoridades-sanitarias-de-venezuela-disenan-una-hoja-de-ruta-para-reforzar-la-respuesta-medica-ante-emergencias-sismicas/"
+    },
+    {
+      "id": "ve-20260925-elnacional-moron-tres-meses",
+      "fecha": "2026-09-25",
+      "titulo": "Morón, a tres meses de los terremotos: reparaciones en Colinas de Mara y bloques de Cadafe aún sin evaluar",
+      "resumen": "En Morón (Carabobo), donde murieron 15 personas y 273 familias perdieron sus casas, la misión Venezuela Renace repara los bloques 3, 4 y 5 de Colinas de Mara, con daños solo de mampostería, según un reportaje de El Nacional. En los bloques del antiguo Cadafe los trabajos no han comenzado: están deshabitados y los damnificados esperan en refugios los resultados de las inspecciones estructurales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/moron-a-tres-meses-de-los-terremotos-lo-que-se-hace-y-lo-que-falta/"
+    },
+    {
+      "id": "ve-20260925-elnacional-inspecciones-65000",
+      "fecha": "2026-09-25",
+      "titulo": "La comisión de habitabilidad detecta «prácticas inadecuadas» de construcción tras inspeccionar más de 65.000 edificaciones",
+      "resumen": "El ministro de Transporte y presidente de la comisión presidencial de habitabilidad, Francisco Garcés, informó en Unión Radio que las inspecciones a más de 65.000 viviendas y edificaciones tras los terremotos revelaron métodos constructivos inadecuados en inmuebles colapsados o muy dañados, y que no se permitirán nuevas construcciones en La Guaira que no eleven los estándares sismorresistentes, según El Nacional. Garcés ratificó la meta de 4.000 viviendas este año, con más de 1.000 adjudicadas, y las autoridades reportan recogido cerca del 40 % de los escombros.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/francisco-garces-confirma-el-hallazgo-de-practicas-inadecuadas-en-la-inspeccion-de-mas-de-65-000-edificaciones-tras-el-terremoto/"
+    },
+    {
+      "id": "ve-20260925-elnacional-balance-oficial-sin-actualizar",
+      "fecha": "2026-09-25",
+      "titulo": "El balance oficial de víctimas de los terremotos cumple un mes sin actualizarse",
+      "resumen": "El último boletín oficial, del 24 de agosto, cifraba en 6.509 los fallecidos, en 6.462 los rescatados y en 226.696 las personas atendidas en hospitales; desde entonces no se ha publicado otro, según El Nacional. La cifra oficial de desaparecidos sigue en 157 desde el 25 de junio, mientras el gobernador de La Guaira habló de más de 1.500 y varias ONG documentan cifras muy superiores; Amnistía Internacional ha pedido datos desglosados.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/gobierno-de-delcy-rodriguez-tiene-un-mes-sin-publicar-el-balance-oficial-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20260925-cronicauno-catia-templo-danado",
+      "fecha": "2026-09-25",
+      "titulo": "Al menos 25 de las 100 iglesias de la Arquidiócesis de Caracas sufrieron daños por los terremotos",
+      "resumen": "El vicario general de la Arquidiócesis de Caracas, Neptalí Balza, indicó que al menos 25 de las 100 iglesias de la circunscripción sufrieron daños de distinta magnitud por los sismos del 24 de junio, según Crónica.Uno. Entre ellas, el templo Santos Ángeles Custodios, en Lomas de Urdaneta (Catia), tiene daños estructurales en sus niveles superiores y su feligresía busca fondos para repararlo sin ayuda estatal.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/feligresia-catia-pide-ayuda-reparar-templo-terremotos/"
+    },
+    {
+      "id": "ve-20260924-elnacional-worldvision-agua-ninez",
+      "fecha": "2026-09-24",
+      "titulo": "World Vision alerta de falta de agua potable y de riesgos sanitarios en campamentos de damnificados",
+      "resumen": "World Vision informó que su respuesta ha alcanzado a 130.321 personas de 27.809 hogares, entre ellas 38.663 menores, y que los damnificados de La Guaira, Miranda y Distrito Capital siguen sin acceso regular a agua potable y alimentación, según El Nacional. La organización advierte de más casos de deshidratación y enfermedades gastrointestinales en los campamentos por el calor y las lluvias, y mantiene 20 Espacios Amigables para la Niñez.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/terremotos-venezuela-world-vision-falta-agua-ninez-2026/"
+    },
     {
       "id": "ve-20260924-elnacional-laguaira-comercio-escombros",
       "fecha": "2026-09-24",
@@ -25,6 +246,17 @@
       "url": "https://www.elnacional.com/2026/09/terremoto-la-guaira-damnificados-carpas-reconstruccion-viviendas-2026/"
     },
     {
+      "id": "ve-20260924-elnacional-cruzroja-24000-asistidos",
+      "fecha": "2026-09-24",
+      "titulo": "La Cruz Roja Venezolana ha asistido a unas 24.000 personas en La Guaira en tres meses",
+      "resumen": "La Cruz Roja Venezolana atendió a más de 6.000 familias damnificadas en La Guaira, unas 24.000 personas, con más de 760 actividades de 24 filiales y 1.600 voluntarios, según recoge El Nacional. Mantiene servicios de salud, agua potable y apoyo psicosocial en cuatro parroquias, entre ellos el hospital de campaña de Macuto, el campamento transitorio de Ciudad Caribia y un punto comunitario en Catia La Mar.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/09/cruz-roja-venezolana-asiste-24000-damnificados-la-guaira-2026/"
+    },
+    {
       "id": "ve-20260924-elnacional-costo-construccion-sismorresistente",
       "fecha": "2026-09-24",
       "titulo": "Ingenieros explican cuánto cuesta construir y reparar con la norma sismorresistente en Venezuela",
@@ -34,6 +266,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/09/cuanto-cuesta-construir-y-reparar-edificaciones-en-venezuela/"
+    },
+    {
+      "id": "ve-20260924-efectococuyo-caraballeda-implosiones",
+      "fecha": "2026-09-24",
+      "titulo": "Implosionan al menos diez edificios dañados en Caraballeda mientras familias siguen buscando a desaparecidos",
+      "resumen": "Las autoridades ejecutaron el 24 de septiembre la implosión controlada de al menos diez edificaciones con daños irreversibles en la urbanización Caribe de Caraballeda (La Guaira), donde la remoción de escombros ha dejado terrenos planos, según Efecto Cocuyo. Vecinos que aún buscan a familiares atrapados bajo los escombros denuncian que las maquinarias trabajan sin cuidado, mientras cuadrillas del Ministerio de Obras Públicas y del Plan Venezuela Renace intentan restaurar los inmuebles que quedaron en pie.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/a-3-meses-de-los-sismos-caraballeda-entre-terrenos-planos-refugios-vulnerables-y-la-espera-por-viviendas/"
     },
     {
       "id": "ve-20260924-cronicauno-postales-la-guaira",
