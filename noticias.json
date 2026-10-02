@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-01",
+  "actualizado": "2026-10-02",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261002-infobae-acnur-100-dias",
+      "fecha": "2026-10-02",
+      "titulo": "ACNUR advierte, a 100 días de los terremotos, que miles de familias siguen sin poder volver a sus casas",
+      "resumen": "La Agencia de la ONU para los Refugiados (ACNUR) señaló que, aunque la respuesta avanza hacia la estabilización y la recuperación, el daño a las viviendas sigue siendo la principal causa de desplazamiento y muchas familias se mueven entre sitios transitorios, casas de familiares y comunidades de acogida, informa Infobae. Según las cifras oficiales citadas por el organismo, al 24 de agosto los sismos dejaron 6.509 fallecidos y, de 60.000 viviendas evaluadas, 25.240 presentaban daños. ACNUR identifica como necesidades la documentación civil, la asistencia legal, el apoyo psicosocial y el alojamiento temporal seguro.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/10/02/a-100-dias-de-los-terremotos-en-venezuela-miles-de-familias-siguen-sin-poder-volver-a-sus-casas/"
+    },
+    {
+      "id": "ve-20261001-elnacional-transparencia-ayuda",
+      "fecha": "2026-10-01",
+      "titulo": "Transparencia Venezuela registra 1.344 millones de dólares en compromisos de ayuda internacional y pide trazabilidad de los fondos",
+      "resumen": "La ONG Transparencia Venezuela contabilizó hasta el 25 de agosto 1.344 millones de dólares en compromisos internacionales de ayuda con monto declarado, procedentes de 65 países, 72 organizaciones internacionales, 21 empresas y 10 particulares, casi el doble de los 694 millones registrados al 10 de julio, informa El Nacional. La organización aclara que esa cifra no equivale a lo recibido ni ejecutado y señala que no hay información pública suficiente para seguir el recorrido de los fondos ni sobre las cifras de fallecidos y desaparecidos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/el-gobierno-todavia-tiene-cuentas-por-rendir-tres-meses-despues-de-los-terremotos/"
+    },
+    {
+      "id": "ve-20261001-elnacional-msf-salud-mental",
+      "fecha": "2026-10-01",
+      "titulo": "Médicos Sin Fronteras alerta de un aumento de los problemas de salud mental entre los damnificados a 100 días del sismo",
+      "resumen": "Médicos Sin Fronteras (MSF), que opera seis clínicas móviles en Caracas y La Guaira, ha brindado más de 7.000 consultas desde los terremotos y observa cuadros de ansiedad, insomnio y descompensación de enfermedades crónicas entre los afectados, informa El Nacional. Los dolores musculares y óseos suponen el 21,7 % de los diagnósticos y las infecciones respiratorias el 21,4 %, y la organización sigue a más de 880 pacientes con hipertensión, diabetes y asma. En Mare Abajo (La Guaira) decenas de damnificados siguen viviendo en carpas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/terremotos-venezuela-100-dias-salud-mental-msf/"
+    },
+    {
+      "id": "ve-20261001-elnacional-ingv-estaciones-funvisis",
+      "fecha": "2026-10-01",
+      "titulo": "El instituto italiano INGV cede a Funvisis tres estaciones sismológicas para reforzar el monitoreo tras los terremotos",
+      "resumen": "El Instituto Nacional de Geofísica y Vulcanología de Italia (INGV) formalizó la entrega temporal de tres estaciones sismológicas de alta precisión a Funvisis, que ya las opera para desplegarlas en las zonas de mayor vulnerabilidad, informa El Nacional. Los equipos, gestionados con la Organización Internacional Ítalo-Latinoamericana (IILA), se integrarán a la red de observación nacional para recopilar datos sobre la sismicidad del territorio.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/italia-cede-tres-estaciones-sismologicas-a-venezuela-para-reforzar-la-monitorizacion-tras-los-terremotos-de-junio/"
+    },
     {
       "id": "ve-20260930-elnacional-provea-cifras-victimas",
       "fecha": "2026-09-30",
