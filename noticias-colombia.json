@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-01",
+  "actualizado": "2026-10-02",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261002-infobae-pereira-colapso-rescate",
+      "fecha": "2026-10-02",
+      "titulo": "Colapsa en el centro de Pereira un edificio declarado no habitable tras el terremoto; rescatan con vida a una mujer y un hombre",
+      "resumen": "Una mujer de 37 años y un hombre fueron rescatados con vida el 1 de octubre tras el desplome de un edificio en la carrera 9 con calle 12 de Pereira, según Infobae. La Dirección de Gestión del Riesgo (Diger) lo había declarado no habitable y en riesgo de colapso el 16 de agosto, tras el terremoto de magnitud 7,4, y tenía resolución de demolición. La Alcaldía pidió no ingresar ni permanecer en edificaciones señalizadas como riesgosas.",
+      "fuente": "Infobae",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/02/rescataron-con-vida-a-una-mujer-y-un-hombre-atrapados-bajo-los-escombros-de-un-edificio-que-colapso-en-pereira-tras-el-terremoto-del-10-de-agosto/"
+    },
     {
       "id": "co-20261001-infobae-acpm-congelado-octubre",
       "fecha": "2026-10-01",
@@ -12,6 +23,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/01/gasolina-sube-46-desde-el-1-de-octubre-y-acpm-mantiene-su-precio-asi-quedan-los-combustibles-en-colombia/"
+    },
+    {
+      "id": "co-20261001-eltiempo-un-hospital-nos-necesita",
+      "fecha": "2026-10-01",
+      "titulo": "La campaña 'Un Hospital Nos Necesita' recauda 3.100 millones de pesos en el Caribe para reconstruir hospitales dañados por el terremoto",
+      "resumen": "El sector salud del Caribe colombiano aportó 3.100 millones de pesos a la campaña 'Un Hospital Nos Necesita', destinados a reconstruir la infraestructura hospitalaria dañada por el sismo del 10 de agosto, informa El Tiempo. La iniciativa, impulsada por Mutualser EPS, el Colectivo TRASO y la Cámara de Comercio de Cartagena, convocó durante un mes a clínicas, hospitales, laboratorios y profesionales independientes.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-campana-un-hospital-nos-necesita-recaudo-3-100-millones-en-el-caribe-para-la-reconstruccion-hospitalaria-tras-el-terremoto-del-10-de-agosto-3590432"
+    },
+    {
+      "id": "co-20261001-eltiempo-demolicion-cambulos",
+      "fecha": "2026-10-01",
+      "titulo": "Cali inicia la demolición de cuatro edificaciones dañadas por el terremoto en el barrio Los Cámbulos",
+      "resumen": "La Alcaldía de Cali comenzó el 1 de octubre la demolición de los edificios Cali Express y D'Corpus, el Hotel Metrópolis Plaza y el Multifamiliar Los Laureles, en la calle 9 con carrera 44 del barrio Los Cámbulos, uno de los sectores más golpeados por el sismo del 10 de agosto, informa El Tiempo. Las demoliciones se hacen con procesos mecánicos controlados y Los Laureles será demolido por implosión.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/duro-golpe-visual-en-los-cambulos-empieza-la-demolicion-de-emblematicas-edificaciones-afectadas-por-el-terremoto-en-cali-3590612"
     },
     {
       "id": "co-20261001-eltiempo-cabo-castro-usar",
@@ -25,6 +58,28 @@
       "url": "https://www.eltiempo.com/bocas/encontrar-a-alguien-vivo-es-un-trofeo-la-azarosa-historia-del-cabo-carlos-castro-en-las-ruinas-de-un-terremoto-3590167"
     },
     {
+      "id": "co-20261001-eltiempo-bbva-seguros-320000-millones",
+      "fecha": "2026-10-01",
+      "titulo": "BBVA Seguros calcula en 320.000 millones de pesos los pagos por daños del terremoto",
+      "resumen": "BBVA Seguros ha recibido 5.500 avisos de siniestros relacionados con el terremoto del 10 de agosto y acumula 100.000 millones de pesos en siniestros incurridos, según El Tiempo. La aseguradora estima que los pagos totales por daños llegarán a unos 320.000 millones.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/empresas/bbva-seguros-calcula-en-320-000-millones-el-pago-por-danos-del-terremoto-3590569"
+    },
+    {
+      "id": "co-20261001-elpais-viviendas-jamundi",
+      "fecha": "2026-10-01",
+      "titulo": "Familias de Cali que perdieron su hogar en el terremoto reciben viviendas amobladas en Jamundí",
+      "resumen": "Familias caleñas afectadas por el sismo del 10 de agosto recibieron viviendas dotadas en Jamundí, informa El País (Cali). Entre ellas, la del periodista Jorge Isaac Tobón, que perdió a su esposa y todas sus pertenencias en el terremoto.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/entregan-viviendas-en-jamundi-a-familias-de-cali-afectadas-por-el-sismo-un-periodista-recupera-la-esperanza-0145.html"
+    },
+    {
       "id": "co-20261001-elpais-singapur-vivienda-demoliciones",
       "fecha": "2026-10-01",
       "titulo": "Cali estudia adaptar el modelo de vivienda de Singapur a la reconstrucción tras el terremoto; 32 edificios serán demolidos",
@@ -34,6 +89,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-explora-modelo-de-vivienda-de-singapur-para-la-reconstruccion-tras-el-terremoto-32-edificios-seran-demolidos-3059.html"
+    },
+    {
+      "id": "co-20261001-elpais-sector-cultural-cali",
+      "fecha": "2026-10-01",
+      "titulo": "Más de 2.400 empresas del sector cultural de Cali resultaron afectadas por el terremoto; artistas piden un mapeo urgente",
+      "resumen": "El foro 'Cali y su cultura, ¿qué?', organizado por la Fundación Madame Blue con El País (Cali), expuso la crítica situación de artistas y espacios independientes tras el sismo del 10 de agosto: más de 2.400 empresas del sector resultaron afectadas. Los participantes reclamaron un mapeo urgente del daño y planes de continuidad para reactivar la economía cultural.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/entretenimiento/el-grito-de-la-cultura-calena-tras-el-sismo-entre-el-duelo-colectivo-y-la-urgencia-de-reactivacion-0138.html"
+    },
+    {
+      "id": "co-20261001-elpais-plataforma-transparencia-valle",
+      "fecha": "2026-10-01",
+      "titulo": "La Gobernación del Valle lanza una plataforma para consultar contratos, obras y donaciones de la reconstrucción tras el terremoto",
+      "resumen": "La Gobernación del Valle del Cauca presentó el 1 de octubre una plataforma digital en la que cualquier ciudadano puede seguir los avances del Plan de Reconstrucción por el terremoto: obras, contratos, donaciones y ayudas humanitarias destinadas a las familias damnificadas, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-del-cauca-lanza-plataforma-digital-para-consulta-de-avances-sobre-reconstruccion-tras-el-terremoto-0111.html"
+    },
+    {
+      "id": "co-20261001-elpais-iglesia-la-cumbre-demolida",
+      "fecha": "2026-10-01",
+      "titulo": "Demuelen la parroquia San José de La Cumbre (Valle), inhabitable tras el terremoto",
+      "resumen": "La Parroquia San José, templo principal del municipio de La Cumbre, terminó de ser demolida el 1 de octubre por los daños irreparables que le causó el sismo del 10 de agosto, ante la presencia de feligreses, informa El País (Cali). Según la Gobernación, en el Valle del Cauca resultaron afectadas 112.058 viviendas y edificaciones y 314.798 personas quedaron sin hogar.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/demolieron-la-iglesia-de-la-cumbre-valle-del-cauca-tras-el-terremoto-feligreses-acompanaron-el-momento-0152.html"
+    },
+    {
+      "id": "co-20261001-elpais-decreto-1418-empresas",
+      "fecha": "2026-10-01",
+      "titulo": "El Gobierno expide un decreto para reactivar más de 30.000 empresas afectadas por el terremoto",
+      "resumen": "El Decreto Legislativo 1418, expedido el 17 de septiembre, autoriza girar recursos de las cámaras de comercio y flexibiliza trámites societarios y financieros a favor de 30.449 empresas y unidades productivas golpeadas por el terremoto del 10 de agosto, según El País (Cali). El objetivo es inyectar liquidez y reanimar el tejido empresarial de las zonas más afectadas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/politica/el-gobierno-expide-decreto-para-rescatar-mas-de-30000-empresas-golpeadas-por-el-terremoto-0111.html"
+    },
+    {
+      "id": "co-20261001-elpais-colfondos-oficina-movil",
+      "fecha": "2026-10-01",
+      "titulo": "Una oficina móvil de Colfondos recorre Buga, Yumbo y Buenaventura para que los damnificados tramiten sus cesantías sin comisión",
+      "resumen": "Colfondos puso en marcha el 1 de octubre una oficina móvil que durante 16 días atenderá en Buga, Yumbo y Buenaventura a las familias afectadas por el terremoto, para orientarlas sobre el retiro de cesantías destinadas a reparar sus viviendas, auxilios y otros trámites, informa El País (Cali). Los retiros de cesantías para vivienda de los damnificados no tienen comisión.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/a-traves-de-una-oficina-movil-damnificados-del-terremoto-en-el-valle-podran-tramitar-sus-cesantias-sin-comision-0140.html"
+    },
+    {
+      "id": "co-20261001-elpais-ayuda-miami-damnificados",
+      "fecha": "2026-10-01",
+      "titulo": "Llega a Cali una tonelada de ayudas recolectadas en Miami para los damnificados del terremoto",
+      "resumen": "Cristhian Mancera, presidente del Community Council del Área 11 del condado de Miami-Dade, llevó a Cali una tonelada de ayudas recolectadas con la comunidad de West Kendall para familias afectadas por el terremoto del 10 de agosto, según El País (Cali). La iniciativa recuerda que, casi dos meses después, muchas familias siguen necesitando apoyo.",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/desde-miami-llega-ayuda-a-damnificados-del-sismo-de-cali-no-podemos-dejarlos-solos-0129.html"
     },
     {
       "id": "co-20260930-infobae-carcel-villahermosa-salud",
