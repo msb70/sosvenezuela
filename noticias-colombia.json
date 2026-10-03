@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-02",
+  "actualizado": "2026-10-03",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261003-infobae-fondo-milagro-sin-operar",
+      "fecha": "2026-10-03",
+      "titulo": "El Fondo Milagro para la reconstrucción tras el terremoto aún no opera casi dos meses después del sismo",
+      "resumen": "El Fondo Milagro, anunciado el 12 de agosto para concentrar donaciones y recursos de la reconstrucción, todavía no puede recibir ni ejecutar dinero porque el Gobierno no ha completado los trámites, según una investigación de Cambio recogida por Infobae. Fue creado formalmente el 9 de septiembre con el Decreto 1379 de 2026 como patrimonio autónomo administrado por fiducia del Ministerio de Hacienda. Infobae cifra el impacto del sismo en más de 466.000 personas afectadas en 497 municipios, 36.327 viviendas destruidas y 201.939 averiadas.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/03/fondo-milagro-anunciado-por-de-la-espriella-aun-no-arranca-crecen-interrogantes-sobre-los-624600-millones-destinados-a-la-reconstruccion-tras-el-terremoto/"
+    },
+    {
+      "id": "co-20261003-eltiempo-licencias-construccion-decreto-1448",
+      "fecha": "2026-10-03",
+      "titulo": "Un decreto prorroga 12 meses las licencias urbanísticas en los 16 departamentos afectados por el terremoto y flexibiliza los trámites de reconstrucción",
+      "resumen": "El Decreto 1448 del 28 de septiembre de 2026 del Ministerio de Vivienda amplía automáticamente por 12 meses la vigencia de las licencias urbanísticas, sus prórrogas y revalidaciones en 16 departamentos afectados por el sismo, explica El Tiempo. La norma fija reglas especiales para licencias de edificios nuevos en predios donde hubo colapsos o demoliciones, reforzamiento estructural y construcciones temporales, y alivia requisitos para inmuebles en propiedad horizontal.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/licencias-de-construccion-y-obras-vecinas-las-reglas-para-damnificados-y-propietarios-afectados-3590900"
+    },
     {
       "id": "co-20261002-infobae-pereira-colapso-rescate",
       "fecha": "2026-10-02",
@@ -12,6 +34,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/02/rescataron-con-vida-a-una-mujer-y-un-hombre-atrapados-bajo-los-escombros-de-un-edificio-que-colapso-en-pereira-tras-el-terremoto-del-10-de-agosto/"
+    },
+    {
+      "id": "co-20261002-infobae-camacol-viviendas-damnificados",
+      "fecha": "2026-10-02",
+      "titulo": "Camacol ofrece viviendas terminadas y bonos de hasta 20 millones de pesos a damnificados del terremoto en Cali",
+      "resumen": "El sector constructor ofrecerá viviendas terminadas a familias damnificadas de Cali para acelerar su reubicación: hoy hay unas 869 unidades disponibles, que podrían llegar a 2.500 a finales de 2027, según Camacol Valle citada por Infobae. En la Feria de la Vivienda (2 al 4 de octubre, Jardín Plaza), 14 constructoras darán un bono solidario de 5 a 20 millones de pesos para la cuota inicial, combinable con otros subsidios. En el Valle se cuentan 105.000 hogares damnificados, 26.000 con daños graves.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/02/camacol-ofrecera-viviendas-y-bonos-a-damnificados-del-terremoto-en-cali-y-plantea-revivir-mi-casa-ya-con-300000-subsidios-en-cuatro-anos/"
+    },
+    {
+      "id": "co-20261002-eltiempo-reactivacion-valle-dia-sin-iva",
+      "fecha": "2026-10-02",
+      "titulo": "El Gobierno y empresarios del Valle trazan un plan de reactivación tras el terremoto: evalúan un día sin IVA y rebajar el ICA",
+      "resumen": "La Vicepresidencia se reunió en Cali con la Cámara de Comercio y cerca de 30 empresarios para definir la reactivación económica tras el sismo, informa El Tiempo. Sobre la mesa quedaron un día sin IVA, la reducción del impuesto de industria y comercio (ICA), destrabar la vía Mulaló–Loboguerrero, convertir al Valle en piloto nacional de reducción de trámites y el manejo del puerto de Buenaventura.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/el-vicepresidente-jose-manuel-restrepo-y-30-empresarios-trazan-ruta-de-reactivacion-economica-en-el-valle-tras-el-terremoto-evaluan-un-dia-sin-iva-3590818"
+    },
+    {
+      "id": "co-20261002-eltiempo-propiedad-horizontal-fondo-imprevistos",
+      "fecha": "2026-10-02",
+      "titulo": "Los conjuntos residenciales dañados por el sismo podrán usar su fondo de imprevistos para pagar reparaciones",
+      "resumen": "El Decreto 1423 de 2026 permite a las copropiedades de los municipios de la zona afectada por el terremoto del 10 de agosto usar el fondo de imprevistos para atender daños y algunos gastos de operación, informa El Tiempo. Inicialmente podrá disponerse hasta el 50 % de esos recursos con aprobación del consejo de administración, para evitar cobros extraordinarios inmediatos a los propietarios.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/bogota/nueva-medida-cambia-las-reglas-para-conjuntos-afectados-por-el-sismo-asi-podran-pagar-las-reparaciones-3590930"
+    },
+    {
+      "id": "co-20261002-elpais-siloe-hogar-luz-amparo",
+      "fecha": "2026-10-02",
+      "titulo": "Vecinos de Siloé y la Comuna 20 de Cali consiguen una casa para una recicladora que perdió la suya en el terremoto",
+      "resumen": "Luz Amparo López, recicladora con problemas de movilidad y madre de cuatro hijas, recibió una nueva vivienda gracias a líderes y vecinos del barrio La Sultana (Comuna 20 de Cali), después de que el sismo del 10 de agosto dañara gravemente su casa de esterilla, cuenta El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/el-milagro-de-la-union-calena-lideres-y-vecinos-de-siloe-y-la-comuna-20-consiguieron-un-hogar-para-luz-amparo-damnificada-del-terremoto-0235.html"
+    },
+    {
+      "id": "co-20261002-elpais-huv-70-camas",
+      "fecha": "2026-10-02",
+      "titulo": "El Hospital Universitario del Valle recupera el 70 % de sus camas tras el terremoto",
+      "resumen": "El HUV 'Evaristo García' opera con 328 de las 470 camas que tenía antes del sismo del 10 de agosto, tras haber quedado reducido a 63 el 11 de agosto, informó su gerente, Irne Torres, ante la Asamblea del Valle, según El País (Cali). Los daños en las sedes de Cali y Cartago se estiman en 457.000 millones de pesos y el hospital avanza en su plan de reconstrucción.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/el-huv-recupera-el-70-de-sus-camas-tras-el-terremoto-y-avanza-en-su-plan-de-reconstruccion-0216.html"
+    },
+    {
+      "id": "co-20261002-elpais-coca-cola-tenderos",
+      "fecha": "2026-10-02",
+      "titulo": "Coca-Cola destina 3 millones de dólares a reactivar tenderos y pequeños comercios afectados por el terremoto",
+      "resumen": "El Sistema Coca-Cola, con sus fundaciones y la de FEMSA, destinará 3 millones de dólares al proyecto Juntos Podemos + para la reactivación de las zonas afectadas por el sismo, informa El País (Cali). En alianza con iNNpulsa Colombia y la Fundación Solidaridad por Colombia, apoyará a más de 1.000 tenderos y la reconstrucción y mejoras de unos 150 pequeños comercios del Valle y otras zonas.",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/coca-cola-anuncia-us3-millones-para-damnificados-del-terremoto-se-apoyara-a-tenderos-del-valle-y-otras-zonas-0204.html"
     },
     {
       "id": "co-20261001-infobae-acpm-congelado-octubre",
