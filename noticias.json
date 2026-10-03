@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-02",
+  "actualizado": "2026-10-03",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261003-infobae-vigilia-100-dias",
+      "fecha": "2026-10-03",
+      "titulo": "Familiares de víctimas celebran en Caraballeda una vigilia a 100 días del doble terremoto",
+      "resumen": "Decenas de personas participaron el viernes 2 de octubre en una vigilia con velas, oraciones y fotografías de fallecidos junto a los restos de las OPPE, uno de los mayores complejos de edificios colapsados en Caraballeda (La Guaira), informa Infobae con datos de EFE. La actividad, organizada por Haz de Luz, incluyó una misa; familiares pidieron no olvidar a las víctimas que siguen bajo los escombros. En varias zonas de La Guaira ya se han despejado terrenos, mientras en otros sectores la remoción de escombros sigue pendiente.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/10/03/a-100-dias-de-los-devastadores-terremotos-venezuela-rindio-homenaje-a-las-mas-de-6500-victimas-fatales-entre-velas-y-oraciones/"
+    },
     {
       "id": "ve-20261002-infobae-acnur-100-dias",
       "fecha": "2026-10-02",
@@ -12,6 +23,28 @@
       "categoria": "Ayuda humanitaria",
       "tipo": "noticia",
       "url": "https://www.infobae.com/venezuela/2026/10/02/a-100-dias-de-los-terremotos-en-venezuela-miles-de-familias-siguen-sin-poder-volver-a-sus-casas/"
+    },
+    {
+      "id": "ve-20261002-elnacional-protesta-damnificados",
+      "fecha": "2026-10-02",
+      "titulo": "Familias damnificadas por los terremotos cierran la avenida Bolívar de Caracas para pedir soluciones habitacionales",
+      "resumen": "Familias que perdieron su vivienda en los sismos del 24 de junio protestaron el 1 de octubre en la avenida Bolívar de Caracas para reclamar las soluciones habitacionales prometidas, informa El Nacional. Los manifestantes dijeron llevar más de tres meses en carpas instaladas en espacios públicos y que los materiales para reparar viviendas llegan con lentitud. El jefe de gobierno del Distrito Capital, Nahum Fernández, acudió al lugar para mediar.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/familias-afectadas-por-los-terremotos-protestaron-en-caracas-para-exigir-soluciones-habitacionales/"
+    },
+    {
+      "id": "ve-20261002-elnacional-fundacion-el-after-escuela",
+      "fecha": "2026-10-02",
+      "titulo": "La Fundación El After rehabilita la escuela Simón Bolívar Fe y Alegría de La Guaira para el regreso de 1.200 estudiantes",
+      "resumen": "La Fundación El After, creada por la banda Rawayana tras los terremotos del 24 de junio, informó que financió la rehabilitación de la escuela Simón Bolívar Fe y Alegría, en La Guaira, para el regreso a clases de 1.200 niños y jóvenes, recoge El Nacional. Las obras incluyeron techos, sistemas sanitarios, iluminación, áreas recreativas y mobiliario, además de kits de útiles para alumnos y docentes y la cobertura de gastos operativos del colegio.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/rawayana-contribuye-en-el-regreso-a-clases-de-mas-de-1-200-estudiantes-en-la-guaira/"
     },
     {
       "id": "ve-20261001-elnacional-transparencia-ayuda",
