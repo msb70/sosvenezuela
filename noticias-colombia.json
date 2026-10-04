@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-03",
+  "actualizado": "2026-10-04",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261004-elpais-encuesta-cnc-recuperacion",
+      "fecha": "2026-10-04",
+      "titulo": "Encuesta en Cali a casi dos meses del terremoto: para el 36 % lo más urgente es reconstruir viviendas",
+      "resumen": "Una encuesta del Centro Nacional de Consultoría para El País (Cali), realizada a 1.205 personas, indica que el 36 % de los caleños considera que lo más urgente tras el terremoto es reconstruir viviendas. El 91 % valora positivamente la reacción de la ciudadanía ante la tragedia y el 53 % cree que la Alcaldía ha estado al frente de la atención y la recuperación.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/encuesta-exclusiva-asi-ven-los-calenos-la-gestion-de-la-alcaldia-tras-casi-dos-meses-del-terremoto-0442.html"
+    },
     {
       "id": "co-20261003-infobae-fondo-milagro-sin-operar",
       "fecha": "2026-10-03",
@@ -14,6 +25,17 @@
       "url": "https://www.infobae.com/colombia/2026/10/03/fondo-milagro-anunciado-por-de-la-espriella-aun-no-arranca-crecen-interrogantes-sobre-los-624600-millones-destinados-a-la-reconstruccion-tras-el-terremoto/"
     },
     {
+      "id": "co-20261003-eltiempo-sismo-istmina-4-1",
+      "fecha": "2026-10-03",
+      "titulo": "Un sismo de magnitud 4,1 con epicentro en Istmina (Chocó) se registra la noche del 3 de octubre",
+      "resumen": "El Servicio Geológico Colombiano reportó un sismo de magnitud 4,1 y 37 kilómetros de profundidad con epicentro en Istmina, Chocó, en la noche del sábado 3 de octubre, informa El Tiempo. Istmina concentra buena parte de la actividad sísmica registrada en el Chocó tras el terremoto del 10 de agosto.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-magnitud-4-1-en-istmina-choco-en-la-noche-del-3-de-octubre-epicentro-y-profundidad-3591085"
+    },
+    {
       "id": "co-20261003-eltiempo-licencias-construccion-decreto-1448",
       "fecha": "2026-10-03",
       "titulo": "Un decreto prorroga 12 meses las licencias urbanísticas en los 16 departamentos afectados por el terremoto y flexibiliza los trámites de reconstrucción",
@@ -23,6 +45,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/economia/finanzas-personales/licencias-de-construccion-y-obras-vecinas-las-reglas-para-damnificados-y-propietarios-afectados-3590900"
+    },
+    {
+      "id": "co-20261003-elpais-demoliciones-36-autorizadas",
+      "fecha": "2026-10-03",
+      "titulo": "Cali avanza en la demolición de edificaciones dañadas por el terremoto: ya son 36 las autorizadas",
+      "resumen": "El Consejo Distrital de Gestión del Riesgo de Cali ha aprobado la demolición de 36 edificaciones que colapsaron o quedaron en riesgo tras el sismo del 10 de agosto, informa El País (Cali). Según un comunicado de la Secretaría de Gestión del Riesgo, los trabajos buscan reducir riesgos y despejar los terrenos; uno de los principales frentes de este fin de semana está en la carrera 9 con calle 44.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cali-avanza-en-la-demolicion-de-edificios-afectados-por-el-terremoto-del-10-de-agosto-ya-son-36-los-autorizados-0318.html"
+    },
+    {
+      "id": "co-20261003-elpais-creditos-condonables-emprendedores",
+      "fecha": "2026-10-03",
+      "titulo": "Abren convocatoria de créditos condonables de hasta 5 millones de pesos para 1.800 emprendedores del Valle afectados por el sismo",
+      "resumen": "La Gobernación del Valle del Cauca y el Ministerio de Comercio, Industria y Turismo ofrecerán créditos condonables de hasta 5 millones de pesos a 1.800 emprendedores afectados por el terremoto, para reponer insumos, maquinaria y elementos perdidos, según El País (Cali). La primera etapa se dirige a negocios de Buenaventura, Cartago, Roldanillo, Sevilla, Cali, La Unión y Zarzal; en Cali el apoyo se centra en los sectores gastronómico y de bares.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/asi-podran-acceder-a-creditos-los-emprendedores-afectados-por-el-sismo-0339.html"
     },
     {
       "id": "co-20261002-infobae-pereira-colapso-rescate",
