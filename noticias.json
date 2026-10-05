@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-04",
+  "actualizado": "2026-10-05",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261005-elnacional-maiquetia-desembarque-nacional",
+      "fecha": "2026-10-05",
+      "titulo": "Maiquetía habilita un módulo temporal de desembarque nacional con capacidad para 1.633 viajeros diarios",
+      "resumen": "El aeropuerto de Maiquetía activó el sábado 3 de octubre un módulo temporal de desembarque para vuelos nacionales, de 1.230 metros cuadrados y diseñado para procesar 1.633 viajeros por jornada, informa El Nacional con datos de VTV. Las estructuras provisionales permiten mantener los vuelos comerciales mientras avanza la reparación de las áreas dañadas por los terremotos del 24 de junio; la actividad en estas terminales se reanudó de forma escalonada desde el 1 de septiembre.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/habilitaron-zona-temporal-de-desembarque-en-maiquetia/"
+    },
+    {
+      "id": "ve-20261005-elnacional-civ-estudios-forenses",
+      "fecha": "2026-10-05",
+      "titulo": "El Colegio de Ingenieros inicia estudios forenses para determinar por qué colapsaron edificios en La Guaira",
+      "resumen": "Tras concluir la revisión visual de las estructuras afectadas, el Colegio de Ingenieros de Venezuela (CIV) comenzó una fase de estudios forenses de ingeniería en La Guaira, con énfasis en los complejos OPP 26 y OPP 27 de Caraballeda, informa El Nacional. Félix Ojeda Oropeza, presidente de la Asamblea de Representantes del CIV, explicó que el proceso incluirá análisis de laboratorio, ensayos de materiales y estudios geológicos. El gremio y las universidades capacitaron en 15 días a unos 2.500 ingenieros, arquitectos y estudiantes para las inspecciones en Caracas y el municipio Sucre.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/colegio-de-ingenieros-investiga-causas-de-danos-estructurales-en-edificaciones-de-la-guaira/"
+    },
+    {
+      "id": "ve-20261004-elnacional-palos-grandes-atencion-medica",
+      "fecha": "2026-10-04",
+      "titulo": "Una organización vecinal de Los Palos Grandes ofrece atención médica y emocional gratuita a los afectados por los terremotos",
+      "resumen": "La organización vecinal Los Palos Grandes de Noche, en Caracas, reorientó su trabajo tras los terremotos del 24 de junio para prestar asistencia médica y acompañamiento emocional gratuitos a la comunidad, informa El Nacional. Según su presidente, Domenico Helmeyer, durante las primeras cuatro semanas sus más de 40 voluntarios mantuvieron un centro de acopio y atención primaria en la plaza Los Palos Grandes que atendió a unas 700 personas por lesiones, crisis de ansiedad y falta de alimentos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/los-palos-grandes-de-noche-impulsa-la-atencion-medica-y-emocional-gratuita-tras-terremotos/"
+    },
+    {
+      "id": "ve-20261004-elnacional-demolicion-medusa",
+      "fecha": "2026-10-04",
+      "titulo": "La demolición de Residencias Medusa, en Tanaguarena, eleva a 12 los edificios con etiqueta roja derribados en La Guaira",
+      "resumen": "La Dirección de Armas y Explosivos (DAEX) demolió con detonaciones controladas Residencias Medusa, en Tanaguarena (parroquia Caraballeda), la duodécima estructura con etiqueta roja derribada en La Guaira tras los terremotos del 24 de junio, informa El Nacional. El Ministerio de Interior indicó que las cuadrillas han retirado alrededor del 50 % de los escombros en las zonas afectadas y que cualquier proyecto de reconstrucción de viviendas dependerá de las evaluaciones técnicas del terreno.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/demolicion-de-residencias-medusa-elevo-a-12-las-estructuras-con-etiqueta-roja-derribadas-en-la-guaira/"
+    },
     {
       "id": "ve-20261004-elnacional-cuerpos-residencias-caribe",
       "fecha": "2026-10-04",
@@ -12,6 +56,17 @@
       "categoria": "Balance y cifras",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/10/rescatistas-y-voluntarios-recuperaron-cuatro-cuerpos-en-la-guaira-tras-101-dias-de-los-terremotos/"
+    },
+    {
+      "id": "ve-20261004-efectococuyo-alemania-caritas-familias",
+      "fecha": "2026-10-04",
+      "titulo": "La Embajada de Alemania dedica su Día Nacional a 115 familias afectadas por los terremotos en La Guaira",
+      "resumen": "La Embajada de Alemania en Venezuela sustituyó el 3 de octubre su recepción diplomática del Día de la Unidad Alemana por una jornada con 115 familias afectadas por los terremotos en Caraballeda (La Guaira), organizada junto con Cáritas Venezuela, informa Efecto Cocuyo. La actividad reunió a unas 320 personas, entre adultos y niños, con comida y actividades recreativas, y se suma a la ayuda humanitaria que Alemania despliega desde la emergencia de junio.",
+      "fuente": "Efecto Cocuyo",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://efectococuyo.com/la-humanidad/alemania-celebra-su-dia-nacional-en-la-guaira-junto-a-115-familias-afectadas-por-los-terremotos/"
     },
     {
       "id": "ve-20261003-infobae-vigilia-100-dias",
