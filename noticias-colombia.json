@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-04",
+  "actualizado": "2026-10-05",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261004-eltiempo-sgc-descenso-replicas",
+      "fecha": "2026-10-04",
+      "titulo": "El Servicio Geológico Colombiano reporta un descenso de las réplicas del terremoto del 10 de agosto en Chocó",
+      "resumen": "Según el boletín del Servicio Geológico Colombiano con corte al 4 de octubre a las 6:00 p. m., la frecuencia diaria de réplicas del terremoto de magnitud 7,4 ha disminuido frente a los periodos de mayor actividad. Desde el sismo, el SGC ha localizado 338 réplicas en San José del Palmar, Sipí y el Litoral del San Juan, a profundidades de entre 70 y 105 kilómetros; el monitoreo sigue de forma permanente. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-sgc-reporta-descenso-de-las-replicas-posteriores-al-terremoto-de-magnitud-7-4-en-choco-y-de-la-actividad-sismica-en-chaparral-tolima-3591204"
+    },
+    {
+      "id": "co-20261004-elpais-gobernacion-convocatoria-asistencia-tecnica",
+      "fecha": "2026-10-04",
+      "titulo": "La Gobernación del Valle busca personal técnico para supervisar la reconstrucción de viviendas dañadas por el terremoto",
+      "resumen": "La Gobernación del Valle del Cauca abrió una convocatoria, con apoyo del Sena, para identificar personal especializado que brinde asistencia técnica en los municipios afectados y garantice que las obras de reconstrucción se hagan de forma segura. El plan departamental contempla 2.500 viviendas nuevas y cerca de 9.500 mejoramientos habitacionales para familias damnificadas, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-abre-convocatoria-para-apoyar-la-reconstruccion-de-viviendas-afectadas-por-el-sismo-0454.html"
+    },
     {
       "id": "co-20261004-elpais-encuesta-cnc-recuperacion",
       "fecha": "2026-10-04",
