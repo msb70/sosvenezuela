@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-05",
+  "actualizado": "2026-10-06",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261006-elnacional-caf-dudamel-reconstruccion",
+      "fecha": "2026-10-06",
+      "titulo": "La CAF y Gustavo Dudamel exploran cooperación para proyectos sociales y culturales en la reconstrucción",
+      "resumen": "El presidente ejecutivo del Banco de Desarrollo de América Latina y el Caribe (CAF), Sergio Díaz-Granados, se reunió en Nueva York con el director Gustavo Dudamel para articular iniciativas de impacto social y de los sectores creativos en el marco de la recuperación de Venezuela tras los terremotos del 24 de junio, informa El Nacional. El encuentro se produce después de que la CAF lanzara un fondo internacional de auxilio y desarrollo de hasta 200 millones de dólares para canalizar aportes de gobiernos, organismos multilaterales y empresas a raíz del sismo.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/dudamel-y-caf-unen-esfuerzos-para-impulsar-la-reconstruccion-de-venezuela/"
+    },
+    {
+      "id": "ve-20261005-infobae-cecodap-informacion-ninos",
+      "fecha": "2026-10-05",
+      "titulo": "Cecodap advierte que la falta de información oficial agrava el riesgo de protección de los niños afectados por el terremoto",
+      "resumen": "A cien días del doble terremoto del 24 de junio, la ONG Cecodap sostiene en un análisis que la ausencia de datos oficiales impide saber cuántos niños, niñas y adolescentes siguen afectados, dónde están y qué derechos continúan comprometidos, informa Infobae. Según el medio, el balance oficial pasó de diario a semanal y lleva más de un mes sin publicarse, sin cifras desagregadas por edad. La organización advierte de riesgos en la reunificación familiar, la permanencia escolar y la prevención de la violencia.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/10/05/venezuela-advierten-que-falta-de-informacion-oficial-agrava-situacion-de-ninos-y-adolescentes-victimas-del-terremoto/"
+    },
     {
       "id": "ve-20261005-elnacional-maiquetia-desembarque-nacional",
       "fecha": "2026-10-05",
@@ -23,6 +45,17 @@
       "categoria": "Reconstrucción",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/10/colegio-de-ingenieros-investiga-causas-de-danos-estructurales-en-edificaciones-de-la-guaira/"
+    },
+    {
+      "id": "ve-20261005-cronicauno-damnificado-catia-la-mar",
+      "fecha": "2026-10-05",
+      "titulo": "Un damnificado de 62 años de Catia La Mar sigue sin vivienda ni ayudas estatales tres meses después del sismo",
+      "resumen": "Mario Morón, de 62 años, perdió la habitación que alquilaba en Catia La Mar y sus dos empleos con el doble sismo del 24 de junio, y quedó excluido de las ayudas estatales por no tener título de propiedad ni carga familiar, relata Crónica.Uno. Tras dos meses en un refugio comunitario de La Candelaria, en Caracas, lo abandonó por las malas condiciones y hoy pernocta en salas de emergencia de hospitales mientras busca una habitación.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/adulto-mayor-sin-casa-ni-apoyo-oficial-busca-refugio-seguro-tras-perderlo-todo-en-la-guaira/"
     },
     {
       "id": "ve-20261004-elnacional-palos-grandes-atencion-medica",
