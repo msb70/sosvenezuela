@@ -1,7 +1,150 @@
 {
-  "actualizado": "2026-10-05",
+  "actualizado": "2026-10-06",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261006-infobae-cooperacion-internacional-terremoto",
+      "fecha": "2026-10-06",
+      "titulo": "El Gobierno propone redirigir la cooperación internacional hacia territorios afectados a la vez por el conflicto y por el terremoto",
+      "resumen": "La Cancillería plantea concentrar parte de la cooperación internacional que recibe Colombia en territorios con doble afectación: el conflicto armado y el terremoto del 10 de agosto. Según el canciller Omar Bula, se mantendrán los compromisos vigentes, incluido el acuerdo de paz de 2016, y uno de los instrumentos sería el Fondo Multidonante de Naciones Unidas. Lo recoge Infobae a partir de Blu Radio.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/06/gobierno-quiere-redirigir-cooperacion-internacional-hacia-zonas-golpeadas-por-conflicto-y-terremoto/"
+    },
+    {
+      "id": "co-20261006-infobae-comision-congreso-hacienda",
+      "fecha": "2026-10-06",
+      "titulo": "La comisión del Congreso que sigue la reconstrucción en cinco departamentos afectados por el terremoto reclama información a Hacienda",
+      "resumen": "La Comisión Accidental Bicameral que vigila la reconstrucción en los cinco departamentos afectados por el terremoto busca conocer el presupuesto global, las fuentes de financiación y la hoja de ruta técnica de la recuperación. Los congresistas señalan que el ministro de Hacienda no asistió a dos invitaciones formales, lo que les impide precisar la dimensión financiera de las obras previstas. Lo informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/06/sin-respuestas-del-ministerio-de-hacienda-comision-legislativa-busca-definir-hoja-de-ruta-para-cinco-departamentos-afectados-por-el-terremoto/"
+    },
+    {
+      "id": "co-20261006-elpais-fasecolda-63-billones",
+      "fecha": "2026-10-06",
+      "titulo": "Las reclamaciones a las aseguradoras por el terremoto suben a 6,3 billones de pesos y los pagos se aceleran",
+      "resumen": "Con corte al 2 de octubre, el valor estimado de los siniestros asegurados por el terremoto del 10 de agosto llegó a 6,3 billones de pesos, un 10,5 % más que los 5,7 billones del reporte anterior, según cifras de Fasecolda. Las reclamaciones pasaron de 92.336 a 97.251 y las aseguradoras ya han pagado más de 571.000 millones de pesos, 170.023 millones de ellos en la última semana. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/reclamaciones-por-el-terremoto-ascienden-a-63-billones-aseguradoras-aceleran-los-pagos-0622.html"
+    },
+    {
+      "id": "co-20261005-infobae-unesco-patrimonio",
+      "fecha": "2026-10-05",
+      "titulo": "La Unesco aprueba 60.000 dólares para recuperar el patrimonio cultural dañado por el terremoto",
+      "resumen": "El Ministerio de Cultura informó que la Unesco aprobó 60.000 dólares de su Fondo de Emergencia para el Patrimonio destinados a recuperar bienes culturales afectados por el terremoto del 10 de agosto. Los recursos se ejecutarán entre octubre y diciembre de 2026, desde el diagnóstico de daños hasta la protección urgente de los bienes en riesgo. Lo informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/05/unesco-destino-us60000-para-recuperar-el-patrimonio-cultural-afectado-por-el-terremoto-de-agosto-en-colombia-en-que-se-invertiran/"
+    },
+    {
+      "id": "co-20261005-infobae-procuraduria-emergencia-corte",
+      "fecha": "2026-10-05",
+      "titulo": "La Procuraduría pide a la Corte Constitucional avalar los decretos de emergencia económica por el terremoto",
+      "resumen": "El procurador general, Gregorio Eljach, solicitó a la Corte Constitucional declarar exequibles los decretos 1261 y 1348, con los que se declaró y luego ajustó la emergencia económica, social y ecológica por el terremoto. La Procuraduría argumenta que los daños físicos directos, estimados inicialmente en cerca de 30 billones de pesos frente a unos 47.000 millones disponibles para desastres, superaron las herramientas ordinarias del Estado. Lo informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/05/la-procuraduria-pidio-a-la-corte-constitucional-mantener-la-emergencia-por-el-terremoto-estas-son-sus-razones/"
+    },
+    {
+      "id": "co-20261005-eltiempo-salud-total-whatsapp",
+      "fecha": "2026-10-05",
+      "titulo": "Salud Total habilita una línea de WhatsApp para autorizaciones médicas en Valle, Risaralda y Quindío por el cierre de sedes tras el terremoto",
+      "resumen": "La EPS Salud Total habilitó el número de WhatsApp 333 033 4094 para que sus más de 660.000 afiliados en Valle del Cauca, Risaralda y Quindío tramiten autorizaciones de servicios, procedimientos y medicamentos sin desplazarse. Varias sedes de atención en Cali, Pereira y Armenia seguirán cerradas por los daños del terremoto del 10 de agosto. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/salud/salud-total-habilita-whatsapp-para-autorizar-servicios-medicos-en-valle-risaralda-y-quindio-tras-el-terremoto-3591455"
+    },
+    {
+      "id": "co-20261005-eltiempo-cajas-compensacion-350000-millones",
+      "fecha": "2026-10-05",
+      "titulo": "Un decreto habilita más de 350.000 millones de pesos de las cajas de compensación para vivienda de damnificados del terremoto",
+      "resumen": "Con el Decreto Ley 1422 de 2026, las cajas de compensación familiar deberán destinar hasta finales de 2028 entre el 7,5 % y el 10 % de los recursos mensuales de su Fondo de Vivienda de Interés Social (Fovis) a las regiones afectadas por el terremoto. Los más de 350.000 millones de pesos podrán financiar subsidios de arriendo temporal, mejoramiento o compra de vivienda, según el Ministerio de Vivienda. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/gobierno-nacional-habilita-mas-de-350-000-millones-de-las-cajas-de-compensacion-familiar-para-la-reconstruccion-3591501"
+    },
+    {
+      "id": "co-20261005-elpais-salud-mental-recuperacion",
+      "fecha": "2026-10-05",
+      "titulo": "El Concejo de Cali reúne a autoridades y especialistas para incluir la salud mental en la recuperación tras el terremoto",
+      "resumen": "El conversatorio 'Construir bienestar, transformar ciudad', impulsado por el Concejo Distrital, reunió el 5 de octubre a los secretarios de Salud y Educación, especialistas y organizaciones para analizar las consecuencias emocionales y sociales del terremoto del 10 de agosto. La propuesta es que la recuperación de Cali atienda también el temor y la incertidumbre que dejó la emergencia. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cali-pone-la-salud-mental-en-el-centro-de-la-recuperacion-tras-la-emergencia-por-el-sismo-del-pasado-10-de-agosto-0527.html"
+    },
+    {
+      "id": "co-20261005-elpais-puente-mariano-ospina-advertencia",
+      "fecha": "2026-10-05",
+      "titulo": "La Gobernación del Valle advierte del peligro de cruzar el puente Mariano Ospina, cerrado por los daños del terremoto",
+      "resumen": "La gobernadora del Valle, Dilian Francisca Toro, alertó de que hay personas que retiran las señales de peligro y cruzan el puente Mariano Ospina Pérez, sobre el río Cauca entre La Victoria y La Unión. La estructura permanece cerrada totalmente desde hace semanas por los daños del terremoto de magnitud 7,4 y será demolida en los próximos meses. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-advierte-sobre-riesgos-en-usar-puente-mariano-ospina-entre-la-victoria-y-la-union-tras-afectaciones-del-terremoto-0526.html"
+    },
+    {
+      "id": "co-20261005-elpais-obras-por-impuestos-vivienda-rural",
+      "fecha": "2026-10-05",
+      "titulo": "El Ministerio de Vivienda prepara la vía para que empresas financien con Obras por Impuestos viviendas rurales dañadas por el terremoto",
+      "resumen": "El Ministerio de Vivienda, con el DNP, la Agencia de Renovación del Territorio y el sector privado, elabora el anexo de vivienda rural del Manual Operativo de Obras por Impuestos para la Reconstrucción. El documento fijará las condiciones para formular y ejecutar proyectos de recuperación de viviendas rurales en municipios de los 16 departamentos afectados por el sismo. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/ministerio-de-vivienda-avanza-en-hoja-de-ruta-para-el-financiamiento-de-las-viviendas-rurales-afectadas-por-el-terremoto-0526.html"
+    },
+    {
+      "id": "co-20261005-elpais-la-victoria-certificados-vivienda",
+      "fecha": "2026-10-05",
+      "titulo": "La Gobernación del Valle entrega 150 certificados de kits de materiales a damnificados del terremoto en La Victoria",
+      "resumen": "La Gobernación del Valle entregó en La Victoria 150 certificados de kits de materiales para techos y paredes destinados a mejorar viviendas dañadas por el terremoto, y anunció además la construcción de 25 casas nuevas. Es el municipio número 27 donde se entregan estos certificados; las obras contarán con un maestro pagado por Alcaldía y Gobernación y un ingeniero permanente. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-entrego-150-certificados-para-mejoramiento-de-vivienda-a-damnificados-del-sismo-en-la-victoria-0529.html"
+    },
+    {
+      "id": "co-20261005-elpais-gran-abrazo-cali-valle",
+      "fecha": "2026-10-05",
+      "titulo": "Una jornada solidaria en Cali recaudará fondos para los damnificados el 10 de octubre, a dos meses del terremoto",
+      "resumen": "El sábado 10 de octubre, cuando se cumplen dos meses del terremoto, se celebrará 'El gran abrazo por Cali y el Valle' en el Arena USC de la Universidad Santiago de Cali desde las 8:00 a. m. La entrada cuesta 50.000 pesos y lo recaudado se donará a los afectados a través de las fundaciones Abaco y Techo Colombia. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/gran-abrazo-por-cali-y-el-valle-jornada-de-solidaridad-por-afectados-del-terremoto-sera-el-10-de-octubre-conozca-lugar-y-hora-0516.html"
+    },
+    {
+      "id": "co-20261005-elpais-cali-balance-auxilios-demoliciones",
+      "fecha": "2026-10-05",
+      "titulo": "Cali informa que más de 9.000 familias damnificadas ya recibieron el auxilio económico y que 60 edificios serán demolidos",
+      "resumen": "En un Puesto de Mando Unificado para la Reconstrucción en la Ciudadela Petronio, la Alcaldía de Cali informó que del primer corte de auxilios económicos se autorizaron 10.000 desembolsos y algo más de 9.000 familias ya los recibieron. También actualizó el avance de las visitas técnicas a estructuras afectadas y anunció que 60 edificios serán demolidos. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/eder-presento-balance-de-reconstruccion-mas-de-9000-familias-ya-recibieron-ayuda-humanitaria-y-60-edificios-seran-demolidos-0514.html"
+    },
     {
       "id": "co-20261004-eltiempo-sgc-descenso-replicas",
       "fecha": "2026-10-04",
