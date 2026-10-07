@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-06",
+  "actualizado": "2026-10-07",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261007-infobae-fondo-milagro-junta",
+      "fecha": "2026-10-07",
+      "titulo": "El Fondo Milagro para la reconstrucción tras el terremoto queda constituido y empieza a operar con una junta de empresarios",
+      "resumen": "El Gobierno anunció tras el Consejo de Ministros que el Fondo Milagro, que articulará recursos públicos y privados para reconstruir las zonas afectadas por el terremoto del 10 de agosto, quedó formalmente constituido y empieza a operar este miércoles. Su gerente será Jaime Uribe y la junta directiva la integran, entre otros, el gerente de la Federación Nacional de Cafeteros, Germán Bahamón, el presidente de Colombina, César Caicedo, y el empresario Arturo Calle. Lo informa Infobae a partir de Blu Radio.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/07/de-la-espriella-anuncia-auditoria-al-fomag-activa-el-fondo-milagro-y-reporta-avances-del-plan-de-salud/"
+    },
+    {
+      "id": "co-20261007-infobae-decreto-1488-fondo-milagro",
+      "fecha": "2026-10-07",
+      "titulo": "Un decreto incorpora 624.656 millones de pesos de crédito externo al presupuesto de 2026 con destino al Fondo Milagro",
+      "resumen": "El Decreto 1488 de 2026, firmado el 6 de octubre, liquida la adición presupuestal de 624.656 millones de pesos autorizada en septiembre por el Decreto 1412 en el marco de la emergencia económica por el terremoto. Los recursos proceden en su totalidad de crédito externo y se asignan al Ministerio de Hacienda como transferencia al Fondo Milagro, de modo que puedan ejecutarse. Lo detalla Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/07/este-es-el-decreto-con-el-que-el-gobierno-nacional-agrego-624656-millones-al-presupuesto-general-de-la-nacion-del-2026-para-financiar-el-fondo-milagro/"
+    },
+    {
+      "id": "co-20261007-eltiempo-contraloria-vigilancia-reconstruccion",
+      "fecha": "2026-10-07",
+      "titulo": "La Contraloría dará prioridad a la vigilancia de los recursos para reconstruir las zonas afectadas por el terremoto",
+      "resumen": "El contralor general, Jorge Eliécer Laverde, firmó una resolución para priorizar el seguimiento de los recursos que el Gobierno destine a la emergencia, que afectó a 16 departamentos. La entidad usará análisis de datos para identificar patrones de riesgo y emitir alertas tempranas «antes de que el dinero se pierda». Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-priorizara-la-vigilancia-de-recursos-destinados-a-reconstruir-zonas-afectadas-por-el-terremoto-3591826"
+    },
     {
       "id": "co-20261006-infobae-cooperacion-internacional-terremoto",
       "fecha": "2026-10-06",
@@ -25,6 +58,61 @@
       "url": "https://www.infobae.com/colombia/2026/10/06/sin-respuestas-del-ministerio-de-hacienda-comision-legislativa-busca-definir-hoja-de-ruta-para-cinco-departamentos-afectados-por-el-terremoto/"
     },
     {
+      "id": "co-20261006-eltiempo-instituto-ninos-ciegos-sordos",
+      "fecha": "2026-10-06",
+      "titulo": "Comienza la restauración del Instituto para Niños Ciegos y Sordos del Valle, con daños de más de 30.000 millones por el terremoto",
+      "resumen": "El Instituto para Niños Ciegos y Sordos del Valle del Cauca, en Cali, anunció el 6 de octubre el inicio de las obras de restauración de sus instalaciones, gravemente afectadas por el sismo del 10 de agosto, en el que perdieron la vida dos de sus trabajadores. Los daños superan los 30.000 millones de pesos y tres fundaciones asumen la financiación. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/alianza-solidaria-inicia-la-reconstruccion-del-instituto-para-ninos-ciegos-y-sordos-del-valle-tras-el-devastador-terremoto-del-10-de-agosto-3591764"
+    },
+    {
+      "id": "co-20261006-eltiempo-casas-dosquebradas",
+      "fecha": "2026-10-06",
+      "titulo": "Una constructora de Barranquilla donará viviendas a familias damnificadas por el terremoto en Dosquebradas",
+      "resumen": "La constructora ACF S.A.S. anunció un plan piloto, valorado en más de 376 millones de pesos, que incluye la construcción de dos casas nuevas amobladas y el reforzamiento estructural de otros dos inmuebles para familias afectadas por el terremoto en Dosquebradas (Risaralda). Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/barranquilla/asi-seran-las-casas-que-una-empresa-de-barranquilla-construira-para-damnificados-del-terremoto-de-dosquebradas-risaralda-3591646"
+    },
+    {
+      "id": "co-20261006-eltiempo-arrendamientos-cali",
+      "fecha": "2026-10-06",
+      "titulo": "Cali aplica las medidas extraordinarias sobre arrendamientos tras el terremoto, que suspenden temporalmente los desalojos",
+      "resumen": "La Administración de Cali acoge el Decreto 1423 de 2026, con el que el Gobierno Nacional estableció medidas extraordinarias y temporales para proteger a arrendatarios, propietarios y comunidades directamente afectadas por el sismo del 10 de agosto, entre ellas la suspensión temporal de los desalojos. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/cuales-son-las-nuevas-medidas-extraordinarias-sobre-arrendamientos-y-bienes-inmuebles-que-se-aplicaran-en-cali-tras-el-terremoto-3591721"
+    },
+    {
+      "id": "co-20261006-elpais-tres-hospitales-valle",
+      "fecha": "2026-10-06",
+      "titulo": "Tres hospitales públicos del Valle del Cauca, entre ellos el HUV de Cali, tienen daños estructurales por el terremoto",
+      "resumen": "La secretaria de Salud del Valle, María Cristina Lesmes, informó que el Hospital de El Águila, el Hospital de Roldanillo y el Hospital Universitario del Valle, en Cali, presentan afectaciones estructurales considerables tras el sismo del 10 de agosto. Se están haciendo evaluaciones con expertos y preparando los planes y la consecución de recursos para su recuperación. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/estos-son-los-tres-hospitales-publicos-del-valle-que-tienen-afectaciones-estructurales-tras-el-terremoto-0648.html"
+    },
+    {
+      "id": "co-20261006-elpais-predial-intereses-mora",
+      "fecha": "2026-10-06",
+      "titulo": "Cali condona el 100 % de los intereses de mora del impuesto predial a los afectados por el terremoto",
+      "resumen": "La Hacienda Distrital de Cali habilitó, con el Acuerdo 0647 de 2026, un descuento del 100 % de los intereses moratorios del predial para un máximo de cinco vigencias anteriores a 2026 por inmueble, con plazos de pago que se extienden hasta 2027. Basta con pagar el capital y las sobretasas, sin necesidad de estar a paz y salvo con periodos previos. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/hacienda-exonera-el-100-de-los-intereses-de-mora-del-impuesto-predial-en-cali-a-afectados-por-el-sismo-0644.html"
+    },
+    {
       "id": "co-20261006-elpais-fasecolda-63-billones",
       "fecha": "2026-10-06",
       "titulo": "Las reclamaciones a las aseguradoras por el terremoto suben a 6,3 billones de pesos y los pagos se aceleran",
@@ -34,6 +122,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/economia/reclamaciones-por-el-terremoto-ascienden-a-63-billones-aseguradoras-aceleran-los-pagos-0622.html"
+    },
+    {
+      "id": "co-20261006-elpais-comision-audiencias-seis-departamentos",
+      "fecha": "2026-10-06",
+      "titulo": "La comisión del Congreso que vigila la reconstrucción hará diez audiencias públicas en seis departamentos afectados por el terremoto",
+      "resumen": "La Comisión Accidental Bicameral, coordinada por la senadora Norma Hurtado y el representante Juan Manuel Londoño, realizará diez audiencias públicas territoriales entre el 22 de octubre y el 11 de noviembre. Las plenarias aprobaron el desplazamiento a Valle del Cauca, Cauca, Chocó, Risaralda, Caldas y Quindío antes de cerrar el ciclo en Bogotá. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/politica/comision-del-congreso-sesionara-en-seis-departamentos-para-verificar-reconstruccion-tras-el-terremoto-0642.html"
     },
     {
       "id": "co-20261005-infobae-unesco-patrimonio",
