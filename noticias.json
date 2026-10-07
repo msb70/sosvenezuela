@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-06",
+  "actualizado": "2026-10-07",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261006-elnacional-desempleo-la-guaira",
+      "fecha": "2026-10-06",
+      "titulo": "La Coalición Sindical Nacional cifra en 96 % el desempleo en La Guaira tras los terremotos",
+      "resumen": "La Coalición Sindical Nacional afirma que el desempleo en La Guaira alcanzó el 96 % tras los terremotos del 24 de junio, informa El Nacional. Su vocero, Javier Hernández, señaló que en las obras de reconstrucción del estado se contrata personal de otras entidades y pidió la participación de trabajadores locales. También indicó que el servicio eléctrico en la entidad sigue presentando deficiencias.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/desempleo-en-la-guaira-alcanzo-96-tras-los-terremotos-segun-la-coalicion-sindical/"
+    },
     {
       "id": "ve-20261006-elnacional-caf-dudamel-reconstruccion",
       "fecha": "2026-10-06",
