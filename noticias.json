@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-07",
+  "actualizado": "2026-10-08",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261007-elnacional-ucv-grada-sur",
+      "fecha": "2026-10-07",
+      "titulo": "La UCV reabre al público la Grada Sur del estadio Olímpico, cerrada tras los terremotos",
+      "resumen": "Las autoridades de la Universidad Central de Venezuela habilitaron la Grada Sur del estadio Olímpico para un máximo de 3.000 personas, tras unos dos meses de suspensión del ingreso de público a las gradas por las afectaciones de los terremotos del 24 de junio, informa El Nacional citando un comunicado del Caracas FC. El primer partido con aficionados está previsto para el 11 de octubre.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/autoridades-universitarias-aprueban-la-apertura-de-la-grada-sur-en-el-estadio-olimpico-de-la-ucv/"
+    },
+    {
+      "id": "ve-20261007-elnacional-maiquetia-208000-pasajeros",
+      "fecha": "2026-10-07",
+      "titulo": "Las terminales temporales de Maiquetía movilizan 208.906 pasajeros en su primer mes de operaciones",
+      "resumen": "Las terminales temporales del aeropuerto internacional de Maiquetía registraron 208.906 pasajeros y 2.498 operaciones aéreas desde su puesta en marcha en septiembre, según el balance del Ministerio de Transporte recogido por El Nacional. Más de 104.000 usuarios utilizaron las instalaciones de contingencia en rutas internacionales, con 1.852 vuelos comerciales. Las obras de rehabilitación de los edificios terminales dañados por los terremotos del 24 de junio continúan en paralelo a las operaciones.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/terminales-temporales-del-aeropuerto-de-maiquetia-superan-los-208-000-pasajeros-movilizados-en-su-primer-mes-de-operaciones/"
+    },
+    {
+      "id": "ve-20261007-elnacional-bono-contingencia-octubre",
+      "fecha": "2026-10-07",
+      "titulo": "El Bono de Contingencia para familias afectadas por los terremotos se paga en octubre por 652.500 bolívares",
+      "resumen": "El gobierno comenzó el martes 6 de octubre a entregar a través de la Plataforma Patria el Bono de Contingencia 2026 correspondiente al mes, por 652.500 bolívares (unos 746,68 dólares a la tasa del BCV), informa El Nacional. El subsidio está dirigido a familias en situación de vulnerabilidad afectadas por los terremotos del 24 de junio, que son notificadas por SMS desde el número 3532 o por la aplicación veMonedero.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/pagan-bono-de-mas-de-700-dolares-por-patria-quienes-lo-reciben/"
+    },
     {
       "id": "ve-20261006-elnacional-desempleo-la-guaira",
       "fecha": "2026-10-06",
