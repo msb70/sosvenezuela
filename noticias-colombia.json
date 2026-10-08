@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-07",
+  "actualizado": "2026-10-08",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261008-infobae-quindio-turismo",
+      "fecha": "2026-10-08",
+      "titulo": "La ocupación hotelera del Quindío cae del 80 % al 20 % tras el terremoto y el departamento prepara un plan de reactivación",
+      "resumen": "El gobernador del Quindío, Juan Miguel Galvis, cifra en más de 103.000 los damnificados urbanos y en unas 23.000 las viviendas con daños en el departamento; en el área rural, Quimbaya, Montenegro y Filandia suman más de 6.000 viviendas completamente afectadas, y 243 de unas 267 instituciones educativas sufrieron daños. La ocupación hotelera bajó del 80 % al 20 % y la Gobernación prepara una estrategia para acelerar la reconstrucción y atraer de nuevo visitantes. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/"
+    },
+    {
+      "id": "co-20261008-infobae-alivios-agua-decreto-1493",
+      "fecha": "2026-10-08",
+      "titulo": "El Gobierno dará un subsidio adicional en las facturas de agua, alcantarillado y aseo a hogares afectados por el terremoto",
+      "resumen": "El Decreto 1493 del 6 de octubre permite un subsidio adicional en los recibos de acueducto, alcantarillado y aseo para hogares de estratos 1, 2 y 3 afectados por el terremoto del 10 de agosto, durante un máximo de seis facturas mensuales o tres bimestrales. El alivio no es automático: el Ministerio de Vivienda definirá las zonas beneficiarias, el porcentaje y la duración. Lo informa Infobae a partir de Blu Radio.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/08/gobierno-dara-alivios-en-recibos-de-agua-alcantarillado-y-aseo-a-familias-afectadas-por-el-terremoto/"
+    },
+    {
+      "id": "co-20261008-eltiempo-pascual-guerrero-reabre",
+      "fecha": "2026-10-08",
+      "titulo": "El estadio Pascual Guerrero de Cali reabre todas sus tribunas por primera vez desde el terremoto",
+      "resumen": "La Secretaría de Gestión del Riesgo de Cali emitió un concepto técnico favorable que avala reabrir la tribuna occidental del estadio Pascual Guerrero, cerrada desde el terremoto del 10 de agosto por el riesgo de edificaciones aledañas dañadas. El escenario recibirá el 100 % de su aforo a partir del próximo domingo. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/el-estadio-pascual-guerrero-reabre-todas-sus-tribunas-por-primera-vez-tras-el-terremoto-del-10-de-agosto-en-cali-3592105"
+    },
     {
       "id": "co-20261007-infobae-fondo-milagro-junta",
       "fecha": "2026-10-07",
@@ -25,6 +58,17 @@
       "url": "https://www.infobae.com/colombia/2026/10/07/este-es-el-decreto-con-el-que-el-gobierno-nacional-agrego-624656-millones-al-presupuesto-general-de-la-nacion-del-2026-para-financiar-el-fondo-milagro/"
     },
     {
+      "id": "co-20261007-eltiempo-fondo-milagro-fiducoldex",
+      "fecha": "2026-10-07",
+      "titulo": "Fiducoldex administrará el Fondo Milagro para la reconstrucción, con supervisión de Hacienda y auditorías de la Superfinanciera",
+      "resumen": "El patrimonio autónomo Fondo Milagro, creado para reconstruir las zonas afectadas por el terremoto del 10 de agosto, quedó encomendado a la Fiduciaria Colombiana de Comercio Exterior (Fiducoldex), vinculada al Gobierno nacional. La supervisión corresponderá al Ministerio de Hacienda y habrá auditorías de la Superintendencia Financiera; el reto ahora es traducir esa estructura en contratos, pagos y obras. Lo explica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/gobierno/la-arquitectura-detras-del-fondo-milagro-quien-decide-cuanto-cobrara-fiducoldex-y-cuanto-puede-durar-el-contrato-3591890"
+    },
+    {
       "id": "co-20261007-eltiempo-contraloria-vigilancia-reconstruccion",
       "fecha": "2026-10-07",
       "titulo": "La Contraloría dará prioridad a la vigilancia de los recursos para reconstruir las zonas afectadas por el terremoto",
@@ -34,6 +78,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-priorizara-la-vigilancia-de-recursos-destinados-a-reconstruir-zonas-afectadas-por-el-terremoto-3591826"
+    },
+    {
+      "id": "co-20261007-elpais-valle-cofinanciacion",
+      "fecha": "2026-10-07",
+      "titulo": "El Valle del Cauca pide cofinanciación nacional para reconstruir más de 105.000 hogares dañados por el terremoto",
+      "resumen": "Sin contar Cali, más de 105.000 hogares del Valle del Cauca reportaron daños por el terremoto del 10 de agosto, una reconstrucción que supera la capacidad de las administraciones locales. La gobernadora Dilian Francisca Toro valoró la puesta en marcha del Fondo Milagro e insistió en la necesidad de recursos del Gobierno nacional para cofinanciar las obras. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/valle-pide-cofinanciacion-para-reconstruir-las-zonas-mas-afectadas-por-el-terremoto-hay-mas-de-105000-hogares-damnificados-0712.html"
+    },
+    {
+      "id": "co-20261007-elpais-dosquebradas-demolicion",
+      "fecha": "2026-10-07",
+      "titulo": "Dosquebradas aclara que la resolución de demolición de un edificio dañado por el terremoto no define quién paga los trabajos",
+      "resumen": "La Alcaldía de Dosquebradas (Risaralda) había asegurado que las demoliciones no tendrían costo para los propietarios, pero en una respuesta a una PQR del 29 de septiembre precisó que la resolución que ordena derribar la Torre 3 de la urbanización Quintas del Jardín Colonial no establece quién asume el pago. El cambio ha generado inquietud entre los propietarios afectados por el terremoto del 10 de agosto. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/polemica-en-dosquebradas-por-cambio-de-postura-de-la-alcaldia-sobre-demolicion-de-edificio-tras-el-terremoto-0702.html"
     },
     {
       "id": "co-20261006-infobae-cooperacion-internacional-terremoto",
@@ -56,6 +122,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/06/sin-respuestas-del-ministerio-de-hacienda-comision-legislativa-busca-definir-hoja-de-ruta-para-cinco-departamentos-afectados-por-el-terremoto/"
+    },
+    {
+      "id": "co-20261006-eltiempo-sevilla-comercio",
+      "fecha": "2026-10-06",
+      "titulo": "Sevilla, en el norte del Valle, apuesta por el turismo y los productos locales para reactivar su comercio tras el terremoto",
+      "resumen": "La Gobernación del Valle del Cauca impulsa una iniciativa turística y económica para reactivar los municipios del norte del departamento afectados por el terremoto del 10 de agosto, entre ellos Sevilla, uno de los más golpeados. Emprendedores locales promocionan productos a base de café y semillas, acompañados de presentaciones musicales y artísticas. Lo cuenta El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/macadamias-cremas-de-whisky-y-cafe-de-ocho-decadas-los-sabores-con-los-que-sevilla-le-apuesta-a-reconstruir-su-comercio-tras-el-terremoto-3591785"
     },
     {
       "id": "co-20261006-eltiempo-instituto-ninos-ciegos-sordos",
