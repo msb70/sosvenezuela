@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-08",
+  "actualizado": "2026-10-09",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261009-cronicauno-escuelas-refugio-salud-emocional",
+      "fecha": "2026-10-09",
+      "titulo": "El uso de escuelas como refugios retrasa la recuperación emocional de los estudiantes a 107 días de los sismos",
+      "resumen": "El 17 % de las escuelas en las zonas afectadas por los terremotos del 24 de junio opera como refugio temporal para familias damnificadas, lo que compromete el año escolar, según reporta Crónica.Uno. Los sismos dañaron al menos 900 planteles en nueve estados, de acuerdo con la Agencia PANA, y las clases se reanudaron con grietas visibles y sin balances oficiales de reparación. Cecodap señala que la atención en campamentos redujo la ideación suicida al 9 %, aunque persisten secuelas emocionales.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/escuelas-refugios-recuperacion-emocional-estudiantes-sismos/"
+    },
     {
       "id": "ve-20261007-elnacional-ucv-grada-sur",
       "fecha": "2026-10-07",
