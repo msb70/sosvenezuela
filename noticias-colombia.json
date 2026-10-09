@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-08",
+  "actualizado": "2026-10-09",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261009-infobae-risaralda-20-billones",
+      "fecha": "2026-10-09",
+      "titulo": "Risaralda calcula en más de 20 billones de pesos la reconstrucción tras el terremoto y busca apoyo del sector privado",
+      "resumen": "La Gobernación de Risaralda estima que la reconstrucción costará más de 20 billones de pesos, según el Plan de Acción Específica departamental y los planes de sus 14 municipios afectados; el gobernador Juan Diego Patiño señala municipios con hasta el 30 % de las viviendas dañadas y más de 110 fallecidos en el departamento. La UNGRD giró una primera partida de 13.995 millones para subsidios de arriendo y prevé otra de unos 22.000 millones, que la Gobernación considera insuficientes. Lo recoge Infobae a partir de Blu Radio.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/09/risaralda-calcula-en-mas-de-20-billones-la-reconstruccion-tras-el-terremoto-y-busca-apoyo-privado/"
+    },
     {
       "id": "co-20261008-infobae-quindio-turismo",
       "fecha": "2026-10-08",
@@ -25,6 +36,17 @@
       "url": "https://www.infobae.com/colombia/2026/10/08/gobierno-dara-alivios-en-recibos-de-agua-alcantarillado-y-aseo-a-familias-afectadas-por-el-terremoto/"
     },
     {
+      "id": "co-20261008-eltiempo-stephany-echavarria-alta",
+      "fecha": "2026-10-08",
+      "titulo": "Sale de la Fundación Valle del Lili, tras 57 días y 21 cirugías, una sobreviviente del terremoto de Cali que protegió a su hija",
+      "resumen": "Stephany Echavarría, de 29 años, quedó atrapada con su hija cuando se derrumbó su edificio en Cali durante el terremoto del 10 de agosto y la protegió con su cuerpo; perdió las piernas. Tras 57 días en la Fundación Valle del Lili, con cuidados intensivos y 21 cirugías, recibió el alta y se reencontró con la niña; durante su hospitalización recibió la promesa de una nueva vivienda. Lo cuenta El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/entre-21-cirugias-visitas-ilustres-y-fuertes-emociones-asi-fueron-los-57-dias-de-stephany-echavarria-en-la-clinica-tras-el-terremoto-de-cali-3592268"
+    },
+    {
       "id": "co-20261008-eltiempo-pascual-guerrero-reabre",
       "fecha": "2026-10-08",
       "titulo": "El estadio Pascual Guerrero de Cali reabre todas sus tribunas por primera vez desde el terremoto",
@@ -34,6 +56,39 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/cali/el-estadio-pascual-guerrero-reabre-todas-sus-tribunas-por-primera-vez-tras-el-terremoto-del-10-de-agosto-en-cali-3592105"
+    },
+    {
+      "id": "co-20261008-eltiempo-d1-alimentos-25000-familias",
+      "fecha": "2026-10-08",
+      "titulo": "D1 entregará 4.000 toneladas de alimentos a 25.000 familias afectadas por el terremoto durante seis meses",
+      "resumen": "La cadena D1 entregará cerca de 4.000 toneladas de productos básicos —más de 50 productos al mes y 500 kits para bebé— a 25.000 familias afectadas por el terremoto del 10 de agosto, dentro de una donación conjunta de 20.000 millones de pesos con la Fundación Santo Domingo. La Asociación de Bancos de Alimentos de Colombia (Abaco) seleccionará a los beneficiarios y coordinará la distribución; aún no se han precisado los municipios. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/d1-entregara-4-000-toneladas-de-alimentos-a-25-000-familias-afectadas-por-el-terremoto-durante-seis-meses-3592379"
+    },
+    {
+      "id": "co-20261008-eltiempo-coopidrogas-droguerias",
+      "fecha": "2026-10-08",
+      "titulo": "Unas 280 droguerías de la zona del terremoto sufrieron daños; Coopidrogas movilizó 25.990 millones en mercancía para mantener el abastecimiento",
+      "resumen": "El terremoto del 10 de agosto afectó dos de las seis sedes logísticas de Coopidrogas, en Cali y Pereira, y unas 280 droguerías asociadas de la zona registraron algún nivel de daño. La cooperativa redirigió pedidos y vehículos desde Bogotá, Cota y Medellín y movilizó 25.990 millones de pesos en mercancía para sostener el suministro de medicamentos. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/coopidrogas-movilizo-25-990-millones-en-mercancia-tras-el-terremoto-asi-mantuvo-el-abastecimiento-de-droguerias-tras-el-sismo-3592283"
+    },
+    {
+      "id": "co-20261008-elpais-cali-sedes-educativas-mineducacion",
+      "fecha": "2026-10-08",
+      "titulo": "Cali y el Ministerio de Educación coordinan la reconstrucción de más de 200 sedes educativas dañadas por el terremoto",
+      "resumen": "El alcalde de Cali, Alejandro Eder, y la ministra de Educación, Ilva Myriam Hoyos, revisaron las necesidades para recuperar la infraestructura escolar afectada por el terremoto del 10 de agosto: más de 200 sedes deben ser atendidas. La ciudad cuenta con recursos iniciales del Fondo Milagro y donaciones privadas, y el Gobierno nacional estudia alternativas para garantizar el regreso seguro de los estudiantes. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-y-mineducacion-unen-esfuerzos-para-reconstruir-mas-de-200-sedes-educativas-afectadas-por-el-terremoto-0806.html"
     },
     {
       "id": "co-20261007-infobae-fondo-milagro-junta",
