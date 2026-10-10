@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-09",
+  "actualizado": "2026-10-10",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261010-eltiempo-reconstruccion-dos-meses",
+      "fecha": "2026-10-10",
+      "titulo": "Dos meses después del terremoto, la UNGRD cifra en 335 los fallecidos y en más de 36.000 las viviendas destruidas",
+      "resumen": "El balance de la UNGRD con corte al 9 de octubre a las 6:30 de la mañana registra 335 fallecidos, 4.516 heridos, 103 desaparecidos y 364 personas rescatadas, además de 36.478 viviendas destruidas y 206.931 con averías. La reconstrucción apenas empieza a tomar forma pese a las ayudas entregadas, y el sismo de Panamá del 9 de octubre se sintió en el Chocó sin dejar daños en ese departamento. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647"
+    },
     {
       "id": "co-20261009-infobae-risaralda-20-billones",
       "fecha": "2026-10-09",
@@ -12,6 +23,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/09/risaralda-calcula-en-mas-de-20-billones-la-reconstruccion-tras-el-terremoto-y-busca-apoyo-privado/"
+    },
+    {
+      "id": "co-20261009-eltiempo-dosquebradas-gato-rescatado",
+      "fecha": "2026-10-09",
+      "titulo": "Los Bomberos de Dosquebradas rescatan a un gato desaparecido desde el terremoto y lo devuelven a su dueña",
+      "resumen": "El Cuerpo de Bomberos de Dosquebradas (Risaralda) logró capturar la noche del 8 de octubre a 'Malvado', un gato que llevaba casi dos meses desaparecido desde el sismo del 10 de agosto, tras búsquedas pasivas y trampas instaladas con veterinarios y rescatistas voluntarios. El reencuentro con su dueña se difundió el 9 de octubre. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescataron-a-un-gato-en-dosquebradas-risaralda-que-permanecia-desaparecido-desde-hacia-dos-meses-tras-el-terremoto-de-magnitud-7-4-en-colombia-3592457"
     },
     {
       "id": "co-20261008-infobae-quindio-turismo",
