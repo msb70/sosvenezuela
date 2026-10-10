@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-09",
+  "actualizado": "2026-10-10",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261009-elnacional-senamecf-identificacion-22-fallecidos",
+      "fecha": "2026-10-09",
+      "titulo": "El Ministerio de Interior convoca a familiares para confirmar la identidad de 22 fallecidos por los terremotos",
+      "resumen": "El Ministerio de Relaciones Interiores, Justicia y Paz pidió a familiares y allegados acudir a la sede del Senamecf en Bello Monte (Caracas) para cotejar la identidad de 22 víctimas mortales de los sismos del 24 de junio, identificadas de forma preliminar mediante experticias de necrodactilia, odontología y antropología forense. Los restos están inhumados en el Cementerio La Esperanza, en La Guaira, informa El Nacional. El balance oficial del Gobierno se mantiene en 6.509 fallecidos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/gobierno-venezolano-convoca-a-familiares-para-confirmar-la-identidad-de-22-fallecidos-tras-el-sismo-de-junio/"
+    },
+    {
+      "id": "ve-20261009-elnacional-red-sobrevivientes-terrenos-contenedores",
+      "fecha": "2026-10-09",
+      "titulo": "La Red de Sobrevivientes de La Guaira denuncia la cesión de 14 terrenos públicos para almacenar contenedores",
+      "resumen": "Carlos Teixeira, vocero de la Red de Sobrevivientes de La Guaira, denunció la adjudicación de al menos 14 terrenos estatales y municipales, entre ellos el de la antigua planta de tratamiento de aguas servidas de Punta Gorda, a empresas privadas para acopiar contenedores vacíos, informa El Nacional. Según cálculos de la organización, en esos predios podrían construirse unas 4.726 viviendas para familias que siguen sin techo tras los sismos del 24 de junio; la Red pide a las autoridades revertir las concesiones.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/red-de-sobrevivientes-denuncia-la-cesion-de-14-terrenos-publicos-en-la-guaira-a-empresas-privadas-para-almacenar-contenedores/"
+    },
+    {
+      "id": "ve-20261009-elnacional-conatel-starlink",
+      "fecha": "2026-10-09",
+      "titulo": "Conatel autoriza formalmente las operaciones de Starlink en Venezuela tras su uso en la emergencia sísmica",
+      "resumen": "La Comisión Nacional de Telecomunicaciones otorgó siete concesiones generales a Spacex VZ S.C.A. para prestar el servicio de internet satelital Starlink en todo el país, informa El Nacional. La autorización tiene como antecedente los permisos temporales concedidos tras los terremotos del 24 de junio, que dañaron la fibra óptica y las antenas móviles en La Guaira y permitieron activar más de 1.600 terminales para coordinar el rescate y la ayuda humanitaria.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/conatel-autoriza-formalmente-las-operaciones-de-starlink-en-venezuela-tras-la-prueba-del-servicio-durante-la-emergencia-sismica/"
+    },
     {
       "id": "ve-20261009-cronicauno-escuelas-refugio-salud-emocional",
       "fecha": "2026-10-09",
@@ -12,6 +45,17 @@
       "categoria": "Educación",
       "tipo": "noticia",
       "url": "https://cronica.uno/escuelas-refugios-recuperacion-emocional-estudiantes-sismos/"
+    },
+    {
+      "id": "ve-20261008-lapatilla-sismo-los-teques",
+      "fecha": "2026-10-08",
+      "titulo": "Funvisis registra un sismo de magnitud 3,4 al noroeste de Los Teques",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) informó de un sismo de magnitud 3,4 el 8 de octubre, localizado a 35 kilómetros al noroeste de Los Teques (Miranda) y a 5,6 kilómetros de profundidad, recoge La Patilla. Funvisis recomendó mantener la calma ante este tipo de eventos.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/10/08/sismo-de-magnitud-34-en-los-teques/"
     },
     {
       "id": "ve-20261007-elnacional-ucv-grada-sur",
