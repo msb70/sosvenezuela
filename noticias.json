@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-10",
+  "actualizado": "2026-10-11",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261011-elnacional-derrumbes-choroni",
+      "fecha": "2026-10-11",
+      "titulo": "Tres derrumbes por lluvias cierran la carretera Maracay-Choroní, en un terreno fracturado por los sismos",
+      "resumen": "Las autoridades de Aragua cerraron de forma preventiva la carretera Maracay-Choroní el 10 de octubre tras tres derrumbes en los kilómetros 9, 10 y 25 provocados por las lluvias, informa El Nacional; el 11 de octubre está previsto movilizar maquinaria pesada para despejar el paso. Según estudios de Ingeniería Municipal de la Alcaldía de Girardot, los terremotos del 24 de junio fracturaron rocas y agrietaron suelos en los 38 kilómetros de la vía, por lo que lluvias moderadas provocan ahora deslizamientos que antes solo ocurrían con precipitaciones intensas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/lluvias-provocaron-tres-derrumbes-y-obligaron-cierre-del-paso-hacia-choroni/"
+    },
     {
       "id": "ve-20261009-elnacional-senamecf-identificacion-22-fallecidos",
       "fecha": "2026-10-09",
