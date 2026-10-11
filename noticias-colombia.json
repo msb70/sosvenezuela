@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-10",
+  "actualizado": "2026-10-11",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261011-infobae-judicatura-urgencia-manifiesta",
+      "fecha": "2026-10-11",
+      "titulo": "La Judicatura prorroga hasta el 14 de diciembre la urgencia manifiesta para reparar 110 sedes judiciales dañadas por el terremoto",
+      "resumen": "El Consejo Superior de la Judicatura extendió hasta el 14 de diciembre de 2026, mediante el Acuerdo PCSJA26-12598, la urgencia manifiesta decretada tras el sismo del 10 de agosto para contratar obras, bienes y servicios. Según la corporación, 110 sedes judiciales resultaron afectadas: 21 con daños graves, 63 moderados y 26 leves; la prórroga responde a peticiones de las seccionales de Cali, Manizales, Pereira, Armenia, Quibdó e Ibagué. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/11/consejo-superior-de-la-judicatura-prorrogo-urgencia-manifiesta-declarada-tras-terremoto-del-10-de-agosto-para-reparar-sedes-judiciales/"
+    },
+    {
+      "id": "co-20261011-elpais-cali-primer-ladrillo-diciembre",
+      "fecha": "2026-10-11",
+      "titulo": "Cali evalúa miles de estructuras y prevé poner «el primer ladrillo» de la reconstrucción antes de diciembre",
+      "resumen": "Dos meses después del terremoto, la Alcaldía de Cali sigue atendiendo a las familias afectadas, evaluando miles de estructuras y definiendo qué edificios deben demolerse. El secretario de Gestión del Riesgo, Ricardo Peñuela, detalló el avance de las ayudas y afirmó que el plan es que la reconstrucción arranque de aquí a diciembre. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/tras-el-sismo-cali-evalua-miles-de-estructuras-y-alista-la-reconstruccion-el-plan-es-que-de-aqui-a-diciembre-se-coloque-el-primer-ladrillo-1159.html"
+    },
+    {
+      "id": "co-20261010-infobae-defensoria-reabrir-registro",
+      "fecha": "2026-10-10",
+      "titulo": "La Defensoría del Pueblo pide a la UNGRD reabrir el registro de damnificados del terremoto",
+      "resumen": "A dos meses del sismo, la Defensoría del Pueblo reclamó a la UNGRD reabrir el registro de damnificados y ampliar la atención en los municipios afectados, porque parte de la población sigue sin acceder a la ayuda estatal. La entidad pide que la recuperación incluya vivienda, salud, educación y medios de vida, con participación comunitaria y transparencia en los recursos; la emergencia dejó 335 fallecidos y alcanzó 500 municipios de 16 departamentos. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/10/dos-meses-del-terremoto-en-colombia-defensoria-pidio-reabrir-el-registro-de-damnificados-y-ungrd-entrego-nuevo-balance-de-la-emergencia/"
+    },
+    {
+      "id": "co-20261010-eltiempo-saqueos-edificios-evacuados",
+      "fecha": "2026-10-10",
+      "titulo": "Saqueos en edificios evacuados de Cali, Pereira y Armenia, la otra tragedia del terremoto",
+      "resumen": "En Cali, Pereira y Armenia, las viviendas y comercios evacuados tras el sismo se han convertido en blanco de delincuentes, y algunos residentes siguen acampando frente a sus edificios para custodiar sus pertenencias, como en la torre Los Cerezos de Cali. Las autoridades han reforzado la vigilancia en las zonas afectadas. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/saqueos-y-zozobra-la-otra-tragedia-que-dejo-el-terremoto-en-colombia-del-pasado-10-de-agosto-esto-es-lo-que-ha-sucedido-en-dos-meses-3592770"
+    },
     {
       "id": "co-20261010-eltiempo-reconstruccion-dos-meses",
       "fecha": "2026-10-10",
@@ -12,6 +56,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647"
+    },
+    {
+      "id": "co-20261010-eltiempo-cali-demolicion-escombros-dos-meses",
+      "fecha": "2026-10-10",
+      "titulo": "Cali entra en la etapa de estabilización: demolición de estructuras y gestión de escombros a dos meses del terremoto",
+      "resumen": "El 6 de octubre comenzó en Cali la etapa de estabilización, que incluye la demolición de estructuras afectadas, la gestión especializada de escombros y el inicio de la reconstrucción. Según los registros de la Alcaldía, en la ciudad colapsaron totalmente 24 viviendas y 506 sufrieron colapsos parciales, con 154 fallecidos y 45.139 damnificados. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/las-cifras-del-proceso-de-demolicion-de-estructuras-afectadas-y-gestion-especializada-de-escombros-que-inicio-en-cali-a-dos-meses-del-terremoto-3592743"
+    },
+    {
+      "id": "co-20261010-eltiempo-alivios-tributarios-empresas",
+      "fecha": "2026-10-10",
+      "titulo": "Alivios tributarios, incentivos a la inversión y medidas para copropiedades: el paquete de decretos tras el terremoto",
+      "resumen": "Dos meses después del sismo del 10 de agosto, el Gobierno ha expedido un paquete de decretos con alivios tributarios para contribuyentes, incentivos a la inversión y medidas para recuperar empresas y empleo. Incluye también disposiciones para la reparación de copropiedades y licencias de construcción en las zonas afectadas. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/tras-dos-meses-del-terremoto-gobierno-activa-alivios-tributarios-y-medidas-para-empresas-empleo-y-copropiedades-3592515"
     },
     {
       "id": "co-20261009-infobae-risaralda-20-billones",
