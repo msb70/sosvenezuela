@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-11",
+  "actualizado": "2026-10-12",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261012-elnacional-venezuela-renace-reubicados-campamentos",
+      "fecha": "2026-10-12",
+      "titulo": "El Ejecutivo cifra en 7.336 las personas reubicadas y en 86 los campamentos aún activos tras los terremotos",
+      "resumen": "En un balance del plan Venezuela Renace a más de 100 días de los sismos del 24 de junio, la presidenta encargada Delcy Rodríguez informó que se han reubicado 7.336 personas y cerrado 30 campamentos transitorios, mientras siguen activos 86 en los que se atiende a diario a 18.055 personas, recoge El Nacional. Según el Ejecutivo, se han rehabilitado y entregado 2.422 viviendas en Caracas, Miranda, La Guaira y Aragua (8.862 beneficiarios), 700 viviendas nuevas en otros estados y 686 recuperadas en La Guaira, y hay 20.083 en rehabilitación. Son cifras oficiales del Gobierno, distintas del corte de OCHA.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-afirma-que-se-han-reubicado-7-336-personas-y-liberado-30-campamentos-transitorios/"
+    },
+    {
+      "id": "ve-20261012-elnacional-dos-cuerpos-residencias-caribe",
+      "fecha": "2026-10-12",
+      "titulo": "Voluntarios hallan otros dos cuerpos en Residencias Caribe, en La Guaira",
+      "resumen": "Voluntarios de búsqueda localizaron en la madrugada del 11 de octubre los restos de dos mujeres en el sótano de una iglesia de las Residencias Caribe, en La Guaira; sus familiares las reconocieron en el lugar, informa El Nacional. El hallazgo se suma a otros dos cuerpos encontrados el viernes 9 por bomberos y voluntarios con exploraciones de drones en estructuras comprometidas, y las labores de rastreo siguen activas en zonas de acceso limitado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/hallaron-otros-dos-cuerpos-en-residencias-caribe-este-domingo/"
+    },
     {
       "id": "ve-20261011-elnacional-derrumbes-choroni",
       "fecha": "2026-10-11",
