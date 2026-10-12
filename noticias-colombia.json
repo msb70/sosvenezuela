@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-11",
+  "actualizado": "2026-10-12",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261012-infobae-camacol-venta-vivienda",
+      "fecha": "2026-10-12",
+      "titulo": "Camacol: el terremoto agravó la caída de la venta de vivienda nueva y dejó 138.896 viviendas afectadas",
+      "resumen": "Según la Cámara Colombiana de la Construcción, el sismo del 10 de agosto profundizó la desaceleración de un mercado que en 2026 acumula caídas del 17,5 % en lanzamientos, 11,7 % en ventas y 14,1 % en iniciaciones de obra, aunque el gremio no atribuye toda la contracción al terremoto. Con datos del RUD y la UNGRD, el informe cifra en 138.896 las viviendas afectadas (119.748 con daños y 19.148 destruidas); el 72 % (99.780) está en Caldas, Quindío, Risaralda y Valle del Cauca. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/12/la-venta-de-vivienda-nueva-en-colombia-tuvo-una-dura-caida-en-2026-asi-la-afecto-el-terremoto-del-10-de-agosto/"
+    },
+    {
+      "id": "co-20261011-infobae-un-solo-corazon-balance",
+      "fecha": "2026-10-11",
+      "titulo": "La campaña «Colombia, un Solo Corazón» reporta 5.813 toneladas de ayuda para más de 48.000 damnificados en dos meses",
+      "resumen": "El balance de la campaña de donaciones liderada por el despacho de la primera dama señala que más de 48.000 personas han recibido asistencia humanitaria en ocho departamentos y 80 municipios, con la participación de 166 empresas y fundaciones, más de 1.250 voluntarios y más de 30 centros de acopio. La iniciativa anuncia ahora proyectos de vivienda, educación y salud, entre ellos 27 viviendas en la urbanización Tierra Nueva de Quibdó. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/11/mas-de-48000-personas-recibieron-ayudas-tras-el-terremoto-del-10-de-agosto-segun-balance-de-la-primera-dama/"
+    },
     {
       "id": "co-20261011-infobae-judicatura-urgencia-manifiesta",
       "fecha": "2026-10-11",
@@ -12,6 +34,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/11/consejo-superior-de-la-judicatura-prorrogo-urgencia-manifiesta-declarada-tras-terremoto-del-10-de-agosto-para-reparar-sedes-judiciales/"
+    },
+    {
+      "id": "co-20261011-eltiempo-oxi-r-banco-proyectos",
+      "fecha": "2026-10-11",
+      "titulo": "El Gobierno abre el Banco de Proyectos de Obras por Impuestos para la Reconstrucción (OXI-R)",
+      "resumen": "La Agencia de Renovación del Territorio (ART) puso en marcha el 9 de octubre el Banco de Proyectos de la modalidad temporal OXI-R, que permite a los contribuyentes destinar parte de su impuesto de renta a obras en los municipios afectados por el terremoto del 10 de agosto. Las inversiones podrán dirigirse a vivienda, educación, salud, agua potable y saneamiento, energía, vías, conectividad y gestión del riesgo, y la plataforma permanecerá abierta durante toda la vigencia del mecanismo. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/gobierno/gobierno-nacional-abre-el-banco-de-proyectos-de-obras-por-impuestos-para-la-reconstruccion-de-zonas-afectadas-por-terremoto-del-10-de-agosto-3592892"
+    },
+    {
+      "id": "co-20261011-elpais-gran-abrazo-homenaje",
+      "fecha": "2026-10-11",
+      "titulo": "Cali rinde homenaje a las víctimas del terremoto con «El Gran Abrazo por Cali y el Valle», a dos meses del sismo",
+      "resumen": "La Arena USC de la Universidad Santiago de Cali acogió el 10 de octubre la jornada solidaria «El Gran Abrazo por Cali y el Valle», que honró la memoria de los fallecidos en el sismo del 10 de agosto y buscó apoyo para las familias que aún sufren sus consecuencias. El encuentro, con la presentación del Grupo Niche, reunió a la comunidad en torno a la solidaridad y la reconstrucción. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/en-imagenes-el-gran-abrazo-por-cali-y-el-valle-evento-solidario-en-homenaje-a-las-victimas-del-terremoto-este-10-de-octubre-1058.html"
     },
     {
       "id": "co-20261011-elpais-cali-primer-ladrillo-diciembre",
