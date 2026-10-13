@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-12",
+  "actualizado": "2026-10-13",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261013-infobae-fundacion-donaciones-rte",
+      "fecha": "2026-10-13",
+      "titulo": "La fundación de la primera dama asegura estar habilitada ante la DIAN para recibir donaciones para los damnificados",
+      "resumen": "La Fundación Colombia Luz y Sonrisas, presidida por la primera dama, confirmó en un comunicado que está inscrita en el Régimen Tributario Especial de la DIAN y habilitada para recibir donaciones, en respuesta a los cuestionamientos sobre su situación tributaria y la transparencia en el manejo de lo recaudado para los afectados por el terremoto. La polémica ha llegado a la Presidencia, el Congreso y la Defensoría del Pueblo. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/13/esto-dijo-la-fundacion-de-la-primera-dama-ana-lucia-pineda-tras-las-acusaciones-de-matador-sobre-las-donaciones-para-los-damnificados-del-terremoto/"
+    },
+    {
+      "id": "co-20261013-elpais-auditoria-donaciones-terremoto",
+      "fecha": "2026-10-13",
+      "titulo": "Piden a la Contraloría y la Procuraduría auditar las donaciones recibidas para los damnificados del terremoto",
+      "resumen": "El vicepresidente del Senado, Alejandro Ocampo, solicitó una auditoría inmediata de las donaciones recibidas por Colombia para atender a los damnificados del sismo del 10 de agosto, después de que una presentación del Ministerio de Hacienda ante la plenaria de la Cámara registrara esos recursos como «por cuantificar». La petición busca establecer cuánto dinero y qué bienes se han recibido, quién los administra y cuál ha sido su destino. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/politica/vicepresidente-del-senado-pide-investigar-monto-y-destino-de-las-donaciones-de-la-primera-dama-ana-lucia-pineda-tras-el-terremoto-1335.html"
+    },
     {
       "id": "co-20261012-infobae-camacol-venta-vivienda",
       "fecha": "2026-10-12",
@@ -12,6 +34,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/12/la-venta-de-vivienda-nueva-en-colombia-tuvo-una-dura-caida-en-2026-asi-la-afecto-el-terremoto-del-10-de-agosto/"
+    },
+    {
+      "id": "co-20261012-eltiempo-fondo-milagro-primer-billon",
+      "fecha": "2026-10-12",
+      "titulo": "El Gobierno asegura que el Fondo Milagro dispone desde el 7 de octubre del primer billón de pesos para la reconstrucción",
+      "resumen": "En una alocución el 12 de octubre, el Gobierno afirmó que el Fondo Milagro empezó a operar el 7 de octubre con un primer billón de pesos, priorizando la atención de los damnificados del terremoto del 10 de agosto, y que las entregas se harán «sin intermediarios». Según el Ejecutivo, el plan de reconstrucción ya está en marcha. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-detalles-de-las-primeras-entregas-del-fondo-milagro-para-la-reconstruccion-tras-terremoto-sin-intermediarios-3593086"
+    },
+    {
+      "id": "co-20261012-elpais-roldanillo-team-topitos",
+      "fecha": "2026-10-12",
+      "titulo": "Dos meses después del terremoto, jóvenes voluntarios de Roldanillo siguen removiendo escombros",
+      "resumen": "El grupo de voluntarios ‘Team Topitos’ ha demolido más de 25 casas en Roldanillo (Valle del Cauca) tras el sismo del 10 de agosto. Para reactivar la economía local organizó un recorrido de unas 300 personas por los nuevos locales de los comercios que el terremoto expulsó del centro del municipio. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/dos-meses-despues-del-terremoto-jovenes-voluntarios-de-roldanillo-siguen-removiendo-escombros-asi-trabaja-el-team-topitos-1238.html"
     },
     {
       "id": "co-20261011-infobae-un-solo-corazon-balance",
