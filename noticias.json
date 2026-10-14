@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-13",
+  "actualizado": "2026-10-14",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261012-infobae-balance-sin-cifra-fallecidos",
+      "fecha": "2026-10-12",
+      "titulo": "El balance oficial de Venezuela Renace no actualiza la cifra de fallecidos ni aborda los créditos para compra de vivienda",
+      "resumen": "El balance de gestión de la crisis por los terremotos presentado el domingo 11 de octubre por la presidenta encargada Delcy Rodríguez no incluyó el número de fallecidos y desaparecidos ni se refirió a los créditos especiales anunciados para que los damnificados adquieran vivienda, señala Infobae. La última cifra oficial de muertos, 6.509, data del 24 de agosto, y la única de desaparecidos, 157, se dio 24 horas después de los sismos; Provea pidió el 30 de septiembre actualizar y publicar ambas de forma continua.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/10/12/delcy-rodriguez-ofrecio-un-balance-de-gestion-de-la-crisis-por-los-terremotos-sin-mencionar-cifra-de-fallecidos/"
+    },
     {
       "id": "ve-20261012-elnacional-venezuela-renace-reubicados-campamentos",
       "fecha": "2026-10-12",
