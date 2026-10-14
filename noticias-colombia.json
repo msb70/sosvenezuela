@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-13",
+  "actualizado": "2026-10-14",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261014-infobae-presupuesto-2027-terremoto",
+      "fecha": "2026-10-14",
+      "titulo": "El Gobierno y los ponentes del Presupuesto 2027 acuerdan liberar 6,4 billones de pesos; cerca de 6 billones irían a la emergencia por el terremoto",
+      "resumen": "El Gobierno nacional y los ponentes del Presupuesto General de la Nación para 2027 acordaron reducir en 6,4 billones de pesos el rubro del servicio de la deuda sin incumplir los compromisos financieros del país. Según el coordinador ponente, cerca de 6 billones podrían destinarse a la atención de la emergencia causada por el terremoto y a la gestión del riesgo de desastres; el ajuste aún debe aprobarse en segundo debate. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/14/presupuesto-de-2027-gobierno-y-ponentes-acuerdan-liberar-64-billones-al-reducir-servicio-de-la-deuda/"
+    },
+    {
+      "id": "co-20261014-eltiempo-caldas-ferias-reactivacion",
+      "fecha": "2026-10-14",
+      "titulo": "Caldas llevará ferias de reactivación a 13 municipios para recuperar el comercio golpeado por el sismo",
+      "resumen": "La Gobernación de Caldas organizará hasta diciembre ferias con conciertos y gastronomía en 13 municipios para que los comerciantes afectados por el terremoto del 10 de agosto vuelvan a vender, con la meta de generar unos 300 millones de pesos en ventas locales. La primera jornada, en Chinchiná, reunió a 3.000 personas y dejó ventas por unos 10 millones de pesos; con esos resultados se decidirá si la estrategia continúa en 2027. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/la-estrategia-de-caldas-para-reactivar-el-comercio-tras-el-sismo-llevara-ferias-a-13-municipios-y-busca-generar-300-millones-en-ventas-locales-3593299"
+    },
     {
       "id": "co-20261013-infobae-fundacion-donaciones-rte",
       "fecha": "2026-10-13",
@@ -12,6 +34,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/13/esto-dijo-la-fundacion-de-la-primera-dama-ana-lucia-pineda-tras-las-acusaciones-de-matador-sobre-las-donaciones-para-los-damnificados-del-terremoto/"
+    },
+    {
+      "id": "co-20261013-elpais-guadualito-buenaventura-reconstruccion",
+      "fecha": "2026-10-13",
+      "titulo": "La comunidad de Guadualito, en Buenaventura, prepara un plan de reconstrucción integral para 80 familias afectadas por el sismo",
+      "resumen": "La comunidad afrodescendiente de Guadualito, en la zona rural de Buenaventura, con 230 personas agrupadas en 80 familias, estructura un plan para reconstruir su territorio tras los daños del terremoto del 10 de agosto. La propuesta técnica plantea reubicar las viviendas en terrenos seguros dentro de la misma zona para conservar el arraigo y reducir la exposición a riesgos, con una alianza público-privada impulsada por Rotaract Cali. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/impulsan-plan-de-reconstruccion-integral-para-80-familias-de-guadualito-tras-el-sismo-en-buenaventura-1319.html"
+    },
+    {
+      "id": "co-20261013-elpais-drones-bomberos-cali",
+      "fecha": "2026-10-13",
+      "titulo": "Los Bomberos de Cali reciben seis drones para rescate e inspección de estructuras tras el terremoto",
+      "resumen": "La organización Aid For Life, la canadiense GlobalMedic y la Alcaldía de Cali entregaron seis drones a los organismos de socorro, acompañados de una capacitación en su uso entre el 10 y el 15 de octubre. A dos meses del sismo, la ciudad aún tiene 14.000 inmuebles por evaluar y 60 edificios por demoler. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cuerpo-de-bomberos-de-cali-recibio-seis-drones-para-rescate-e-inspeccion-de-ruinas-tras-el-terremoto-en-cali-1340.html"
     },
     {
       "id": "co-20261013-elpais-auditoria-donaciones-terremoto",
