@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-14",
+  "actualizado": "2026-10-15",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261014-elnacional-ops-medicamentos-laguaira-miranda",
+      "fecha": "2026-10-14",
+      "titulo": "La OPS/OMS entrega medicamentos e insumos a hospitales y centros de salud de La Guaira y Miranda",
+      "resumen": "La Organización Panamericana de la Salud (OPS/OMS) entregó medicamentos, insumos para la prevención de infecciones hospitalarias y artículos de higiene al Hospital Regional José María Vargas y al Hospital Periférico de Pariata, en La Guaira, y a tres Áreas de Salud Integral Comunitaria de Miranda (Guatire, Barlovento y Cúpira), recoge El Nacional. Según el organismo, las entregas forman parte de la cooperación técnica con las autoridades sanitarias para responder a las comunidades afectadas por los sismos del 24 de junio.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/la-ops-oms-entrego-medicamentos-e-insumos-medicos-en-centros-de-salud-de-la-guaira-y-miranda/"
+    },
+    {
+      "id": "ve-20261014-elnacional-maiquetia-obreros-protesta-pagos",
+      "fecha": "2026-10-14",
+      "titulo": "Obreros de la reconstrucción del aeropuerto de Maiquetía protestan por retrasos en el pago y falta de equipos de seguridad",
+      "resumen": "Trabajadores de las obras de reparación del Aeropuerto Internacional Simón Bolívar, dañado por los terremotos del 24 de junio, protestaron el lunes 12 de octubre porque la empresa contratista no cumple el pago acordado de 80 dólares semanales, según La Verdad de Vargas citado por El Nacional. También reclamaron botas, guantes y cascos, y la inclusión en nómina de trabajadores no registrados, y anunciaron que seguirán protestando si no se atienden sus demandas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/obreros-que-trabajan-en-reconstruccion-del-aeropuerto-de-maiquetia-protestaron-por-falta-de-pago/"
+    },
     {
       "id": "ve-20261012-infobae-balance-sin-cifra-fallecidos",
       "fecha": "2026-10-12",
