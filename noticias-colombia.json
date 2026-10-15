@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-14",
+  "actualizado": "2026-10-15",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261015-eltiempo-cali-150-edificios-demoler",
+      "fecha": "2026-10-15",
+      "titulo": "Cali, a dos meses del terremoto: los edificios por demoler podrían llegar a 150 y las primeras obras de reconstrucción arrancarían en diciembre",
+      "resumen": "La Alcaldía de Cali informó que el terremoto dejó en la ciudad 155 fallecidos, 88 personas rescatadas con vida, 1.517 heridos atendidos y 45.139 familias registradas como damnificadas, y que la fase de búsqueda y rescate se cerró en 11 días. El alcalde estimó que el número de edificios por demoler podría llegar a 150; reconstruir una torre tomaría unos 18 meses en el mejor escenario y se espera iniciar obras en diciembre. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/dos-meses-tras-el-terremoto-en-cali-el-numero-de-edificios-por-demoler-podria-llegar-hasta-los-150-dijo-el-alcalde-alejandro-eder-3593690"
+    },
     {
       "id": "co-20261014-infobae-presupuesto-2027-terremoto",
       "fecha": "2026-10-14",
@@ -14,6 +25,39 @@
       "url": "https://www.infobae.com/colombia/2026/10/14/presupuesto-de-2027-gobierno-y-ponentes-acuerdan-liberar-64-billones-al-reducir-servicio-de-la-deuda/"
     },
     {
+      "id": "co-20261014-infobae-buenaventura-carga-corredor",
+      "fecha": "2026-10-14",
+      "titulo": "Buenaventura suspende el cobro a los camiones de carga y acuerda con el Gobierno acelerar obras en carreteras afectadas por el terremoto",
+      "resumen": "Tras reunirse con el Ministerio de Transporte, la Alcaldía de Buenaventura anunció que no aplicará el Decreto Distrital 0338 de 2026, que cobraba por circular a los vehículos de carga. A cambio, el distrito y el Gobierno nacional acordaron priorizar la logística portuaria, recuperar las vías afectadas por el terremoto y acelerar obras en el corredor Buga-Buenaventura. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/14/alivio-para-los-transportadores-de-carga-frenan-cobro-para-los-que-llegan-al-puerto-buenaventura-y-aceleran-obras-en-corredor-estrategico/"
+    },
+    {
+      "id": "co-20261014-eltiempo-nielseniq-donaciones-consumo",
+      "fecha": "2026-10-14",
+      "titulo": "La ola de donaciones disparó la compra de atún, agua y pañales en la semana del terremoto",
+      "resumen": "Según NielsenIQ, las ventas de la canasta de consumo masivo crecieron un 22 % en volumen durante la semana del sismo del 10 de agosto, más del doble del ritmo previo, impulsadas por los hogares que compraban para donar. El atún subió un 90,5 %, el agua un 80,2 % y los pañales para bebé un 78,2 %. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/ola-de-donaciones-acelero-las-ventas-de-productos-basicos-lo-que-mas-compraron-los-colombianos-para-ayudar-a-los-afectados-por-el-terremoto-3593625"
+    },
+    {
+      "id": "co-20261014-eltiempo-fasecolda-65-billones",
+      "fecha": "2026-10-14",
+      "titulo": "Las pérdidas aseguradas por el terremoto suben a 6,5 billones de pesos y las indemnizaciones pagadas llegan a 786.543 millones",
+      "resumen": "Fasecolda, en su noveno reporte de seguimiento con corte al 9 de octubre de 2026, estima en 6,5 billones de pesos las pérdidas aseguradas por el terremoto del 10 de agosto. Las aseguradoras han recibido 99.720 reclamaciones y han pagado 786.543 millones de pesos en indemnizaciones. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/perdidas-aseguradas-por-el-terremoto-suben-a-6-5-billones-y-pagos-llegan-a-786-543-millones-3593508"
+    },
+    {
       "id": "co-20261014-eltiempo-caldas-ferias-reactivacion",
       "fecha": "2026-10-14",
       "titulo": "Caldas llevará ferias de reactivación a 13 municipios para recuperar el comercio golpeado por el sismo",
@@ -23,6 +67,61 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/economia/la-estrategia-de-caldas-para-reactivar-el-comercio-tras-el-sismo-llevara-ferias-a-13-municipios-y-busca-generar-300-millones-en-ventas-locales-3593299"
+    },
+    {
+      "id": "co-20261014-eltiempo-borondo-por-cali",
+      "fecha": "2026-10-14",
+      "titulo": "«Borondo por Cali» se convierte en política pública de reactivación económica tras el terremoto",
+      "resumen": "La Alcaldía de Cali convirtió la tradición del «borondo» en su principal apuesta de reactivación tras un sismo que dejó una afectación económica calculada en 180.700 millones de pesos y más de 24.600 empleos en riesgo o suspendidos. La iniciativa cierra corredores al tráfico para llenarlos de gastronomía, emprendimiento, comercio local y muestras artísticas; la próxima jornada, «Borondo Joven», llega a Capri y Nuevo Rey. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/borondo-por-cali-la-estrategia-popular-que-renace-como-politica-publica-de-reactivacion-tras-el-terremoto-3593667"
+    },
+    {
+      "id": "co-20261014-elpais-un-solo-corazon-rendicion-cuentas",
+      "fecha": "2026-10-14",
+      "titulo": "La campaña «Colombia, un solo corazón» rendirá cuentas el 16 de octubre sobre las donaciones recibidas para los damnificados",
+      "resumen": "La primera dama, que impulsó la campaña «Colombia, un solo corazón», anunció que el viernes 16 de octubre informará públicamente del manejo de las donaciones recaudadas tras el terremoto, después de los cuestionamientos surgidos en redes sociales. Aseguró que todos los recursos están contabilizados y que la rendición de cuentas se publicará en la web de la fundación. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/aqui-no-se-esconde-nada-dijo-ana-lucia-pineda-y-anuncio-que-entregara-cuentas-sobre-ayudas-por-el-terremoto-1437.html"
+    },
+    {
+      "id": "co-20261014-elpais-curso-primeros-auxilios-psicologicos",
+      "fecha": "2026-10-14",
+      "titulo": "Un curso gratuito en línea enseña primeros auxilios psicológicos a comunidades afectadas por los terremotos de Colombia y Venezuela",
+      "resumen": "Coursera y la Universidad Autónoma de Barcelona ofrecen gratis, en español, un curso de Primeros Auxilios Psicológicos para catástrofes naturales, desarrollado tras los terremotos de Venezuela (24 de junio) y Colombia (10 de agosto). Está dirigido a familiares, voluntarios y personal de primera respuesta que necesiten herramientas básicas para brindar apoyo emocional en situaciones de crisis. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/plataforma-ofrece-curso-gratuito-de-primeros-auxilios-psicologicos-para-comunidades-afectadas-por-terremotos-en-colombia-y-venezuela-1401.html"
+    },
+    {
+      "id": "co-20261014-elpais-cali-dos-meses-reactivacion-comercio",
+      "fecha": "2026-10-14",
+      "titulo": "Cali, dos meses después del terremoto: un fondo de 16.300 millones y nuevas líneas de crédito para reactivar el comercio",
+      "resumen": "Autoridades, académicos y gremios reunidos en conversatorios coincidieron en que Cali atraviesa una fase de estabilización que debe traducirse en planes concretos de vivienda, refuerzo estructural y reactivación económica, con evaluaciones masivas y microzonificación sísmica. Para los comercios afectados hay un fondo de 16.300 millones de pesos y nuevas líneas de crédito. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cali-avanza-entre-evaluaciones-ayudas-y-el-reto-de-la-reconstruccion-despues-de-dos-meses-del-terremoto-1404.html"
+    },
+    {
+      "id": "co-20261014-elpais-arriendos-cali-263",
+      "fecha": "2026-10-14",
+      "titulo": "Los arriendos en Cali subieron hasta un 26,3 % tras el terremoto, según un estudio inmobiliario",
+      "resumen": "Un análisis de la firma Ciencuadras.com que compara junio y septiembre de 2026 detecta en Cali la mayor presión sobre los alquileres de las ciudades afectadas por el sismo: el canon promedio de los apartamentos pasó de 2,32 a 2,52 millones de pesos (+8,9 %), con alzas de hasta el 26,3 % según el segmento. En Pereira el mercado se mostró más estable. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/estudio-revela-que-los-arriendos-en-cali-subieron-hasta-263-tras-el-terremoto-1424.html"
     },
     {
       "id": "co-20261013-infobae-fundacion-donaciones-rte",
