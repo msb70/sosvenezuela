@@ -1,7 +1,128 @@
 {
-  "actualizado": "2026-10-08",
+  "actualizado": "2026-10-15",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261014-elnacional-ops-medicamentos-laguaira-miranda",
+      "fecha": "2026-10-14",
+      "titulo": "La OPS/OMS entrega medicamentos e insumos a hospitales y centros de salud de La Guaira y Miranda",
+      "resumen": "La Organización Panamericana de la Salud (OPS/OMS) entregó medicamentos, insumos para la prevención de infecciones hospitalarias y artículos de higiene al Hospital Regional José María Vargas y al Hospital Periférico de Pariata, en La Guaira, y a tres Áreas de Salud Integral Comunitaria de Miranda (Guatire, Barlovento y Cúpira), recoge El Nacional. Según el organismo, las entregas forman parte de la cooperación técnica con las autoridades sanitarias para responder a las comunidades afectadas por los sismos del 24 de junio.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/la-ops-oms-entrego-medicamentos-e-insumos-medicos-en-centros-de-salud-de-la-guaira-y-miranda/"
+    },
+    {
+      "id": "ve-20261014-elnacional-maiquetia-obreros-protesta-pagos",
+      "fecha": "2026-10-14",
+      "titulo": "Obreros de la reconstrucción del aeropuerto de Maiquetía protestan por retrasos en el pago y falta de equipos de seguridad",
+      "resumen": "Trabajadores de las obras de reparación del Aeropuerto Internacional Simón Bolívar, dañado por los terremotos del 24 de junio, protestaron el lunes 12 de octubre porque la empresa contratista no cumple el pago acordado de 80 dólares semanales, según La Verdad de Vargas citado por El Nacional. También reclamaron botas, guantes y cascos, y la inclusión en nómina de trabajadores no registrados, y anunciaron que seguirán protestando si no se atienden sus demandas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/obreros-que-trabajan-en-reconstruccion-del-aeropuerto-de-maiquetia-protestaron-por-falta-de-pago/"
+    },
+    {
+      "id": "ve-20261012-infobae-balance-sin-cifra-fallecidos",
+      "fecha": "2026-10-12",
+      "titulo": "El balance oficial de Venezuela Renace no actualiza la cifra de fallecidos ni aborda los créditos para compra de vivienda",
+      "resumen": "El balance de gestión de la crisis por los terremotos presentado el domingo 11 de octubre por la presidenta encargada Delcy Rodríguez no incluyó el número de fallecidos y desaparecidos ni se refirió a los créditos especiales anunciados para que los damnificados adquieran vivienda, señala Infobae. La última cifra oficial de muertos, 6.509, data del 24 de agosto, y la única de desaparecidos, 157, se dio 24 horas después de los sismos; Provea pidió el 30 de septiembre actualizar y publicar ambas de forma continua.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.infobae.com/venezuela/2026/10/12/delcy-rodriguez-ofrecio-un-balance-de-gestion-de-la-crisis-por-los-terremotos-sin-mencionar-cifra-de-fallecidos/"
+    },
+    {
+      "id": "ve-20261012-elnacional-venezuela-renace-reubicados-campamentos",
+      "fecha": "2026-10-12",
+      "titulo": "El Ejecutivo cifra en 7.336 las personas reubicadas y en 86 los campamentos aún activos tras los terremotos",
+      "resumen": "En un balance del plan Venezuela Renace a más de 100 días de los sismos del 24 de junio, la presidenta encargada Delcy Rodríguez informó que se han reubicado 7.336 personas y cerrado 30 campamentos transitorios, mientras siguen activos 86 en los que se atiende a diario a 18.055 personas, recoge El Nacional. Según el Ejecutivo, se han rehabilitado y entregado 2.422 viviendas en Caracas, Miranda, La Guaira y Aragua (8.862 beneficiarios), 700 viviendas nuevas en otros estados y 686 recuperadas en La Guaira, y hay 20.083 en rehabilitación. Son cifras oficiales del Gobierno, distintas del corte de OCHA.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-afirma-que-se-han-reubicado-7-336-personas-y-liberado-30-campamentos-transitorios/"
+    },
+    {
+      "id": "ve-20261012-elnacional-dos-cuerpos-residencias-caribe",
+      "fecha": "2026-10-12",
+      "titulo": "Voluntarios hallan otros dos cuerpos en Residencias Caribe, en La Guaira",
+      "resumen": "Voluntarios de búsqueda localizaron en la madrugada del 11 de octubre los restos de dos mujeres en el sótano de una iglesia de las Residencias Caribe, en La Guaira; sus familiares las reconocieron en el lugar, informa El Nacional. El hallazgo se suma a otros dos cuerpos encontrados el viernes 9 por bomberos y voluntarios con exploraciones de drones en estructuras comprometidas, y las labores de rastreo siguen activas en zonas de acceso limitado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/hallaron-otros-dos-cuerpos-en-residencias-caribe-este-domingo/"
+    },
+    {
+      "id": "ve-20261011-elnacional-derrumbes-choroni",
+      "fecha": "2026-10-11",
+      "titulo": "Tres derrumbes por lluvias cierran la carretera Maracay-Choroní, en un terreno fracturado por los sismos",
+      "resumen": "Las autoridades de Aragua cerraron de forma preventiva la carretera Maracay-Choroní el 10 de octubre tras tres derrumbes en los kilómetros 9, 10 y 25 provocados por las lluvias, informa El Nacional; el 11 de octubre está previsto movilizar maquinaria pesada para despejar el paso. Según estudios de Ingeniería Municipal de la Alcaldía de Girardot, los terremotos del 24 de junio fracturaron rocas y agrietaron suelos en los 38 kilómetros de la vía, por lo que lluvias moderadas provocan ahora deslizamientos que antes solo ocurrían con precipitaciones intensas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/lluvias-provocaron-tres-derrumbes-y-obligaron-cierre-del-paso-hacia-choroni/"
+    },
+    {
+      "id": "ve-20261009-elnacional-senamecf-identificacion-22-fallecidos",
+      "fecha": "2026-10-09",
+      "titulo": "El Ministerio de Interior convoca a familiares para confirmar la identidad de 22 fallecidos por los terremotos",
+      "resumen": "El Ministerio de Relaciones Interiores, Justicia y Paz pidió a familiares y allegados acudir a la sede del Senamecf en Bello Monte (Caracas) para cotejar la identidad de 22 víctimas mortales de los sismos del 24 de junio, identificadas de forma preliminar mediante experticias de necrodactilia, odontología y antropología forense. Los restos están inhumados en el Cementerio La Esperanza, en La Guaira, informa El Nacional. El balance oficial del Gobierno se mantiene en 6.509 fallecidos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/gobierno-venezolano-convoca-a-familiares-para-confirmar-la-identidad-de-22-fallecidos-tras-el-sismo-de-junio/"
+    },
+    {
+      "id": "ve-20261009-elnacional-red-sobrevivientes-terrenos-contenedores",
+      "fecha": "2026-10-09",
+      "titulo": "La Red de Sobrevivientes de La Guaira denuncia la cesión de 14 terrenos públicos para almacenar contenedores",
+      "resumen": "Carlos Teixeira, vocero de la Red de Sobrevivientes de La Guaira, denunció la adjudicación de al menos 14 terrenos estatales y municipales, entre ellos el de la antigua planta de tratamiento de aguas servidas de Punta Gorda, a empresas privadas para acopiar contenedores vacíos, informa El Nacional. Según cálculos de la organización, en esos predios podrían construirse unas 4.726 viviendas para familias que siguen sin techo tras los sismos del 24 de junio; la Red pide a las autoridades revertir las concesiones.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/red-de-sobrevivientes-denuncia-la-cesion-de-14-terrenos-publicos-en-la-guaira-a-empresas-privadas-para-almacenar-contenedores/"
+    },
+    {
+      "id": "ve-20261009-elnacional-conatel-starlink",
+      "fecha": "2026-10-09",
+      "titulo": "Conatel autoriza formalmente las operaciones de Starlink en Venezuela tras su uso en la emergencia sísmica",
+      "resumen": "La Comisión Nacional de Telecomunicaciones otorgó siete concesiones generales a Spacex VZ S.C.A. para prestar el servicio de internet satelital Starlink en todo el país, informa El Nacional. La autorización tiene como antecedente los permisos temporales concedidos tras los terremotos del 24 de junio, que dañaron la fibra óptica y las antenas móviles en La Guaira y permitieron activar más de 1.600 terminales para coordinar el rescate y la ayuda humanitaria.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/conatel-autoriza-formalmente-las-operaciones-de-starlink-en-venezuela-tras-la-prueba-del-servicio-durante-la-emergencia-sismica/"
+    },
+    {
+      "id": "ve-20261009-cronicauno-escuelas-refugio-salud-emocional",
+      "fecha": "2026-10-09",
+      "titulo": "El uso de escuelas como refugios retrasa la recuperación emocional de los estudiantes a 107 días de los sismos",
+      "resumen": "El 17 % de las escuelas en las zonas afectadas por los terremotos del 24 de junio opera como refugio temporal para familias damnificadas, lo que compromete el año escolar, según reporta Crónica.Uno. Los sismos dañaron al menos 900 planteles en nueve estados, de acuerdo con la Agencia PANA, y las clases se reanudaron con grietas visibles y sin balances oficiales de reparación. Cecodap señala que la atención en campamentos redujo la ideación suicida al 9 %, aunque persisten secuelas emocionales.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/escuelas-refugios-recuperacion-emocional-estudiantes-sismos/"
+    },
+    {
+      "id": "ve-20261008-lapatilla-sismo-los-teques",
+      "fecha": "2026-10-08",
+      "titulo": "Funvisis registra un sismo de magnitud 3,4 al noroeste de Los Teques",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) informó de un sismo de magnitud 3,4 el 8 de octubre, localizado a 35 kilómetros al noroeste de Los Teques (Miranda) y a 5,6 kilómetros de profundidad, recoge La Patilla. Funvisis recomendó mantener la calma ante este tipo de eventos.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/10/08/sismo-de-magnitud-34-en-los-teques/"
+    },
     {
       "id": "ve-20261007-elnacional-ucv-grada-sur",
       "fecha": "2026-10-07",
