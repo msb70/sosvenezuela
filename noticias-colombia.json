@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-16",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261016-infobae-caf-pies-descalzos-choco",
+      "fecha": "2026-10-16",
+      "titulo": "CAF destinará 1,35 millones de dólares, con la Fundación Pies Descalzos, a reconstruir dos centros educativos del Chocó dañados por el terremoto",
+      "resumen": "El Banco de Desarrollo de América Latina y el Caribe (CAF) y la Fundación Pies Descalzos ampliaron su alianza para la recuperación educativa del Chocó, donde el terremoto afectó cerca de 200 escuelas. La CAF aportará 1,35 millones de dólares para rehabilitar la Institución Educativa San Joaquín (sede Salero) y el Centro Educativo Indígena José Melanio Tunay, y para fortalecer la Universidad Tecnológica del Chocó. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/16/shakira-y-la-fundacion-pies-descalzos-concretaron-una-importante-alianza-para-la-reconstruccion-de-dos-centros-educativos-afectados-en-choco/"
+    },
+    {
+      "id": "co-20261016-elpais-creditos-condonables-plazo",
+      "fecha": "2026-10-16",
+      "titulo": "Se amplía hasta el 30 de octubre el plazo para que emprendedores del Valle afectados por el sismo pidan créditos condonables",
+      "resumen": "La Gobernación del Valle y el Ministerio de Comercio ampliaron hasta el 30 de octubre la inscripción en la convocatoria de créditos condonables para emprendedores damnificados por el terremoto. El programa prevé 1.800 créditos de hasta 5 millones de pesos para reponer equipos, herramientas e insumos. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/emprendedores-afectados-por-el-terremoto-en-el-valle-podran-solicitar-creditos-condonables-hasta-el-30-de-octubre-1504.html"
+    },
+    {
+      "id": "co-20261015-eltiempo-transparencia-768-contratos",
+      "fecha": "2026-10-15",
+      "titulo": "Reconstrucción por el terremoto: el 82 % de los 768 contratos firmados se adjudicó por contratación directa",
+      "resumen": "Según el segundo informe de seguimiento de Transparencia por Colombia, entre el 11 de agosto y el 12 de octubre se firmaron 768 contratos relacionados con la atención y reconstrucción tras el terremoto, por unos 201.800 millones de pesos, el 82 % por contratación directa. Los celebraron 153 entidades en 103 municipios de 12 departamentos, y el 97 % de los contratos de atención de la emergencia corresponde a entidades territoriales; la organización pide reforzar la transparencia y el seguimiento público. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/partidos-politicos/reconstruccion-por-el-terremoto-82-de-768-contratos-se-adjudicaron-por-contratacion-directa-la-mayoria-desde-el-orden-territorial-3593729"
+    },
+    {
+      "id": "co-20261015-eltiempo-mintransporte-risaralda-vias",
+      "fecha": "2026-10-15",
+      "titulo": "El Ministerio de Transporte elabora el inventario de vías dañadas por el terremoto en Risaralda para incluirlas en el plan de reconstrucción",
+      "resumen": "El Ministerio de Transporte avanza en el inventario oficial de la infraestructura vial de Risaralda afectada por el sismo del 10 de agosto, con el fin de incluir las intervenciones necesarias en el plan general de reconstrucción. Según la cartera, los decretos de emergencia permiten financiar los corredores, puentes e intersecciones dañados que requieren intervención rápida. Lo recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/mintransporte-prioriza-obras-para-la-reconstruccion-de-risaralda-e-impulsara-proyectos-de-competitividad-vial-tras-fuerte-terremoto-en-colombia-3593830"
+    },
     {
       "id": "co-20261015-eltiempo-cali-150-edificios-demoler",
       "fecha": "2026-10-15",
@@ -12,6 +56,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/cali/dos-meses-tras-el-terremoto-en-cali-el-numero-de-edificios-por-demoler-podria-llegar-hasta-los-150-dijo-el-alcalde-alejandro-eder-3593690"
+    },
+    {
+      "id": "co-20261015-elpais-fondo-milagro-demoliciones",
+      "fecha": "2026-10-15",
+      "titulo": "El Fondo Milagro empezará la reconstrucción con la demolición de las viviendas en estado crítico y dispondrá de 624.000 millones de pesos",
+      "resumen": "El gerente del Fondo Milagro, Jaime Uribe, anunció ante la Comisión Accidental Bicameral del Congreso que la primera intervención de la entidad será demoler las viviendas que quedaron en condiciones críticas tras el terremoto, una vez se apruebe el Plan de Acción Específico. El Consejo Directivo celebrará su primera reunión para revisar ese plan; el fondo dispondrá de 624.000 millones de pesos. Lo recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/fondo-milagro-iniciara-la-reconstruccion-tras-el-terremoto-con-demoliciones-de-viviendas-dispondra-de-624000-millones-1556.html"
     },
     {
       "id": "co-20261014-infobae-presupuesto-2027-terremoto",
