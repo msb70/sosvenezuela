@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-16",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261015-elnacional-libro-dia-sin-sol-infancia",
+      "fecha": "2026-10-15",
+      "titulo": "«Día sin sol», un libro gratuito para acompañar a niños, familias y docentes tras los terremotos",
+      "resumen": "El libro «Día sin sol», impulsado por la escritora Mireya Tabuas y los editores María Angélica Barreto y Javier Aizpúrua, busca ofrecer contención emocional y lectura a niños, adolescentes, familias y docentes tras los sismos del 24 de junio, informa El Nacional. Tendrá un tiraje gratuito de 25.000 ejemplares físicos y una versión digital de libre difusión, distribuidos con la Fundación Motores por la Paz, el Banco del Libro y la ONG Prepara Familia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/dia-sin-sol-el-libro-gratuito-que-acompana-a-la-infancia-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20261015-elnacional-funvisis-estacion-geodesica-caracas",
+      "fecha": "2026-10-15",
+      "titulo": "Funvisis instala en Caracas una estación geodésica de alta precisión para monitorear deformaciones tectónicas",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) completó la instalación de la estación geodésica «CN64-Caracas» en su sede, en cooperación con el consorcio científico EarthScope, recoge El Nacional. El equipo puede registrar deformaciones de la corteza desde un milímetro por año y forma parte del refuerzo técnico en Caracas y La Guaira tras la sismicidad del 24 de junio, que incluye tres estaciones sismológicas móviles cedidas por el INGV de Italia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/funvisis-instala-estacion-geodesica-de-alta-precision-en-caracas-para-monitorear-deformaciones-tectonicas/"
+    },
     {
       "id": "ve-20261014-elnacional-ops-medicamentos-laguaira-miranda",
       "fecha": "2026-10-14",
