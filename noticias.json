@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-10-17",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261016-lapatilla-funvisis-2222-sismos-naiguata",
+      "fecha": "2026-10-16",
+      "titulo": "Funvisis contabiliza 2.222 sismos desde el 24 de junio; tres réplicas consecutivas al oeste de Naiguatá",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) contabilizó 2.222 eventos sísmicos desde los terremotos del 24 de junio hasta el 15 de octubre, según su balance de monitoreo recogido por La Patilla. La noche del jueves 15 se registraron en tres minutos tres sismos con epicentro al oeste de Naiguatá (La Guaira), el primero de magnitud 3,3 y 4,3 kilómetros de profundidad.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/10/16/funvisis-ha-registrado-mas-de-2-220-sismos-desde-los-devastadores-terremotos-del-24-de-junio/"
+    },
+    {
+      "id": "ve-20261016-elnacional-ops-27-toneladas-hospitales",
+      "fecha": "2026-10-16",
+      "titulo": "La OPS entrega 27 toneladas de insumos de limpieza y control de infecciones a ocho hospitales de Caracas, La Guaira y Miranda",
+      "resumen": "La Organización Panamericana de la Salud (OPS) entregó esta semana más de 27 toneladas de desinfectantes, material de bioseguridad, repuestos de plomería y artículos para clasificar desechos biológicos a ocho hospitales, entre ellos el José María Vargas, el de Emergencias de Naiguatá, el Pérez Carreño y el Domingo Luciani, informa El Nacional. Los recursos proceden del Fondo Central para la Acción en Casos de Emergencia (CERF) y se ejecutan con el Ministerio para la Salud.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/la-ops-entrego-27-toneladas-de-ayuda-medica-en-caracas-miranda-y-la-guaira-tras-los-terremotos/"
+    },
+    {
+      "id": "ve-20261016-elnacional-ofac-licencia-60-terremoto",
+      "fecha": "2026-10-16",
+      "titulo": "La OFAC autoriza operaciones financieras para la asistencia por el terremoto en Venezuela hasta abril de 2027",
+      "resumen": "La Oficina de Control de Activos Extranjeros (OFAC) del Tesoro de Estados Unidos publicó la licencia general n.º 60, que autoriza hasta el 21 de abril de 2027 transacciones destinadas a los esfuerzos de socorro por el terremoto del 24 de junio, incluido el envío de fondos desde y hacia Venezuela, recoge El Nacional. La licencia no levanta las sanciones ni desbloquea bienes congelados.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/la-ofac-permite-operaciones-financieras-para-apoyar-la-atencion-por-el-doble-terremoto-en-venezuela/"
+    },
     {
       "id": "ve-20261015-elnacional-libro-dia-sin-sol-infancia",
       "fecha": "2026-10-15",
