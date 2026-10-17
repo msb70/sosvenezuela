@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-10-17",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261017-eltiempo-grietas-humedades-propiedad-horizontal",
+      "fecha": "2026-10-17",
+      "titulo": "Grietas y filtraciones tras el terremoto: qué pueden hacer los propietarios en edificios de propiedad horizontal",
+      "resumen": "Ante las grietas que dejó el sismo del 10 de agosto y las filtraciones de agua con las lluvias, una abogada experta en propiedad horizontal recomienda informar de inmediato y por escrito a la administración de la copropiedad para que se haga una inspección técnica y se determine el origen del daño y quién debe repararlo. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/grietas-y-humedades-en-apartamentos-tras-un-sismo-quien-debe-repararlas-y-que-pueden-hacer-los-propietarios-3594194"
+    },
+    {
+      "id": "co-20261016-infobae-fundacion-primera-dama-informe-donaciones",
+      "fecha": "2026-10-16",
+      "titulo": "La fundación de la primera dama informa que canalizó 54.589 millones de pesos en donaciones privadas tras el terremoto",
+      "resumen": "La Fundación Colombia Luz y Sonrisas presentó su informe de gestión de la campaña «Colombia, un solo corazón» (7 de julio-16 de octubre): recibió 54.589.523.791 pesos en aportes privados, el 81 % del Grupo Gilinski, y afirma no haber manejado recursos públicos. En la fase humanitaria movilizó 5.652,2 toneladas de ayuda para más de 48.000 personas en 80 municipios, y los fondos restantes se destinarán a reconstruir infraestructura educativa, sanitaria y viviendas. Lo recoge Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/16/primera-dama-ana-lucia-pineda-rindio-cuentas-de-su-fundacion-mas-de-54000-millones-en-donaciones-privadas-para-la-reconstruccion-tras-el-terremoto/"
+    },
     {
       "id": "co-20261016-infobae-caf-pies-descalzos-choco",
       "fecha": "2026-10-16",
@@ -12,6 +34,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/16/shakira-y-la-fundacion-pies-descalzos-concretaron-una-importante-alianza-para-la-reconstruccion-de-dos-centros-educativos-afectados-en-choco/"
+    },
+    {
+      "id": "co-20261016-elpais-produccion-industrial-agosto-valle",
+      "fecha": "2026-10-16",
+      "titulo": "La producción industrial del Valle cayó un 13 % en agosto por el impacto del terremoto, según el Dane",
+      "resumen": "Según el Dane, la producción real de la industria manufacturera nacional varió -3,7 % en agosto de 2026, con ventas un 3,5 % más bajas; 29 de las 39 actividades industriales retrocedieron. En el Valle del Cauca la producción regional bajó un 13 % ese mes, y unas 16.132 empresas del departamento resultaron afectadas por el sismo. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/fuerte-caida-en-la-produccion-industrial-en-agosto-en-colombia-y-el-valle-se-siente-impacto-del-terremoto-1608.html"
     },
     {
       "id": "co-20261016-elpais-creditos-condonables-plazo",
