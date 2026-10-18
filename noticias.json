@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-10-17",
+  "actualizado": "2026-10-18",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261017-lapatilla-documental-ruta-venezuela-diaspora",
+      "fecha": "2026-10-17",
+      "titulo": "El documental «La ruta Venezuela» retrata la movilización de la diáspora tras los terremotos",
+      "resumen": "La periodista Alejandra Oraa presentó «La ruta Venezuela», un documental de 57 minutos sobre la movilización de la diáspora venezolana y la sociedad civil tras los terremotos del 24 de junio, según La Patilla con información de EFE. Oraa señala que en Estados Unidos la respuesta fue la mayor movilización humanitaria en la historia de la fundación Global Empowerment Mission.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://lapatilla.com/2026/10/17/documental-muestra-historica-movilizacion-de-la-diaspora-tras-los-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20261017-elnacional-teleton-unidos-por-venezuela",
+      "fecha": "2026-10-17",
+      "titulo": "El Teletón «Unidos por Venezuela» busca recaudar 1,5 millones de dólares para los afectados por los terremotos",
+      "resumen": "Venevisión organizó el sábado 17 un Teletón de 15 horas con la meta de recaudar 1,5 millones de dólares para los afectados por los terremotos del 24 de junio; el primer cómputo fue de 135.473 dólares, según El Nacional con información de EFE. Los fondos irán a Cáritas Venezuela (campamentos transitorios), al Hospital Ortopédico Infantil con la Fundación Juan Pablo Dos Santos (prótesis para amputados) y a Fe y Alegría (escuelas dañadas), canalizados por United Way Worldwide y auditados por Ernst & Young.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/teleton-busca-recaudar-15-millones-de-dolares-para-los-afectados-por-los-sismos-en-venezuela/"
+    },
+    {
+      "id": "ve-20261017-elnacional-fevipan-88-panaderias-laguaira",
+      "fecha": "2026-10-17",
+      "titulo": "Fevipan cifra en 88 las panaderías de La Guaira afectadas por los terremotos y pide articular su recuperación",
+      "resumen": "La Cámara de Panaderos de La Guaira reporta 88 panaderías afectadas por los sismos, seis de ellas totalmente devastadas, y Fevipan llamó a empresarios y comerciantes a articularse para reactivar el sector, según El Nacional con información de Unión Radio. Entre Caribe y Naiguatá no hay panaderías operativas, y la falta de electricidad sigue frenando la reapertura de comercios.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/fevipan-pidio-unir-esfuerzos-para-recuperar-mas-de-80-panaderias-afectadas-por-los-terremotos-en-la-guaira/"
+    },
+    {
+      "id": "ve-20261017-elnacional-cierre-morgue-los-silos",
+      "fecha": "2026-10-17",
+      "titulo": "Cierra la morgue provisional de Los Silos, en el puerto de La Guaira, tras casi cuatro meses",
+      "resumen": "La morgue improvisada en los antiguos silos del puerto de La Guaira cerró tras operar casi cuatro meses por la emergencia de los terremotos, y los equipos y cavas de refrigeración del Senamecf se trasladaron al estadio Jorge Luis García Carneiro, en Macuto, según El Nacional. La orden de desalojo se emitió el 13 de octubre; familiares que aún buscan a víctimas señalan que el cambio de sede complica el reconocimiento y la entrega de cuerpos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/a-casi-cuatro-meses-de-los-terremotos-en-la-guaira-cerro-la-morgue-improvisada-en-los-silos/"
+    },
+    {
+      "id": "ve-20261017-cronicauno-junquito-clases-un-dia",
+      "fecha": "2026-10-17",
+      "titulo": "Unos 1.980 alumnos de un colegio de El Junquito reciben clases un día a la semana por la falta de reubicación de damnificados",
+      "resumen": "La Unidad Educativa Nacional Luis Hurtado Higuera, en el kilómetro 12 de El Junquito, sigue alojando a 268 damnificados de La Guaira desde junio, por lo que al menos 1.980 estudiantes reciben clases un solo día a la semana en tres colegios privados de la parroquia, informó Crónica.Uno. Los representantes señalan que, más de 16 días después del compromiso del Ministerio de Educación, no se ha concretado la reubicación ni la mesa de trabajo prometida.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "url": "https://cronica.uno/retraso-en-la-reubicacion-de-damnificados-reduce-las-clases-a-un-dia-semanal-en-colegio-de-el-junquito/"
+    },
     {
       "id": "ve-20261016-lapatilla-funvisis-2222-sismos-naiguata",
       "fecha": "2026-10-16",
