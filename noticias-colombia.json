@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-17",
+  "actualizado": "2026-10-18",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261018-infobae-fondo-milagro-prioridades",
+      "fecha": "2026-10-18",
+      "titulo": "Fondo Milagro: vivienda, servicios básicos, salud y educación serán las prioridades de la reconstrucción",
+      "resumen": "El Fondo Milagro priorizará viviendas, acueductos, vías, hospitales y colegios en los municipios afectados por el terremoto, pero su junta directiva aún debe aprobar los manuales de funcionamiento y el Plan de Acción Específico de la UNGRD. Según su gerente, de un billón de pesos inicial ya se trasladaron 366.000 millones a la UNGRD para las primeras atenciones, como el arriendo temporal, y los 624.000 millones restantes, de un préstamo del Banco Mundial, irán a la reconstrucción. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/18/fondo-milagro-que-obras-tendran-prioridad-y-como-se-invertiran-los-recursos-para-la-reconstruccion/"
+    },
+    {
+      "id": "co-20261018-elpais-rescate-vertical-cruz-roja-huv",
+      "fecha": "2026-10-18",
+      "titulo": "El equipo de rescate vertical de la Cruz Roja que sacó a sobrevivientes de los escombros del HUV",
+      "resumen": "El equipo de rescate vertical de la Cruz Roja fue de los primeros organismos de socorro en entrar al Hospital Universitario del Valle tras el terremoto del 10 de agosto. Allí rescataron a una mujer atrapada con su bebé y a una auxiliar de enfermería que llevaba horas bajo los escombros. Lo cuenta El País (Cali) en una crónica.",
+      "fuente": "El País (Cali)",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/los-spiderman-del-huv-la-historia-del-equipo-de-rescate-vertical-de-la-cruz-roja-que-salvo-vidas-entre-los-escombros-1840.html"
+    },
+    {
+      "id": "co-20261017-infobae-saber-pro-tyt-reprogramadas",
+      "fecha": "2026-10-17",
+      "titulo": "Más de 180.000 estudiantes presentan el 18 de octubre las pruebas Saber Pro y TyT, aplazadas por el terremoto",
+      "resumen": "El Icfes reprogramó por la emergencia del terremoto la aplicación de las pruebas Saber Pro y Saber TyT, que presentarán 180.929 estudiantes el domingo 18 de octubre en 360 sitios de más de 110 municipios; otros 1.113 lo harán en modalidad electrónica desde el exterior. Los exámenes son requisito de grado en la educación superior. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/17/mas-de-180000-estudiantes-presentaran-las-pruebas-saber-pro-y-tyt-el-domingo-18-de-octubre-tras-aplazamiento-por-el-terremoto/"
+    },
     {
       "id": "co-20261017-eltiempo-grietas-humedades-propiedad-horizontal",
       "fecha": "2026-10-17",
@@ -34,6 +67,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/16/shakira-y-la-fundacion-pies-descalzos-concretaron-una-importante-alianza-para-la-reconstruccion-de-dos-centros-educativos-afectados-en-choco/"
+    },
+    {
+      "id": "co-20261016-eltiempo-sismo-choco-4-1",
+      "fecha": "2026-10-16",
+      "titulo": "Sismo de magnitud 4,1 y profundidad superficial en el Chocó",
+      "resumen": "El Servicio Geológico Colombiano registró hacia las 8 de la mañana del viernes 16 de octubre un sismo de magnitud 4,1 con epicentro en el Chocó y profundidad superficial (menos de 30 km), en la zona de la secuencia del terremoto del 10 de agosto. No se reportaron daños. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-4-1-de-magnitud-en-choco-la-manana-de-este-viernes-16-de-octubre-profundidad-epicentro-y-detalles-3593996"
     },
     {
       "id": "co-20261016-elpais-produccion-industrial-agosto-valle",
