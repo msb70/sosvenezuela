@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18",
+  "actualizado": "2026-10-19",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
     {
@@ -12,6 +12,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/18/fondo-milagro-que-obras-tendran-prioridad-y-como-se-invertiran-los-recursos-para-la-reconstruccion/"
+    },
+    {
+      "id": "co-20261018-eltiempo-cali-sin-recursos-pae-fondo-milagro",
+      "fecha": "2026-10-18",
+      "titulo": "A dos meses del terremoto, Cali aún no recibe recursos del PAE ni del Fondo Milagro y solo podrá atender al 10 % de los negocios afectados",
+      "resumen": "Un debate de control político en el Concejo de Cali sobre la gestión de las secretarías de Vivienda, Desarrollo Económico, Gestión de Desastres y Movilidad reveló que la ciudad todavía no dispone de recursos del Plan de Atención a la Emergencia (PAE) ni del Fondo Milagro y depende casi exclusivamente de las arcas locales para la reactivación económica. Con esos recursos solo se podrá atender a cerca del 10 % de los negocios afectados por el sismo, y ediles advirtieron además de que el censo de damnificados no es claro. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/a-dos-meses-del-terremoto-cali-sin-recursos-del-pae-ni-fondo-milagro-solo-se-atendera-al-10-por-ciento-de-los-negocios-afectados-3594406"
     },
     {
       "id": "co-20261018-elpais-rescate-vertical-cruz-roja-huv",
@@ -45,6 +56,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/economia/finanzas-personales/grietas-y-humedades-en-apartamentos-tras-un-sismo-quien-debe-repararlas-y-que-pueden-hacer-los-propietarios-3594194"
+    },
+    {
+      "id": "co-20261017-elpais-fiscalia-embarga-bienes-clan-herrera",
+      "fecha": "2026-10-17",
+      "titulo": "La Fiscalía embarga 42 bienes del clan Herrera que un exnarco ofreció para las víctimas del terremoto",
+      "resumen": "La Fiscalía impuso medidas cautelares sobre 42 bienes del clan Herrera, vinculado al extinto cartel de Cali, avaluados preliminarmente en más de 44.900 millones de pesos. Ramiro Herrera Buitrago había dicho que entregó información sobre cerca de 1.000 propiedades y pidió por carta que los activos que pasen al Estado contribuyan a la reconstrucción y a la atención de las víctimas del sismo del 10 de agosto. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/judicial/fiscalia-embarga-bienes-del-clan-herrera-ofrecidos-por-exnarco-para-victimas-del-terremoto-1709.html"
     },
     {
       "id": "co-20261016-infobae-fundacion-primera-dama-informe-donaciones",
