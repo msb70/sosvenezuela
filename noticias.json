@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-18",
+  "actualizado": "2026-10-19",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261019-elnacional-iata-alta-modernizar-maiquetia",
+      "fecha": "2026-10-19",
+      "titulo": "IATA y ALTA piden modernizar el aeropuerto de Maiquetía tras los daños del terremoto",
+      "resumen": "Peter Cerdá, vicepresidente regional de la IATA y director ejecutivo de ALTA, afirmó en el ALTA Forum de Ciudad de México que el terremoto agravó las deficiencias del Aeropuerto Internacional de Maiquetía y que su modernización es ahora una prioridad para atender la demanda de los próximos 25 a 30 años, según El Nacional. Cerdá indicó que hay conversaciones con el Gobierno venezolano, aunque la atención inmediata sigue centrada en sostener las operaciones con soluciones temporales.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/iata-y-alta-piden-modernizar-el-aeropuerto-de-maiquetia-para-atender-la-demanda-aerea-de-los-proximos-30-anos/"
+    },
+    {
+      "id": "ve-20261018-elnacional-rio-piedra-azul-riesgo-desbordamiento",
+      "fecha": "2026-10-18",
+      "titulo": "Vecinos de Maiquetía alertan del riesgo de desbordamiento del río Piedra Azul por rocas desprendidas en los terremotos",
+      "resumen": "La dirigente social Xiomara Barreto pidió a las autoridades de La Guaira maquinaria pesada para limpiar el cauce del río Piedra Azul, en Maiquetía, taponado por peñones desprendidos en los terremotos del 24 de junio, sedimentos y basura, según El Nacional. Barreto advirtió que un estancamiento en la zona alta podría provocar un deslave como el de 1999 y poner en riesgo a más de 20.000 habitantes.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/mas-de-20-000-habitantes-estarian-en-riesgo-por-posible-desbordamiento-del-rio-piedra-azul-en-la-guaira/"
+    },
     {
       "id": "ve-20261017-lapatilla-documental-ruta-venezuela-diaspora",
       "fecha": "2026-10-17",
