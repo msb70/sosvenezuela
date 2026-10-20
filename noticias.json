@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-20",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
@@ -12,6 +12,17 @@
       "categoria": "Infraestructura y servicios",
       "tipo": "noticia",
       "url": "https://www.elnacional.com/2026/10/iata-y-alta-piden-modernizar-el-aeropuerto-de-maiquetia-para-atender-la-demanda-aerea-de-los-proximos-30-anos/"
+    },
+    {
+      "id": "ve-20261019-elnacional-espectaculo-ninos-refugios-catia-la-mar",
+      "fecha": "2026-10-19",
+      "titulo": "Un espectáculo de payasos y malabaristas lleva actividad cultural a los niños de los refugios de Catia La Mar",
+      "resumen": "El Centro de Creación Artística TET organizó el domingo un maratón cultural de tres horas en Playa Verde, Catia La Mar (La Guaira), junto a los refugios temporales donde viven familias desalojadas de edificios dañados por los terremotos del 24 de junio, según El Nacional con información de AFP. Los residentes señalaron que no se había hecho una actividad de esa magnitud para los niños desde el sismo y pidieron que se repita.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/payasos-y-malabaristas-les-devolvieron-la-sonrisa-a-los-ninos-afectados-por-los-terremotos/"
     },
     {
       "id": "ve-20261018-elnacional-rio-piedra-azul-riesgo-desbordamiento",
