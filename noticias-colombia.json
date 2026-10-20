@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-20",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261019-eltiempo-coca-cola-juntos-podemos",
+      "fecha": "2026-10-19",
+      "titulo": "El Sistema Coca-Cola destina 3 millones de dólares a reactivar el comercio y llevar agua segura a escuelas de las zonas afectadas por el terremoto",
+      "resumen": "El programa «Juntos Podemos +», del Sistema Coca-Cola (The Coca-Cola Company, Coca-Cola FEMSA y sus fundaciones), dedicará 3 millones de dólares a la recuperación económica y social del Valle del Cauca, el Eje Cafetero y Chocó, en alianza con iNNpulsa Colombia y la Fundación Solidaridad por Colombia. Prevé apoyar la reactivación de más de 1.000 tenderos, reconstruir 150 pequeños comercios e instalar sistemas de agua segura en escuelas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/empresas/juntos-podemos-el-sistema-coca-cola-destina-usd-3-millones-a-la-reactivacion-y-reconstruccion-de-las-comunidades-afectadas-por-el-terremoto-3594783"
+    },
+    {
+      "id": "co-20261019-elpais-valle-alcaldes-reconstruccion-viviendas",
+      "fecha": "2026-10-19",
+      "titulo": "Más de 40 alcaldes del Valle se reúnen con la Gobernación para agilizar la entrega de recursos para reconstruir viviendas",
+      "resumen": "La Gobernación del Valle del Cauca informó de que más de 40 alcaldes del departamento participaron el lunes en una jornada de trabajo para resolver dudas sobre la entrega de los recursos destinados a recuperar las zonas afectadas por el terremoto, en coordinación con el Gobierno nacional. Según la Gobernación, la reconstrucción podría tardar hasta dos años, la llegada de los fondos nacionales será clave y ya comenzó el mejoramiento de viviendas. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/valle-del-cauca-busca-agilizar-la-reconstruccion-de-viviendas-afectadas-por-el-terremoto-1916.html"
+    },
+    {
+      "id": "co-20261019-elpais-proyecto-ley-iva-turismo",
+      "fecha": "2026-10-19",
+      "titulo": "Radican en el Congreso un proyecto de ley para rebajar el IVA del turismo en los municipios afectados por el terremoto",
+      "resumen": "Un proyecto de ley radicado en el Senado propone un régimen temporal de reactivación turística y alivio tributario para los municipios afectados por el terremoto del 10 de agosto, con jornadas de descuento en el IVA del turismo para atraer visitantes, respaldar a los negocios locales y proteger el empleo. Si se aprueba, el Gobierno nacional fijará por decreto el calendario anual de esas jornadas. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/alivios-tributarios-para-el-turismo-proponen-bajar-el-iva-del-turismo-en-municipios-afectados-por-el-terremoto-del-10-de-agosto-1948.html"
+    },
     {
       "id": "co-20261018-infobae-fondo-milagro-prioridades",
       "fecha": "2026-10-18",
