@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261021-eltiempo-simulacro-valle",
+      "fecha": "2026-10-21",
+      "titulo": "Cali y el Valle del Cauca participan en el Simulacro Nacional de Respuesta a Emergencias tras el terremoto",
+      "resumen": "Cali y el Valle del Cauca participan este miércoles 21 de octubre, a las 10:00 a. m., en el Simulacro Nacional de Respuesta a Emergencias, con el que se busca evaluar los protocolos aprendidos tras el terremoto del 10 de agosto y la capacidad de reacción de los organismos de socorro. Más de 840 entidades públicas, privadas y comunitarias se han inscrito en el departamento, más de 1.400 organizaciones en toda la región, y el ejercicio abarca los 40 municipios y dos distritos del Valle. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/cali-y-el-valle-del-cauca-se-unen-al-simulacro-nacional-2026-para-fortalecer-la-respuesta-ante-emergencias-3595096"
+    },
+    {
+      "id": "co-20261020-eltiempo-policias-viviendas-valle",
+      "fecha": "2026-10-20",
+      "titulo": "La Policía del Valle apoya la reconstrucción de las viviendas de 170 uniformados afectadas por el terremoto y los vendavales",
+      "resumen": "El Departamento de Policía Valle coordina la reconstrucción de los hogares de 170 de sus uniformados, cuyas viviendas quedaron afectadas por el terremoto del 10 de agosto y por los vendavales recientes. Entre ellos, una patrullera de Calima-Darién cuya casa sufrió daños que impedían habitarla. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/policias-viven-el-drama-de-servir-y-proteger-mientras-reconstruyen-sus-viviendas-afectadas-por-el-terremoto-y-los-recientes-vendavales-en-el-valle-3594854"
+    },
+    {
+      "id": "co-20261020-eltiempo-corficolombiana-economia-valle",
+      "fecha": "2026-10-20",
+      "titulo": "Corficolombiana advierte de que el terremoto y un posible «Súper Niño» amenazan con profundizar la desaceleración económica del Valle",
+      "resumen": "En el encuentro «Perspectivas Económicas 2026-2027: Reconstruyendo la Inversión», celebrado el 20 de octubre en Cali, Corficolombiana alertó de que el terremoto del 10 de agosto dio un duro golpe a la actividad económica regional y nacional. Su director de Investigaciones Económicas, César Pabón, señaló que la combinación del sismo y un posible «Súper Niño» configura un panorama complejo y que la inversión privada será clave para la recuperación. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/entre-escombros-y-un-super-nino-la-inversion-privada-una-tabla-de-salvacion-para-la-economia-del-valle-del-cauca-3594948"
+    },
+    {
+      "id": "co-20261020-elpais-fasecolda-913000-millones",
+      "fecha": "2026-10-20",
+      "titulo": "Las aseguradoras han pagado 913.609 millones de pesos a los afectados por el terremoto y las reclamaciones superan las 101.000",
+      "resumen": "Según el consolidado de Fasecolda con corte al 16 de octubre, las compañías de seguros han pagado 913.609 millones de pesos a los afectados por el terremoto del 10 de agosto, un 16,2 % más que la semana anterior (127.066 millones adicionales). Hasta esa fecha se habían recibido 101.133 reclamaciones y el valor total de las indemnizaciones se estima en 6,8 billones de pesos. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cerca-de-un-billon-de-pesos-han-pagado-las-aseguradoras-a-las-victimas-del-terremoto-segun-fasecolda-2015.html"
+    },
+    {
+      "id": "co-20261020-elpais-convenio-nueve-colegios",
+      "fecha": "2026-10-20",
+      "titulo": "La Gobernación del Valle y el Ministerio de Educación firman un convenio para reconstruir nueve colegios que colapsaron en el terremoto",
+      "resumen": "La gobernadora del Valle del Cauca, Dilian Francisca Toro, anunció tras reunirse en Bogotá con la ministra de Educación, Ilva Myriam Hoyos, un convenio para construir nueve de los colegios que colapsaron en el terremoto del 10 de agosto, con apoyo del Ministerio. En el encuentro se revisaron los proyectos para recuperar la infraestructura educativa del departamento. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/se-firma-convenio-para-reconstruir-nueve-colegios-en-el-valle-del-cauca-tras-el-terremoto-2004.html"
+    },
     {
       "id": "co-20261019-eltiempo-coca-cola-juntos-podemos",
       "fecha": "2026-10-19",
