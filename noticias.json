@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261020-elnacional-protesis-ninos-hospital-ortopedico",
+      "fecha": "2026-10-20",
+      "titulo": "El Hospital Ortopédico Infantil intensifica la entrega de prótesis a niños amputados por el terremoto",
+      "resumen": "El Hospital Ortopédico Infantil reforzó sus protocolos de adaptación de prótesis y acompañamiento multidisciplinario para niños y jóvenes que sufrieron amputaciones por los terremotos del 24 de junio; su vicepresidenta, Andreína Vogeler de Pérez, estimó que un niño de seis años requiere hasta doce adecuaciones durante su crecimiento, según El Nacional. En paralelo, la Asociación Venezolana de la Orden de Malta, con voluntarios de la UCV, mantiene operativos de salud en La Guaira que, según su balance, han alcanzado a más de 40.000 personas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "url": "https://www.elnacional.com/2026/10/hospital-ortopedico-infantil-e-instituciones-aliadas-intensifican-la-entrega-de-protesis-y-atencion-integral-a-ninos-victimas-del-doble-terremoto/"
+    },
     {
       "id": "ve-20261019-elnacional-iata-alta-modernizar-maiquetia",
       "fecha": "2026-10-19",
