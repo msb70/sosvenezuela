@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-22",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261021-elnacional-vecindary-demanda-casas-caracas",
+      "fecha": "2026-10-21",
+      "titulo": "La búsqueda de casas en Caracas pasa del 21 % al 39 % de las consultas tras el terremoto, según Vecindary",
+      "resumen": "Un análisis de la plataforma inmobiliaria Vecindary indica que las casas pasaron del 21 % de las búsquedas en Caracas antes del sismo al 39 % entre agosto y la primera quincena de septiembre, en detrimento de los apartamentos, según El Nacional. En Valencia y Maracay la búsqueda de casas subió del 18 % al 69 % tras el 24 de junio y se estabilizó en 53 %; en Caracas, el interés por Chacao bajó del 39 % al 32 % y el de Baruta subió del 20 % al 26 %.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/caracas-tras-el-terremoto-mas-busqueda-de-casas-menos-apartamentos-mas-baruta-y-menos-chacao/"
+    },
+    {
+      "id": "ve-20261021-elnacional-usgs-nyt-estimacion-fallecidos",
+      "fecha": "2026-10-21",
+      "titulo": "Estimaciones del USGS y The New York Times sitúan la cifra de fallecidos muy por encima del balance oficial de 6.509",
+      "resumen": "Frente a los 6.509 fallecidos del balance oficial, el modelo del Servicio Geológico de Estados Unidos (USGS) estima en torno a 53.000 muertes por los terremotos del 24 de junio, con un 81 % de probabilidad de que el total supere las 10.000, según recoge El Nacional a partir de un análisis de The New York Times. El USGS señala que la falta de un censo actualizado impide calcular la cifra con exactitud y que su proyección se basa en el modelo de población LandScan.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/10/nyt-numero-de-fallecidos-por-los-terremotos-en-venezuela-podria-ser-mucho-mayor-al-balance-oficial/"
+    },
+    {
+      "id": "ve-20261021-elnacional-portal-desaparecidos-terremoto",
+      "fecha": "2026-10-21",
+      "titulo": "El portal ciudadano Desaparecidos Terremoto Venezuela contabiliza 29.486 personas sin contactar",
+      "resumen": "El portal Desaparecidos Terremoto Venezuela, creado por el desarrollador venezolano Jorge Bastidas tras los sismos del 24 de junio, ha recibido 82.610 reportes en casi cuatro meses, según El Nacional. Tras depurar duplicados con ayuda de voluntarios, la plataforma contabiliza al menos 29.486 personas que aún no han podido ser contactadas; no existe una lista oficial de desaparecidos con la que contrastar los datos.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/10/todavia-no-sabemos-la-magnitud-real-del-dano-el-joven-que-diseno-un-software-para-buscar-a-desaparecidos-en-los-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20261021-elnacional-6000-viviendas-transitorias-campamentos",
+      "fecha": "2026-10-21",
+      "titulo": "El Gobierno anuncia 6.000 viviendas transitorias para vaciar los campamentos de damnificados antes de diciembre",
+      "resumen": "Durante la adjudicación de 500 estructuras de alojamiento provisional en Ciudad Caribia (La Guaira), el Ejecutivo anunció 6.000 viviendas para que no quede nadie en los campamentos de damnificados antes de que termine el año, según El Nacional. De ellas, 4.000 inmuebles ya empadronados están en ejecución y otros 2.000 se planifican para los próximos meses; el Estado Mayor de Campamentos y Viviendas fijó una meta de unas 200 viviendas transitorias diarias.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/gobierno-promete-6-000-viviendas-para-reubicar-a-damnificados-antes-de-finalizar-el-ano/"
+    },
     {
       "id": "ve-20261020-elnacional-protesis-ninos-hospital-ortopedico",
       "fecha": "2026-10-20",
