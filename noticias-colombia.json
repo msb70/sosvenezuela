@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-22",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261022-elpais-ejercito-construccion-colegios",
+      "fecha": "2026-10-22",
+      "titulo": "Soldados del Ejército se capacitan en construcción para recuperar colegios del oriente de Cali afectados por el terremoto",
+      "resumen": "La Brigada de Apoyo de Acción Integral y Desarrollo N.º 2 del Ejército inició un proceso de formación en habilidades de construcción para soldados de Acción Integral y cinco jóvenes de la Fundación Ser para Ser, con el fin de contribuir a la adecuación de instituciones educativas del oriente de Cali dañadas por el terremoto del 10 de agosto. La iniciativa cuenta con el apoyo del Sena y de la empresa Adiela de Lombana (ADL). Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/soldados-del-ejercito-en-cali-se-capacitan-en-construccion-para-recuperacion-de-colegios-y-comunidades-afectadas-por-el-terremoto-2107.html"
+    },
     {
       "id": "co-20261021-eltiempo-simulacro-valle",
       "fecha": "2026-10-21",
@@ -12,6 +23,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/cali/cali-y-el-valle-del-cauca-se-unen-al-simulacro-nacional-2026-para-fortalecer-la-respuesta-ante-emergencias-3595096"
+    },
+    {
+      "id": "co-20261021-elpais-educacion-virtual-zonas-afectadas",
+      "fecha": "2026-10-21",
+      "titulo": "Instituciones de educación superior piden incluir la educación virtual e híbrida en la recuperación de las zonas afectadas por el terremoto",
+      "resumen": "Instituciones y representantes de la educación superior pidieron al Gobierno nacional que la recuperación de los espacios educativos dañados por el terremoto del 10 de agosto incluya conectividad y modalidades de aprendizaje virtual e híbrido. La propuesta busca ampliar el acceso a la educación superior en territorios donde construir nuevas sedes puede tardar años y exigir inversiones considerables. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/proponen-impulsar-la-educacion-virtual-en-zonas-afectadas-por-el-terremoto-del-10-de-agosto-2100.html"
     },
     {
       "id": "co-20261020-eltiempo-policias-viviendas-valle",
