@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-22",
+  "actualizado": "2026-10-23",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261022-elnacional-unidos-mision-200000-ninos-sin-clases",
+      "fecha": "2026-10-22",
+      "titulo": "A cuatro meses de los terremotos, unos 200.000 niños siguen fuera de las aulas por los daños en cerca de 400 escuelas, según Unidos en la Misión",
+      "resumen": "El director de la Fundación Unidos en la Misión, el jesuita Jesús Rodríguez Villarroel, dijo a EFE que los sismos del 24 de junio afectaron a cerca de 400 escuelas y dejaron a alrededor de 200.000 niños, niñas y adolescentes fuera del sistema escolar, y advirtió que muchos podrían no regresar si los planteles no se recuperan con urgencia, recoge El Nacional. Según el religioso, la red Fe y Alegría, en alianza con la ONG española Manos Unidas, sostiene la «educación en emergencia» en 24 escuelas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Educación",
+      "url": "https://www.elnacional.com/2026/10/la-crisis-sigue-en-venezuela-a-cuatro-meses-de-los-terremotos-con-200-000-ninos-sin-clases/"
+    },
     {
       "id": "ve-20261021-elnacional-vecindary-demanda-casas-caracas",
       "fecha": "2026-10-21",
