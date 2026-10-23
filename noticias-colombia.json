@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-22",
+  "actualizado": "2026-10-23",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261023-infobae-escombros-circular",
+      "fecha": "2026-10-23",
+      "titulo": "Prohíben arrojar escombros del terremoto en ríos, humedales, vías y rellenos sanitarios",
+      "resumen": "Una circular conjunta de los ministerios de Ambiente, Salud y Vivienda y la UNGRD prohíbe disponer los escombros del terremoto en ríos, humedales, rellenos sanitarios, vías y lotes en las zonas con declaratoria de desastre. Los residuos de construcción y demolición deberán llevarse a sitios habilitados, con registro de cada traslado hasta su destino final, y se fijan lineamientos para residuos peligrosos, electrónicos, hospitalarios y alimentos no aptos. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/23/el-gobierno-prohibio-arrojar-escombros-del-terremoto-en-cauces-y-basureros-habra-control-sobre-el-destino-de-los-residuos/"
+    },
+    {
+      "id": "co-20261023-infobae-bonos-vivienda-demoliciones",
+      "fecha": "2026-10-23",
+      "titulo": "El Gobierno y la Alcaldía de Cali anuncian 350 bonos de vivienda y 4.600 millones para pequeños negocios afectados por el terremoto",
+      "resumen": "El Gobierno nacional y la Alcaldía de Cali anunciaron un nuevo paquete de ayudas para damnificados del terremoto del 10 de agosto, con 350 soluciones habitacionales y 4.600 millones de pesos para reactivar pequeños negocios. El anuncio coincidió con el inicio de la demolición del edificio Arábico (El Limonar), bajo administración de la SAE; la Alcaldía ha priorizado 76 edificaciones con daños irreparables, de las que tres ya fueron demolidas, 11 están en proceso y 63 pendientes. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/23/de-la-espriella-anuncia-350-bonos-de-vivienda-en-cali-y-4600-millones-para-pequenos-negocios-tras-terremoto/"
+    },
+    {
+      "id": "co-20261022-eltiempo-colegio-nuevo-latir",
+      "fecha": "2026-10-22",
+      "titulo": "Arranca con 2.800 millones de pesos la reconstrucción del colegio Nuevo Latir, en el oriente de Cali",
+      "resumen": "La Alcaldía de Cali, en alianza con ProPacífico y la Fundación Bancolombia, inició la primera fase de la reconstrucción de la institución educativa oficial Nuevo Latir, dañada por el terremoto del 10 de agosto, con una inversión de 2.800 millones de pesos. Sus 1.512 estudiantes reciben clases en alternancia en la sede Isaías Duarte Cancino mientras duran las obras. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/con-2-800-millones-de-pesos-arranca-la-reconstruccion-de-la-institucion-educativa-nuevo-latir-de-1-512-alumnos-afectada-por-el-terremoto-en-cali-3595591"
+    },
+    {
+      "id": "co-20261022-elpais-fondo-milagro-pereira",
+      "fecha": "2026-10-22",
+      "titulo": "El Gobierno da inicio en Pereira a las obras del Fondo Milagro para reconstruir viviendas tras el terremoto",
+      "resumen": "Desde el barrio San Nicolás de Pereira, el Gobierno nacional dio inicio el 22 de octubre a las labores del Fondo Milagro, tras más de mes y medio de preparación. El plan de reconstrucción contempla demoliciones, soluciones habitacionales y ayudas para mejorar las viviendas que resultaron afectadas por el terremoto del 10 de agosto. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/politica/de-la-espriella-anuncia-desde-pereira-el-inicio-del-fondo-milagro-para-reconstruir-viviendas-tras-el-terremoto-2215.html"
+    },
     {
       "id": "co-20261022-elpais-ejercito-construccion-colegios",
       "fecha": "2026-10-22",
@@ -12,6 +56,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/soldados-del-ejercito-en-cali-se-capacitan-en-construccion-para-recuperacion-de-colegios-y-comunidades-afectadas-por-el-terremoto-2107.html"
+    },
+    {
+      "id": "co-20261022-elpais-200-viviendas-damnificados",
+      "fecha": "2026-10-22",
+      "titulo": "Cali abrirá desde el domingo 25 de octubre la solicitud de 200 viviendas para damnificados del terremoto",
+      "resumen": "El alcalde de Cali, Alejandro Eder, anunció la entrega de 200 viviendas para damnificados por el terremoto: a partir del domingo 25 de octubre, las familias que necesiten vivienda podrán presentar la solicitud entre las 10:00 a. m. y las 5:00 p. m. Eder también anunció que el fondo «Cali Somos Todos», de 10.000 millones de pesos, abre una bonificación de 50 millones de pesos. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcalde-alejandro-eder-anuncia-la-entrega-de-200-viviendas-en-cali-a-partir-del-domingo-para-damnificados-por-el-terremoto-2247.html"
     },
     {
       "id": "co-20261021-eltiempo-simulacro-valle",
