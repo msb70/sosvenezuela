@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-23",
+  "actualizado": "2026-10-24",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261023-elnacional-sntp-campo-golf-caraballeda",
+      "fecha": "2026-10-23",
+      "titulo": "El SNTP denuncia que la Guardia Nacional impidió a una periodista documentar la situación de 400 familias damnificadas en Caraballeda",
+      "resumen": "El Sindicato Nacional de Trabajadores de la Prensa (SNTP) denunció que funcionarios de la GNB impidieron el 23 de octubre a la periodista María Arraez, de La Verdad de Vargas, entrar al campo de golf de Caraballeda, donde permanecen cerca de 400 familias damnificadas por los terremotos, recoge El Nacional. El hecho ocurrió un día después de que los afectados protestaran por la reducción de la asistencia que reciben y las condiciones del lugar.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/gnb-impidio-a-periodista-reportar-sobre-situacion-de-familias-damnificadas-en-el-campo-de-golf-de-caraballeda/"
+    },
+    {
+      "id": "ve-20261023-elnacional-live-nation-el-after",
+      "fecha": "2026-10-23",
+      "titulo": "Live Nation dona 100.000 dólares a la Fundación El After para los afectados por los terremotos",
+      "resumen": "La empresa Live Nation anunció una donación de 100.000 dólares a la Fundación El After, creada por la banda Rawayana a finales de julio tras los sismos, y destinará además una parte de los ingresos de cada concierto con el grupo a la reconstrucción de las zonas afectadas, según El Nacional. La fundación enfoca su trabajo en infancia, educación, deporte y bienestar comunitario.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/live-nation-se-une-a-rawayana-para-ayudar-a-los-afectados-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20261023-elnacional-funvisis-109-sismos",
+      "fecha": "2026-10-23",
+      "titulo": "Funvisis contabiliza 109 sismos entre el 16 y el 22 de octubre, todos por debajo de magnitud 4",
+      "resumen": "El informe semanal de Funvisis registra 109 eventos sísmicos en Venezuela entre el 16 y el 22 de octubre, con magnitudes de 1,3 a 3,8 Mw, recoge El Nacional. La región central concentró 58 sismos, la occidental 42 y la oriental 9; 86 fueron menores de 3,0 Mw y no se reportaron daños ni personas afectadas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/10/funvisis-registro-109-sismos-en-el-pais-entre-el-16-y-el-22-de-octubre/"
+    },
+    {
+      "id": "ve-20261023-elnacional-civ-condominios-la-guaira",
+      "fecha": "2026-10-23",
+      "titulo": "El Colegio de Ingenieros advierte que los condominios de La Guaira no tienen recursos para reconstruir sus edificios",
+      "resumen": "El Colegio de Ingenieros de Venezuela (CIV) afirmó que ningún condominio o propietario particular de La Guaira cuenta con fondos suficientes para recuperar o reconstruir sus inmuebles tras los terremotos del 24 de junio, según El Nacional. El ingeniero Rafael Pacheco Noguera atribuyó la magnitud de los daños a construcciones sobre conos aluviales en Caraballeda y Macuto y a fallas en inspecciones y normas antisísmicas, y señaló que hasta el 60 % de los condominios y clubes de Playa Grande y Marina Grande cerraron definitivamente.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/colegio-de-ingenieros-alerta-que-condominios-en-la-guaira-no-tienen-recursos-para-reconstruir-sus-inmuebles/"
+    },
     {
       "id": "ve-20261022-elnacional-unidos-mision-200000-ninos-sin-clases",
       "fecha": "2026-10-22",
