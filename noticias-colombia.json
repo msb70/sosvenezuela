@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-23",
+  "actualizado": "2026-10-24",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261024-infobae-reconstruccion-54-billones",
+      "fecha": "2026-10-24",
+      "titulo": "La reconstrucción tras el terremoto costará 54 billones de pesos, 19,7 de ellos en vivienda, según el Ministerio de Vivienda",
+      "resumen": "El ministro de Vivienda, Jaime Andrés Beltrán, cifró en el congreso de Camacol en Cartagena el costo de la reconstrucción en 54 billones de pesos, de los que 19,7 billones corresponden solo a vivienda. Según el diagnóstico oficial, el sismo afectó a 16 departamentos y 498 municipios, con más de 2.300 edificios afectados, más de 700 colapsados, más de 203.000 viviendas afectadas y más de 51.700 destruidas. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/24/la-reconstruccion-en-colombia-tras-el-terremoto-de-magnitud-74-costara-54-billones-segun-el-ministerio-de-vivienda-una-cifra-alarmante/"
+    },
+    {
+      "id": "co-20261024-infobae-fondo-milagro-recursos",
+      "fecha": "2026-10-24",
+      "titulo": "El Gobierno detalla los recursos del Fondo Milagro para la reconstrucción tras el terremoto",
+      "resumen": "El Fondo Milagro, que empezó a operar el 7 de octubre, recibió una primera partida de 624.656 millones de pesos procedente de un crédito del Banco Mundial, además de 367.000 millones para apoyos económicos ejecutados por la UNGRD. En noviembre ingresarán 826.000 millones del Ministerio de Vivienda para mejoramiento y vivienda nueva, urbana y rural, y 2,7 billones en facilidades tributarias; las donaciones empresariales quedan bajo gestión privada. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/24/abelardo-de-la-espriella-entrego-detalles-del-dinero-que-se-manejara-en-el-fondo-para-la-reconstruccion-por-el-terremoto/"
+    },
     {
       "id": "co-20261023-infobae-escombros-circular",
       "fecha": "2026-10-23",
@@ -23,6 +45,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/23/de-la-espriella-anuncia-350-bonos-de-vivienda-en-cali-y-4600-millones-para-pequenos-negocios-tras-terremoto/"
+    },
+    {
+      "id": "co-20261023-eltiempo-colegio-pereira-aravena",
+      "fecha": "2026-10-23",
+      "titulo": "El arquitecto Alejandro Aravena diseñará el colegio San Nicolás de Pereira, destruido por el terremoto",
+      "resumen": "La institución educativa San Nicolás de Pereira, que quedó destruida por el terremoto del 10 de agosto, será rediseñada por la firma chilena Elemental, dirigida por Alejandro Aravena, ganador del premio Pritzker en 2016. Elemental lideró la reconstrucción de Constitución (Chile) tras el terremoto y tsunami de 2010. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/reconocido-arquitecto-chileno-que-gano-premio-nobel-disenara-un-colegio-de-pereira-tras-desplomarse-por-el-terremoto-del-10-de-agosto-3595826"
+    },
+    {
+      "id": "co-20261023-eltiempo-camara-comercio-agenda",
+      "fecha": "2026-10-23",
+      "titulo": "La Cámara de Comercio de Cali presenta una agenda para pasar de la reconstrucción por el terremoto a la transformación económica del Valle",
+      "resumen": "La Cámara de Comercio de Cali presentó en su Encuentro Anual de Afiliados una Agenda de Transformación Productiva que plantea aprovechar la reconstrucción tras el terremoto del 10 de agosto para transformar la economía del Valle del Cauca, con el objetivo de duplicar su PIB por habitante. La propuesta se centra en acceso a mercados, productividad, innovación e inversión. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-traza-una-ruta-para-transformar-su-economia-y-duplicar-su-pib-por-habitante-de-la-reconstruccion-por-el-terremoto-al-desarrollo-3595957"
+    },
+    {
+      "id": "co-20261023-eltiempo-camacol-300000-millones",
+      "fecha": "2026-10-23",
+      "titulo": "El sector constructor recauda 300.000 millones de pesos para la reconstrucción de las zonas afectadas por el terremoto",
+      "resumen": "En la clausura del Congreso Colombiano de la Construcción 2026, el presidente de Camacol, Guillermo Herrera, informó de que el gremio ha recaudado 300.000 millones de pesos para atender la emergencia y apoyar la reconstrucción de las zonas golpeadas por el sismo del 10 de agosto. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/sector-constructor-recaudo-300-000-millones-para-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto-3595936"
+    },
+    {
+      "id": "co-20261023-eltiempo-cali-82-demoliciones",
+      "fecha": "2026-10-23",
+      "titulo": "Cali ya tiene 82 edificaciones aprobadas para demolición tras el terremoto",
+      "resumen": "El Consejo Distrital de Gestión del Riesgo de Cali ha aprobado la demolición de 82 edificaciones dañadas por el terremoto del 10 de agosto, cifra que podría crecer a medida que avancen las evaluaciones técnicas. Según la Secretaría de Gestión del Riesgo, 11 edificaciones ya fueron demolidas y dos están en intervención. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/cali-avanza-en-su-recuperacion-ya-son-82-las-edificaciones-aprobadas-para-demolicion-tras-el-terremoto-3595889"
+    },
+    {
+      "id": "co-20261023-elpais-feria-servicios-mallplaza",
+      "fecha": "2026-10-23",
+      "titulo": "Feria de Servicios para damnificados del terremoto en Mallplaza (Cali), hasta el 25 de octubre",
+      "resumen": "La Alcaldía de Cali realiza una nueva jornada de la Feria de Servicios 'Cali Somos Todos' para las personas afectadas por el sismo del 10 de agosto, en la plazoleta de comidas del tercer piso del centro comercial Mallplaza, hasta el 25 de octubre. Entidades distritales y otras instituciones orientan a las familias sobre trámites y alternativas de atención y recogen información sobre sus necesidades. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cali-feria-de-servicios-para-damnificados-por-el-terremoto-estara-en-mallplaza-hasta-el-25-de-octubre-2312.html"
+    },
+    {
+      "id": "co-20261023-elpais-asamblea-endeudamiento",
+      "fecha": "2026-10-23",
+      "titulo": "La Asamblea del Valle aprueba un cupo de endeudamiento de 550.000 millones para la reconstrucción tras el terremoto",
+      "resumen": "La Asamblea Departamental del Valle del Cauca autorizó ampliar en 550.000 millones de pesos el cupo de endeudamiento del departamento, con destinación específica para atender a los damnificados y reconstruir los municipios afectados por el sismo del 10 de agosto. Según la Gobernación, 314.000 personas están inscritas como damnificadas en el RUFE del Valle. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/asamblea-del-valle-aprueba-cupo-de-endeudamiento-por-550000-millones-para-la-reconstruccion-tras-el-terremoto-2315.html"
     },
     {
       "id": "co-20261022-eltiempo-colegio-nuevo-latir",
