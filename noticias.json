@@ -1,7 +1,84 @@
 {
-  "actualizado": "2026-10-24",
+  "actualizado": "2026-10-25",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261025-elnacional-red-mujeres-embarazadas",
+      "fecha": "2026-10-25",
+      "titulo": "Una red de activistas y la clínica Aquamater acompañan a embarazadas damnificadas en campamentos de Caracas y La Guaira",
+      "resumen": "A cuatro meses de los terremotos del 24 de junio, activistas de la Alianza de Mujeres Políticas y del colectivo Uquira, junto con especialistas de la clínica Aquamater, mantienen una red de apoyo a mujeres embarazadas y lactantes en campamentos y refugios de Caracas y La Guaira, según El Nacional. La activista Mariandreina Montilla explica que las donaciones iniciales carecían de enfoque diferenciado: llegaban pañales, pero no para recién nacidos, y medicamentos, pero no para embarazadas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://www.elnacional.com/2026/10/una-red-de-mujeres-cuida-y-acompana-a-las-embarazadas-afectadas-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20261025-elnacional-comerciantes-reabrir-playas",
+      "fecha": "2026-10-25",
+      "titulo": "Los comerciantes de La Guaira piden reabrir las playas para reactivar la economía de Catia La Mar, Caraballeda y Los Corales",
+      "resumen": "Eduardo Quintana, presidente de la Cámara de Comercio de La Guaira y de Fedecámaras Vargas, afirmó que Catia La Mar, Playa Grande, Caraballeda, Los Corales y parte de Macuto siguen sin reactivar el comercio tras los sismos, según El Nacional. Sostiene que el estado solo podrá recuperarse cuando se reabran las playas, cerradas desde los terremotos, y que por ahora solo funciona el casco histórico de Maiquetía.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/catia-la-mar-caraballeda-y-los-corales-siguen-destruidas-y-los-comerciantes-piden-reabrir-las-playas/"
+    },
+    {
+      "id": "ve-20261024-elnacional-rescate-residencias-caribe",
+      "fecha": "2026-10-24",
+      "titulo": "Rescatistas recuperan los restos de un piloto entre las ruinas de Residencias Caribe, en Caraballeda",
+      "resumen": "Brigadas de rescate recuperaron el 23 de octubre los restos del capitán de aviación comercial Gustavo Riascos, de 51 años, en el nivel dos de la estructura B de Residencias Caribe, en Caraballeda (La Guaira), colapsada por los terremotos de junio, según El Nacional. Tres grupos de rescate siguen trabajando en el lugar; el balance oficial de fallecidos se mantiene en 6.509.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/10/rescatistas-recuperaron-el-cadaver-de-un-capitan-de-aviacion-entre-las-ruinas-de-residencias-caribe-en-la-guaira/"
+    },
+    {
+      "id": "ve-20261024-elnacional-manos-de-heroes-protesis-3d",
+      "fecha": "2026-10-24",
+      "titulo": "La fundación uruguaya Manos de Héroes comparte sus diseños de prótesis 3D para los afectados por los terremotos",
+      "resumen": "La fundación uruguaya Manos de Héroes, que imprime y entrega gratis prótesis de manos y brazos, compartió sus diseños y enseña a fabricarlas con impresoras 3D para atender a damnificados de los terremotos en Venezuela y Colombia, según El Nacional con información de EFE. Su fundadora, Andrea Cukerman, explicó que exportar las prótesis era difícil y que así cualquier persona con una impresora 3D puede producirlas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://www.elnacional.com/2026/10/fundacion-uruguaya-ensena-a-fabricar-protesis-3d-para-ayudar-a-victimas-de-los-terremotos-en-venezuela-y-colombia/"
+    },
+    {
+      "id": "ve-20261024-elnacional-grecia-11-toneladas-medicamentos",
+      "fecha": "2026-10-24",
+      "titulo": "Llegan a Venezuela más de 11 toneladas de medicamentos e insumos médicos donados por Grecia",
+      "resumen": "La Delegación de la Unión Europea en Venezuela anunció la llegada el 23 de octubre de más de 11 toneladas de medicinas y material médico enviados por Grecia para la recuperación tras los terremotos del 24 de junio, según El Nacional. La donación forma parte de Team Europe; la UE ha coordinado la ayuda de 19 países y activó el Mecanismo Europeo de Protección Civil y el sistema Copernicus.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/grecia-envio-a-venezuela-mas-de-11-toneladas-de-medicamentos-e-insumos-medicos-para-afectados-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20261024-elnacional-gobernacion-balance-cuatro-meses",
+      "fecha": "2026-10-24",
+      "titulo": "La Gobernación de La Guaira informa de más de un millón de toneladas de escombros retirados y 900 familias fuera de los campamentos",
+      "resumen": "Al cumplirse cuatro meses de los terremotos, el gobernador de La Guaira, José Alejandro Terán, informó de la retirada de más de un millón de toneladas de escombros, la recuperación de más de 10.000 viviendas y la rehabilitación de 40 playas, recoge El Nacional. Según la Gobernación, unas 900 familias han salido de los campamentos transitorios mediante compra de viviendas, alquileres temporales y soluciones habitacionales en Ciudad Caribia, y se hacen estudios geotécnicos en más de 15 terrenos, dos ya en fase de construcción.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/a-cuatro-meses-de-los-terremotos-el-gobernador-de-la-guaira-aseguro-que-avanzan-las-labores-de-remocion-de-escombros-y-la-recuperacion-del-estado/"
+    },
+    {
+      "id": "ve-20261024-elnacional-funvisis-2286-sismos",
+      "fecha": "2026-10-24",
+      "titulo": "Funvisis contabiliza 2.286 sismos en los 120 días transcurridos desde el doble terremoto del 24 de junio",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 2.286 eventos sísmicos entre el 24 de junio y el 22 de octubre, según su balance recogido por El Nacional. En la última semana se contabilizaron 109 temblores de magnitud 1,3 a 3,8; el último, de 3,3, ocurrió el 22 de octubre a 21 km al noroeste de Machiques (Zulia).",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/10/funvisis-contabilizo-2-286-replicas-desde-el-doble-terremoto-del-24-de-junio/"
+    },
     {
       "id": "ve-20261023-elnacional-sntp-campo-golf-caraballeda",
       "fecha": "2026-10-23",
