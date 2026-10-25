@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-24",
+  "actualizado": "2026-10-25",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261025-eltiempo-microcredito-afectados",
+      "fecha": "2026-10-25",
+      "titulo": "El terremoto afectó a 183.254 clientes de microcrédito con deudas por 2,25 billones de pesos",
+      "resumen": "Según Asomicrofinanzas, 183.254 clientes de entidades de microcrédito resultaron afectados por el terremoto del 10 de agosto, con obligaciones por 2,25 billones de pesos; siete de cada diez pertenecen a los estratos 1 y 2 y más de la mitad trabaja en el agro. Las entidades ofrecen alivios para reactivar negocios y el Gobierno busca ampliar la financiación formal para frenar el ‘gota a gota’ en los territorios afectados. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sector-financiero/microcredito-entre-el-golpe-del-terremoto-y-un-plan-para-ampliar-el-acceso-y-frenar-el-flagelo-del-gota-a-gota-3596098"
+    },
     {
       "id": "co-20261024-infobae-reconstruccion-54-billones",
       "fecha": "2026-10-24",
@@ -23,6 +34,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/10/24/abelardo-de-la-espriella-entrego-detalles-del-dinero-que-se-manejara-en-el-fondo-para-la-reconstruccion-por-el-terremoto/"
+    },
+    {
+      "id": "co-20261024-eltiempo-pereira-colapso-edificio",
+      "fecha": "2026-10-24",
+      "titulo": "Colapsa en el centro de Pereira un edificio dañado por el terremoto y pendiente de demolición; no se hallaron víctimas",
+      "resumen": "Una edificación de la carrera 12 con calle 18, en el centro de Pereira, afectada por el terremoto del 10 de agosto y pendiente de demolición, colapsó parcialmente la tarde del sábado 24 de octubre. Aunque en un primer momento se informó del hallazgo de dos cuerpos de personas que al parecer extraían cobre, al cierre del operativo, hacia las 8:15 p. m., Bomberos aclaró que no se encontraron personas fallecidas entre los escombros. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082"
     },
     {
       "id": "co-20261023-infobae-escombros-circular",
@@ -100,6 +122,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/cali-feria-de-servicios-para-damnificados-por-el-terremoto-estara-en-mallplaza-hasta-el-25-de-octubre-2312.html"
+    },
+    {
+      "id": "co-20261023-elpais-educacion-virtualidad-behrentz",
+      "fecha": "2026-10-23",
+      "titulo": "Proponen fortalecer la educación virtual y la financiación para garantizar la continuidad académica tras el terremoto",
+      "resumen": "Eduardo Behrentz, rector de la UniGermana y presidente de INCAP, planteó que la reconstrucción de las sedes educativas afectadas por el terremoto del 10 de agosto debe acompañarse de educación virtual para mantener los programas mientras se recupera la infraestructura. También pidió ampliar la financiación y el acceso a la formación para evitar que los jóvenes abandonen sus territorios. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/como-recuperar-la-educacion-tras-el-terremoto-eduardo-behrentz-propone-fortalecer-la-virtualidad-y-la-financiacion-2318.html"
     },
     {
       "id": "co-20261023-elpais-asamblea-endeudamiento",
