@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-25",
+  "actualizado": "2026-10-26",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261026-infobae-fondo-milagro-aportes-privados",
+      "fecha": "2026-10-26",
+      "titulo": "El Gobierno aclara que las donaciones privadas para la reconstrucción no ingresan al Fondo Milagro",
+      "resumen": "Ante las críticas al manejo del Fondo Patria Milagro, creado para financiar la reconstrucción tras el terremoto del 10 de agosto, el Gobierno precisó en una alocución que los aportes de empresarios, fundaciones y donantes privados no ingresan al fondo ni al Presupuesto General de la Nación de 2027. También afirmó que el fondo se constituyó en un mes y medio, frente a los seis a ocho meses habituales. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/26/abelardo-de-la-espriella-respondio-las-criticas-al-manejo-del-fondo-milagro-y-las-donaciones-privadas-para-la-reconstruccion-tras-el-terremoto-absolutamente-claro/"
+    },
+    {
+      "id": "co-20261026-eltiempo-sismo-choco-4-2",
+      "fecha": "2026-10-26",
+      "titulo": "Sismo de magnitud 4,2 en el Litoral del San Juan (Chocó) la noche del 25 de octubre",
+      "resumen": "El Servicio Geológico Colombiano reportó un sismo de magnitud 4,2 y 49 kilómetros de profundidad a las 11:25 p. m. del domingo 25 de octubre, con epicentro en El Litoral del San Juan (Docordó), Chocó, a unos 45 kilómetros de Calima (Valle del Cauca). Usuarios de varias zonas reportaron haberlo percibido; no se informaron daños. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuerte-temblor-en-colombia-reportan-nuevo-sismo-en-choco-en-la-noche-de-este-domingo-25-de-octubre-profundidad-epicentro-y-detalles-3596257"
+    },
+    {
+      "id": "co-20261025-eltiempo-onu-casa-memorias",
+      "fecha": "2026-10-25",
+      "titulo": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada desde el terremoto",
+      "resumen": "La Oficina en Colombia de ONU Derechos Humanos pidió a la Alcaldía de Cali la reconstrucción y pronta reapertura de la Casa de las Memorias del Conflicto y la Reconciliación, que permanece cerrada desde el sismo del 10 de agosto. El organismo destacó el papel del espacio en la memoria de las víctimas del conflicto armado y en la no repetición. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/onu-derechos-humanos-pide-reconstruir-y-reabrir-la-casa-de-las-memorias-de-cali-cerrada-tras-el-terremoto-3596169"
+    },
     {
       "id": "co-20261025-eltiempo-microcredito-afectados",
       "fecha": "2026-10-25",
@@ -12,6 +45,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/economia/sector-financiero/microcredito-entre-el-golpe-del-terremoto-y-un-plan-para-ampliar-el-acceso-y-frenar-el-flagelo-del-gota-a-gota-3596098"
+    },
+    {
+      "id": "co-20261025-elpais-feria-vivienda-bonos",
+      "fecha": "2026-10-25",
+      "titulo": "Cali celebra una feria de vivienda para familias que perdieron su casa en el terremoto, con preinscripción a 200 bonos de 50 millones",
+      "resumen": "La Alcaldía de Cali realizó el domingo 25 de octubre una feria de vivienda dirigida a las familias damnificadas que perdieron definitivamente sus hogares en el sismo del 10 de agosto, con asesoría de constructoras, cajas de compensación y entidades bancarias. La jornada incluyó la preinscripción para 200 bonos de 50 millones de pesos cada uno, dispuestos por la Alcaldía para la compra de una vivienda nueva. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/familias-que-perdieron-sus-casas-en-el-terremoto-participaron-en-feria-de-vivienda-en-cali-aqui-los-detalles-2545.html"
     },
     {
       "id": "co-20261024-infobae-reconstruccion-54-billones",
