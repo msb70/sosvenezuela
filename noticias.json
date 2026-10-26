@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-25",
+  "actualizado": "2026-10-26",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261026-elnacional-el-junquito-espera-ayuda",
+      "fecha": "2026-10-26",
+      "titulo": "A cuatro meses de los terremotos, más de 40 familias de El Junquito siguen en carpas mientras avanzan las obras viales",
+      "resumen": "En la parroquia El Junquito (Caracas), donde el doble sismo del 24 de junio derrumbó tres edificaciones, más de 40 familias siguen viviendo en carpas y los vecinos dicen recibir poco apoyo estatal frente a la ayuda concentrada en La Guaira, según El Nacional. En la carretera vieja de acceso continúan las obras de muros de contención, sustitución de tuberías de agua y reparación de la vía cerca del kilómetro 13, y avanza la retirada de escombros.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/es-como-si-no-existieramos-el-junquito-sigue-esperando-ayuda-tras-los-terremotos/"
+    },
     {
       "id": "ve-20261025-elnacional-red-mujeres-embarazadas",
       "fecha": "2026-10-25",
