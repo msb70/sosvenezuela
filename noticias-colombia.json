@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-26",
+  "actualizado": "2026-10-27",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261027-elpais-indervalle-demolicion",
+      "fecha": "2026-10-27",
+      "titulo": "La sede de Indervalle en Cali será demolida por los daños estructurales del terremoto",
+      "resumen": "Tras varias semanas de evaluaciones técnicas posteriores al terremoto del 10 de agosto, los expertos concluyeron que la sede administrativa de Indervalle, en el barrio San Fernando de Cali, cerca del estadio Pascual Guerrero, ya no ofrece condiciones seguras y debe ser demolida. La entidad deportiva del departamento avanzará en el proceso de demolición mientras busca una nueva sede. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/sede-de-indervalle-en-cali-sera-demolida-tras-graves-danos-estructurales-causados-por-el-terremoto-que-sigue-2720.html"
+    },
     {
       "id": "co-20261026-infobae-fondo-milagro-aportes-privados",
       "fecha": "2026-10-26",
@@ -23,6 +34,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuerte-temblor-en-colombia-reportan-nuevo-sismo-en-choco-en-la-noche-de-este-domingo-25-de-octubre-profundidad-epicentro-y-detalles-3596257"
+    },
+    {
+      "id": "co-20261026-elpais-fonder-creditos-condonables",
+      "fecha": "2026-10-26",
+      "titulo": "Emprendedores afectados por el terremoto en el Valle tienen hasta el 30 de octubre para pedir créditos condonables de Fonder",
+      "resumen": "La Gobernación del Valle informó que los emprendedores damnificados por el terremoto del 10 de agosto en Sevilla, Zarzal, La Unión, Buenaventura, Roldanillo, Cartago y Cali pueden inscribirse hasta el viernes 30 de octubre en la convocatoria de créditos condonables de Fonder Valle. La iniciativa, articulada con el Ministerio de Comercio, busca reactivar unos 1.800 negocios afectados. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/emprendedores-del-valle-se-acaba-el-tiempo-para-acceder-a-creditos-condonables-fonder-por-el-terremoto-2620.html"
     },
     {
       "id": "co-20261025-eltiempo-onu-casa-memorias",
