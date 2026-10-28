@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-27",
+  "actualizado": "2026-10-28",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261027-infobae-acpm-bogota-fondo-milagro",
+      "fecha": "2026-10-27",
+      "titulo": "Bogotá cederá al Fondo Milagro parte de la sobretasa al ACPM para financiar la reconstrucción tras el terremoto",
+      "resumen": "El Decreto Legislativo 1382, expedido el 9 de septiembre bajo la emergencia económica, ordena girar al vehículo financiero de la emergencia la mitad del 50 % de la sobretasa al ACPM que corresponde a Bogotá y a los departamentos de categorías especial, primera y segunda. Para la capital supone una reducción equivalente al 25 % de lo recaudado por ese tributo entre octubre de 2026 y el 31 de diciembre de 2027, y en el Concejo se ha pedido precisar su impacto fiscal. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/27/donde-esta-el-alcalde-denuncian-traslado-de-recursos-del-acpm-de-bogota-al-fondo-milagro-pese-a-que-el-impacto-fiscal-sigue-sin-definirse/"
+    },
+    {
+      "id": "co-20261027-eltiempo-quindio-plan-reconstruccion",
+      "fecha": "2026-10-27",
+      "titulo": "Quindío proyecta 3,29 billones de pesos para su reconstrucción tras el terremoto, el 94 % a cargo de la Nación",
+      "resumen": "El plan de acción aprobado por el Consejo Departamental para la Gestión del Riesgo del Quindío prevé 3,29 billones de pesos para recuperar viviendas, hospitales, colegios e infraestructura pública en sus 12 municipios. La Nación aportaría 3,086 billones (cerca del 94 %), el departamento 130.000 millones, los municipios 68.077 millones y el sector privado 8.373 millones; el documento se remitió a la UNGRD el 30 de septiembre. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/quindio-proyecta-3-29-billones-para-la-reconstruccion-tras-el-terremoto-gobierno-aportaria-el-3596658"
+    },
+    {
+      "id": "co-20261027-eltiempo-eje-cafetero-turismo-recuperacion",
+      "fecha": "2026-10-27",
+      "titulo": "Armenia lidera la recuperación turística del Eje Cafetero tras el terremoto, mientras Pereira se queda atrás",
+      "resumen": "Un estudio del metabuscador Viajala sobre unas 23.463 búsquedas de tiquetes desde Bogotá para la semana de receso escolar de octubre muestra que el interés por el Eje Cafetero se recupera tras el terremoto del 10 de agosto, con búsquedas un 11 % por encima del mercado general. Armenia registró el mayor crecimiento y Manizales el menor aumento de tarifas, mientras que Pereira fue la única ciudad por debajo del mercado en demanda y la de mayor alza de precios. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/viajar/analisis-revela-que-armenia-lidera-la-recuperacion-turistica-del-eje-cafetero-tras-el-terremoto-3596743"
+    },
+    {
+      "id": "co-20261027-eltiempo-car-madera-incautada",
+      "fecha": "2026-10-27",
+      "titulo": "La CAR de Cundinamarca entrega madera incautada para la reconstrucción de las zonas afectadas por el terremoto",
+      "resumen": "Cerca de 70 metros cúbicos de madera decomisada al tráfico ilegal, unos 820 bloques de pino, eucalipto y cedro custodiados por la Corporación Autónoma Regional de Cundinamarca (CAR) en Mosquera, se destinarán a labores de atención, rehabilitación y reconstrucción tras el terremoto del 10 de agosto. La entrega se hace mediante convenios con entidades que participan en la atención de la emergencia. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/bogota/de-madera-incautada-a-traficantes-a-material-de-reconstruccion-tras-el-terremoto-en-colombia-asi-se-aprovechara-en-cundinamarca-3596637"
+    },
     {
       "id": "co-20261027-elpais-indervalle-demolicion",
       "fecha": "2026-10-27",
@@ -12,6 +56,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/valle/sede-de-indervalle-en-cali-sera-demolida-tras-graves-danos-estructurales-causados-por-el-terremoto-que-sigue-2720.html"
+    },
+    {
+      "id": "co-20261027-elpais-encuentro-infraestructura-cci",
+      "fecha": "2026-10-27",
+      "titulo": "La vía a Buenaventura y la reconstrucción del Valle centran el Encuentro de Infraestructura en Cali",
+      "resumen": "El Encuentro de Infraestructura organizado el 27 de octubre en Cali por la Cámara Colombiana de la Infraestructura (CCI), Seccional Occidente, reunió a representantes del Gobierno Nacional, autoridades regionales y empresarios. La agenda giró en torno a la conectividad con el puerto de Buenaventura, el avance de las obras viales y la financiación para recuperar la infraestructura dañada por el terremoto del 10 de agosto. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/buenaventura-y-la-reconstruccion-del-valle-los-ejes-del-encuentro-de-infraestructura-en-cali-2727.html"
+    },
+    {
+      "id": "co-20261027-elpais-aseguradoras-1-08-billones",
+      "fecha": "2026-10-27",
+      "titulo": "Las aseguradoras han pagado 1,08 billones de pesos por el terremoto y las reclamaciones estimadas llegan a 7,1 billones",
+      "resumen": "Con corte al 23 de octubre, las compañías aseguradoras habían pagado más de 1,08 billones de pesos en indemnizaciones por los daños del terremoto del 10 de agosto, tras recibir 102.370 avisos de siniestro en 519 municipios de 31 departamentos. El valor estimado de las reclamaciones asciende a 7,1 billones; el Valle del Cauca concentra las mayores reclamaciones y Pereira, Cali y Dosquebradas figuran entre las ciudades con más pagos. Lo publica El País (Cali) con datos del sector asegurador.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/aseguradoras-ya-pagaron-108-billones-en-indemnizaciones-por-el-terremoto-valle-del-cauca-concentra-las-mayores-reclamaciones-2757.html"
     },
     {
       "id": "co-20261026-infobae-fondo-milagro-aportes-privados",
