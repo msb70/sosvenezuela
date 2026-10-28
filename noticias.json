@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-27",
+  "actualizado": "2026-10-28",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261028-cronicauno-salud-mental-enfermeria-carabobo",
+      "fecha": "2026-10-28",
+      "titulo": "Más del 60 % del personal de enfermería de Carabobo reporta afectaciones emocionales tras atender la emergencia en La Guaira",
+      "resumen": "Más del 60 % del personal de enfermería reportó afectaciones emocionales tras los terremotos del 24 de junio, según el Informe Diagnóstico de Emergencia Post-Sismo del Colegio de Enfermeros del estado Carabobo, recogido por Crónica.Uno. Los sanitarios desplegados en Caraballeda y Catia La Mar describen jornadas de más de 72 horas continuas, escasez de insumos e inseguridad alimentaria, y episodios posteriores de duelo diferido, insomnio e hipervigilancia.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://cronica.uno/un-terremoto-emocional-persigue-al-personal-de-salud-carabobeno-que-viajo-a-la-guaira/"
+    },
+    {
+      "id": "ve-20261027-elnacional-documental-manos-la-guaira",
+      "fecha": "2026-10-27",
+      "titulo": "El documental «Manos. Salvando a un pueblo» recoge testimonios de víctimas, rescatistas y voluntarios del sismo en La Guaira",
+      "resumen": "El periodista Juan Carlos Aguirre Romero estrenó «Manos. Salvando a un pueblo», un documental de 58 minutos para CGTN en Español grabado durante casi un mes en Playa Grande, Tanaguarenas, Caraballeda y Caracas, según El Nacional. La pieza, sin narración en off, sigue a familiares que buscaron a sus allegados entre estructuras colapsadas, a rescatistas e ingenieros, y a vecinos que organizaron comedores comunitarios y acompañamiento psicosocial en los albergues.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/juan-carlos-aguirre-estrena-documental-manos-terremoto-la-guaira-cgtn/"
+    },
     {
       "id": "ve-20261026-elnacional-el-junquito-espera-ayuda",
       "fecha": "2026-10-26",
