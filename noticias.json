@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-28",
+  "actualizado": "2026-10-29",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261029-lapatilla-reapertura-playas-la-guaira",
+      "fecha": "2026-10-29",
+      "titulo": "Las playas de La Guaira reabren el 31 de octubre, solo los fines de semana, tras el cierre por los sismos",
+      "resumen": "Las playas del estado La Guaira reanudarán la atención al público el sábado 31 de octubre, de 8:00 a. m. a 5:00 p. m. y por ahora solo sábados y domingos, tras permanecer cerradas por los daños del doble sismo del 24 de junio, según informó la Cámara Turística Playera con aprobación de la Gobernación, recoge La Patilla. De lunes a viernes seguirán la formación de trabajadores y la recuperación de los espacios; aún no se ha precisado qué playas estarán habilitadas.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Infraestructura y servicios",
+      "url": "https://lapatilla.com/2026/10/29/tras-los-sismos-la-guaira-reabre-sus-playas-este-31oct/"
+    },
+    {
+      "id": "ve-20261029-elnacional-refugio-sonrisa-grande",
+      "fecha": "2026-10-29",
+      "titulo": "Cuatro meses después del sismo, 64 familias siguen en el campamento Sonrisa Grande de Playa Grande sin saber dónde vivirán",
+      "resumen": "En el campamento Sonrisa Grande, en Playa Grande (La Guaira), permanecen 64 familias bajo toldos, con sábanas como paredes y baños improvisados, cuatro meses después de los terremotos del 24 de junio, según un reportaje de El Nacional. La vocera comunitaria Norkis Arzola explica que parte de los vecinos conserva sus casas pero no tiene una evaluación definitiva sobre si es seguro regresar, y otros ven sus viviendas amenazadas por construcciones vecinas aún sin demoler.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/la-guaira-a-4-meses-el-miedo-en-el-refugio-sonrisa-grande/"
+    },
+    {
+      "id": "ve-20261028-elnacional-pdna-informe-final",
+      "fecha": "2026-10-28",
+      "titulo": "El informe final de la evaluación post-desastre (PDNA) cifra en 14.866 millones de dólares los daños y pérdidas por los terremotos",
+      "resumen": "El informe técnico final de la Evaluación de Necesidades de Recuperación Post-Desastre (PDNA), elaborada por el gobierno con el Banco Mundial, el BID, la CAF y el Sistema de Naciones Unidas, constata afectaciones en 591.000 viviendas, puertos y el sistema eléctrico en siete estados, y consolida 14.866 millones de dólares en daños (13.014 millones) y pérdidas (1.852 millones), según El Nacional. La vivienda concentra 17.000 millones de dólares, el 77 % de las necesidades de reconstrucción, para rehabilitar unas 91.000 viviendas destruidas o con daños severos, reparar cerca de 500.000 con daños moderados y retirar 1,5 millones de toneladas de escombros.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/10/informe-bid-caf-banco-mundial-danos-viviendas-puertos-red-electrica-sismo/"
+    },
     {
       "id": "ve-20261028-cronicauno-salud-mental-enfermeria-carabobo",
       "fecha": "2026-10-28",
