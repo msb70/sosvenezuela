@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-28",
+  "actualizado": "2026-10-29",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261028-infobae-cali-billboard-reactivacion",
+      "fecha": "2026-10-28",
+      "titulo": "Cali proyecta 126 conciertos y espectáculos en 2027 con Billboard para reactivar la economía tras el terremoto",
+      "resumen": "La Alcaldía de Cali presentó el 28 de octubre en Bogotá una alianza con Billboard, el Gobierno nacional y los principales promotores de conciertos para impulsar la recuperación de la ciudad tras el terremoto del 10 de agosto. El plan prevé 126 eventos culturales en 2027, entre ellos seis conciertos en el estadio, con más de 530.000 asistentes y una derrama económica superior a 800.000 millones de pesos. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/10/29/el-alcalde-alejandro-eder-anuncio-una-alianza-con-billboard-para-2027-proyectan-seis-conciertos-en-el-estadio-y-120-espectaculos-mas-en-la-ciudad/"
+    },
+    {
+      "id": "co-20261028-eltiempo-cementerio-pereira-cuerpos",
+      "fecha": "2026-10-28",
+      "titulo": "Más de 1.400 cuerpos siguen bajo los escombros del cementerio San Camilo de Pereira casi tres meses después del terremoto",
+      "resumen": "Las bóvedas del cementerio San Camilo de Pereira que colapsaron durante el terremoto del 10 de agosto mantienen bajo los escombros más de 1.400 cuerpos, algunos todavía expuestos. El desplome habría provocado que los restos se mezclaran, por lo que su identificación requerirá equipos especializados. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-situacion-en-pereira-el-cementerio-sigue-con-los-cuerpos-expuestos-y-bajo-escombros-casi-3-meses-despues-del-terremoto-que-sacudio-a-colombia-3596911"
+    },
+    {
+      "id": "co-20261028-elpais-sismo-san-jose-palmar-4-1",
+      "fecha": "2026-10-28",
+      "titulo": "Sismo de magnitud 4,1 en San José del Palmar (Chocó), zona del epicentro del terremoto del 10 de agosto",
+      "resumen": "El Servicio Geológico Colombiano registró un sismo de magnitud 4,1 a las 10:01 de la mañana del 28 de octubre en San José del Palmar (Chocó), con una profundidad de 104 kilómetros. El SGC pidió a quienes lo sintieron reportarlo en la plataforma Sismo Sentido. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/fuerte-sismo-vuelve-a-golpear-a-colombia-este-28-de-octubre-epicentro-y-magnitud-2842.html"
+    },
     {
       "id": "co-20261027-infobae-acpm-bogota-fondo-milagro",
       "fecha": "2026-10-27",
@@ -45,6 +78,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/bogota/de-madera-incautada-a-traficantes-a-material-de-reconstruccion-tras-el-terremoto-en-colombia-asi-se-aprovechara-en-cundinamarca-3596637"
+    },
+    {
+      "id": "co-20261027-eltiempo-adicion-fondo-milagro-2-7-billones",
+      "fecha": "2026-10-27",
+      "titulo": "El Gobierno pide al Congreso adicionar 2,7 billones de pesos al Fondo Milagro para la reconstrucción tras el terremoto",
+      "resumen": "El Gobierno solicitó al Congreso aprobar con urgencia movimientos presupuestales por 3,9 billones de pesos este año: un traslado de 1,2 billones para dar liquidez a las generadoras térmicas ante la crisis eléctrica y una adición de 2,7 billones al Fondo Milagro para la atención y reconstrucción de las zonas afectadas por el sismo. El Ministerio de Hacienda presentó la iniciativa ante el Congreso el 27 de octubre. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/crisis-energetica-y-terremoto-ponen-al-gobierno-a-buscar-3-9-billones-pide-al-congreso-permiso-para-hacer-traslados-3596712"
     },
     {
       "id": "co-20261027-elpais-indervalle-demolicion",
