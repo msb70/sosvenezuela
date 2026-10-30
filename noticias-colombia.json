@@ -1,7 +1,73 @@
 {
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-10-30",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261029-eltiempo-valle-ilv-deportivo-cali",
+      "fecha": "2026-10-29",
+      "titulo": "Gobernación del Valle, Deportivo Cali e Industria de Licores del Valle firman una alianza para la reconstrucción",
+      "resumen": "La Gobernación del Valle del Cauca, el Deportivo Cali y la Industria de Licores del Valle (ILV) anunciaron una alianza para contribuir a la reconstrucción del departamento tras el terremoto del 10 de agosto, que incluye el patrocinio de la licorera en la camiseta del club. Según la Gobernación, cada botella vendida aporta recursos para educación y otras necesidades del departamento. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/gobernacion-del-valle-deportivo-cali-e-industria-de-licores-sellan-alianza-para-la-reconstruccion-del-departamento-tras-el-terremoto-3597324"
+    },
+    {
+      "id": "co-20261029-eltiempo-donaton-templo-roldanillo",
+      "fecha": "2026-10-29",
+      "titulo": "Una donatón busca reunir más de 2.000 millones de pesos para reconstruir el templo y el cementerio de Roldanillo",
+      "resumen": "El Colectivo Songorocosongo, La Linterna, Salsa Sin Miseria y varias orquestas juveniles se unen en una donatón para recaudar más de 2.000 millones de pesos con los que reconstruir el templo de San Sebastián y el cementerio de Roldanillo (Valle), dañados por el terremoto del 10 de agosto. El templo es un pilar de la identidad religiosa y cultural del municipio y su conservación está amenazada. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/gran-donaton-para-reconstruir-el-templo-y-el-cementerio-de-roldanillo-valle-tras-el-terremoto-se-necesitan-mas-de-2-000-millones-de-pesos-3597313"
+    },
+    {
+      "id": "co-20261029-eltiempo-armenia-donante-vivienda",
+      "fecha": "2026-10-29",
+      "titulo": "Un donante anónimo aporta 75 millones de pesos para dar casa nueva a una familia de Armenia que lo perdió todo en el terremoto",
+      "resumen": "En el barrio Génesis, al sur de Armenia, una familia de cinco miembros que perdió su vivienda en el terremoto del 10 de agosto recibió las llaves de una casa nueva. La entrega fue posible gracias a una donación anónima de 75 millones de pesos y al trabajo de la Fundación Pequeño Corazón, la fundación Misión Comparte y el Club Rotary. Lo publica El Tiempo, citando a Caracol Radio.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-donante-anonimo-entrego-75-millones-a-una-fundacion-y-cumplio-el-sueno-de-una-familia-que-perdio-su-casa-en-el-terremoto-en-armenia-3597178"
+    },
+    {
+      "id": "co-20261029-elpais-roldanillo-mejoramientos-vivienda",
+      "fecha": "2026-10-29",
+      "titulo": "Roldanillo avanza en 645 mejoramientos de vivienda y 79 casas nuevas para familias afectadas por el terremoto",
+      "resumen": "La Gobernación del Valle del Cauca verificó los avances del plan de recuperación habitacional en Roldanillo, que contempla 645 mejoramientos de vivienda y la construcción de 79 casas nuevas para familias damnificadas por el terremoto del 10 de agosto. Algunas beneficiarias, como una mujer de 80 años, ya han vuelto a habitar su casa reparada. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/reconstruccion-en-roldanillo-avanzan-los-mejoramientos-de-vivienda-y-la-construccion-de-casas-nuevas-tras-el-terremoto-2909.html"
+    },
+    {
+      "id": "co-20261029-elpais-incs-regreso-clases",
+      "fecha": "2026-10-29",
+      "titulo": "El Instituto para Niños Ciegos y Sordos de Cali retoma las clases presenciales el 3 de noviembre en una sede prestada",
+      "resumen": "El Instituto para Niños Ciegos y Sordos (INCS), cuyo Centro de Rehabilitación y Educación en el sur de Cali quedó gravemente afectado por el terremoto del 10 de agosto, anunció el regreso a las aulas a partir del martes 3 de noviembre. Las clases se darán en el Instituto de Terapia Especial de los Sentidos del Club de Leones (Calle 3 # 26-51, San Fernando). Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/instituto-para-ninos-ciegos-y-sordos-anuncia-regreso-de-clases-presenciales-tras-la-afectacion-de-su-sede-por-el-terremoto-2945.html"
+    },
+    {
+      "id": "co-20261029-elpais-cali-cronograma-pagos-damnificados",
+      "fecha": "2026-10-29",
+      "titulo": "La Alcaldía de Cali asegura que hay recursos para seguir pagando las ayudas a damnificados del terremoto",
+      "resumen": "La Alcaldía de Cali informó que los recursos para continuar con los pagos de las ayudas económicas a los damnificados del terremoto del 10 de agosto ya están disponibles y que trabaja con el Gobierno nacional para agilizar los desembolsos a los beneficiarios registrados. El primer grupo de damnificados ya recibió un primer pago y las familias pendientes conocerán en los próximos días el cronograma de nuevos desembolsos. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-anuncia-fechas-para-nuevos-pagos-a-damnificados-por-el-terremoto-2941.html"
+    },
     {
       "id": "co-20261028-infobae-cali-billboard-reactivacion",
       "fecha": "2026-10-28",
