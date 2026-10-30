@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-10-30",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261030-elnacional-arepas-margaret-playa-verde",
+      "fecha": "2026-10-30",
+      "titulo": "Cuatro meses después del sismo, Las arepas de Margaret reabren en Playa Verde entre comercios cerrados de La Guaira",
+      "resumen": "La sede principal de Las arepas de Margaret, en Playa Verde (La Guaira), reabrió el 1 de septiembre y, según una de sus trabajadoras, recibe incluso más clientes que antes del doble sismo del 24 de junio, recoge un reportaje de El Nacional. La segunda sede del negocio, en la avenida El Ejército, se desplomó por completo durante el terremoto y murieron cuatro de sus trabajadores. El entorno sigue con edificios dañados, terrenos vacíos y comercios cerrados, lejos de la recuperación.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/las-arepas-de-margaret-resisten-entre-los-restos-de-la-guaira/"
+    },
     {
       "id": "ve-20261029-lapatilla-reapertura-playas-la-guaira",
       "fecha": "2026-10-29",
@@ -12,6 +23,17 @@
       "tipo": "noticia",
       "categoria": "Infraestructura y servicios",
       "url": "https://lapatilla.com/2026/10/29/tras-los-sismos-la-guaira-reabre-sus-playas-este-31oct/"
+    },
+    {
+      "id": "ve-20261029-elnacional-topo-mayor-regresa-la-guaira",
+      "fecha": "2026-10-29",
+      "titulo": "El rescatista mexicano «El Topo Mayor» regresa a La Guaira con insumos para los voluntarios que siguen recuperando cuerpos",
+      "resumen": "Héctor Méndez, «El Topo Mayor», fundador de la Brigada Internacional de Rescate Topos Azteca, volvió a Venezuela el 26 de octubre y acudió a la zona cero de La Guaira con botas, franelas y guantes para los voluntarios que, 125 días después de los terremotos, aún recuperan cuerpos bajo los escombros, informa El Nacional. Méndez ya había trabajado 40 días en La Guaira tras llegar el 27 de junio, antes de trasladarse a Cali por el sismo del 10 de agosto en Colombia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/el-topo-mayor-regreso-a-la-guaira-con-implementos-para-los-rescatistas-estoy-agradecido-con-dios-por-permitirme-regresar/"
     },
     {
       "id": "ve-20261029-elnacional-refugio-sonrisa-grande",
