@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-30",
+  "actualizado": "2026-10-31",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261031-elnacional-la-guaira-cuatro-meses-urbanismos",
+      "fecha": "2026-10-31",
+      "titulo": "A cuatro meses del sismo, los urbanismos dañados de Playa Grande siguen sin habitar y el litoral de La Guaira apenas recibe visitantes",
+      "resumen": "Un reportaje de El Nacional recorre La Guaira el 24 de octubre, cuatro meses después del doble sismo: en Ciudad Hugo Chávez (Playa Grande) ya se retiraron las casas colapsadas, pero quedan estructuras vacías y techos desprendidos, y en el urbanismo contiguo Luisa Cáceres de Arismendi aún vive gente entre edificios dañados. Según el medio, la remoción de escombros y la reparación de viviendas avanzan lentamente y las playas permanecen casi vacías. Expertos citados atribuyen la magnitud de los daños a suelos inestables, la sismicidad de la zona y fallas constructivas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/playas-de-la-guaira-reabren-en-una-ciudad-que-no-se-recupera/"
+    },
+    {
+      "id": "ve-20261030-lapatilla-funvisis-52-sismos",
+      "fecha": "2026-10-30",
+      "titulo": "Funvisis contabiliza 52 sismos entre el 23 y el 29 de octubre, menos de la mitad que la semana anterior",
+      "resumen": "Funvisis registró 52 movimientos telúricos entre el 23 y el 29 de octubre, frente a los 109 de la semana previa, con magnitudes de entre 1,5 y 3,9 Mw y ninguno de magnitud 4,0 o superior, según su informe del 30 de octubre recogido por La Patilla. El occidente del país concentró 34 de los eventos, alrededor del 65 % de la actividad, a diferencia de la semana anterior, cuando predominó el centro.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://lapatilla.com/2026/10/30/venezuela-sigue-registrando-temblores-la-diferencia-entre-las-ultimas-dos-semanas/"
+    },
+    {
+      "id": "ve-20261030-lapatilla-csn-chile-ruptura-multiple",
+      "fecha": "2026-10-30",
+      "titulo": "Un estudio del Centro Sismológico Nacional de Chile atribuye los terremotos del 24 de junio a una ruptura encadenada de dos sistemas de fallas",
+      "resumen": "Investigadores del Centro Sismológico Nacional (CSN) de la Universidad de Chile concluyeron que los sismos del 24 de junio en Venezuela no se limitaron a una sola falla, sino que la ruptura se propagó por dos sistemas conectados, recoge La Patilla. Según el estudio, esa «ruptura múltiple», con segmentos que se fracturaron de manera encadenada, explicaría la intensidad de los movimientos y su duración de unos 70 segundos.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://lapatilla.com/2026/10/30/descubrieron-que-ocurrio-bajo-tierra-durante-los-devastadores-terremotos-del-24-de-junio-en-venezuela/"
+    },
     {
       "id": "ve-20261030-elnacional-arepas-margaret-playa-verde",
       "fecha": "2026-10-30",
@@ -12,6 +45,17 @@
       "tipo": "noticia",
       "categoria": "Reconstrucción",
       "url": "https://www.elnacional.com/2026/10/las-arepas-de-margaret-resisten-entre-los-restos-de-la-guaira/"
+    },
+    {
+      "id": "ve-20261030-elnacional-564-viviendas-damnificados",
+      "fecha": "2026-10-30",
+      "titulo": "El Gobierno entrega 564 viviendas a damnificados del doble terremoto y habilita 80 módulos transitorios en Fuerte Tiuna",
+      "resumen": "El Ejecutivo entregó el 30 de octubre 564 viviendas a familias damnificadas por los sismos del 24 de junio, 92 de ellas en Fuerte Tiuna (Caracas) y el resto en Miranda, Falcón, Táchira y otros estados, informa El Nacional. Según el Gobierno, 3.500 familias han sido atendidas entre rehabilitación de inmuebles y adjudicación de nuevas viviendas. También anunció 80 módulos unifamiliares transitorios en Fuerte Tiuna para quienes siguen en refugios, con lo que suman 580 entre Caracas y Ciudad Caribia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-entrego-564-nuevas-viviendas-a-afectados-por-el-doble-terremoto/"
     },
     {
       "id": "ve-20261029-lapatilla-reapertura-playas-la-guaira",
