@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-30",
+  "actualizado": "2026-10-31",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261030-eltiempo-edificio-bretana-riesgo-colapso",
+      "fecha": "2026-10-30",
+      "titulo": "Vecinos del barrio Bretaña, en Cali, alertan del riesgo de colapso de un edificio inclinado y agrietado por el terremoto",
+      "resumen": "Residentes del barrio Bretaña y su Junta de Acción Comunal, en el centro de Cali, advierten del inminente riesgo de colapso de una estructura de cuatro pisos fuertemente dañada por el terremoto del 10 de agosto, que se encuentra inclinada y agrietada. Los vecinos denuncian el peligro que supone para quienes viven y transitan en la zona. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/el-calvario-de-los-vecinos-y-moradores-del-barrio-bretana-de-cali-por-un-edificio-inclinado-y-agrietado-que-amenaza-con-venirse-abajo-tras-terremoto-3597449"
+    },
+    {
+      "id": "co-20261030-eltiempo-cafe-don-argelino-expo-agrofuturo",
+      "fecha": "2026-10-30",
+      "titulo": "Una familia caficultora de Argelia (Valle) que perdió casa y local en el terremoto vende toda su producción en Expo Agrofuturo",
+      "resumen": "Jesús Antonio Hoyos y su hijo Juan, de 13 años, caficultores de Argelia (Valle del Cauca), perdieron su casa y su local en el terremoto del 10 de agosto y hoy trabajan desde una casa prestada. Su marca, Café Don Argelino, vendió las 60 libras que llevaron a la feria Expo Agrofuturo en Bogotá. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/un-hijo-de-13-anos-un-padre-sin-casa-y-un-grano-que-conquisto-a-bogota-la-travesia-de-la-familia-detras-de-cafe-don-argelino-3597569"
+    },
+    {
+      "id": "co-20261030-elpais-gobernacion-diagnostico-271-inmuebles",
+      "fecha": "2026-10-30",
+      "titulo": "La Gobernación del Valle concluye el diagnóstico de sus 271 inmuebles tras el sismo: 15 tienen afectaciones fuertes",
+      "resumen": "La Gobernación del Valle entregó el 30 de octubre el informe del diagnóstico estructural de los 271 inmuebles a su cargo tras el terremoto de magnitud 7,4 del 10 de agosto: 152 no presentan afectaciones, 104 tienen afectaciones leves o moderadas y 15 afectaciones fuertes. Los estudios sirven de sustento para reclamar las pólizas de las aseguradoras y obtener recursos para la reconstrucción. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-termino-diagnostico-de-sus-271-inmuebles-tras-el-sismo-resultado-de-las-afectaciones-3046.html"
+    },
+    {
+      "id": "co-20261030-elpais-cali-24-billones-reconstruccion",
+      "fecha": "2026-10-30",
+      "titulo": "La Alcaldía de Cali calcula en 24 billones de pesos lo que necesita la ciudad para su reconstrucción y proyectos estratégicos",
+      "resumen": "Durante el Encuentro Regional del Pacífico, el alcalde de Cali expuso ante el Gobierno Nacional que la ciudad necesitaría cerca de 24 billones de pesos para atender los daños del terremoto del 10 de agosto y financiar proyectos estratégicos. Advirtió que la reconstrucción tardará, «yéndonos bien, 4 años» y que requiere financiación nacional. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cali-necesita-24-billones-para-su-reconstruccion-y-proyectos-estrategicos-la-propuesta-de-alejandro-eder-al-gobierno-nacional-3049.html"
+    },
     {
       "id": "co-20261029-eltiempo-valle-ilv-deportivo-cali",
       "fecha": "2026-10-29",
