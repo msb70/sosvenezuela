@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-31",
+  "actualizado": "2026-11-01",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261101-elpais-balance-reconstruccion-valle-cali",
+      "fecha": "2026-11-01",
+      "titulo": "Casi tres meses después del terremoto, el Valle ya entrega viviendas intervenidas mientras Cali sigue en fase de evaluación",
+      "resumen": "La reconstrucción tras el sismo del 10 de agosto avanza a ritmos distintos: la Gobernación del Valle, a través de Corpovalle y su portal 'El Valle lo reconstruimos juntos', presenta las primeras viviendas intervenidas, mientras en Cali persisten las dificultades para pasar de los estudios técnicos a soluciones concretas para miles de familias. En la ciudad continúan demoliciones como las de los edificios Guadalupe y Molino Rojo. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/asi-va-la-reconstruccion-tras-el-terremoto-el-valle-ya-entrega-casas-y-cali-sigue-en-evaluacion-0101.html"
+    },
+    {
+      "id": "co-20261031-eltiempo-sistema-alerta-tsunami",
+      "fecha": "2026-10-31",
+      "titulo": "Así funciona el sistema que permite descartar en segundos un tsunami tras un terremoto en Colombia",
+      "resumen": "El Sistema Nacional de Detección y Alerta de Tsunami (SNDAT), que ha descartado esa amenaza en los recientes terremotos, combina información sísmica, análisis mareográfico y evaluación técnica. La responsabilidad se reparte entre el Servicio Geológico Colombiano, la Dirección General Marítima (Dimar) y la UNGRD. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/como-sabe-colombia-que-no-habra-un-tsunami-apenas-unos-segundos-despues-de-un-terremoto-asi-funciona-el-sistema-que-permite-descartarlo-3597718"
+    },
+    {
+      "id": "co-20261031-elpais-partido-colombia-chile-recaudacion",
+      "fecha": "2026-10-31",
+      "titulo": "Agotadas en dos días las entradas del amistoso Colombia-Chile en Cali, cuya taquilla irá a los damnificados del terremoto",
+      "resumen": "La Selección Colombia jugará el viernes 13 de noviembre un partido amistoso ante Chile en el estadio Pascual Guerrero de Cali para recaudar fondos para los damnificados del terremoto del 10 de agosto. Las boletas se agotaron en solo dos días tras el anuncio de la Federación Colombiana de Fútbol, que donará la taquilla. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/deportes/agotadas-las-boletas-para-colombia-vs-chile-en-cali-esta-es-la-cifra-record-de-recaudacion-para-los-damnificados-del-terremoto-3104.html"
+    },
     {
       "id": "co-20261030-eltiempo-edificio-bretana-riesgo-colapso",
       "fecha": "2026-10-30",
