@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31",
+  "actualizado": "2026-11-01",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
@@ -12,6 +12,28 @@
       "tipo": "noticia",
       "categoria": "Reconstrucción",
       "url": "https://www.elnacional.com/2026/10/playas-de-la-guaira-reabren-en-una-ciudad-que-no-se-recupera/"
+    },
+    {
+      "id": "ve-20261031-elnacional-china-87-equipos-escombros",
+      "fecha": "2026-10-31",
+      "titulo": "Llega a Venezuela un buque desde China con 87 equipos pesados para retirar escombros en La Guaira y 1.800 viviendas armables",
+      "resumen": "Un barco con 87 unidades de maquinaria pesada enviadas por China llegó el 31 de octubre para la remoción de escombros en La Guaira, según informó el Gobierno, recoge El Nacional. El cargamento incluye además 1.800 unidades habitacionales armables para descongestionar los refugios, 5.400 camas dobles de campaña y 1.800 equipos de ventilación. El Gobierno afirma que se ha retirado el 63 % de los escombros del doble sismo del 24 de junio y prevé que La Guaira quede despejada antes de fin de año.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/gobierno-recibio-desde-china-87-equipos-pesados-para-remover-escombros-en-la-guaira/"
+    },
+    {
+      "id": "ve-20261031-elnacional-caminos-recuperacion-colombia-venezuela",
+      "fecha": "2026-10-31",
+      "titulo": "Expertos comparan la reconstrucción tras los terremotos de Venezuela y Colombia: en Venezuela la financiación y los recursos siguen siendo mínimos",
+      "resumen": "Un análisis publicado por El Nacional compara la recuperación de Venezuela, cuatro meses después de los sismos del 24 de junio (al menos 6.509 fallecidos), con la de Colombia tras el terremoto del 10 de agosto (al menos 331). El experto en riesgos Omar-Darío Cardona sostiene que en Venezuela avanzan la demolición de edificios dañados y la retirada de escombros, pero con financiación mínima, y que la asistencia estadounidense se limita a quienes están en refugios temporales. Los expertos citados advierten que los daños en zonas comerciales, servicios e infraestructura condicionan la recuperación a largo plazo.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/los-diferentes-caminos-de-colombia-y-venezuela-hacia-la-recuperacion/"
     },
     {
       "id": "ve-20261030-lapatilla-funvisis-52-sismos",
