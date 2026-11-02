@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-01",
+  "actualizado": "2026-11-02",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261102-infobae-dosquebradas-cinco-viviendas",
+      "fecha": "2026-11-02",
+      "titulo": "La campaña «Colombia, un Solo Corazón» construirá tres viviendas y reparará otras dos para damnificados del terremoto en Dosquebradas",
+      "resumen": "Cinco familias del barrio El Japón, en Dosquebradas (Risaralda), recibirán soluciones habitacionales: se levantarán tres casas desde cero y se adecuarán dos dañadas por el sismo del 10 de agosto, con la campaña «Colombia, un Solo Corazón», la fundación de la primera dama y el apoyo de dos empresas constructoras. El compromiso es entregar una de las viviendas antes de fin de año. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/02/risaralda-tendra-cinco-viviendas-intervenidas-tras-el-terremoto-la-primera-dama-anuncio-nuevas-casas-y-reparaciones-para-los-damnificados/"
+    },
+    {
+      "id": "co-20261102-eltiempo-taiwan-viviendas-quibdo",
+      "fecha": "2026-11-02",
+      "titulo": "Taiwán rehabilitará 13 viviendas en Quibdó y dona 128 portátiles a universitarios damnificados por el terremoto en el Chocó",
+      "resumen": "A través de la Oficina Comercial de Taipéi en Colombia, Taiwán impulsa tres iniciativas de asistencia: la rehabilitación de 13 viviendas de familias vulnerables en Quibdó, un convenio con la Gobernación del Chocó para la reconstrucción y la donación de 128 computadores portátiles para que los estudiantes universitarios afectados continúen sus estudios. El sismo dejó más de 45.700 afectados en los 30 municipios del Chocó, donde la Universidad Tecnológica sufrió daños severos. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/mundo/latinoamerica/taiwan-apoya-a-victimas-del-terremoto-en-colombia-ayuda-en-construccion-de-viviendas-y-donacion-de-equipos-3597922"
+    },
+    {
+      "id": "co-20261101-infobae-caldas-10-proyectos-107000-millones",
+      "fecha": "2026-11-01",
+      "titulo": "Caldas estructura 10 proyectos de reconstrucción por 107.873 millones de pesos, lejos de los más de 4 billones que costaría recuperarse del terremoto",
+      "resumen": "El portafolio inicial prioriza los hospitales de Pácora, Supía y Viterbo, centros de desarrollo infantil en Palestina, Victoria y San José y estaciones de bomberos como las de Aguadas y Belalcázar. Las necesidades identificadas en 26 municipios, sin contar Manizales, ascienden a 2,217 billones de pesos y el total podría superar los 4 billones, frente a una programación inicial de 222.500 millones. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/01/caldas-avanza-en-su-reconstruccion-tras-el-terremoto-ejecuta-10-proyectos-de-infraestructura-por-mas-de-107000-millones/"
+    },
     {
       "id": "co-20261101-elpais-balance-reconstruccion-valle-cali",
       "fecha": "2026-11-01",
