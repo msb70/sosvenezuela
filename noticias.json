@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-01",
+  "actualizado": "2026-11-02",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261101-elnacional-caraballeda-etiquetas-creditos",
+      "fecha": "2026-11-01",
+      "titulo": "Unas 400 familias de Caraballeda piden reclasificar sus edificios dañados por el sismo para poder acceder a créditos de vivienda",
+      "resumen": "Cerca de 400 familias de las OPPE 30 y 34, en Caraballeda (La Guaira), solicitaron a la Comisión de Habitabilidad y Vivienda que actualice la clasificación de sus edificios, inhabitables tras el doble sismo del 24 de junio. Según un reporte de Unión Radio recogido por El Nacional, los inmuebles tienen etiqueta roja de acceso no permitido pero no figuran como colapsados en el sistema, condición que exige la banca pública para aprobar los créditos. Los residentes afirman llevar tres meses en esa situación y esperan una nueva inspección.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/familias-de-caraballeda-exigen-actualizar-las-etiquetas-de-edificios-afectados-por-los-terremotos-y-asi-acceder-a-creditos/"
+    },
     {
       "id": "ve-20261031-elnacional-la-guaira-cuatro-meses-urbanismos",
       "fecha": "2026-10-31",
