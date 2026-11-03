@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-03",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261103-elnacional-violencia-sexual-campamentos",
+      "fecha": "2026-11-03",
+      "titulo": "ONG advierten riesgos de violencia sexual y dependencia económica para mujeres y niñas desplazadas por los terremotos",
+      "resumen": "Las organizaciones Avesa y Tinta Violeta, que acompañan a personas afectadas en La Guaira y Caracas, alertan de que el hacinamiento, la falta de privacidad y la ruptura de redes de apoyo en campamentos y refugios aumentan el riesgo de violencia sexual para mujeres, niñas y adolescentes desplazadas por el doble sismo del 24 de junio. Señalan que no hay datos oficiales suficientes para medir su magnitud y piden que la respuesta humanitaria incluya prevención, atención psicológica, orientación legal y protección de la infancia, según recoge El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/ong-alertan-sobre-riesgos-de-violencia-sexual-en-campamentos/"
+    },
     {
       "id": "ve-20261101-elnacional-caraballeda-etiquetas-creditos",
       "fecha": "2026-11-01",
