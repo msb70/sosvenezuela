@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-03",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261103-infobae-sismo-5-6-chaparral-ungrd",
+      "fecha": "2026-11-03",
+      "titulo": "Un sismo de magnitud 5,6 en Chaparral (Tolima) deja un herido y daños en una iglesia de Quimbaya, según el primer balance de la UNGRD",
+      "resumen": "El temblor, a las 4:13 a. m. del 3 de noviembre y a menos de 30 km de profundidad, se sintió en buena parte de la zona andina, incluidas ciudades golpeadas por el terremoto del 10 de agosto. La UNGRD activó la Sala de Crisis Nacional y reportó una persona herida por la caída de un muro en Chaparral y el desprendimiento de parte de una iglesia en Quimbaya (Quindío), sin lesionados; el Servicio Geológico lo atribuye a las fallas activas del Tolima, donde sigue el enjambre que comenzó el 20 de septiembre. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/03/temblor-de-56-en-la-madrugada-del-martes-3-de-noviembre-deja-hasta-el-momento-una-persona-herida-y-una-iglesia-afectada-segun-primer-reporte-de-la-ungrd/"
+    },
+    {
+      "id": "co-20261103-eltiempo-chiminangos-sismo-esperando-ayuda",
+      "fecha": "2026-11-03",
+      "titulo": "El sismo de magnitud 5,6 revive el miedo en Chiminangos (Cali), donde damnificados del terremoto siguen en carpas a la espera de soluciones",
+      "resumen": "El temblor de la madrugada del 3 de noviembre volvió a asustar a los vecinos de Chiminangos, en el nororiente de Cali, que casi tres meses después del terremoto del 10 de agosto siguen en carpas y cambuches. Los residentes denuncian que la ayuda ha disminuido, que no hay soluciones definitivas y que persiste el temor por los edificios aún sin demoler. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/sismo-de-magnitud-5-6-en-cali-revivio-las-heridas-del-terremoto-del-10-de-agosto-seguimos-esperando-ayuda-3598075"
+    },
     {
       "id": "co-20261102-infobae-dosquebradas-cinco-viviendas",
       "fecha": "2026-11-02",
@@ -23,6 +45,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/mundo/latinoamerica/taiwan-apoya-a-victimas-del-terremoto-en-colombia-ayuda-en-construccion-de-viviendas-y-donacion-de-equipos-3597922"
+    },
+    {
+      "id": "co-20261102-elpais-fondo-milagro-demoliciones-cali-85",
+      "fecha": "2026-11-02",
+      "titulo": "El Fondo Milagro financiará demoliciones en Cali, donde ya son 85 los edificios que deben derribarse por el terremoto",
+      "resumen": "Según el secretario distrital de Gestión del Riesgo, Ricardo Peñuela, los edificios de Cali que deben demolerse tras el sismo del 10 de agosto pasaron de 82 a 85, y la cifra podría crecer con nuevas evaluaciones; 11 ya fueron derribados con maquinaria y otros dos están en intervención. El gerente del Fondo Milagro aseguró que se invertirán 624.000 millones de pesos en demoliciones y otras necesidades, y algunas estructuras se derribarán por implosión. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/fondo-milagro-del-gobierno-financiara-algunas-demoliciones-en-cali-estos-son-los-edificios-escogidos-0250.html"
     },
     {
       "id": "co-20261101-infobae-caldas-10-proyectos-107000-millones",
