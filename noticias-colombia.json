@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-04",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261104-eltiempo-encanto-cines-cruz-roja",
+      "fecha": "2026-11-04",
+      "titulo": "«Encanto» vuelve a los cines de Colombia el 12 de noviembre para recaudar fondos para los afectados por el terremoto",
+      "resumen": "La película de animación de Disney regresará a las salas colombianas el 12 de noviembre en una iniciativa de The Walt Disney Company Latinoamérica y Cinecolor Colombia, que destinará las regalías a la Cruz Roja Colombiana para apoyar a los damnificados del terremoto de agosto. Lo publica El Tiempo, con información de EFE.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/cultura/cine-y-tv/encanto-vuelve-a-salas-de-cine-colombianas-para-ayudar-afectados-del-terremoto-de-agosto-3598357"
+    },
+    {
+      "id": "co-20261104-elpais-cali-evacuaciones-sismo-chaparral",
+      "fecha": "2026-11-04",
+      "titulo": "El sismo de magnitud 5,6 de Chaparral obligó a muchos caleños a salir de sus casas de madrugada, sin daños materiales reportados en Cali",
+      "resumen": "El temblor de las 4:13 a. m. del 3 de noviembre, con epicentro en Chaparral (Tolima), se sintió en Cali y el Valle del Cauca y fue seguido de unas tres réplicas; muchos vecinos evacuaron sus viviendas en plena madrugada. Según los primeros reportes no causó daños materiales en la ciudad, pero revivió el miedo del terremoto de magnitud 7,4 del 10 de agosto. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/los-videos-de-como-vivieron-los-calenos-el-temblor-de-56-que-sacudio-la-ciudad-en-la-madrugada-de-este-martes-3-de-noviembre-0317.html"
+    },
     {
       "id": "co-20261103-infobae-sismo-5-6-chaparral-ungrd",
       "fecha": "2026-11-03",
@@ -23,6 +45,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/cali/sismo-de-magnitud-5-6-en-cali-revivio-las-heridas-del-terremoto-del-10-de-agosto-seguimos-esperando-ayuda-3598075"
+    },
+    {
+      "id": "co-20261103-elpais-cali-auxilio-1050000-85-puntos",
+      "fecha": "2026-11-03",
+      "titulo": "Los damnificados del terremoto en Cali pueden cobrar desde el 4 de noviembre el auxilio de 1.050.000 pesos en 85 puntos de pago",
+      "resumen": "Desde el miércoles 4 de noviembre, los beneficiarios del apoyo económico de 1.050.000 pesos por el terremoto del 10 de agosto pueden reclamarlo en 85 puntos de Gane-SuperGIROS repartidos por Cali y en un punto de atención masivo en el centro comercial Cosmocentro, según la Secretaría de Gestión del Riesgo. Este auxilio es distinto del subsidio nacional del Fondo Milagro (875.452 pesos mensuales). Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/damnificados-por-el-terremoto-en-cali-podran-cobrar-el-auxilio-de-1050000-en-85-puntos-conozca-las-fechas-y-horarios-0323.html"
     },
     {
       "id": "co-20261102-infobae-dosquebradas-cinco-viviendas",
