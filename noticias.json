@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-04",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261104-lapatilla-miyamoto-ingenieria-sismica",
+      "fecha": "2026-11-04",
+      "titulo": "Una subvención de 150.000 dólares financiará la formación de estudiantes de la UCV en ingeniería sísmica y prevención de desastres",
+      "resumen": "El Departamento de Estado de EEUU otorgó 150.000 dólares a la ONG Miyamoto Global Disaster Relief para apoyar la colaboración entre la Universidad Central de Venezuela y la Universidad de Arizona, según informó la embajada estadounidense en Venezuela. El proyecto capacitará a estudiantes venezolanos en ingeniería sísmica, infraestructura resiliente y prevención de desastres tras los terremotos del 24 de junio, recoge La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Educación",
+      "url": "https://lapatilla.com/2026/11/04/la-organizacion-de-kit-miyamoto-instruira-a-estudiantes-venezolanos-en-ingenieria-sismica/"
+    },
     {
       "id": "ve-20261103-elnacional-violencia-sexual-campamentos",
       "fecha": "2026-11-03",
