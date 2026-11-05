@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-05",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261105-eltiempo-fondo-milagro-manual-controles",
+      "fecha": "2026-11-05",
+      "titulo": "Alertan de que el manual operativo del Fondo Milagro suspende durante 20 días hábiles la verificación de publicación de contratos en Secop II",
+      "resumen": "Una representante a la Cámara dio a conocer el manual operativo del patrimonio autónomo del Fondo Milagro, que fija las reglas de administración y contratación de los recursos para la reconstrucción tras el terremoto del 10 de agosto, y advirtió de disposiciones que podrían debilitar los controles. Entre ellas, el artículo 74 suspende durante 20 días hábiles, a partir del 28 de octubre, la obligación de verificar que los procesos estén publicados en el Secop II antes de ejecutarlos, lo que permitiría iniciar contratos sin conocimiento previo de la ciudadanía. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/congreso/las-alertas-de-catherine-juvinao-sobre-las-reglas-del-fondo-milagro-sus-manuales-debilitan-los-controles-dice-la-representante-3598640"
+    },
+    {
+      "id": "co-20261104-eltiempo-rexi-impuesto-renta-reconstruccion",
+      "fecha": "2026-11-04",
+      "titulo": "Las empresas podrán destinar hasta el 50 % de su impuesto de renta a obras de reconstrucción tras el terremoto mediante el mecanismo REXI",
+      "resumen": "La modalidad Reconstrucción por Impuestos (REXI), que adapta el esquema de Obras por Impuestos, permitirá a las empresas con ingresos brutos iguales o superiores a 33.610 UVT (unos 1.800 millones de pesos al año) ejecutar con hasta la mitad de su impuesto de renta proyectos de vivienda, salud, educación y gestión del riesgo en los municipios incluidos en la declaratoria de emergencia por el sismo del 10 de agosto. La iniciativa fue presentada por Proantioquia y la RedPRO ante más de 120 empresas y representantes del Gobierno nacional, entre ellos el Ministerio de Vivienda. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/empresas-podran-destinar-hasta-el-50-de-su-impuesto-de-renta-a-obras-de-reconstruccion-tras-el-sismo-3598528"
+    },
     {
       "id": "co-20261104-eltiempo-encanto-cines-cruz-roja",
       "fecha": "2026-11-04",
