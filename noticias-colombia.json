@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-06",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261106-elpais-gdo-gas-chiminangos",
+      "fecha": "2026-11-06",
+      "titulo": "Gases de Occidente suspenderá de forma preventiva el gas natural en las torres de Chiminangos II por las condiciones que dejó el terremoto",
+      "resumen": "Tras las inspecciones realizadas después del terremoto del 10 de agosto, Gases de Occidente (GdO) anunció la suspensión preventiva del servicio de gas natural en el barrio Chiminangos II, en Cali, a partir del martes 10 de noviembre a las 8:00 a. m., al no poder garantizar un suministro seguro. La medida afecta a las 62 torres que aún tenían servicio, que se suman a otras 22 ya sin suministro, y la empresa precisa que no obedece a fallas en la red. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/tras-inspecciones-por-el-terremoto-gdo-anuncia-suspension-preventiva-del-gas-natural-en-torres-de-chiminangos-ii-0547.html"
+    },
+    {
+      "id": "co-20261105-eltiempo-valle-recuperacion-turistica",
+      "fecha": "2026-11-05",
+      "titulo": "El Valle del Cauca impulsa la recuperación turística de los municipios afectados por el terremoto, que dejó 1.871 establecimientos dañados",
+      "resumen": "El sismo del 10 de agosto dejó 1.871 establecimientos turísticos con daños en el Valle del Cauca, 1.167 de ellos clasificados como graves o críticos. Para reactivar el sector, el departamento adelanta caravanas turísticas, actividades al aire libre, eventos deportivos y mejoras de conectividad en los municipios afectados. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/viajar/valle-del-cauca-impulsa-la-recuperacion-turistica-de-los-municipios-afectados-por-el-terremoto-en-colombia-3598702"
+    },
+    {
+      "id": "co-20261105-eltiempo-ropa-damnificados-risaralda",
+      "fecha": "2026-11-05",
+      "titulo": "Más de 1.000 marcas colombianas entregarán ropa nueva a 15.000 damnificados por el terremoto en Pereira y Dosquebradas",
+      "resumen": "La jornada «Vístete de Esperanza», impulsada por Vístete de Colombia con la Corporación El Minuto de Dios y ProRisaralda, permitirá que 15.000 personas que perdieron su vivienda o no pueden regresar a ella por riesgo de colapso escojan cinco prendas gratuitas cada una. Funcionará como tienda multimarca en el Parque Metropolitano del Café, en Pereira, del 20 de noviembre al 5 de diciembre, con apoyo de las alcaldías de Pereira y Dosquebradas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/mas-de-1-000-marcas-colombianas-se-movilizan-para-entregar-ropa-a-damnificados-por-el-terremoto-en-risaralda-3598835"
+    },
     {
       "id": "co-20261105-eltiempo-fondo-milagro-manual-controles",
       "fecha": "2026-11-05",
@@ -12,6 +45,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/politica/congreso/las-alertas-de-catherine-juvinao-sobre-las-reglas-del-fondo-milagro-sus-manuales-debilitan-los-controles-dice-la-representante-3598640"
+    },
+    {
+      "id": "co-20261105-eltiempo-banquete-millon-reconstruccion",
+      "fecha": "2026-11-05",
+      "titulo": "El Banquete del Millón dedicará su edición 66 a la reconstrucción de las zonas afectadas por el terremoto",
+      "resumen": "La Corporación Organización Minuto de Dios celebrará el 19 de noviembre en Bogotá la edición 66 del Banquete del Millón para financiar la recuperación de los territorios golpeados por el sismo del 10 de agosto. Según su balance con corte al 10 de octubre, la entidad ha movilizado 307,9 toneladas de ayuda en 46 envíos (148,9 al Chocó, 76,6 a Risaralda y 67,4 al Valle del Cauca), con 12.548 mercados, 11.563 kits de aseo y 74.071 prendas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/banquete-del-millon-destinara-su-edicion-66-a-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto-3598834"
     },
     {
       "id": "co-20261104-eltiempo-rexi-impuesto-renta-reconstruccion",
