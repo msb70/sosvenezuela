@@ -1,7 +1,117 @@
 {
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-11-05",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261104-lapatilla-miyamoto-ingenieria-sismica",
+      "fecha": "2026-11-04",
+      "titulo": "Una subvención de 150.000 dólares financiará la formación de estudiantes de la UCV en ingeniería sísmica y prevención de desastres",
+      "resumen": "El Departamento de Estado de EEUU otorgó 150.000 dólares a la ONG Miyamoto Global Disaster Relief para apoyar la colaboración entre la Universidad Central de Venezuela y la Universidad de Arizona, según informó la embajada estadounidense en Venezuela. El proyecto capacitará a estudiantes venezolanos en ingeniería sísmica, infraestructura resiliente y prevención de desastres tras los terremotos del 24 de junio, recoge La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Educación",
+      "url": "https://lapatilla.com/2026/11/04/la-organizacion-de-kit-miyamoto-instruira-a-estudiantes-venezolanos-en-ingenieria-sismica/"
+    },
+    {
+      "id": "ve-20261103-elnacional-violencia-sexual-campamentos",
+      "fecha": "2026-11-03",
+      "titulo": "ONG advierten riesgos de violencia sexual y dependencia económica para mujeres y niñas desplazadas por los terremotos",
+      "resumen": "Las organizaciones Avesa y Tinta Violeta, que acompañan a personas afectadas en La Guaira y Caracas, alertan de que el hacinamiento, la falta de privacidad y la ruptura de redes de apoyo en campamentos y refugios aumentan el riesgo de violencia sexual para mujeres, niñas y adolescentes desplazadas por el doble sismo del 24 de junio. Señalan que no hay datos oficiales suficientes para medir su magnitud y piden que la respuesta humanitaria incluya prevención, atención psicológica, orientación legal y protección de la infancia, según recoge El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/ong-alertan-sobre-riesgos-de-violencia-sexual-en-campamentos/"
+    },
+    {
+      "id": "ve-20261101-elnacional-caraballeda-etiquetas-creditos",
+      "fecha": "2026-11-01",
+      "titulo": "Unas 400 familias de Caraballeda piden reclasificar sus edificios dañados por el sismo para poder acceder a créditos de vivienda",
+      "resumen": "Cerca de 400 familias de las OPPE 30 y 34, en Caraballeda (La Guaira), solicitaron a la Comisión de Habitabilidad y Vivienda que actualice la clasificación de sus edificios, inhabitables tras el doble sismo del 24 de junio. Según un reporte de Unión Radio recogido por El Nacional, los inmuebles tienen etiqueta roja de acceso no permitido pero no figuran como colapsados en el sistema, condición que exige la banca pública para aprobar los créditos. Los residentes afirman llevar tres meses en esa situación y esperan una nueva inspección.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/familias-de-caraballeda-exigen-actualizar-las-etiquetas-de-edificios-afectados-por-los-terremotos-y-asi-acceder-a-creditos/"
+    },
+    {
+      "id": "ve-20261031-elnacional-la-guaira-cuatro-meses-urbanismos",
+      "fecha": "2026-10-31",
+      "titulo": "A cuatro meses del sismo, los urbanismos dañados de Playa Grande siguen sin habitar y el litoral de La Guaira apenas recibe visitantes",
+      "resumen": "Un reportaje de El Nacional recorre La Guaira el 24 de octubre, cuatro meses después del doble sismo: en Ciudad Hugo Chávez (Playa Grande) ya se retiraron las casas colapsadas, pero quedan estructuras vacías y techos desprendidos, y en el urbanismo contiguo Luisa Cáceres de Arismendi aún vive gente entre edificios dañados. Según el medio, la remoción de escombros y la reparación de viviendas avanzan lentamente y las playas permanecen casi vacías. Expertos citados atribuyen la magnitud de los daños a suelos inestables, la sismicidad de la zona y fallas constructivas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/playas-de-la-guaira-reabren-en-una-ciudad-que-no-se-recupera/"
+    },
+    {
+      "id": "ve-20261031-elnacional-china-87-equipos-escombros",
+      "fecha": "2026-10-31",
+      "titulo": "Llega a Venezuela un buque desde China con 87 equipos pesados para retirar escombros en La Guaira y 1.800 viviendas armables",
+      "resumen": "Un barco con 87 unidades de maquinaria pesada enviadas por China llegó el 31 de octubre para la remoción de escombros en La Guaira, según informó el Gobierno, recoge El Nacional. El cargamento incluye además 1.800 unidades habitacionales armables para descongestionar los refugios, 5.400 camas dobles de campaña y 1.800 equipos de ventilación. El Gobierno afirma que se ha retirado el 63 % de los escombros del doble sismo del 24 de junio y prevé que La Guaira quede despejada antes de fin de año.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/gobierno-recibio-desde-china-87-equipos-pesados-para-remover-escombros-en-la-guaira/"
+    },
+    {
+      "id": "ve-20261031-elnacional-caminos-recuperacion-colombia-venezuela",
+      "fecha": "2026-10-31",
+      "titulo": "Expertos comparan la reconstrucción tras los terremotos de Venezuela y Colombia: en Venezuela la financiación y los recursos siguen siendo mínimos",
+      "resumen": "Un análisis publicado por El Nacional compara la recuperación de Venezuela, cuatro meses después de los sismos del 24 de junio (al menos 6.509 fallecidos), con la de Colombia tras el terremoto del 10 de agosto (al menos 331). El experto en riesgos Omar-Darío Cardona sostiene que en Venezuela avanzan la demolición de edificios dañados y la retirada de escombros, pero con financiación mínima, y que la asistencia estadounidense se limita a quienes están en refugios temporales. Los expertos citados advierten que los daños en zonas comerciales, servicios e infraestructura condicionan la recuperación a largo plazo.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/los-diferentes-caminos-de-colombia-y-venezuela-hacia-la-recuperacion/"
+    },
+    {
+      "id": "ve-20261030-lapatilla-funvisis-52-sismos",
+      "fecha": "2026-10-30",
+      "titulo": "Funvisis contabiliza 52 sismos entre el 23 y el 29 de octubre, menos de la mitad que la semana anterior",
+      "resumen": "Funvisis registró 52 movimientos telúricos entre el 23 y el 29 de octubre, frente a los 109 de la semana previa, con magnitudes de entre 1,5 y 3,9 Mw y ninguno de magnitud 4,0 o superior, según su informe del 30 de octubre recogido por La Patilla. El occidente del país concentró 34 de los eventos, alrededor del 65 % de la actividad, a diferencia de la semana anterior, cuando predominó el centro.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://lapatilla.com/2026/10/30/venezuela-sigue-registrando-temblores-la-diferencia-entre-las-ultimas-dos-semanas/"
+    },
+    {
+      "id": "ve-20261030-lapatilla-csn-chile-ruptura-multiple",
+      "fecha": "2026-10-30",
+      "titulo": "Un estudio del Centro Sismológico Nacional de Chile atribuye los terremotos del 24 de junio a una ruptura encadenada de dos sistemas de fallas",
+      "resumen": "Investigadores del Centro Sismológico Nacional (CSN) de la Universidad de Chile concluyeron que los sismos del 24 de junio en Venezuela no se limitaron a una sola falla, sino que la ruptura se propagó por dos sistemas conectados, recoge La Patilla. Según el estudio, esa «ruptura múltiple», con segmentos que se fracturaron de manera encadenada, explicaría la intensidad de los movimientos y su duración de unos 70 segundos.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://lapatilla.com/2026/10/30/descubrieron-que-ocurrio-bajo-tierra-durante-los-devastadores-terremotos-del-24-de-junio-en-venezuela/"
+    },
+    {
+      "id": "ve-20261030-elnacional-arepas-margaret-playa-verde",
+      "fecha": "2026-10-30",
+      "titulo": "Cuatro meses después del sismo, Las arepas de Margaret reabren en Playa Verde entre comercios cerrados de La Guaira",
+      "resumen": "La sede principal de Las arepas de Margaret, en Playa Verde (La Guaira), reabrió el 1 de septiembre y, según una de sus trabajadoras, recibe incluso más clientes que antes del doble sismo del 24 de junio, recoge un reportaje de El Nacional. La segunda sede del negocio, en la avenida El Ejército, se desplomó por completo durante el terremoto y murieron cuatro de sus trabajadores. El entorno sigue con edificios dañados, terrenos vacíos y comercios cerrados, lejos de la recuperación.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/las-arepas-de-margaret-resisten-entre-los-restos-de-la-guaira/"
+    },
+    {
+      "id": "ve-20261030-elnacional-564-viviendas-damnificados",
+      "fecha": "2026-10-30",
+      "titulo": "El Gobierno entrega 564 viviendas a damnificados del doble terremoto y habilita 80 módulos transitorios en Fuerte Tiuna",
+      "resumen": "El Ejecutivo entregó el 30 de octubre 564 viviendas a familias damnificadas por los sismos del 24 de junio, 92 de ellas en Fuerte Tiuna (Caracas) y el resto en Miranda, Falcón, Táchira y otros estados, informa El Nacional. Según el Gobierno, 3.500 familias han sido atendidas entre rehabilitación de inmuebles y adjudicación de nuevas viviendas. También anunció 80 módulos unifamiliares transitorios en Fuerte Tiuna para quienes siguen en refugios, con lo que suman 580 entre Caracas y Ciudad Caribia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-entrego-564-nuevas-viviendas-a-afectados-por-el-doble-terremoto/"
+    },
     {
       "id": "ve-20261029-lapatilla-reapertura-playas-la-guaira",
       "fecha": "2026-10-29",
@@ -12,6 +122,17 @@
       "tipo": "noticia",
       "categoria": "Infraestructura y servicios",
       "url": "https://lapatilla.com/2026/10/29/tras-los-sismos-la-guaira-reabre-sus-playas-este-31oct/"
+    },
+    {
+      "id": "ve-20261029-elnacional-topo-mayor-regresa-la-guaira",
+      "fecha": "2026-10-29",
+      "titulo": "El rescatista mexicano «El Topo Mayor» regresa a La Guaira con insumos para los voluntarios que siguen recuperando cuerpos",
+      "resumen": "Héctor Méndez, «El Topo Mayor», fundador de la Brigada Internacional de Rescate Topos Azteca, volvió a Venezuela el 26 de octubre y acudió a la zona cero de La Guaira con botas, franelas y guantes para los voluntarios que, 125 días después de los terremotos, aún recuperan cuerpos bajo los escombros, informa El Nacional. Méndez ya había trabajado 40 días en La Guaira tras llegar el 27 de junio, antes de trasladarse a Cali por el sismo del 10 de agosto en Colombia.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/10/el-topo-mayor-regreso-a-la-guaira-con-implementos-para-los-rescatistas-estoy-agradecido-con-dios-por-permitirme-regresar/"
     },
     {
       "id": "ve-20261029-elnacional-refugio-sonrisa-grande",

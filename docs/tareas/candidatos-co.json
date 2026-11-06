@@ -1,233 +1,197 @@
 {
-  "generado": "2026-10-30T11:16:24+00:00",
+  "generado": "2026-11-06T12:49:34+00:00",
   "pais": "co",
   "dias": 3,
   "fuentes_leidas": 9,
   "fuentes_totales": 9,
   "candidatos": [
     {
-      "fuente": "Infobae",
-      "titulo": "Dos jóvenes fueron asesinados tras jugar fútbol en Campamento, Antioquia, durante un ataque armado en la carretera hacia Yarumal",
-      "url": "https://www.infobae.com/colombia/2026/10/30/dos-jovenes-fueron-asesinados-tras-jugar-futbol-en-campamento-antioquia-durante-un-ataque-armado-en-la-carretera-hacia-yarumal/",
-      "fecha": "2026-10-30",
-      "resumen_feed": "Emmanuel Torres Sánchez y Jhon Jairo Hernández Pareja, ambos de 22 años, recibieron disparos mientras regresaban a sus viviendas después del encuentro deportivo",
-      "cuerpo": "Escuchar Puntos clave Resumen Dos jóvenes fueron asesinados en un ataque armado ocurrido en la vía que conecta Campamento con Yarumal, en Antioquia, después de disputar un partido de fútbol - crédito ·@GermanBlancoA/EFE/Mointaje Infobae 29 Oct, 2026 10:49 p. m. EST Guardar Dos jóvenes fueron asesinados tras salir de jugar fútbol en Campamento, Antioquia, durante un ataque ocurrido la noche del martes 27 de octubre de 2026 en la carretera que comunica ese municipio con Yarumal, en el norte antioqueño. Las víctimas fueron identificadas como Emmanuel Torres Sánchez y Jhon Jairo Hernández Pareja, ambos de 22 años. PUBLICIDAD Los jóvenes habían participado en un partido de fútbol en la cancha de un colegio de Campamento. Al terminar el encuentro, emprendieron juntos el camino hacia sus viviendas, pero fueron interceptados por hombres armados que les dispararon. Aunque habitantes del sector intentaron auxiliarlos, ninguno sobrevivió a las heridas. La primera alerta llegó a las autoridades cerca de las 7:00 p. m. del martes 27 de octubre, cuando el alcalde de Campamento, Cristian Andrés Agudelo Posada, se comunicó con la Policía para informar sobre el doble homicidio. Para entonces, Emmanuel Torres Sánchez ya había sido trasladado al hospital La Sagrada Familia, en Campamento, pero ingresó sin signos vitales. Jhon Jairo Hernández Pareja fue llevado al Hospital San Juan de Dios de Yarumal, donde murió por la gravedad de las lesiones. PUBLICIDAD La despedida de la comunidad a los fallecidos Emmanuel y Juan Pablo - crédito @ElnoUribe/X La investigación por el doble homicidio en Campamento Las condiciones de seguridad de la zona dificultaron el desplazamiento inmediato de los investigadores al punto donde se produjo el ataque. Posteriormente, unidades de investigación criminal de ",
-      "http_ok": true
-    },
-    {
       "fuente": "El Tiempo",
-      "titulo": "Temblor hoy en Colombia | Reportan sismo de magnitud 4,0 con epicentro en Chaparral, Tolima, este 30 de octubre: se sintió en Cali y el Eje Cafetero",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-4-0-con-epicentro-en-chaparral-tolima-este-30-de-octubre-se-sintio-en-cali-y-el-eje-cafetero-3597391",
-      "fecha": "2026-10-30",
-      "resumen_feed": "El Servicio Geológico Colombiano dio cuenta del movimiento y pidió a la población registrar su experiencia en la plataforma Sismo Sentido.",
-      "cuerpo": "Noticia Temblor hoy en Colombia | Reportan sismo de magnitud 4,0 con epicentro en Chaparral, Tolima, este 30 de octubre: se sintió en Cali y el Eje Cafetero El Servicio Geológico Colombiano dio cuenta del movimiento y pidió a la población registrar su experiencia en la plataforma Sismo Sentido. Sismo reportado en Chaparral, Tolima. Foto: SGC. Link María Alejandra Mesa Munévar PERIODISTA DE BREAKING NEWS 30.10.2026 03:40 Actualizado: 30.10.2026 04:06 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Un sismo de magnitud 4,0 se registró en la madrugada de este viernes 30 de octubre en el municipio de Chaparral , en el departamento del Tolima , según informó el Servicio Geológico Colombiano (SGC) . De acuerdo con el boletín actualizado de la entidad, el movimiento sísmico ocurrió a las 2:27 a. m. , hora local, y tuvo una profundidad superficial, es decir, menor a 30 kilómetros . El epicentro fue localizado a 15 kilómetros de Roncesvalles, también en el Tolima. #SismosColombiaSGC Evento Sísmico - Boletín Actualizado 1, 2026-10-30, 02:27 hora local Magnitud 4.0, Profundidad Superficial (Menor a 30 km), Chaparral - Tolima, Colombia ¿Sintió este sismo? repórtelo https://t.co/pgC7OC2O7j https://t.co/63pt8nVsSe #NoticiaEnDesarrollo https://t.co/8NFjJBG8nd — Servicio Geológico Colombiano (@sgcol) October 30, 2026 El reporte indicó que el movimiento ocurrió en las coordenadas de latitud 3,88 grados y longitud -75,63 grados. En cuanto a los municipios cercanos al punto ",
-      "http_ok": true
-    },
-    {
-      "fuente": "Semana",
-      "titulo": "¿Qué pasó con las carreteras tras el terremoto? Las afectaciones que mantienen la atención sobre las vías de Colombia",
-      "url": "https://www.semana.com/hablan-las-marcas/articulo/que-paso-con-las-carreteras-tras-el-terremoto-las-afectaciones-que-mantienen-la-atencion-sobre-las-vias-de-colombia/202625/",
-      "fecha": "2026-10-29",
+      "titulo": "Fuerte sismo de magnitud 6,1 sacude Japón y se percibe en Tokio: esto es lo que se sabe",
+      "url": "https://www.eltiempo.com/mundo/asia/fuerte-sismo-de-magnitud-6-1-sacude-japon-y-se-percibe-en-tokio-3598928",
+      "fecha": "2026-11-06",
       "resumen_feed": "",
-      "cuerpo": "Contenido en colaboración ¿Dónde están las oportunidades para invertir en Colombia? Los proyectos que podrían impulsar el crecimiento del país",
+      "cuerpo": "Noticia Fuerte sismo de magnitud 6,1 sacude Japón y se percibe en Tokio: esto es lo que se sabe Las autoridades descartan la alerta de tsunami tras el temblor, aunque advierten de leves cambios en el nivel del mar en la costa. Terremoto en Japón Foto: Cortesía Link Agencia EFE AGENCIA DE NOTICIAS 06.11.2026 07:22 Actualizado: 06.11.2026 07:31 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Un fuerte sismo de magnitud 6,1 sacudió este viernes Japón , siendo perceptible en la capital nipona, Tokio, informó la Agencia Meteorológica de Japón (JMA, por sus siglas en inglés). El movimiento telúrico tuvo lugar a las 19:39 (hora local) y tuvo su epicentro en el mar a diez kilómetros de profundidad frente a la costa oriental de la región de Kanto, ubicada en la isla principal de Japón y que abarca Tokio. LEA TAMBIÉN Taiwán detecta 49 aeronaves militares chinas en sus alrededores, el mayor número registrado en 2026 Elim Alonso Dorado",
       "http_ok": true
     },
     {
-      "fuente": "Infobae",
-      "titulo": "Entrenador del Ineos reveló detalles de la crisis de Egan Bernal que lo llevó a pensar en el retiro: “No le basta con terminar décimo”",
-      "url": "https://www.infobae.com/colombia/deportes/2026/10/29/entrenador-del-ineos-revelo-detalles-de-la-crisis-de-egan-bernal-que-lo-llevo-a-pensar-en-el-retiro-no-le-basta-con-terminar-decimo/",
-      "fecha": "2026-10-29",
-      "resumen_feed": "El ciclista colombiano cerró anticipadamente su calendario tras el Tour de Francia para recuperar descanso y motivación, luego de participar en el primer campamento de pretemporada del conjunto británico de cara a la pró",
-      "cuerpo": "Escuchar Puntos clave Resumen Dario Cioni confirmó la presencia del ciclista colombiano en el primer campamento de pretemporada de la escuadra británica - crédito REUTERS/Stephanie Lecocq 29 Oct, 2026 03:00 p. m. EST Guardar El ciclista colombiano Egan Bernal retomará la competición en 2027 con el Netcompany Ineos, después de haber cerrado anticipadamente su temporada tras el Tour de Francia para recuperar descanso, tranquilidad y motivación. Dario Cioni, director deportivo del equipo, aseguró a Bici.Pro , citado por Deportesrcn , que el corredor participó del primer campamento de pretemporada. La decisión puso fin a los rumores sobre un posible retiro que circularon a comienzos de octubre en Europa. Bernal tiene contrato con la escuadra hasta finales de 2029 y expresó su intención de iniciar la próxima campaña. PUBLICIDAD Cioni vinculó la determinación con la ambición deportiva de Bernal y su nivel de autoexigencia. El italiano afirmó que el corredor no se conforma con resultados alejados de los puestos de vanguardia. El corredor proyecta iniciar su calendario de 2027 en Colombia con la defensa del campeonato nacional que ganó en 2025 y 2026 - crédito REUTERS/Gonzalo Fuentes “Está claro que Bernal es un ganador, no está contento con haber terminado décimo” en el Giro de Italia, sostuvo el director deportivo en referencia a la actuación del colombiano en esa carrera. Tras participar en el Giro y el Tour, consideró que ya no se sentía en condiciones de competir y optó por anticipar el cierre de su calendario. El integrante del cuerpo técnico del Netcompany Ineos había explicado también que Bernal “tomó un respiro del final de temporada”, una situación que el equipo ya había observado en otros corredores que afrontaron dos grandes vueltas en un mismo año. PUBLICIDAD La ca",
+      "fuente": "El País (Cali)",
+      "titulo": "Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II",
+      "url": "https://www.elpais.com.co/cali/tras-inspecciones-por-el-terremoto-gdo-anuncia-suspension-preventiva-del-gas-natural-en-torres-de-chiminangos-ii-0547.html",
+      "fecha": "2026-11-06",
+      "resumen_feed": "",
+      "cuerpo": "Cali Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II La medida, que no obedece a fallas, comenzará el próximo martes 10 de noviembre, a partir de las 8:00 de la mañana en el barrio Chiminangos II. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Por daños asociados al terremoto, suspenderán preventivamente el servicio de gas en varias torres de Cali. | Foto: El País con foto de IA Wendy Yoana Mambuscay Giraldo 5 de nov de 2026, 10:57 p. m. Actualizado el 6 de nov de 2026, 11:37 a. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II 2 . Clásico América vs. Deportivo Cali tendrá más de 600 policías: estas son las medidas de seguridad 3 . Residentes de edificio en el centro de Cali denuncian aumento de habitantes de calle: “la situación se volvió incontrolable” 4 . Vehículo cayó a un canal de aguas residuales en Cali tras maniobra para evitar atropellar a un perro; esto se sabe 5 . Abre convocatoria para que 10.000 jóvenes aprendan gratis a crear aplicaciones con inteligencia artificial; fechas y requisitos Gases de Occidente anunció la suspensión preventiva del servicio de gas natural en el barrio Chiminangos II, Cali, luego de identificar condiciones técnicas y operativas que no permiten garantizar la prestación segura del suministro tras el terremoto del 10 de agosto. A través de un comunicado oficial, GdO explicó que la suspensión preventiva se aplicará en las 62 torres que todavía cuentan con el servicio y en las 22 torres restantes, que ya se encuentran sin suministro; no será posible realizar el restablecimiento del servicio mientr",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Listos los subsidios para desempleados y pequeñas empresas afectadas por el sismo",
+      "url": "https://www.elcolombiano.com/negocios/gobierno-subsidios-desempleados-empresas-sismo-2026-IA43254639",
+      "fecha": "2026-11-06",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true
     },
     {
       "fuente": "Infobae",
-      "titulo": "Gobierno de Abelardo de la Espriella entregó al Congreso informe sobre las ayudas por la emergencia tras el terremoto, confirmó la representante Mafe Carrascal: “Ahora nos corresponde estudiarlo”",
-      "url": "https://www.infobae.com/colombia/2026/10/29/gobierno-de-abelardo-de-la-espriella-entrego-al-congreso-informe-sobre-las-ayudas-por-la-emergencia-tras-el-terremoto-confirmo-la-representante-mafe-carrascal-ahora-nos-corresponde-estudiarlo/",
-      "fecha": "2026-10-29",
-      "resumen_feed": "La representante del Pacto Histórico afirmó que el Ejecutivo entregó documentación tras una tutela y pidió que la Mesa Directiva exija explicaciones formales",
-      "cuerpo": "Escuchar Puntos clave Resumen Mafe Carrascal aseguró que el Gobierno presentó el reporte exigido por el terremoto - crédito @MafeCarrascal/X 29 Oct, 2026 01:45 p. m. EST Guardar La representante del Pacto Histórico Mafe Carrascal afirmó que el Gobierno nacional presentó el informe que, según sostuvo, había sido exigido desde la plenaria de la Cámara de Representantes por las medidas adoptadas tras el terremoto del 10 de agosto de 2026. La congresista difundió un video en X en el que calificó el hecho como una victoria del control político: “Ganamos y ganó Colombia”. PUBLICIDAD Carrascal señaló que el debate comenzó el 13 de octubre, cuando solicitó que el Ejecutivo entregara al Legislativo información sobre la declaratoria de emergencia económica, social y ecológica. De acuerdo con su versión, la medida fue decretada el 19 de agosto por un período de 30 días, plazo que ya concluyó. La parlamentaria sostuvo que esa declaratoria permitió la expedición de normas relacionadas con vivienda, empleo, salud y educación. Por ese motivo, reclamó que el Congreso reciba un reporte completo sobre el alcance de las disposiciones y las decisiones tomadas durante la vigencia del régimen excepcional. Mafe Carrascal pidió al Congreso revisar el informe sobre la emergencia por el terremoto - crédito @MafeCarrascal/X La representante reclamó una respuesta formal al Legislativo En su intervención, Carrascal explicó que presentó un oficio ante la Mesa Directiva de la Cámara para solicitar una actuación institucional. “Le exijo a la Mesa Directiva que le solicite, que le exija también al Gobierno que le rinda ese informe al Congreso de la República”, expresó. PUBLICIDAD La integrante del Pacto Histórico indicó que el documento debe contener detalles sobre los decretos emitidos luego de la eme",
+      "titulo": "Gustavo Petro reaccionó a la orden de libertad para el exministro del Interior Luis Fernando Velasco por caso Ungrd: “Muy bien”",
+      "url": "https://www.infobae.com/colombia/2026/11/05/gustavo-petro-reacciono-a-la-orden-de-libertad-para-el-exministro-del-interior-luis-fernando-velasco-por-caso-ungrd-muy-bien/",
+      "fecha": "2026-11-05",
+      "resumen_feed": "El exmandatario también cuestionó el rumbo de la investigación por corrupción en la entidad por, según él, “buscar culpabilidad en el Pacto Histórico”",
+      "cuerpo": "Escuchar Puntos clave Resumen Luis Fernando Velasco manifestó su firme oposición a la propuesta de extender el mandato del presidente Gustavo Petro mediante una Asamblea Nacional Constituyente, calificándolo como \"antidemocrático\" - crédito Presidencia - Colprensa 05 Nov, 2026 06:28 p. m. EST Guardar El expresidente Gustavo Petro celebró a través de sus redes sociales la libertad del exministro del Interior Luis Fernando Velasco en el proceso por presuntas irregularidades en la Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd). Además, cuestionó el rumbo de la investigación judicial. “Muy bien por la libertad de Luis Fernando Velasco en el caso Ungrd”, escribió Petro, luego de que el Tribunal Superior de Bogotá revocara la medida de aseguramiento que mantenía al exfuncionario privado de la libertad desde agosto de 2026. PUBLICIDAD En su mensaje, el exmandatario sostuvo que Olmedo López, exdirector de la entidad, fue el que encabezó el desfalco a los recusos del Estado que, según su postura, que “quisieron transformar” como un caso que involucraba a todo el Gobierno. Este fue el mensaje de Gustavo Petro sobre la libertad de Luis Fernando Velasco - crédito @petrogustavo/X También vinculó la decisión sobre Velasco con la libertad declarada dos semanas atrás para el exministro de Hacienda Ricardo Bonilla, que también había resultado involucrado en el proceso judicial, como el supuesto “desvío de la investigación”, afirmó Petro. Agregó que la pesquisa, a su juicio, pudo dejar de lado una supuesta red de irregularidades que habría operado durante varios gobiernos, durante al menos “una década de corrupción por billones de pesos en la Ungrd”. PUBLICIDAD De la misma manera, afirmó que retiró a Olmedo López de la administración de la Ungrd apenas conoció por public",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Gobernación del Valle, Deportivo Cali e Industria de Licores sellan alianza para la reconstrucción del departamento tras el terremoto",
-      "url": "https://www.eltiempo.com/colombia/cali/gobernacion-del-valle-deportivo-cali-e-industria-de-licores-sellan-alianza-para-la-reconstruccion-del-departamento-tras-el-terremoto-3597324",
-      "fecha": "2026-10-29",
+      "titulo": "Tribunal Superior de Bogotá ordenó libertad inmediata de Luis Fernando Velasco, exministro del Interior del Gobierno Petro, procesado por caso UNGRD",
+      "url": "https://www.eltiempo.com/justicia/investigacion/tribunal-superior-de-bogota-ordeno-libertad-inmediata-a-luis-fernando-velasco-exministro-del-interior-del-gobierno-petro-procesado-por-caso-ungrd-3598809",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
-      "cuerpo": "Noticia Gobernación del Valle, Deportivo Cali e Industria de Licores sellan alianza para la reconstrucción del departamento tras el terremoto La iniciativa incluye el patrocinio de Aguardiente Origen en la camiseta del club verdiblanco. La alianza busca impulsar la ILV y aportar a la reconstrucción del departamento. Foto: Gobernación del Valle del Cauca Link José Antonio Minota Hurtado PERIODISTA 29.10.2026 17:24 Actualizado: 29.10.2026 17:24 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información En un gesto de unidad en la región, la Gobernación del Valle del Cauca, el Deportivo Cali y la Industria de Licores del Valle (ILV) anunciaron una alianza estratégica que tiene como propósito contribuir a la reconstrucción del departamento tras el terremoto del pasado 10 de agosto. Como parte de esta iniciativa, la licorera oficializó su patrocinio en la camiseta del equipo verdiblanco, sumando al deporte como vehículo de esperanza y reconstrucción en medio de la crisis que dejó hospitales, infraestructura y comunidades afectadas. Representantes de cada una de las marcas aliadas, sellaron la iniciativa. Foto: Gobernación del Valle del Cauca 'Cada botella es un aporte al Valle' La gobernadora del Valle del Cauca, Dilian Francisca Toro, destacó el triple propósito de esta alianza: \"Con este patrocinio buscamos primero incentivar la parte deportiva; segundo, despertar ese sentido de pertenencia, porque cada botella que se compre es un recurso que se tiene para educación, de",
+      "cuerpo": "Noticia Tribunal Superior de Bogotá ordenó libertad inmediata de Luis Fernando Velasco, exministro del Interior del Gobierno Petro, procesado por caso UNGRD La decisión se conoció tras una diligencia en la que se resolvió una apelación. Esto se sabe. Luis Fernando Velasco. Foto: Milton Diaz / El Tiempo Link Luisa Fernanda Gutiérrez Henao PERIODISTA DE BREAKING NEWS 05.11.2026 15:08 Actualizado: 05.11.2026 20:51 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Este jueves 5 de noviembre, el Tribunal Superior de Bogotá ordenó la libertad inmediata en uno de los procesos por el escándalo de corrupción de la Unidad Nacional para la Gestión de Riesgo de Desastres (UNGRD). Se trata de Luis Fernando Velasco , exministro del Interior durante el Gobierno de Gustavo Petro y relacionado con la investigación por los delitos de concierto para delinquir agravado , interés indebido en la celebración de contratos y cohecho por dar u ofrecer. Luis Fernando Velasco Foto: Redes sociales. LEA TAMBIÉN Congresistas de Salvación Nacional radicaron denuncia contra Gustavo Petro ante Comisión de Acusación de la Cámara tras señalamientos de Deyci Jiménez Luisa Gutiérrez Henao",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Gran donatón para reconstruir el templo y el cementerio de Roldanillo, Valle, tras el terremoto: se necesitan más de 2.000 millones de pesos",
-      "url": "https://www.eltiempo.com/colombia/cali/gran-donaton-para-reconstruir-el-templo-y-el-cementerio-de-roldanillo-valle-tras-el-terremoto-se-necesitan-mas-de-2-000-millones-de-pesos-3597313",
-      "fecha": "2026-10-29",
+      "titulo": "Más de 1.000 marcas colombianas se movilizan para entregar ropa a damnificados por el terremoto en Risaralda",
+      "url": "https://www.eltiempo.com/economia/mas-de-1-000-marcas-colombianas-se-movilizan-para-entregar-ropa-a-damnificados-por-el-terremoto-en-risaralda-3598835",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
-      "cuerpo": "Noticia Gran donatón para reconstruir el templo y el cementerio de Roldanillo, Valle, tras el terremoto: se necesitan más de 2.000 millones de pesos El Colectivo Songorocosongo, La Linterna, Salsa Sin Miseria y varias orquestas juveniles se unen por esta causa. Elija a EL TIEMPO como su fuente diaria de noticias para que siga bien informado. Los daños en la parroquia de Roldanillo. Foto: Archivo particular Link Carolina Bohórquez Ramírez PERIODISTA 29.10.2026 16:55 Actualizado: 29.10.2026 16:55 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El templo de San Sebastián representa un pilar fundamental de la identidad religiosa y cultural de Roldanillo , pero los daños sufridos tras el sismo amenazan su conservación. LEA TAMBIÉN El último rastro de Lizeth Alejandra Castaño y las hipótesis que toman fuerza tras su secuestro en la panadería de su papá en Guacarí, Valle Carolina Bohórquez Ramírez",
+      "cuerpo": "Noticia Más de 1.000 marcas colombianas se movilizan para entregar ropa a damnificados por el terremoto en Risaralda La iniciativa espera atender a 15.000 personas de Pereira y Dosquebradas entre el 20 de noviembre y el 5 de diciembre. A las donaciones en Risaralda, se suman más de 1.000 marcas aportando ropa. Foto: Suministrada Link María Alejandra Moreno Flórez 05.11.2026 16:23 Actualizado: 05.11.2026 16:23 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Quince mil personas que perdieron sus viviendas o no pueden regresar a ellas por riesgo de colapso podrán escoger ropa y calzado nuevos en una jornada que reunirá a marcas colombianas en Risaralda. La iniciativa busca apoyar a las familias afectadas por el terremoto del pasado 10 de agosto y tendrá como punto de atención el Parque Metropolitano del Café , en Pereira. La actividad se realizará entre el 20 de noviembre y el 5 de diciembre de 2026. Durante esas dos semanas, el parque funcionará como una tienda multimarca en la que cada beneficiario podrá seleccionar cinco prendas gratuitas , de acuerdo con sus necesidades, gustos y tallas. La jornada, denominada Vístete de Esperanza , es impulsada por Vístete de Colombia , en alianza con la Corporación El Minuto de Dios y ProRisaralda, y cuenta con el respaldo de las alcaldías de Pereira y Dosquebradas . También se articula con Colombia, Un Solo Corazón , iniciativa de la primera dama de la Nación. LEA TAMBIÉN 'No necesitamos los pilotos': GeoPark asegura q",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Tragedia en Campamento (Antioquia): doble homicidio a la salida de una cancha enluta a la comunidad y a la familia de exmandatarios",
-      "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-campamento-antioquia-doble-homicidio-a-la-salida-de-una-cancha-enluta-a-la-comunidad-y-a-la-familia-de-exmandatarios-3597315",
-      "fecha": "2026-10-29",
+      "titulo": "Banquete del Millón destinará su edición 66 a la reconstrucción de las zonas afectadas por el terremoto",
+      "url": "https://www.eltiempo.com/vida/banquete-del-millon-destinara-su-edicion-66-a-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto-3598834",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
-      "cuerpo": "Noticia Tragedia en Campamento (Antioquia): doble homicidio a la salida de una cancha enluta a la comunidad y a la familia de exmandatarios Pobladores exigen a las autoridades resultados tras el violento ataque armado que cobró la vida de dos jóvenes al culminar un partido de fútbol. Doble homicidio en Campamento Foto: Redes Sociales Link David Alejandro Mercado PERIODISTA 29.10.2026 16:47 Actualizado: 29.10.2026 16:47 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Una profunda consternación se vive en el municipio de Campamento, ubicado en la subregión Norte de Antioquia, tras el asesinato con arma de fuego de dos jóvenes. El lamentable hecho de violencia ocurrió la noche del pasado martes, justo cuando las víctimas terminaban de disputar un partido de fútbol en una cancha de la localidad, un espacio habitualmente destinado al deporte y la sana convivencia. Entre las víctimas mortales fue identificado Emmanuel Torres Sánchez , un joven muy apreciado en la comunidad y recordado por su talento deportivo, su dedicación al trabajo y sus destacadas cualidades humanas. CAMPAMENTO @AdmonCampamento Lamentables los hechos la noche anterior en CAMPAMENTO Antioquia donde son vilmente asesinados dos jóvenes al culminar un partido de fútbol. Entre ellos Emanuel Torres Sánchez, hijo de Juan Pablo Ex-Alcalde y nieto de Adelmo Ex-Alcalde Coequipero. Duele en el alma la perdida violenta de un joven que tuve la oportunidad de conocer en sus buenas formas y costumbres. Sol",
+      "cuerpo": "Noticia Banquete del Millón destinará su edición 66 a la reconstrucción de las zonas afectadas por el terremoto A dos meses de la emergencia, la Corporación Organización Minuto de Dios reporta la movilización de 307,9 toneladas de ayuda. Banquete del millón. Foto: Cortesía. Link Angie Tatiana Rodríguez Bernal PERIODISTA 05.11.2026 16:15 Actualizado: 05.11.2026 16:15 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La reconstrucción de los territorios afectados por el terremoto del pasado 10 de agosto será el propósito de la edición número 66 del Banquete del Millón, que realizará la Corporación Organización Minuto de Dios el próximo 19 de noviembre, a las 7 p. m., en el Salón Rojo del Hotel Tequendama, en Bogotá. La iniciativa busca contribuir a la recuperación de las zonas afectadas y avanzar hacia una nueva etapa de atención a las familias damnificadas, luego de las labores de asistencia humanitaria desplegadas durante los últimos dos meses. De acuerdo con el balance de la Corporación, con corte al 10 de octubre de 2026, se habían movilizado 307,9 toneladas de ayuda a través de 46 envíos. De este total, 148,9 toneladas fueron destinadas al Chocó, 76,6 a Risaralda, 67,4 al Valle del Cauca, 10 a Caldas y cinco a Quindío. La ayuda ha incluido 12.548 mercados, 11.563 kits de aseo y 74.071 prendas de vestir. A estas acciones se suman 3.754 participaciones de voluntarios, que han registrado 22.524 horas de trabajo. Con el Banquete del Millón, la organización bu",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Donante anónimo aportó $ 75 millones para cumplir el sueño de una familia que quedó sin hogar tras el terremoto en Armenia: 'Quiero ayudar'",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-donante-anonimo-entrego-75-millones-a-una-fundacion-y-cumplio-el-sueno-de-una-familia-que-perdio-su-casa-en-el-terremoto-en-armenia-3597178",
-      "fecha": "2026-10-29",
+      "titulo": "Valle del Cauca impulsa la recuperación turística de los municipios afectados por el terremoto en Colombia",
+      "url": "https://www.eltiempo.com/vida/viajar/valle-del-cauca-impulsa-la-recuperacion-turistica-de-los-municipios-afectados-por-el-terremoto-en-colombia-3598702",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
-      "cuerpo": "Noticia Donante anónimo aportó $ 75 millones para cumplir el sueño de una familia que quedó sin hogar tras el terremoto en Armenia: 'Quiero ayudar' Jesús, de siete años, y sus padres recibieron las llaves de su nuevo hogar gracias a una campaña solidaria y una donación. Familia en Armenia. Foto: Fundación Pequeño Corazón. Link Jos Guerrero PERIODISTA 29.10.2026 10:11 Actualizado: 29.10.2026 10:15 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información En el barrio Génesis, al sur de Armenia, una familia que perdió su vivienda por el terremoto del 10 de agosto recibió las llaves de una casa nueva gracias a la unión de la Fundación Pequeño Corazón, la fundación Misión Comparte, el Club Rotary y donantes particulares. La familia beneficiada está conformada por Pablo German Castellano Sánchez, su esposa Lina Brito y sus tres hijos, según publicó Caracol Radio. LEA TAMBIÉN Halloween 2026: estos son los planes gratis para disfrutar este puente festivo en Medellín, Bogotá y otras ciudades del país María Lozano Moreno",
+      "cuerpo": "Noticia Valle del Cauca impulsa la recuperación turística de los municipios afectados por el terremoto en Colombia Caravanas turísticas, actividades al aire libre, eventos deportivos y mejoras en la conectividad hacen parte de las iniciativas. Parapente en Roldanillo, Valle del Cauca. Fotos Santiago Saldarriaga Quintero / EL TIEMPO Foto: Santiago Saldarriaga Quintero / EL TIEMPO Link Angie Tatiana Rodríguez Bernal PERIODISTA 05.11.2026 10:54 Actualizado: 05.11.2026 10:54 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El Valle del Cauca adelanta diferentes iniciativas para recuperar la actividad turística de los municipios afectados por el sismo que dejó 1.871 establecimientos turísticos con daños, de los cuales 1.167 fueron clasificados como graves o críticos. LEA TAMBIÉN Informe revela que los colombianos están viajando por más tiempo: sus estancias en el exterior aumentaron 38 % en dos años Angie Rodríguez Bernal",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Las alertas de Catherine Juvinao sobre las reglas del Fondo Milagro: sus manuales debilitan los controles, dice la representante",
+      "url": "https://www.eltiempo.com/politica/congreso/las-alertas-de-catherine-juvinao-sobre-las-reglas-del-fondo-milagro-sus-manuales-debilitan-los-controles-dice-la-representante-3598640",
+      "fecha": "2026-11-05",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Las alertas de Catherine Juvinao sobre las reglas del Fondo Milagro: sus manuales debilitan los controles, dice la representante Entre los vacíos está la suspensión del control de publicación en Secop II dentro de los 20 días hábiles a la aprobación del manual operativo. Catherine Juvinao, representante a la Cámara. Foto: Redes sociales. Link Juan Pablo Penagos Ramírez PERIODISTA 05.11.2026 08:37 Actualizado: 05.11.2026 08:40 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La representante Catherine Juvinao (Alianza Verde) reveló el manual operativo del patrimonio autónomo del Fondo Milagro, que establece las reglas para administrar los recursos y los procesos de contratación destinados a la reconstrucción tras el terremoto del 10 de agosto. A partir de la revisión del documento , la congresista lanzó varias alertas sobre disposiciones que podrían debilitar los controles sobre el manejo de esos recursos y la contratación. Una de ellas tiene que ver con el artículo 74 del manual, que suspende durante 20 días hábiles, a partir del 28 de octubre, la obligación de verificar que los procesos de contratación estén publicados en el Secop II antes de ejecutar las instrucciones correspondientes. Según advirtió, esto permitiría iniciar contratos sin que la ciudadanía conozca previamente su existencia. ¿Quién es Paola Andrea Onzaga, la persona a la que Abelardo De La Espriella entregará la dirección de la Agencia para la Reincorporación? \"Dentro de los veinte",
       "http_ok": true
     },
     {
       "fuente": "El País (Cali)",
-      "titulo": "Denuncian obra en Normandía, oeste de Cali, por escombros acumulados y posibles inundaciones en una cancha",
-      "url": "https://www.elpais.com.co/cali/denuncian-obra-en-normandia-oeste-de-cali-por-escombros-acumulados-y-posibles-inundaciones-en-una-cancha-2900.html",
-      "fecha": "2026-10-29",
+      "titulo": "Luis Fernando Velasco, exminInterior salpicado en caso de corrupción de la UNGRD, queda en libertad; estas fueron las razones",
+      "url": "https://www.elpais.com.co/judicial/luis-fernando-velasco-exmininterior-salpicado-en-caso-de-corrupcion-de-la-ungrd-queda-en-libertad-estas-fueron-las-razones-0545.html",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
-      "cuerpo": "El País Denuncia Denuncian obra en Normandía, oeste de Cali, por escombros acumulados y posibles inundaciones en una cancha Habitantes denunciaron que los residuos de una construcción en el sector de Los Trejos estarían presionando la malla del escenario deportivo y cubriendo parte de un camino. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias La cantidad de escombros acumulados estaría presionando la malla que rodea el polideportivo. La comunidad expresa que la estructura puede caerse debido a su estado actual, si el material no es retirado. | Foto: Suministrado a El País Geraldine España Giraldo 29 de oct de 2026, 11:36 p. m. Actualizado el 29 de oct de 2026, 11:36 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Rutas del MÍO que tendrán cambios durante el Giro de Rigo 2026 en Cali 2 . Escultura de Celia Cruz en el barrio Obrero será ajustada en taller tras críticas a sus rasgos faciales 3 . Operativo de tránsito en el barrio Caldas terminó en ataque con piedras a oficiales 4 . Halloween y Giro de Rigo centran el mayor operativo de seguridad del puente festivo en Cali 5 . Subsidios para damnificados en Cali: esto dijo Alejandro Eder sobre los próximos pagos y las fechas La acumulación de escombros provenientes de una construcción en el sector de Los Trejos, en la Calle 1B Oeste con Carrera 4A, preocupa a quienes transitan por la zona, pues aseguran que los residuos están presionando la malla que rodea un polideportivo público. Uno de los residentes habló con El País y explicó que los residuos llevan alrededor de dos meses en el sitio, sin que, según su relato, los responsables de la propiedad los retiren. Además, señaló que la cantidad de material aumenta a medida que avanzan los trabajos de construcció",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "Instituto para Niños Ciegos y Sordos anuncia regreso de clases presenciales tras la afectación de su sede por el terremoto",
-      "url": "https://www.elpais.com.co/cali/instituto-para-ninos-ciegos-y-sordos-anuncia-regreso-de-clases-presenciales-tras-la-afectacion-de-su-sede-por-el-terremoto-2945.html",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "Cali Instituto para Niños Ciegos y Sordos anuncia regreso de clases presenciales tras la afectación de su sede por el terremoto Será a partir del próximo martes 3 de noviembre, esta vez en el Instituto de Terapia Especial de los Sentidos, del Club de Leones, ubicado en la Calle 3 # 26-51 San Fernando. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Así quedó el Instituto para Niños Ciegos y Sordos tras el terremoto. | Foto: José Luis Guzmán / El País Fernando José Bejarano Zorrilla 29 de oct de 2026, 09:17 p. m. Actualizado el 29 de oct de 2026, 09:17 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Rutas del MÍO que tendrán cambios durante el Giro de Rigo 2026 en Cali 2 . Escultura de Celia Cruz en el barrio Obrero será ajustada en taller tras críticas a sus rasgos faciales 3 . Operativo de tránsito en el barrio Caldas terminó en ataque con piedras a oficiales 4 . Halloween y Giro de Rigo centran el mayor operativo de seguridad del puente festivo en Cali 5 . Subsidios para damnificados en Cali: esto dijo Alejandro Eder sobre los próximos pagos y las fechas El Instituto para Niños Ciegos y Sordos (INCS) anuncia el regreso de las clases presenciales luego de que su Centro de Rehabilitación y Educación en el sur de Cali se viera gravemente afectado en su infraestructura por el devastador terremoto del pasado 10 de agosto. En ese sentido, a partir del próximo martes 3 de noviembre del 2026, los niños van a poder regresar al aula de clase, esta vez en el Instituto de Terapia Especial de los Sentidos , del Club de Leones, ubicado en la Calle 3 # 26-51 San Fernando. La moda se une en Cali para reconstruir el colegio del Instituto para Niños Ciegos y Sordos; subastarán prendas y obras “Nuestra gratitud inmensa a",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "Alcaldía de Cali anuncia fechas para nuevos pagos a damnificados por el terremoto",
-      "url": "https://www.elpais.com.co/cali/alcaldia-de-cali-anuncia-fechas-para-nuevos-pagos-a-damnificados-por-el-terremoto-2941.html",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "Cali Alcaldía de Cali anuncia fechas para nuevos pagos a damnificados por el terremoto Las familias pendientes de recibir las ayudas económicas conocerán en los próximos días nuevos avances en el cronograma de desembolsos, según informó el alcalde Alejandro Eder. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias El alcalde de Cali, Alejandro Eder, entregó detalles sobre el cronograma de pagos para los damnificados por el terremoto del 10 de agosto. | Foto: Fotos: Alcaldía de Cali Jhon Warles Erazo Córdoba 29 de oct de 2026, 05:13 p. m. Actualizado el 29 de oct de 2026, 05:13 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Rutas del MÍO que tendrán cambios durante el Giro de Rigo 2026 en Cali 2 . Escultura de Celia Cruz en el barrio Obrero será ajustada en taller tras críticas a sus rasgos faciales 3 . Operativo de tránsito en el barrio Caldas terminó en ataque con piedras a oficiales 4 . Halloween y Giro de Rigo centran el mayor operativo de seguridad del puente festivo en Cali 5 . Subsidios para damnificados en Cali: esto dijo Alejandro Eder sobre los próximos pagos y las fechas El alcalde de Cali, Alejandro Eder , entregó detalles sobre el cronograma de desembolsos para las personas afectadas por el terremoto del pasado 10 de agosto y explicó cómo avanzan las soluciones de vivienda para quienes perdieron sus hogares. Icetex busca recaudar $1.500 millones para apoyar a 3.500 jóvenes afectados por el terremoto Según el mandatario, los recursos para continuar con los pagos de las ayudas económicas ya están disponibles y la Administración Distrital trabaja con el Gobierno Nacional para agilizar la entrega a los beneficiarios registrados. Eder indicó que el primer grupo de damnificados ya recibió un primer de",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "El dinero y los contratos de la reconstrucción tras el terremoto deben estar a la vista de todos",
-      "url": "https://www.elpais.com.co/opinion/columnistas/el-dinero-y-los-contratos-de-la-reconstruccion-tras-el-terremoto-deben-estar-a-la-vista-de-todos-2931.html",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "Columnistas El dinero y los contratos de la reconstrucción tras el terremoto deben estar a la vista de todos El Fondo Milagro tiene la oportunidad de dejar un legado histórico para Colombia: una forma de invertir en la que las comunidades tengan voz. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Óscar Hernández es director para América Latina de Open Contracting Partnership, donde lidera un portafolio de proyectos en 12 países. Asesora a gobiernos en modernización del Estado, gestión del gasto público y transformación digital. Es economista y filósofo de la Universidad de los Andes y magíster en Asuntos Públicos de la Universidad de Princeton. | Foto: Especial para El País Óscar Hernández 30 de oct de 2026, 01:46 a. m. Actualizado el 30 de oct de 2026, 01:46 a. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . De sismos y presidentes 2 . El dinero y los contratos de la reconstrucción tras el terremoto deben estar a la vista de todos 3 . El futuro del Valle: una década que puede cambiarlo todo 4 . Influencia y participación de la RPC en América Latina afectando a los intereses de seguridad nacional de EE. UU. 5 . La oportunidad desaprovechada Por: Óscar Hernández, Director para América Latina de Open Contracting Partnership. Para una familia que perdió su casa tras el terremoto, la reconstrucción comienza con solucionar las angustias diarias que no dan espera. ¿Dónde vivirán mientras recuperan el hogar? ¿Cuándo podrán volver los niños al colegio? ¿Cuándo volverá a funcionar el hospital municipal? Las respuestas dependen de saber qué hará el gobierno y cuándo. El Departamento Nacional de Planeación calcula que la reconstrucción costará $40 billones y tomará hasta seis años . Con poco espacio fiscal, queda cla",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "De sismos y presidentes",
-      "url": "https://www.elpais.com.co/opinion/columnistas/de-sismos-y-presidentes-2911.html",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "Columnistas De sismos y presidentes En aras de dar a Dios lo que es de Dios y al César lo que es del César, debo decir que la alocución presidencial del domingo me descrestó hasta llegar al punto ocho. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Ángela Cuevas de Dolmetsch. | Foto: El País. Angela Cuevas de Dolmetsch 30 de oct de 2026, 01:34 a. m. Actualizado el 30 de oct de 2026, 01:34 a. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . De sismos y presidentes 2 . El dinero y los contratos de la reconstrucción tras el terremoto deben estar a la vista de todos 3 . El futuro del Valle: una década que puede cambiarlo todo 4 . Influencia y participación de la RPC en América Latina afectando a los intereses de seguridad nacional de EE. UU. 5 . La oportunidad desaprovechada La incertidumbre reina. Se oye al Presidente en su alocución dominical dándoles confianza a los colombianos sobre el presupuesto y los dineros para la reconstrucción, pero las calles de Cali están aún llenas de escombros y hay 500 familias en carpas a las que, tres meses después, no se les soluciona el problema. Se ve a la gobernadora entregando kit de paredes y techos en todo el departamento, seguramente del presupuesto estirado de la gobernación. Los fondos privados que sí sabemos que llegaron, dice el Presidente que están seguros en el Fondo Milagro, pero el Chocó, al que él prometió sacarlo de la pobreza y del olvido, está subsistiendo con lo que dio Shakira. Algunas inmobiliarias han regalado unos pocos apartamentos, pero no se sabe con qué criterio, pues son muchos los que perdieron sus viviendas de diferentes estratos sociales y que ahora están viviendo con padres, cuñados y hasta primos y amigos, porque lo que sí hay que decir es qu",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "Reconstrucción en Roldanillo: avanzan los mejoramientos de vivienda y la construcción de casas nuevas tras el terremoto",
-      "url": "https://www.elpais.com.co/valle/reconstruccion-en-roldanillo-avanzan-los-mejoramientos-de-vivienda-y-la-construccion-de-casas-nuevas-tras-el-terremoto-2909.html",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "Valle Reconstrucción en Roldanillo: avanzan los mejoramientos de vivienda y la construcción de casas nuevas tras el terremoto El plan contempla 645 mejoramientos de vivienda y la entrega de 79 casas nuevas. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias La gobernadora Dilian Francisca Toro verificó los avances del plan de recuperación habitacional en Roldanillo, que contempla 645 mejoramientos de vivienda y la construcción de 79 casas nuevas para familias afectadas por el terremoto. | Foto: Gobernación del Valle Esther Andrea Moreno Mosquera 29 de oct de 2026, 03:24 p. m. Actualizado el 29 de oct de 2026, 03:24 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Donatón Salsera en Roldanillo: Songorocosongo busca reconstruir la parroquia y el cementerio este 1 de noviembre 2 . Racionamiento de gas natural en el Valle y el norte del Cauca: restricciones afectarían al sector industrial 3 . Reconstrucción en Roldanillo: avanzan los mejoramientos de vivienda y la construcción de casas nuevas tras el terremoto 4 . Disputas entre ELN y disidencias de las Farc en la Vía al Mar tienen en riesgo comunidades en Dagua, alerta la Defensoría 5 . Tren de Cercanías: el Valle espera aval financiero del Gobierno nacional en noviembre A menos de 79 días de ocurrido el terremoto, la reconstrucción de las viviendas afectadas avanza en Roldanill o, donde la Gobernación del Valle del Cauca adelanta intervenciones para que las familias damnificadas puedan recuperar sus hogares y contar con espacios seguros. Entre las beneficiarias están Amanda Aristizábal Castaño, de 80 años, quien ya habita nuevamente su casa, y Rosa Amelia Castillo López, de 87 años, cuya vivienda nueva comenzó a construirse. También avanzan las obras de mejora",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "Icetex busca recaudar $1.500 millones para apoyar a 3.500 jóvenes afectados por el terremoto",
-      "url": "https://www.elpais.com.co/colombia/icetex-busca-recaudar-1500-millones-para-apoyar-a-3500-jovenes-afectados-por-el-terremoto-2920.html",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "Colombia Icetex busca recaudar $1.500 millones para apoyar a 3.500 jóvenes afectados por el terremoto La iniciativa busca reunir aportes de ciudadanos y empresas hasta diciembre para financiar becas, auxilios de sostenimiento y otros beneficios educativos. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias El Icetex presentó una campaña de donaciones para apoyar a 3.500 jóvenes afectados por el terremoto del 10 de agosto. | Foto: Colprensa Jhon Warles Erazo Córdoba 29 de oct de 2026, 02:21 p. m. Actualizado el 29 de oct de 2026, 02:21 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Avianca respondió a la denuncia viral por la cancelación de un viaje a Canadá 2 . Resurge mensaje de Iván Valenciano sobre su hijo tras el operativo que terminó con su captura en Medellín 3 . Eva Ferrer ante la Procuraduría: \"No hay dinero que pague aguantar a Verónica Alcocer\" 4 . Un colegio de Cali está entre los 10 mejores del país en las pruebas Saber 11 de 2026 5 . Temblor sacudió al Chocó este 28 de octubre: epicentro y magnitud El terremoto del pasado 10 de agosto dejó desafíos económicos para estudiantes que buscan continuar su formación profesional. Ante esta situación, el Icetex presentó una campaña de donaciones con la que espera reunir recursos para respaldar a miles de jóvenes afectados por la emergencia. Emprendedores del Valle: se acaba el tiempo para acceder a créditos condonables Fonder por el terremoto El Icetex lanzó la estrategia ‘Un solo corazón por la educación’ en la Universidad Pontificia Bolivariana de Medellín. La iniciativa está dirigida a personas naturales y empresas interesadas en contribuir económicamente para facilitar el acceso y la permanencia de los estudiantes en la educación superior. La meta ",
+      "cuerpo": "Judicial Luis Fernando Velasco, exminInterior salpicado en caso de corrupción de la UNGRD, queda en libertad; estas fueron las razones A pesar de que Velasco recuperó su libertad, luego de que la Sala Penal del Tribunal Superior de Bogotá fallara una tutela a su favor, él continúa vinculado al proceso penal. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias El exministro del Interior Luis Fernando Velasco no solo habría expuesto en un “cónclave” la forma cómo se estaba comprando a los congresistas. También es señalado de hacer acuerdos oscuros con el senador Julio Elías Chagüi. | Foto: Presidencia Wendy Yoana Mambuscay Giraldo 5 de nov de 2026, 08:05 p. m. Actualizado el 5 de nov de 2026, 09:23 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . ELN confirmó el secuestro de una subteniente del Ejército en Saravena, Arauca 2 . Video: Capturan un hombre que llevaba prendas de la Sijín y dos armas de fuego en una camioneta en el sur Cali 3 . Revelan presunto chat en el que Gustavo Petro habría ordenado mantener contrato de Deicy Jiménez: detalles de la conversación 4 . Preocupación en Popayán, Cauca: vecinos denuncian presuntos robos y actos de violencia atribuidos a alias ‘El Tuerto’ 5 . Gobernadora reaccionó a la muerte de alias Pincher, señalado cabecilla de las disidencias en el Valle: esto dijo Este jueves, el Tribunal Superior de Bogotá ordenó la libertad inmediata del exministro del Interior, Luis Fernando Velasco, quien se encontraba bajo detención domiciliaria, tras ser procesado por el escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo del Desastre (UNGRD). La decisión se produjo luego de que la corporación estudiara los recursos de apelación presentados por la defensa del exfuncio",
       "http_ok": true
     },
     {
       "fuente": "El Colombiano",
-      "titulo": "El Gobierno pidió más tiempo para rendir cuentas sobre la reconstrucción tras el terremoto",
-      "url": "https://www.elcolombiano.com/colombia/terremoto-el-gobierno-pidio-mas-tiempo-para-rendir-cuentas-por-reconstruccion-KM42930947",
-      "fecha": "2026-10-29",
+      "titulo": "Tribunal ordenó la libertad del exministro Luis Fernando Velasco por caso UNGRD",
+      "url": "https://www.elcolombiano.com/colombia/exministro-luis-fernando-velasco-en-libertad-tribunal-lo-ordeno-AG43230563",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
       "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true
     },
     {
       "fuente": "El Colombiano",
-      "titulo": "“Lo de la UNGRD fue un nivel de corrupción nunca antes visto”: presidente de la Corte Suprema, Iván Lenis",
-      "url": "https://www.elcolombiano.com/colombia/lo-de-la-ungrd-fue-un-nivel-de-corrupcion-nunca-antes-visto-presidente-de-la-corte-suprema-ivan-lenis-DM42930021",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "¿Cómo será el final del sistema solar? Descubrimiento en una estrella muerta da pistas",
-      "url": "https://www.elcolombiano.com/tecnologia/ciencia/disco-doble-escombros-estrella-muerta-enana-blanca-eso-JL42946384",
-      "fecha": "2026-10-29",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Consternación por doble homicidio en Campamento, Antioquia; una de las víctimas era el hijo de un exalcalde",
-      "url": "https://www.elcolombiano.com/antioquia/asesinato-hijo-exalcalde-campamento-antioquia-emmanuel-torres-BH42983640",
-      "fecha": "2026-10-29",
+      "titulo": "Juez ordenó a fundación de la primera dama rendir cuentas completas sobre donaciones para reconstrucción tras el terremoto",
+      "url": "https://www.elcolombiano.com/colombia/fundacion-de-la-primera-dama-debe-entregar-detalles-sobre-donaciones-para-atender-el-terremoto-PH43229413",
+      "fecha": "2026-11-05",
       "resumen_feed": "",
       "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Grave situación en Pereira: el cementerio sigue con los cuerpos expuestos y bajo escombros casi 3 meses después del terremoto que sacudió a Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-situacion-en-pereira-el-cementerio-sigue-con-los-cuerpos-expuestos-y-bajo-escombros-casi-3-meses-despues-del-terremoto-que-sacudio-a-colombia-3596911",
-      "fecha": "2026-10-28",
+      "titulo": "Empresas podrán destinar hasta el 50 % de su impuesto de renta a obras de reconstrucción tras el sismo",
+      "url": "https://www.eltiempo.com/economia/empresas-podran-destinar-hasta-el-50-de-su-impuesto-de-renta-a-obras-de-reconstruccion-tras-el-sismo-3598528",
+      "fecha": "2026-11-04",
       "resumen_feed": "",
-      "cuerpo": "Noticia Grave situación en Pereira: el cementerio sigue con los cuerpos expuestos y bajo escombros casi 3 meses después del terremoto que sacudió a Colombia El desplome de las bóvedas habría generado que los restos se mezclaran y que ahora se requiera de equipos especializados para la identificación. Cementerio de Pereira con cuerpos expuestos Foto: cortesía Link Laura Sepulveda 28.10.2026 10:28 Actualizado: 28.10.2026 21:25 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Más de 1.400 cuerpos permanecen bajo los escombros de las bóvedas que colapsaron en el cementerio San Camilo de Pereira durante el terremoto del pasado 10 de agosto. LEA TAMBIÉN La sede de Indervalle, bastión del deporte del Valle del Cauca, deberá ser demolida tras las afectaciones del terremoto en Cali José Minota Hurtado",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Gobierno tiene un hueco de $1,6 billones en el presupuesto para financiar la reconstrucción",
-      "url": "https://www.elcolombiano.com/negocios/gobierno-colombia-adicion-presupuesto-2026-terremoto-reconstruccion-FJ42873017",
-      "fecha": "2026-10-28",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Becas y ayudas para afectados por el terremoto: así es la iniciativa de la primera dama y el Icetex",
-      "url": "https://www.elcolombiano.com/colombia/becas-icetex-donaciones-estudiantes-afectados-terremoto-agosto-colombia-LG42886782",
-      "fecha": "2026-10-28",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Gobierno pide más tiempo para rendir cuentas sobre la reconstrucción tras el terremoto, ¿qué pasó?",
-      "url": "https://www.elcolombiano.com/colombia/gobierno-mas-tiempo-rendir-cuentas-reconstruccion-terremoto-JH42894148",
-      "fecha": "2026-10-28",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "cuerpo": "Noticia Empresas podrán destinar hasta el 50 % de su impuesto de renta a obras de reconstrucción tras el sismo El mecanismo REXI permitirá financiar proyectos de vivienda, salud y educación en los municipios afectados por el terremoto del 10 de agosto. El evento contó con Carlos Ríos, director del DAPRE, Jaime Beltrán, ministro de Vivienda, Leonidas Tobón, viceministro de Agricultura, miembros de la RedPro y más de 120 empresas del país. Foto: Proantioquia Link María Alejandra Moreno Flórez 04.11.2026 18:02 Actualizado: 04.11.2026 18:02 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Las empresas con ingresos brutos iguales o superiores a 33.610 Unidades de Valor Tributario (UVT), unos $1.800 millones al año, podrán destinar hasta la mitad de su impuesto de renta a ejecutar obras de reconstrucción en los municipios afectados por el sismo del 10 de agosto. La modalidad, denominada Reconstrucción por Impuestos (REXI) , adapta el esquema de Obras por Impuestos, que permite a los contribuyentes financiar y ejecutar proyectos de infraestructura pública como parte del cumplimiento de sus obligaciones tributarias. La iniciativa fue presentada por la Fundación Proantioquia , la Red de Fundaciones y Empresas Pro (RedPRO) y otros aliados, en un encuentro al que asistieron más de 120 empresas y representantes del Gobierno Nacional. El mecanismo contempla proyectos de vivienda, salud, educación y gestión del riesgo en los territorios incluidos en la declaratoria de em",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Terremoto de La Guaira en Venezuela fue el tercero más potente de la historia mundial: así analizaron cámaras de vigilancia para lograr el hallazgo",
-      "url": "https://www.eltiempo.com/mundo/venezuela/terremoto-de-la-guaira-en-venezuela-fue-el-tercero-mas-potente-de-la-historia-mundial-asi-analizaron-camaras-de-vigilancia-para-lograr-el-hallazgo-3596723",
-      "fecha": "2026-10-27",
+      "titulo": "EE.UU. destina 150.000 dólares para formar a estudiantes venezolanos en ingeniería sísmica",
+      "url": "https://www.eltiempo.com/mundo/venezuela/ee-uu-destina-150-000-dolares-para-formar-a-estudiantes-venezolanos-en-ingenieria-sismica-3598448",
+      "fecha": "2026-11-04",
       "resumen_feed": "",
-      "cuerpo": "Noticia Exclusivo suscriptores Terremoto de La Guaira en Venezuela fue el tercero más potente de la historia mundial: así analizaron cámaras de vigilancia para lograr el hallazgo El USGS calcula que la cifra real de muertos podría llegar a los 53.000. Estudio marca un punto de inflexión histórico para la sismología. La devastación en La Guaira. Foto: @juanfotosadn Link Ana María Rodríguez Brazón CORRESPONSAL DE EL TIEMPO EN CARACAS 27.10.2026 22:01 Actualizado: 28.10.2026 21:23 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La sismología reescribió sus parámetros tras una investigación internacional que coloca el reciente doble sismo registrado en el litoral central venezolano como el tercero más potente en el mundo. El análisis científico, publicado en la prestigiosa revista The Seismic Record , demuestra que la sacudida sufrida en la región superó con creces los registros instrumentales de desastres históricos de referencia internacional y se posiciona formalmente entre los tres eventos de mayor intensidad cinética del planeta. LEA TAMBIÉN Expectativa y tensión: el regreso de María Corina Machado revive el clamor democrático en Venezuela, mientras el chavismo intenta mitigar daños Ana Rodríguez Brazón",
+      "cuerpo": "Noticia EE.UU. destina 150.000 dólares para formar a estudiantes venezolanos en ingeniería sísmica La alianza impulsada por Washington complementa la retirada de más de tres millones de toneladas de escombros tras los sismos de junio. Representantes de EEUU en la UCV Foto: Embajada de EEUU Link Agencia EFE AGENCIA DE NOTICIAS 04.11.2026 13:27 Actualizado: 04.11.2026 13:27 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Estados Unidos otorgó una subvención de 150.000 dólares a la empresa global de ingeniería Miyamoto International para apoyar en la preparación de estudiantes venezolanos en ingeniería sísmica, infraestructura y prevención de desastres, informó este miércoles la embajada estadounidense en Caracas. \" El Departamento de Estado otorgó una subvención de $150.000 a Miyamoto Global Disaster Relief para apoyar la colaboración entre la Universidad Central de Venezuela y la Universidad Estatal de Arizona. Este proyecto capacitará a estudiantes venezolanos en ingeniería sísmica , infraestructura resiliente y prevención de desastres\", dijo el encargado de negocios estadounidense, John Barrett , en X. LEA TAMBIÉN 'La cifra de torturados en Venezuela es incalculable': Activista de derechos humanos advierte sobre la magnitud de los crímenes en mandato de Maduro Ana Rodríguez Brazón",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "'Encanto' vuelve a salas de cine colombianas para ayudar afectados del terremoto de agosto",
+      "url": "https://www.eltiempo.com/cultura/cine-y-tv/encanto-vuelve-a-salas-de-cine-colombianas-para-ayudar-afectados-del-terremoto-de-agosto-3598357",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "Noticia 'Encanto' vuelve a salas de cine colombianas para ayudar afectados del terremoto de agosto La iniciativa, impulsada por The Walt Disney Company en Latinoamérica y Cinecolor Colombia, destinará las regalías a la Cruz Roja Colombiana. Encanto Foto: Walt Disney Animation Studios Link Mateo Chacón Orduz SUBDIRECTOR VIDA 04.11.2026 09:33 Actualizado: 04.11.2026 09:33 Agencia EFE AGENCIA DE NOTICIAS 04.11.2026 09:33 Actualizado: 04.11.2026 09:33 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La magia de 'Encanto', la película de Disney que convirtió los paisajes, la música y las tradiciones colombianas en protagonistas de una historia de animación, regresará a los cines del país el próximo 12 de noviembre con un propósito solidario: recaudar fondos para apoyar a los afectados por el terremoto. LEA TAMBIÉN Las confesiones de Francis Ford Coppola: desde ‘El Padrino’ hasta su próxima película Juan Rios Arbelaez",
+      "http_ok": true
+    },
+    {
+      "fuente": "El País (Cali)",
+      "titulo": "Damnificados por el terremoto en Cali podrán cobrar el auxilio de $1.050.000 en 85 puntos: conozca las fechas y horarios",
+      "url": "https://www.elpais.com.co/cali/damnificados-por-el-terremoto-en-cali-podran-cobrar-el-auxilio-de-1050000-en-85-puntos-conozca-las-fechas-y-horarios-0323.html",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "Cali Damnificados por el terremoto en Cali podrán cobrar el auxilio de $1.050.000 en 85 puntos: conozca las fechas y horarios Los pagos se realizarán en establecimientos distribuidos por diferentes sectores de la ciudad y en un punto masivo ubicado en Cosmocentro. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Las ayudas económicas están dirigidas a las personas damnificadas por el terremoto registrado en Cali el pasado 10 de agosto. | Foto: Alcaldía de Cali Jhon Warles Erazo Córdoba 4 de nov de 2026, 02:15 a. m. Actualizado el 4 de nov de 2026, 05:41 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II 2 . Clásico América vs. Deportivo Cali tendrá más de 600 policías: estas son las medidas de seguridad 3 . Residentes de edificio en el centro de Cali denuncian aumento de habitantes de calle: “la situación se volvió incontrolable” 4 . Vehículo cayó a un canal de aguas residuales en Cali tras maniobra para evitar atropellar a un perro; esto se sabe 5 . Abre convocatoria para que 10.000 jóvenes aprendan gratis a crear aplicaciones con inteligencia artificial; fechas y requisitos Desde este miércoles 4 de noviembre, las personas afectadas por el terremoto del pasado 10 de agosto que resultaron beneficiarias del apoyo económico de $1.050.000 podrán reclamar el dinero en diferentes sectores de la ciudad de Cali. Así va la reconstrucción tras el terremoto: el Valle ya entrega casas y Cali sigue en evaluación Para facilitar la entrega de los recursos, se habilitarán 85 puntos de Gane-SuperGIROS distribuidos en la capital del Valle del Cauca. También funcionará un punto de atención masivo en el Centro Com",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Mezcla desarrollada por Colmayor permite convertir escombros en figuras decorativas y piezas arquitectónicas",
+      "url": "https://www.elcolombiano.com/medellin/patentes-inventos-tecnologia-medellin-colegio-mayor-colmayor-ID43156482",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Fondo Milagro: Juvinao habla de supuestos vacíos y que manuales permitirían adiciones sin límites a contratos",
+      "url": "https://www.elcolombiano.com/colombia/politica/juvinao-denuncia-vacios-manuales-contratacion-fondo-milagro-PA43160870",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Archivos vacíos, cifrados e imposibles de abrir: el reclamo de Bonilla y Velasco por las pruebas en caso Ungrd",
+      "url": "https://www.elcolombiano.com/colombia/caso-ungrd-bonilla-y-velasco-denuncian-fallas-en-las-pruebas-de-la-fiscalia-LA43167927",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Corte Suprema aplazó hasta 2027 audiencia contra Bonilla y Velasco por escándalo de la UNGRD",
+      "url": "https://www.elcolombiano.com/colombia/corte-suprema-aplazo-audiencia-bonilla-velasco-escandalo-ungrd-HF43201530",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Tribunal define hoy libertad de Luis Fernando Velasco por caso Ungrd: ¿hay riesgo de fuga?",
+      "url": "https://www.elcolombiano.com/colombia/tribunal-define-libertad-luis-fernando-velasco-caso-ungrd-GO43185399",
+      "fecha": "2026-11-04",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true
     }
   ]
