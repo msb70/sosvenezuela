@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-07",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261106-elnacional-summa-danos-terremoto",
+      "fecha": "2026-11-06",
+      "titulo": "Summa Consulting estima entre 10.500 y 12.500 millones de dólares los daños directos del terremoto",
+      "resumen": "Un informe de la firma Summa Consulting cuantifica las pérdidas directas de los sismos del 24 de junio entre 10.500 y 12.500 millones de dólares y sitúa las necesidades de capital para la reconstrucción entre 12.000 y 15.000 millones. La consultora rebajó por el terremoto su previsión de crecimiento de 2026 del 8,5 % al 6,8 % y proyecta un alza del sector construcción del 15 % en 2026 y del 35 % en 2027, recoge El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/summa-consulting-proyecta-un-crecimiento-economico-de-128-en-venezuela-para-2027-aunque-advierte-sobre-la-brecha-respecto-a-los-niveles-de-2012/"
+    },
+    {
+      "id": "ve-20261106-elnacional-los-cocos-licuefaccion",
+      "fecha": "2026-11-06",
+      "titulo": "La licuefacción del suelo por el doblete sísmico modificó la línea de costa en playa Los Cocos, en La Guaira",
+      "resumen": "Evaluaciones de los nodos técnico y ambiental de la Red de Sobrevivientes, encabezadas por la geóloga Mariela Gómez Abreu, constatan que el mar avanzó sobre zonas que antes ocupaban los prestadores de servicios del balneario de Los Cocos, en Caraballeda, por un proceso de licuefacción del suelo durante los sismos del 24 de junio. Los especialistas piden reevaluar el terreno, cercano a la falla de San Sebastián, para fijar las normas de construcción de futuras infraestructuras, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/doblete-sismico-modifico-la-linea-de-costa-en-playa-los-cocos-tras-registrarse-procesos-de-licuefaccion-del-suelo/"
+    },
+    {
+      "id": "ve-20261106-elnacional-electricidad-800-mw",
+      "fecha": "2026-11-06",
+      "titulo": "Los terremotos del 24 de junio sacaron 800 megavatios del sistema eléctrico nacional, según la Asamblea Nacional",
+      "resumen": "El presidente de la Asamblea Nacional informó en Yaracuy que la oferta de generación eléctrica perdió 800 megavatios a causa de los sismos del 24 de junio, lo que agravó las deficiencias de la red. Añadió que el Parlamento prevé sancionar una ley del servicio eléctrico que permitirá la participación del sector privado, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Infraestructura y servicios",
+      "url": "https://www.elnacional.com/2026/11/jorge-rodriguez-admite-la-crisis-del-servicio-electrico-en-venezuela/"
+    },
+    {
+      "id": "ve-20261106-cronicauno-hospital-coche-quirofanos",
+      "fecha": "2026-11-06",
+      "titulo": "El Hospital Periférico de Coche sigue con los quirófanos inhabilitados desde el doblete sísmico del 24 de junio",
+      "resumen": "Los quirófanos del Hospital Leopoldo Manrique Terrero, en Coche (Caracas), permanecen fuera de servicio desde los terremotos del 24 de junio, y el dirigente sindical Mauro Zambrano afirma que la afectación superó el 70 % de su operatividad. Los pacientes remitidos a otros centros deben repetir citas y exámenes, lo que según Médicos Unidos por Venezuela rompe la continuidad del tratamiento, recoge Crónica.Uno.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://cronica.uno/paralizacion-del-hospital-de-coche-frena-cirugias-y-deja-en-el-limbo-a-los-pacientes/"
+    },
     {
       "id": "ve-20261104-lapatilla-miyamoto-ingenieria-sismica",
       "fecha": "2026-11-04",
