@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-07",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261107-elpais-familias-apartamentos-cali",
+      "fecha": "2026-11-07",
+      "titulo": "Familias que lo perdieron todo en el terremoto de Cali empiezan una nueva vida en los apartamentos entregados",
+      "resumen": "Tres meses después del sismo, cuatro mujeres damnificadas en Cali cuentan cómo reconstruyen su vida en las viviendas que recibieron tras perder las suyas, como Johana Duarte, cuya casa en el barrio Colseguros sufrió daños graves en pisos, techo, paredes y alcantarillado. Una de ellas, Estefany Echeverría, recibió las llaves mientras seguía su recuperación en la clínica, en un acto con el Gobierno nacional, la Alcaldía y la constructora Meléndez. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/cuatro-historias-de-esperanza-asi-reconstruyen-sus-vidas-las-familias-que-recibieron-apartamentos-tras-el-terremoto-en-cali-0750.html"
+    },
+    {
+      "id": "co-20261107-elpais-diana-troncoso-sobreviviente",
+      "fecha": "2026-11-07",
+      "titulo": "Diana Troncoso, que sobrevivió 30 horas bajo los escombros de Torres del Limonar, reconstruye su vida tres meses después del terremoto",
+      "resumen": "Diana Troncoso pasó 30 horas atrapada bajo los escombros del edificio Torres del Limonar, en el barrio Capri de Cali, tras el terremoto del 10 de agosto, y sufrió graves lesiones. Tres meses después intenta recuperar su independencia y dice que sigue adelante «con más sueños y menos miedos». Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Rescates y búsqueda",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/el-renacer-de-diana-troncoso-sobrevivio-30-horas-bajo-los-escombros-del-terremoto-en-cali-0710.html"
+    },
+    {
+      "id": "co-20261107-elpais-alivios-tributarios-valle",
+      "fecha": "2026-11-07",
+      "titulo": "La Asamblea del Valle aprueba alivios tributarios para morosos y damnificados por el terremoto",
+      "resumen": "La Asamblea del Valle del Cauca aprobó la Ordenanza 019, que establece descuentos en intereses y sanciones de los impuestos departamentales —vehicular, de registro y estampillas— para contribuyentes con deudas pendientes y condiciones especiales para los afectados por el sismo del 10 de agosto. La Gobernación busca facilitar el pago de obligaciones y obtener recursos para financiar la recuperación de las zonas afectadas. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/valle-del-cauca-aprobo-alivios-tributarios-para-morosos-y-damnificados-por-el-terremoto-hasta-cuando-aplican-0643.html"
+    },
+    {
+      "id": "co-20261106-infobae-real-madrid-escuelas",
+      "fecha": "2026-11-06",
+      "titulo": "La Fundación Real Madrid se compromete con escuelas sociodeportivas para niños de las zonas afectadas por el terremoto",
+      "resumen": "El Ministerio de Comercio informó de una reunión en Madrid con el presidente del Real Madrid, en la que el club se comprometió, a través de su fundación, a abrir escuelas deportivas en las zonas golpeadas por el terremoto del 10 de agosto. La iniciativa amplía los programas de formación deportiva y educativa para niños y jóvenes damnificados anunciados en octubre con la Fundación Revel. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/06/el-ministro-de-comercio-mauricio-gomez-amin-revelo-por-que-se-reunio-con-el-presidente-del-real-madrid-florentino-perez-queremos-que-nuestros-ninos-vuelvan-a-sonreir/"
+    },
+    {
+      "id": "co-20261106-eltiempo-univalle-40000-millones",
+      "fecha": "2026-11-06",
+      "titulo": "Aprueban cerca de $40.000 millones para reconstruir las sedes de la Universidad del Valle dañadas por el terremoto",
+      "resumen": "En una sesión extraordinaria en Sevilla, el Consejo Superior de la Universidad del Valle aprobó vigencias futuras para 2027 por cerca de 40.000 millones de pesos destinados a reparar la infraestructura universitaria afectada por el sismo del 10 de agosto, además de alivios económicos y académicos para estudiantes, incluida una exención parcial de matrícula en posgrado. Participaron la Gobernación del Valle, el Ministerio de Educación y la rectoría; tras el terremoto, parte de los estudiantes sigue en clases virtuales. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/luz-verde-a-40-000-millones-para-que-la-universidad-del-valle-pueda-reconstruir-sus-areas-afectadas-por-el-terremoto-en-cali-3599192"
+    },
+    {
+      "id": "co-20261106-eltiempo-seguros-1-26-billones",
+      "fecha": "2026-11-06",
+      "titulo": "Los pagos de seguros por el terremoto llegan a $1,26 billones y Fasecolda alerta sobre intermediarios que cobran por tramitar reclamaciones",
+      "resumen": "Con corte al 30 de octubre, las aseguradoras han pagado 1,26 billones de pesos por daños del terremoto del 10 de agosto, un 17 % más que la semana anterior, ante 102.923 reclamaciones en 520 municipios de 31 departamentos, según Fasecolda. El gremio advierte sobre personas que cobran por tramitar reclamaciones, un trámite que no requiere intermediarios; solo en el Valle del Cauca los pagos suman 434.000 millones, según El País (Cali). Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sector-financiero/pagos-de-seguros-por-el-terremoto-crecen-17-en-una-semana-y-llegan-a-1-26-billones-3599096"
+    },
+    {
+      "id": "co-20261106-eltiempo-procuraduria-alcaldia-cali",
+      "fecha": "2026-11-06",
+      "titulo": "La Procuraduría pide a la Alcaldía de Cali medidas inmediatas para atender a damnificados del sismo que siguen fuera del registro",
+      "resumen": "La Procuraduría General hizo un requerimiento preventivo a la Alcaldía de Cali para que garantice la atención humanitaria integral de los hogares afectados por el sismo del 10 de agosto que aún tienen dificultades para acceder a la asistencia. Según el ente de control, unas 4.000 familias seguirían esperando su inclusión en el registro nacional. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/procuraduria-requirio-a-la-alcaldia-de-cali-por-atencion-a-damnificados-del-sismo-y-esta-fue-su-respuesta-me-censaron-y-no-estoy-en-el-registro-3599145"
+    },
+    {
+      "id": "co-20261106-eltiempo-choco-tres-meses",
+      "fecha": "2026-11-06",
+      "titulo": "Chocó, a tres meses del terremoto: reactivación económica, entrega de viviendas, donaciones internacionales y demoliciones",
+      "resumen": "En la víspera de los tres meses del sismo de magnitud 7,4 con epicentro en San José del Palmar, el Chocó avanza en varios frentes de reconstrucción: reactivación económica, entrega de viviendas, donaciones internacionales y demoliciones. El terremoto afectó a 30 de los 31 municipios del departamento, según la Gobernación; a escala nacional el medio cifra el balance en 335 fallecidos y más de 486.000 damnificados. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/medellin/choco-tres-meses-despues-del-terremoto-reactivacion-economica-entrega-de-viviendas-donaciones-internacionales-y-demoliciones-3599089"
+    },
     {
       "id": "co-20261106-elpais-gdo-gas-chiminangos",
       "fecha": "2026-11-06",
