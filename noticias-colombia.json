@@ -1,7 +1,84 @@
 {
-  "actualizado": "2026-11-07",
+  "actualizado": "2026-11-08",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261108-eltiempo-pereira-salud-mental",
+      "fecha": "2026-11-08",
+      "titulo": "En Pereira, el terremoto agravó a pacientes en recuperación y dejó destruidas dos sedes del Instituto del Sistema Nervioso de Risaralda",
+      "resumen": "Tres meses después del sismo de magnitud 7,4, en Pereira persisten las secuelas emocionales: pacientes que estaban en recuperación reportan que su estado empeoró y conviven con el miedo a las réplicas. Dos de las tres sedes del Instituto del Sistema Nervioso de Risaralda, en Álamos y la Avenida 30 de Agosto, quedaron destruidas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-miedo-que-dejo-el-terremoto-en-pereira-y-las-heridas-emocionales-que-aun-buscan-sanar-los-tres-meses-tras-el-fuerte-sismo-del-siglo-3599177"
+    },
+    {
+      "id": "co-20261108-eltiempo-damnificada-eps-tramites",
+      "fecha": "2026-11-08",
+      "titulo": "Una damnificada de Torres de Tequendama que perdió a su madre y su apartamento denuncia trabas de su EPS para su atención médica",
+      "resumen": "Constanza Bahamón perdió a su madre en el terremoto y su apartamento en la torre B de Torres de Tequendama, en el sur de Cali, quedó destruido. Sin poder caminar, denuncia que la EPS la enreda en trámites que ponen en riesgo su atención médica, además del papeleo para acceder a las ayudas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/video-la-lucha-de-una-damnificada-por-no-poder-caminar-con-duelo-por-muerte-de-la-mama-en-el-terremoto-y-atrapada-en-papeleo-para-ayudas-3599227"
+    },
+    {
+      "id": "co-20261108-elpais-barrios-cali-suelos",
+      "fecha": "2026-11-08",
+      "titulo": "Por qué el terremoto golpeó con más fuerza unos barrios de Cali que otros: la explicación de los suelos",
+      "resumen": "Un análisis de El País con la Escuela de Ingeniería Civil y Geomática de la Universidad del Valle explica por qué sectores como Cuarto de Legua, que antes no habían sufrido daños similares, se vieron muy afectados el 10 de agosto. Las características del sismo y de los suelos explican que colapsaran sobre todo edificios medianos mientras construcciones cercanas quedaron intactas. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Réplicas y sismología",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/por-que-el-terremoto-se-sintio-mas-fuerte-en-unos-barrios-de-cali-que-en-otros-0823.html"
+    },
+    {
+      "id": "co-20261108-elpais-96-desaparecidos",
+      "fecha": "2026-11-08",
+      "titulo": "Tres meses después del terremoto, Medicina Legal mantiene en 96 la cifra de desaparecidos",
+      "resumen": "El Instituto Nacional de Medicina Legal confirmó que su base de datos registra 96 personas desaparecidas por el sismo del 10 de agosto, siete menos que las 103 del último informe público de la UNGRD, entregado hace cuatro semanas. Su director, Ariel Emilio Cortés, atribuye la diferencia a denuncias que pudieron no corresponder a víctimas reales; el país aún no tiene un balance definitivo. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/se-mantiene-aun-en-96-la-cifra-de-desaparecidos-tras-tres-meses-del-terremoto-0855.html"
+    },
+    {
+      "id": "co-20261107-eltiempo-salud-mental-cali-60000",
+      "fecha": "2026-11-07",
+      "titulo": "Tres meses después del terremoto, Cali registra consultas de salud mental de casi 60.000 personas",
+      "resumen": "A tres meses del sismo, casi 60.000 personas han consultado por salud mental en Cali, repartidas entre los más de 43.000 hogares reportados como damnificados, en una ciudad que llora 155 vidas perdidas. La región entra en la etapa de reconstrucción con una crisis emocional que el terremoto profundizó. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/tres-meses-despues-del-terremoto-la-crisis-de-la-salud-mental-por-consultas-de-casi-60-000-personas-y-el-dolor-por-155-vidas-desvanecidas-en-cali-3599314"
+    },
+    {
+      "id": "co-20261107-eltiempo-nancy-copete-choco",
+      "fecha": "2026-11-07",
+      "titulo": "Voluntarios construyen una nueva casa en Quibdó para Nancy Copete, que perdió sus piernas en el terremoto",
+      "resumen": "Nancy Copete, damnificada en Quibdó (Chocó), perdió sus piernas en el terremoto del 10 de agosto. Un grupo de voluntarios le construye una nueva vivienda y dos fundaciones le entregarán prótesis. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/la-reconstruccion-de-la-esperanza-y-del-hogar-de-nancy-copete-en-choco-es-muy-duro-cuando-uno-no-se-puede-valer-por-si-mismo-3599261"
+    },
+    {
+      "id": "co-20261107-elpais-fasecolda-valle-434000",
+      "fecha": "2026-11-07",
+      "titulo": "Las aseguradoras han pagado 434.000 millones de pesos en el Valle por el terremoto, pero persisten dudas para reclamar",
+      "resumen": "Con corte al 30 de octubre, las aseguradoras han hecho anticipos o pagos por 434.000 millones de pesos en el Valle del Cauca, correspondientes a 42.153 reclamaciones de incendio, hogar y sismo. Fasecolda estima la reserva en 2,15 billones para Cali y 3,16 billones para todo el departamento, mientras algunas familias denuncian lentitud en las respuestas. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/persisten-dudas-sobre-como-reclamar-los-seguros-luego-del-terremoto-fasecolda-responde-0734.html"
+    },
     {
       "id": "co-20261107-elpais-familias-apartamentos-cali",
       "fecha": "2026-11-07",
@@ -23,6 +100,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/el-renacer-de-diana-troncoso-sobrevivio-30-horas-bajo-los-escombros-del-terremoto-en-cali-0710.html"
+    },
+    {
+      "id": "co-20261107-elpais-demolicion-arabico",
+      "fecha": "2026-11-07",
+      "titulo": "Avanza la demolición del edificio Arábico, en El Limonar (Cali), uno de los más afectados por el terremoto",
+      "resumen": "Continúa la demolición del edificio Arábico, de nueve pisos, en el barrio El Limonar del sur de Cali, con acompañamiento de la Secretaría de Gestión del Riesgo. Los trabajos comenzaron el 22 de octubre para reducir el riesgo de un eventual colapso tras los daños del sismo del 10 de agosto. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/en-imagenes-asi-avanza-la-demolicion-del-edificio-arabico-en-el-sur-de-cali-tras-el-terremoto-0707.html"
     },
     {
       "id": "co-20261107-elpais-alivios-tributarios-valle",
