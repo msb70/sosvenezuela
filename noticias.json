@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-07",
+  "actualizado": "2026-11-08",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261108-elnacional-funvisis-68-sismos",
+      "fecha": "2026-11-08",
+      "titulo": "Funvisis contabiliza 68 sismos entre el 30 de octubre y el 5 de noviembre y eleva a 2.328 los acumulados desde el 24 de junio",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 68 sismos en la última semana, con magnitudes entre 1,3 y 4,0; solo uno alcanzó magnitud 4,0. En 3.216 horas de monitoreo, entre el 24 de junio y el 5 de noviembre, el acumulado suma 2.328 eventos, con mayor densidad de epicentros sobre el sistema de fallas de la región norte-costera, según el informe recogido por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/funvisis-reporto-68-sismos-en-los-ultimos-siete-dias-y-mas-de-2-300-desde-los-terremotos-del-24-de-junio/"
+    },
+    {
+      "id": "ve-20261107-elnacional-maiquetia-140000-octubre",
+      "fecha": "2026-11-07",
+      "titulo": "La terminal transitoria de Maiquetía movilizó más de 140.000 pasajeros en octubre",
+      "resumen": "El ministro de Transporte, Francisco Garcés, informó que más de 140.000 pasajeros usaron en octubre la terminal transitoria del aeropuerto de Maiquetía, instalada tras el doblete sísmico, repartidos a partes iguales entre vuelos nacionales e internacionales. Garcés anunció que próximamente comenzarán a operar algunas áreas de la infraestructura dañada por los terremotos, cuya rehabilitación calificó de avanzada, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Infraestructura y servicios",
+      "url": "https://www.elnacional.com/2026/11/aeropuerto-de-maiquetia-registro-una-movilizacion-de-mas-de-140-mil-pasajeros-en-octubre/"
+    },
+    {
+      "id": "ve-20261107-elnacional-cruz-roja-plan-dos-anos",
+      "fecha": "2026-11-07",
+      "titulo": "La Cruz Roja Venezolana y la Española acuerdan un plan de trabajo de dos años para atender a los afectados por los sismos",
+      "resumen": "La Cruz Roja Venezolana anunció un plan conjunto con la Cruz Roja Española para trabajar durante dos años en la respuesta y la recuperación de las personas afectadas por el doble terremoto del 24 de junio. La clínica de emergencias desplegada por la Cruz Roja Española atendió a más de 10.000 personas y se brindó apoyo psicosocial a otras 4.000 en La Guaira, según El Nacional con información de EFE.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/la-cruz-roja-venezolana-y-espanola-acuerdan-trabajo-por-dos-anos-para-atencion-tras-sismos/"
+    },
     {
       "id": "ve-20261106-elnacional-summa-danos-terremoto",
       "fecha": "2026-11-06",
