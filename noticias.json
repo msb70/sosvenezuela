@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-09",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261109-infobae-laguaira-saqueos-edificios",
+      "fecha": "2026-11-09",
+      "titulo": "Vecinos de Playa Grande, en La Guaira, denuncian el saqueo de edificios dañados por los terremotos que aún podrían repararse",
+      "resumen": "La abogada y defensora de derechos humanos Liliana Ortega denunció que edificios de Playa Grande, en La Guaira, afectados por el doblete sísmico del 24 de junio y que podrían ser reparados están siendo desvalijados ante la falta de resguardo. Ortega, que es vecina de la zona, pidió a las autoridades medidas de vigilancia y protección de las viviendas de las familias damnificadas, según recoge Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.infobae.com/venezuela/2026/11/09/edificios-afectados-por-los-terremotos-en-la-guaira-que-podrian-ser-reparados-estan-siendo-saqueados/"
+    },
+    {
+      "id": "ve-20261109-elnacional-la-paez-carpas-lluvias",
+      "fecha": "2026-11-09",
+      "titulo": "Lluvias y vientos dañan las carpas de familias damnificadas por los terremotos en La Páez, Catia La Mar",
+      "resumen": "Las lluvias y ráfagas de viento de la madrugada del 8 de noviembre desprendieron las lonas y anegaron las carpas de las familias damnificadas por los sismos del 24 de junio instaladas en el estacionamiento del bloque 2 de La Páez, en Catia La Mar (La Guaira). Los afectados calificaron el campamento de inhabitable y pidieron agilizar la adjudicación de viviendas; las lluvias también desbordaron la torrentera de Guanape, según El Nacional citando a La Verdad de Vargas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/familias-damnificadas-en-la-guaira-exigen-viviendas-tras-danos-en-campamentos-por-las-lluvias/"
+    },
     {
       "id": "ve-20261108-elnacional-funvisis-68-sismos",
       "fecha": "2026-11-08",
