@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-09",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261109-infobae-hotel-la-luna-demolicion",
+      "fecha": "2026-11-09",
+      "titulo": "El Hotel La Luna de Cali será demolido tras un nuevo desprendimiento de escombros y se amplía el perímetro de seguridad",
+      "resumen": "La estructura del Hotel La Luna, en la Autopista Suroriental con calle 13, gravemente dañada por el terremoto del 10 de agosto, registró el 8 de noviembre un nuevo movimiento y caída de escombros, sin heridos. La Secretaría de Gestión del Riesgo de Cali amplió el cerramiento y anunció que la demolición, ya aprobada por el Consejo Distrital de Gestión del Riesgo, empezará la próxima semana. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/09/hotel-la-luna-de-cali-sera-demolido-tras-nuevo-desprendimiento-de-escombros-autoridades-ampliaron-el-perimetro-de-seguridad/"
+    },
+    {
+      "id": "co-20261109-elpais-experto-turquia-reconstruccion",
+      "fecha": "2026-11-09",
+      "titulo": "Un ingeniero sísmico que participó en la reconstrucción de Turquía asesorará a Cali en la recuperación tras el terremoto",
+      "resumen": "El ingeniero civil mexicano Carlos Méndez Galingo, especializado en ingeniería sísmica y con experiencia en la reconstrucción tras el doble terremoto de Turquía de 2023, recorrerá el 10 de noviembre las zonas afectadas de Cali junto al secretario de Gestión del Riesgo. La visita coincide con los tres meses del sismo, que dejó edificaciones colapsadas y otras que deben demolerse. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/carlos-mendez-el-experto-que-ayudo-a-reconstruir-turquia-llega-a-cali-para-asesorar-la-recuperacion-tras-el-terremoto-0922.html"
+    },
     {
       "id": "co-20261108-eltiempo-pereira-salud-mental",
       "fecha": "2026-11-08",
@@ -12,6 +34,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-miedo-que-dejo-el-terremoto-en-pereira-y-las-heridas-emocionales-que-aun-buscan-sanar-los-tres-meses-tras-el-fuerte-sismo-del-siglo-3599177"
+    },
+    {
+      "id": "co-20261108-eltiempo-fondo-milagro-rendicion-cuentas",
+      "fecha": "2026-11-08",
+      "titulo": "A tres meses del terremoto, el Gobierno rinde cuentas del Fondo Milagro: vivienda, apoyos económicos y demoliciones, entre las prioridades",
+      "resumen": "Ante los cuestionamientos por el manejo del Fondo Milagro, la Presidencia publicó el 8 de noviembre una rendición de cuentas de los recursos públicos para la reconstrucción, con la vivienda, los apoyos económicos y las demoliciones como prioridades. El Ejecutivo precisó que las donaciones del sector privado, que superan el billón de pesos, se administran de forma independiente y no por el Estado. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/gobierno/a-tres-meses-del-terremoto-gobierno-de-la-espriella-rinde-cuentas-del-fondo-milagro-vivienda-apoyos-economicos-y-demolicion-entre-las-prioridades-3599450"
     },
     {
       "id": "co-20261108-eltiempo-damnificada-eps-tramites",
