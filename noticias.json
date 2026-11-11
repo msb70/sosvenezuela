@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261111-lapatilla-opinion-laguaira-valor",
+      "fecha": "2026-11-11",
+      "titulo": "Del barril al m²: Por qué La Guaira vale más que un campo petrolero",
+      "resumen": "Columna de opinión que estima el valor actual del estado La Guaira tras el doble terremoto de junio en unos 20.000 millones de dólares, por el costo de reconstruir y el descuento por riesgo e incertidumbre jurídica. El autor sostiene que, con un plan de reconstrucción profesional, podría valer 185.000 millones o más en 15 años, según un modelo basado en 1,2 millones de habitantes, 50 m² construidos por habitante y 2.200 dólares por m².",
+      "fuente": "La Patilla",
+      "autor": "David Morán Bohórquez",
+      "tipoFuente": "medio",
+      "tipo": "opinion",
+      "categoria": "Opinión",
+      "url": "https://lapatilla.com/2026/11/11/del-barril-al-m%c2%b2-por-que-la-guaira-vale-mas-que-un-campo-petrolero-por-david-moran-bohorquez/"
+    },
+    {
+      "id": "ve-20261111-elnacional-63-menores-desaparecidos",
+      "fecha": "2026-11-11",
+      "titulo": "El movimiento «Hasta encontrarlos» registra 63 menores de edad desaparecidos en La Guaira tras los terremotos",
+      "resumen": "Casi cinco meses después de los sismos del 24 de junio, el movimiento de familiares «Hasta encontrarlos», fundado por Francia Salcedo, contabiliza 63 menores desaparecidos en La Guaira: dos permanecen entre los escombros de edificios colapsados en Residencias Caribe y Belo Horizonte (Playa Grande) y 61 no han sido localizados tras la remoción de escombros de sus viviendas. Las familias denuncian que las exhumaciones están suspendidas por falta de herramientas y voluntarios y que las pruebas de ADN siguen sin resultados, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/hasta-encontrarlos-familias-buscan-a-63-menores-en-la-guaira/"
+    },
     {
       "id": "ve-20261109-infobae-laguaira-saqueos-edificios",
       "fecha": "2026-11-09",
