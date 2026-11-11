@@ -1,7 +1,172 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-11",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261111-infobae-risaralda-reconstruccion",
+      "fecha": "2026-11-11",
+      "titulo": "Risaralda pide al Gobierno nacional acelerar los recursos para ejecutar sus 15 planes de reconstrucción",
+      "resumen": "El gobernador de Risaralda, Juan Diego Patiño, pidió convertir en obras los planes ya aprobados: el departamento formuló 15 planes de acción, uno departamental y uno por cada municipio, y espera que se financien. Según el balance de la Gobernación con corte al 25 de septiembre, Risaralda registró 135.028 damnificados (73.087 familias), 111 fallecidos, 588 heridos, 5.535 viviendas destruidas y 63.609 averiadas. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/11/gobernador-de-risaralda-pidio-celeridad-y-acciones-contundentes-para-la-reconstruccion-del-departamento-asi-va-la-recuperacion-tras-el-terremoto/"
+    },
+    {
+      "id": "co-20261111-elpais-ungrd-balance-tres-meses",
+      "fecha": "2026-11-11",
+      "titulo": "La UNGRD entrega un balance a tres meses del terremoto: $110.000 millones dispuestos para la atención de la emergencia",
+      "resumen": "Tras cumplirse tres meses del sismo del 10 de agosto, la Unidad Nacional para la Gestión del Riesgo de Desastres informó que mantiene el acompañamiento a municipios y familias afectadas con recursos, asistencia humanitaria a los departamentos y coordinación de la recuperación. Según su informe, la entidad dispuso $110.000 millones para ejecutar las acciones de respuesta en el territorio nacional. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/este-es-el-balance-que-entrega-la-ungrd-sobre-la-atencion-de-la-emergencia-del-terremoto-del-10-de-agosto-1128.html"
+    },
+    {
+      "id": "co-20261110-eltiempo-pereira-subsidios-pendientes",
+      "fecha": "2026-11-10",
+      "titulo": "Tres meses después del terremoto, damnificados de Pereira y Dosquebradas denuncian que no les llegan los subsidios",
+      "resumen": "En el centro de Pereira ya se cuentan por decenas los edificios demolidos o en lista de espera, y en estos tres meses se desplomaron dos viviendas y un local comercial; los comerciantes reparan con recursos propios. Aunque el Gobierno nacional desembolsó el mes pasado recursos para unos 13.000 subsidios de arrendamiento, muchos inscritos en el Registro Único de Damnificados aseguran que aún no los reciben. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/tres-meses-despues-del-terremoto-pereira-sigue-clamando-por-las-ayudas-para-la-reconstruccion-asi-va-el-proceso-3599857"
+    },
+    {
+      "id": "co-20261110-eltiempo-mineducacion-236-sedes",
+      "fecha": "2026-11-10",
+      "titulo": "El Ministerio de Educación destinará más de $337.000 millones a recuperar 236 sedes educativas y 11 instituciones de educación superior",
+      "resumen": "El Ministerio de Educación anunció más de 337.000 millones de pesos, de distintas fuentes y convenios, para recuperar 236 sedes escolares y priorizar 11 instituciones de educación superior afectadas por el terremoto. El Plan de Atención a la Emergencia, elaborado con el PNUD y la UNGRD, identificó afectaciones en 5.738 sedes de 480 municipios en 22 departamentos, que atienden a más de 1,3 millones de estudiantes. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/educacion/ministerio-de-educacion-destinara-mas-de-337-000-millones-a-la-recuperacion-de-236-sedes-educativas-afectadas-por-el-terremoto-3600009"
+    },
+    {
+      "id": "co-20261110-eltiempo-medicina-legal-sede-cali",
+      "fecha": "2026-11-10",
+      "titulo": "La sede de Medicina Legal en Cali no podrá volver a habilitarse tras el terremoto y el suroccidente se queda sin laboratorio de genética",
+      "resumen": "El director de Medicina Legal, Ariel Emilio Cortés, explicó que el edificio de Cali quedó inhabilitado por el sismo y que la atención al público se trasladó a Palmira y Tuluá. La pérdida deja a todo el suroccidente del país sin laboratorio de genética; la entidad participó además en la identificación de los fallecidos. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/justicia/investigacion/no-se-puede-volver-a-habilitar-el-edificio-de-medicina-legal-de-cali-director-ariel-cortes-tras-el-terremoto-3599994"
+    },
+    {
+      "id": "co-20261110-eltiempo-invico-pereira-aplazada",
+      "fecha": "2026-11-10",
+      "titulo": "Aplazan por fallas técnicas la demolición del edificio Invico de Pereira, cuyo piso 12 colapsó en el terremoto",
+      "resumen": "La demolición controlada del edificio Invico, prevista para el domingo 15 de noviembre e incluida la evacuación preventiva de un perímetro de tres cuadras, fue aplazada por fallas técnicas. La estructura quedó gravemente dañada por el sismo del 10 de agosto, cuando colapsó su piso 12. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/aplazan-demolicion-del-iconico-edificio-invico-en-pereira-cuyo-piso-12-colapso-tras-el-terremoto-del-10-de-agosto-reportan-fallas-tecnicas-3599855"
+    },
+    {
+      "id": "co-20261110-eltiempo-inem-cali-reparaciones",
+      "fecha": "2026-11-10",
+      "titulo": "La comunidad del INEM de Cali pide ante el Concejo reparar los ocho bloques dañados por el terremoto para volver a clases presenciales en 2027",
+      "resumen": "Estudiantes, docentes y padres del colegio INEM Jorge Isaacs, en el barrio Calima, reclamaron en el Concejo de Cali obras urgentes en los ocho bloques afectados por el sismo, para que sus más de 2.000 estudiantes puedan empezar presencialmente el año lectivo 2027. La comunidad rechazó la propuesta de estudiar en otras sedes. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/el-inem-de-cali-el-emblematico-colegio-que-lucha-contra-el-olvido-y-clama-por-reparar-sus-instalaciones-tras-el-terremoto-del-10-de-agosto-3599969"
+    },
+    {
+      "id": "co-20261110-eltiempo-antioquia-viva-1959-viviendas",
+      "fecha": "2026-11-10",
+      "titulo": "Antioquia avanza en la recuperación de 1.959 viviendas afectadas por el terremoto con 7.500 toneladas de materiales",
+      "resumen": "La Gobernación de Antioquia, a través de la Empresa de Vivienda de Antioquia (VIVA) y la estrategia «Antioquia se levanta», invierte más de 7.200 millones de pesos en materiales para reparar y construir viviendas dañadas por el sismo. El modelo combina materiales de VIVA, mano de obra de los municipios y de las comunidades y apoyo del sector privado. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/medellin/asi-avanza-la-millonaria-reconstruccion-de-viviendas-en-antioquia-tras-el-terremoto-del-10-de-agosto-3599948"
+    },
+    {
+      "id": "co-20261110-elpais-valle-un-billon-viviendas",
+      "fecha": "2026-11-10",
+      "titulo": "La Gobernación del Valle proyecta $1 billón para 5.400 viviendas nuevas y 33.000 mejoramientos tras el terremoto",
+      "resumen": "A 92 días del sismo, la Gobernación del Valle del Cauca reportó más de 105.000 familias afectadas y un plan centrado en vivienda, infraestructura educativa y reactivación del comercio y el campo. Para vivienda destinó un presupuesto estimado de $1 billón, con 5.400 casas nuevas y 33.000 mejoramientos proyectados, de los que ya se ejecutan 2.219; también entrega créditos condonables a emprendedores y habilitó albergues escolares. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/a-tres-meses-del-terremoto-el-valle-proyecta-inversion-de-1-billon-para-la-reconstruccion-de-viviendas-y-escuelas-1003.html"
+    },
+    {
+      "id": "co-20261110-elpais-transparencia-fondo-milagro",
+      "fecha": "2026-11-10",
+      "titulo": "Transparencia por Colombia contabiliza 1.099 contratos por más de $265.000 millones y no halla en el SECOP contratos del Fondo Milagro",
+      "resumen": "El tercer informe «Transparencia Reconstruye» identificó 1.099 contratos por más de $265.000 millones firmados entre el 11 de agosto y el 3 de noviembre, y una inversión proyectada de $58,29 billones para la recuperación. La organización advierte que aún no aparecen en el SECOP contratos del Fondo Milagro y que sus manuales operativo y de contratación no están publicados, lo que limita la trazabilidad de los recursos. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/en-que-se-estan-invirtiendo-los-recursos-de-la-reconstruccion-informe-revela-hallazgos-sobre-contratos-y-el-fondo-milagro-1001.html"
+    },
+    {
+      "id": "co-20261110-elpais-suarez-colegio-marilopez",
+      "fecha": "2026-11-10",
+      "titulo": "En Suárez (Cauca), la comunidad demolió por su cuenta salones dañados por el terremoto ante la falta de respuesta institucional",
+      "resumen": "Más de 213 estudiantes de la Institución Educativa Marilópez, en la vereda Bellavista (zona rural de Suárez), siguen sin una solución para recuperar sus aulas tres meses después del sismo. La comunidad tuvo que demoler por sus propios medios varios salones que representaban un peligro, según denunció la rectora, Deyanira Balanta. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/en-suarez-cauca-comunidad-demolio-salones-afectados-por-el-terremoto-ante-falta-de-respuesta-del-estado-1000.html"
+    },
+    {
+      "id": "co-20261110-elpais-mincultura-patrimonio-cooperacion",
+      "fecha": "2026-11-10",
+      "titulo": "El Ministerio de Cultura gestiona US$551.123 de cooperación internacional para cuatro proyectos de patrimonio dañado por el terremoto",
+      "resumen": "El Ministerio de las Culturas informó que ha gestionado US$551.123 en cooperación internacional para financiar cuatro proyectos de atención a los daños que el sismo del 10 de agosto causó al patrimonio cultural. Entre los socios figuran Estados Unidos, Israel, Suiza y Reino Unido. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/mincultura-anuncio-alianzas-internacionales-para-atender-danos-al-patrimonio-cultural-por-el-terremoto-1043.html"
+    },
+    {
+      "id": "co-20261110-elpais-calima-darien-reactivacion",
+      "fecha": "2026-11-10",
+      "titulo": "Calima El Darién apuesta por el turismo para reactivar su economía tras el terremoto, que dejó cerca de 1.000 familias damnificadas",
+      "resumen": "Según la Administración municipal, el sismo dejó en Calima El Darién cerca de 1.000 familias damnificadas y más de 1.700 viviendas afectadas entre la zona urbana y rural. El municipio busca reactivar su economía con el turismo, incluidas las Fiestas del Verano, y el fortalecimiento de sus prestadores de servicios. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/asi-busca-calima-el-darien-reactivar-su-economia-tras-las-afectaciones-del-terremoto-1026.html"
+    },
+    {
+      "id": "co-20261110-elpais-cali-demoliciones-34-de-85",
+      "fecha": "2026-11-10",
+      "titulo": "Cali ha intervenido 34 de las 85 edificaciones aprobadas para demolición tres meses después del terremoto",
+      "resumen": "Según el balance de la Secretaría de Gestión del Riesgo de Cali, 21 estructuras dañadas por el sismo ya fueron demolidas, otras 13 están en proceso de intervención y 11 se encuentran en fase de preparación, de un total de 85 aprobadas para demolición. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/a-tres-meses-del-terremoto-en-cali-cuantos-edificios-afectados-ya-fueron-demolidos-este-es-el-balance-1024.html"
+    },
+    {
+      "id": "co-20261110-elpais-cali-ayudas-21000-familias",
+      "fecha": "2026-11-10",
+      "titulo": "Unas 21.000 familias damnificadas de Cali reciben desde el 3 de noviembre los desembolsos pendientes; la reconstrucción tardaría hasta cuatro años",
+      "resumen": "La Alcaldía de Cali informó que cerca de 21.000 hogares priorizados en el Registro Único de Damnificados empezaron a recibir el 3 de noviembre los pagos pendientes de la UNGRD, mientras avanzan las soluciones habitacionales, las demoliciones y la recuperación de colegios. El alcalde Alejandro Eder advirtió que la recuperación será «una maratón que va a durar cuatro años». Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/tras-tres-meses-del-terremoto-en-cali-estos-son-los-avances-en-ayudas-viviendas-y-reconstruccion-1057.html"
+    },
     {
       "id": "co-20261109-infobae-hotel-la-luna-demolicion",
       "fecha": "2026-11-09",
