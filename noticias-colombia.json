@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261112-infobae-recursos-valle-fondo-milagro",
+      "fecha": "2026-11-12",
+      "titulo": "El Gobierno detalla los recursos para el Valle: $86.484 millones de la UNGRD y 834 viviendas nuevas proyectadas por el Fondo Milagro",
+      "resumen": "En su visita a Roldanillo, el Gobierno informó que la UNGRD ha autorizado más de $343.513 millones para los territorios afectados, de ellos $86.484 millones para el Valle del Cauca y $4.675 millones para Roldanillo. El Fondo Milagro contempla intervenciones por $624.000 millones, con 834 viviendas nuevas y 3.504 mejoramientos; para el Hospital San Antonio se citan $12.721 millones de inversión total, con $5.800 millones ya girados. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/12/de-la-espriella-informo-sobre-los-avances-en-la-reconstruccion-de-roldanillo-y-la-asignacion-de-recursos-para-valle-del-cauca-se-que-falta-mucho/"
+    },
+    {
+      "id": "co-20261112-infobae-cali-demoliciones-vivienda",
+      "fecha": "2026-11-12",
+      "titulo": "Cali ha demolido 20 de los 85 edificios previstos y prepara un apoyo de $50 millones para 700 familias que perdieron su vivienda",
+      "resumen": "En su balance a tres meses del terremoto, el alcalde de Cali, Alejandro Eder, informó que ya se demolieron 20 de los 85 edificios aprobados y que hay cinco frentes de trabajo activos. La Alcaldía estructura un programa de $50 millones por familia para la compra de vivienda nueva, dirigido a 700 hogares que perdieron definitivamente su inmueble, y ya se hicieron dos de los tres pagos mensuales de ayuda a 21.000 damnificados; el tercero saldría la próxima semana. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/12/alcalde-eder-compartio-balance-sobre-demolicion-de-edificios-afectados-por-el-sismo-del-10-de-agosto-y-la-entrega-de-50-millones-a-700-familias-calenas/"
+    },
+    {
+      "id": "co-20261112-eltiempo-adres-indemnizacion",
+      "fecha": "2026-11-12",
+      "titulo": "Familiares de los fallecidos en el terremoto pueden reclamar a la ADRES una indemnización de $43,7 millones con menos requisitos",
+      "resumen": "La ADRES fija en $43.772.625 la indemnización para los familiares de las personas fallecidas por el terremoto del 10 de agosto y redujo de 12 a 5 los requisitos; el trámite se hace por internet y sin intermediarios. Según la entidad, el sismo dejó 336 víctimas mortales y hasta el 10 de noviembre solo se habían recibido solicitudes por 148 de ellas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/familiares-de-victimas-del-terremoto-en-colombia-pueden-reclamar-mas-de-43-millones-de-pesos-3600412"
+    },
+    {
+      "id": "co-20261112-elpais-hospital-roldanillo",
+      "fecha": "2026-11-12",
+      "titulo": "El Gobierno anuncia $11.656 millones para reconstruir el bloque de hospitalización del Hospital San Antonio de Roldanillo",
+      "resumen": "El Gobierno nacional anunció durante su visita a Roldanillo (Valle) $11.656 millones para levantar un nuevo bloque de hospitalización en el Hospital San Antonio, cuya estructura se desplomó en parte por el terremoto del 10 de agosto. El bloque de hospitalización fue el área más afectada del centro de salud. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/presidente-abelardo-de-la-espriella-anuncio-mas-de-12-mil-millones-para-la-reconstruccion-del-hospital-san-antonio-de-roldanillo-1139.html"
+    },
+    {
+      "id": "co-20261112-elpais-colegio-san-luis-gonzaga",
+      "fecha": "2026-11-12",
+      "titulo": "Demuelen parte del histórico Colegio San Luis Gonzaga de Cali por los daños estructurales del terremoto",
+      "resumen": "El Colegio San Luis Gonzaga, en el oeste de Cali y con unos 129 años de historia, está siendo sometido a una demolición parcial por las graves afectaciones estructurales que le causó el sismo. Los trabajos los ejecuta la empresa REHIMAC y los directivos esperan concluir la mitigación para comenzar la etapa de reconstrucción. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/demuelen-parte-del-historico-colegio-san-luis-gonzaga-de-cali-por-danos-del-terremoto-asi-avanza-la-demolicion-1204.html"
+    },
     {
       "id": "co-20261111-infobae-risaralda-reconstruccion",
       "fecha": "2026-11-11",
@@ -14,6 +69,28 @@
       "url": "https://www.infobae.com/colombia/2026/11/11/gobernador-de-risaralda-pidio-celeridad-y-acciones-contundentes-para-la-reconstruccion-del-departamento-asi-va-la-recuperacion-tras-el-terremoto/"
     },
     {
+      "id": "co-20261111-eltiempo-fondo-milagro-ejecucion",
+      "fecha": "2026-11-11",
+      "titulo": "El Fondo Milagro ha ejecutado $7.440 millones, concentrados en la demolición de cuatro edificaciones y sus interventorías",
+      "resumen": "En respuesta escrita a un cuestionario del Congreso, el gerente del Fondo Milagro, Jaime Andrés Uribe, informó que el fondo ha ejecutado $7.440 millones, destinados sobre todo a la demolición de cuatro edificaciones y a sus interventorías. Añadió que se estructura un plan de compra de vivienda nueva por $35.000 millones. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/fondo-milagro-solo-ha-ejecutado-7-440-millones-de-pesos-a-la-fecha-recursos-se-han-concentrado-en-demolicion-de-4-edificaciones-3600210"
+    },
+    {
+      "id": "co-20261111-eltiempo-corte-emergencia-economica",
+      "fecha": "2026-11-11",
+      "titulo": "La Corte Constitucional avala la emergencia económica por el terremoto, pero limita el gasto a los daños del sismo",
+      "resumen": "La Corte Constitucional declaró exequible la emergencia económica, social y ecológica decretada el 19 de agosto, aunque la condicionó para que no se use en problemas anteriores al desastre ni en gastos sin relación directa con el sismo. También avaló el Decreto 1348, que amplió el ámbito territorial, pero solo para municipios con afectaciones reportadas por la UNGRD o técnicamente demostradas. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-avalo-la-emergencia-economica-por-el-terremoto-y-puso-limites-al-gobierno-para-gastar-los-recursos-3600293"
+    },
+    {
       "id": "co-20261111-elpais-ungrd-balance-tres-meses",
       "fecha": "2026-11-11",
       "titulo": "La UNGRD entrega un balance a tres meses del terremoto: $110.000 millones dispuestos para la atención de la emergencia",
@@ -23,6 +100,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/colombia/este-es-el-balance-que-entrega-la-ungrd-sobre-la-atencion-de-la-emergencia-del-terremoto-del-10-de-agosto-1128.html"
+    },
+    {
+      "id": "co-20261111-elpais-roldanillo-stands-comerciantes",
+      "fecha": "2026-11-11",
+      "titulo": "Entregan contenedores y stands a los comerciantes de Roldanillo afectados por el terremoto para reactivar sus ventas",
+      "resumen": "Entidades nacionales, departamentales y locales, junto con el sector privado, entregaron el 11 de noviembre contenedores alrededor del parque principal de Roldanillo y espacios en el Coliseo de Ferias para que comerciantes y emprendedores afectados por el sismo retomen su actividad. La inversión fue público-privada y busca reactivar la economía del municipio. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/entregan-stands-a-los-comerciantes-de-roldanillo-que-fueron-afectados-por-el-terremoto-1102.html"
+    },
+    {
+      "id": "co-20261111-elpais-minhacienda-prestamo",
+      "fecha": "2026-11-11",
+      "titulo": "MinHacienda estima en $50 billones el costo de la reconstrucción y estudia un nuevo crédito de US$200 millones para el Fondo Milagro",
+      "resumen": "En el debate de control en el Congreso sobre el Fondo Milagro, el ministro de Hacienda, Miguel Gómez, cifró en unos $50 billones el costo de la reconstrucción tras el terremoto. Reveló que se analiza un nuevo crédito por 200 millones de dólares para que el fondo financie la atención de las zonas afectadas, y precisó que la ejecución de la reconstrucción no corresponde a su ministerio. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/minhacienda-estudia-otro-prestamo-y-se-desmarca-de-la-reconstruccion-tras-el-terremoto-esa-no-es-la-funcion-del-ministerio-1148.html"
     },
     {
       "id": "co-20261110-eltiempo-pereira-subsidios-pendientes",
