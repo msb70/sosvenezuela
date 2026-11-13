@@ -1,195 +1,366 @@
 {
-  "generado": "2026-11-06T12:49:34+00:00",
+  "generado": "2026-11-13T12:57:20+00:00",
   "pais": "co",
   "dias": 3,
   "fuentes_leidas": 9,
   "fuentes_totales": 9,
   "candidatos": [
     {
-      "fuente": "El Tiempo",
-      "titulo": "Fuerte sismo de magnitud 6,1 sacude Japón y se percibe en Tokio: esto es lo que se sabe",
-      "url": "https://www.eltiempo.com/mundo/asia/fuerte-sismo-de-magnitud-6-1-sacude-japon-y-se-percibe-en-tokio-3598928",
-      "fecha": "2026-11-06",
+      "fuente": "Semana",
+      "titulo": "Las medidas de austeridad del Gobierno De La Espriella: freno a sueldos del Fondo Milagro, recorte en viajes, publicidad y puestos",
+      "url": "https://www.semana.com/politica/articulo/las-medidas-de-austeridad-del-gobierno-de-la-espriella-freno-a-sueldos-del-fondo-milagro-recorte-en-viajes-publicidad-y-puestos/202652/",
+      "fecha": "2026-11-13",
       "resumen_feed": "",
-      "cuerpo": "Noticia Fuerte sismo de magnitud 6,1 sacude Japón y se percibe en Tokio: esto es lo que se sabe Las autoridades descartan la alerta de tsunami tras el temblor, aunque advierten de leves cambios en el nivel del mar en la costa. Terremoto en Japón Foto: Cortesía Link Agencia EFE AGENCIA DE NOTICIAS 06.11.2026 07:22 Actualizado: 06.11.2026 07:31 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Un fuerte sismo de magnitud 6,1 sacudió este viernes Japón , siendo perceptible en la capital nipona, Tokio, informó la Agencia Meteorológica de Japón (JMA, por sus siglas en inglés). El movimiento telúrico tuvo lugar a las 19:39 (hora local) y tuvo su epicentro en el mar a diez kilómetros de profundidad frente a la costa oriental de la región de Kanto, ubicada en la isla principal de Japón y que abarca Tokio. LEA TAMBIÉN Taiwán detecta 49 aeronaves militares chinas en sus alrededores, el mayor número registrado en 2026 Elim Alonso Dorado",
-      "http_ok": true
-    },
-    {
-      "fuente": "El País (Cali)",
-      "titulo": "Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II",
-      "url": "https://www.elpais.com.co/cali/tras-inspecciones-por-el-terremoto-gdo-anuncia-suspension-preventiva-del-gas-natural-en-torres-de-chiminangos-ii-0547.html",
-      "fecha": "2026-11-06",
-      "resumen_feed": "",
-      "cuerpo": "Cali Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II La medida, que no obedece a fallas, comenzará el próximo martes 10 de noviembre, a partir de las 8:00 de la mañana en el barrio Chiminangos II. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Por daños asociados al terremoto, suspenderán preventivamente el servicio de gas en varias torres de Cali. | Foto: El País con foto de IA Wendy Yoana Mambuscay Giraldo 5 de nov de 2026, 10:57 p. m. Actualizado el 6 de nov de 2026, 11:37 a. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II 2 . Clásico América vs. Deportivo Cali tendrá más de 600 policías: estas son las medidas de seguridad 3 . Residentes de edificio en el centro de Cali denuncian aumento de habitantes de calle: “la situación se volvió incontrolable” 4 . Vehículo cayó a un canal de aguas residuales en Cali tras maniobra para evitar atropellar a un perro; esto se sabe 5 . Abre convocatoria para que 10.000 jóvenes aprendan gratis a crear aplicaciones con inteligencia artificial; fechas y requisitos Gases de Occidente anunció la suspensión preventiva del servicio de gas natural en el barrio Chiminangos II, Cali, luego de identificar condiciones técnicas y operativas que no permiten garantizar la prestación segura del suministro tras el terremoto del 10 de agosto. A través de un comunicado oficial, GdO explicó que la suspensión preventiva se aplicará en las 62 torres que todavía cuentan con el servicio y en las 22 torres restantes, que ya se encuentran sin suministro; no será posible realizar el restablecimiento del servicio mientr",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Listos los subsidios para desempleados y pequeñas empresas afectadas por el sismo",
-      "url": "https://www.elcolombiano.com/negocios/gobierno-subsidios-desempleados-empresas-sismo-2026-IA43254639",
-      "fecha": "2026-11-06",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "cuerpo": "Política A 41 años de la tragedia de Armero, solo una de las 23 recomendaciones para reparar a las víctimas se ha cumplido",
       "http_ok": true
     },
     {
       "fuente": "Infobae",
-      "titulo": "Gustavo Petro reaccionó a la orden de libertad para el exministro del Interior Luis Fernando Velasco por caso Ungrd: “Muy bien”",
-      "url": "https://www.infobae.com/colombia/2026/11/05/gustavo-petro-reacciono-a-la-orden-de-libertad-para-el-exministro-del-interior-luis-fernando-velasco-por-caso-ungrd-muy-bien/",
-      "fecha": "2026-11-05",
-      "resumen_feed": "El exmandatario también cuestionó el rumbo de la investigación por corrupción en la entidad por, según él, “buscar culpabilidad en el Pacto Histórico”",
-      "cuerpo": "Escuchar Puntos clave Resumen Luis Fernando Velasco manifestó su firme oposición a la propuesta de extender el mandato del presidente Gustavo Petro mediante una Asamblea Nacional Constituyente, calificándolo como \"antidemocrático\" - crédito Presidencia - Colprensa 05 Nov, 2026 06:28 p. m. EST Guardar El expresidente Gustavo Petro celebró a través de sus redes sociales la libertad del exministro del Interior Luis Fernando Velasco en el proceso por presuntas irregularidades en la Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd). Además, cuestionó el rumbo de la investigación judicial. “Muy bien por la libertad de Luis Fernando Velasco en el caso Ungrd”, escribió Petro, luego de que el Tribunal Superior de Bogotá revocara la medida de aseguramiento que mantenía al exfuncionario privado de la libertad desde agosto de 2026. PUBLICIDAD En su mensaje, el exmandatario sostuvo que Olmedo López, exdirector de la entidad, fue el que encabezó el desfalco a los recusos del Estado que, según su postura, que “quisieron transformar” como un caso que involucraba a todo el Gobierno. Este fue el mensaje de Gustavo Petro sobre la libertad de Luis Fernando Velasco - crédito @petrogustavo/X También vinculó la decisión sobre Velasco con la libertad declarada dos semanas atrás para el exministro de Hacienda Ricardo Bonilla, que también había resultado involucrado en el proceso judicial, como el supuesto “desvío de la investigación”, afirmó Petro. Agregó que la pesquisa, a su juicio, pudo dejar de lado una supuesta red de irregularidades que habría operado durante varios gobiernos, durante al menos “una década de corrupción por billones de pesos en la Ungrd”. PUBLICIDAD De la misma manera, afirmó que retiró a Olmedo López de la administración de la Ungrd apenas conoció por public",
+      "titulo": "Duvalier Sánchez pide salida del gerente del Fondo Milagro por salarios y baja ejecución",
+      "url": "https://www.infobae.com/colombia/2026/11/13/duvalier-sanchez-pide-salida-del-gerente-del-fondo-milagro-por-salarios-y-baja-ejecucion/",
+      "fecha": "2026-11-13",
+      "resumen_feed": "El congresista cuestionó remuneraciones de hasta $40 millones mensuales y aseguró que los pagos efectivos de caja siguen en cero, pese a la emergencia que afecta a más de 500.000 personas",
+      "cuerpo": "Escuchar Puntos clave Resumen Duvalier Sánchez, representante a la Cámara de la Alianza Verde por el Valle del Cauca - crédito prensa Duvalier Sánchez. 13 Nov, 2026 04:17 a. m. EST Guardar El representante a la Cámara Duvalier Sánchez pidió la renuncia de Jaime Andrés Uribe, gerente del Fondo Milagro, al cuestionar la gestión de la entidad frente a la emergencia provocada por el terremoto. El congresista afirmó que resulta “insostenible” que Uribe continúe en el cargo por los altos salarios aprobados, la falta de ejecución efectiva y los retrasos en la atención de más de 500.000 víctimas en varias regiones del país. Según información publicada por Blu Radio , las críticas surgieron después de conocerse respuestas oficiales a un derecho de petición sobre la estructura de nómina, los avances de reconstrucción y la ejecución de recursos del Fondo Milagro. PUBLICIDAD Sánchez sostuvo que el gerente no tendría experiencia probada en obras públicas ni en atención de emergencias humanitarias y atribuyó su llegada al cargo a su cercanía política con el presidente Abelardo de la Espriella. “Yo creo que es insostenible que Jaime Andrés Uribe siga en el cargo. Yo creo que esta es una responsabilidad muy importante, es el reto más grande que tiene el gobierno en estos momentos”, afirmó el congresista. También señaló que una mala gestión de la entidad afecta directamente a familias de Pereira, Chocó, el Eje Cafetero, el norte del Valle, Buenaventura y Cali que todavía necesitan soluciones de vivienda y reconstrucción. PUBLICIDAD Jaime Andrés Uribe, gerente el fondo milagro (Captura de video) Críticas por salarios y falta de ejecución efectiva Uno de los principales cuestionamientos de Sánchez está relacionado con la escala salarial aprobada para el Fondo Milagro. De acuerdo con los d",
+      "http_ok": true
+    },
+    {
+      "fuente": "Infobae",
+      "titulo": "De la Espriella ordenó reversar salarios de hasta $765 millones mensuales en el Fondo Milagro en medio de su política de austeridad: “No los autorizo”",
+      "url": "https://www.infobae.com/colombia/2026/11/13/de-la-espriella-ordeno-reversar-salarios-de-hasta-765-millones-mensuales-en-el-fondo-milagro-en-medio-de-su-politica-de-austeridad-no-los-autorizo/",
+      "fecha": "2026-11-13",
+      "resumen_feed": "La nómina del organismo encargado de coordinar la reconstrucción tras el terremoto del 10 de agosto desató que el presidente calificara los sueldos como un despropósito y aseguró que no permitirá decisiones administrativ",
+      "cuerpo": "Escuchar Puntos clave Resumen Abelardo de la Espriella rechazó los salarios asignados a los funcionarios del Fondo Milagro y ordenó reversar la escala de remuneraciones (Isaac Bechara/Presidencia) 12 Nov, 2026 08:12 p. m. EST Guardar El presidente de la República, Abelardo de la Espriella, rechazó los montos salariales asignados a los directivos y funcionarios del Fondo Milagro, entidad encargada de la reconstrucción tras el terremoto del 10 de agosto de 2026 en el Eje Cafetero, y ordenó reversar de manera inmediata esa escala de remuneraciones al considerar que contradice las directrices de austeridad del Ejecutivo. La decisión del jefe de Estado se conoció a través de su cuenta en la red social X, luego de que salieran a la luz los datos de un derecho de petición presentado por la senadora del Pacto Histórico Kamelia Zuluaga, documento en el que se reveló que la nómina mensual de 26 empleados de esa dependencia asciende a cerca de $765,6 millones. PUBLICIDAD En su pronunciamiento, el mandatario desautorizó los pagos establecidos para el personal que opera con contratos a término indefinido en la ciudad de Pereira, manifestando que “ los salarios que se han anunciado para el Fondo Milagro no se compadecen con mi directiva de austeridad. No los autorizo. He ordenado reversar ese despropósito de inmediato ”. Abelardo de la Espriella calificó como un despropósito las remuneraciones anunciadas para el personal del Fondo Milagro (@ABDELAESPRIELLA/X) El jefe de Estado advirtió que no permitirá que medidas administrativas adoptadas sin su consentimiento afecten la gestión de recuperación en los territorios afectados por el sismo, al señalar que “ no voy a permitir que decisiones inconsultas, carentes de sindéresis y contrarias a mis instrucciones empañen una misión tan grande",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Tribunal Superior de Bogotá ordenó libertad inmediata de Luis Fernando Velasco, exministro del Interior del Gobierno Petro, procesado por caso UNGRD",
-      "url": "https://www.eltiempo.com/justicia/investigacion/tribunal-superior-de-bogota-ordeno-libertad-inmediata-a-luis-fernando-velasco-exministro-del-interior-del-gobierno-petro-procesado-por-caso-ungrd-3598809",
-      "fecha": "2026-11-05",
+      "titulo": "De La Espriella ordena reversar salarios del Fondo Milagro tras conocerse que su nómina suma $765,6 millones: lo que se sabe de la ejecución",
+      "url": "https://www.eltiempo.com/politica/gobierno/de-la-espriella-ordena-reversar-salarios-del-fondo-milagro-tras-conocerse-que-su-nomina-suma-765-6-millones-lo-que-se-sabe-de-la-ejecucion-3600743",
+      "fecha": "2026-11-13",
       "resumen_feed": "",
-      "cuerpo": "Noticia Tribunal Superior de Bogotá ordenó libertad inmediata de Luis Fernando Velasco, exministro del Interior del Gobierno Petro, procesado por caso UNGRD La decisión se conoció tras una diligencia en la que se resolvió una apelación. Esto se sabe. Luis Fernando Velasco. Foto: Milton Diaz / El Tiempo Link Luisa Fernanda Gutiérrez Henao PERIODISTA DE BREAKING NEWS 05.11.2026 15:08 Actualizado: 05.11.2026 20:51 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Este jueves 5 de noviembre, el Tribunal Superior de Bogotá ordenó la libertad inmediata en uno de los procesos por el escándalo de corrupción de la Unidad Nacional para la Gestión de Riesgo de Desastres (UNGRD). Se trata de Luis Fernando Velasco , exministro del Interior durante el Gobierno de Gustavo Petro y relacionado con la investigación por los delitos de concierto para delinquir agravado , interés indebido en la celebración de contratos y cohecho por dar u ofrecer. Luis Fernando Velasco Foto: Redes sociales. LEA TAMBIÉN Congresistas de Salvación Nacional radicaron denuncia contra Gustavo Petro ante Comisión de Acusación de la Cámara tras señalamientos de Deyci Jiménez Luisa Gutiérrez Henao",
+      "cuerpo": "Noticia De La Espriella ordena reversar salarios del Fondo Milagro tras conocerse que su nómina suma $765,6 millones: lo que se sabe de la ejecución El gerente Jaime Andrés Uribe, con un sueldo de $39,4 millones, ha faltado a las tres últimas citaciones del Congreso. Fondo Milagro. Foto: Imagen generada con Canva IA Link Laura Juliana Castellanos Guevara 13.11.2026 07:52 Actualizado: 13.11.2026 07:52 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El presidente Abelardo De La Espriella ordenó reversar las remuneraciones asignadas al personal del Fondo Milagro, luego de que se conociera que la suma de los 27 salarios reportados por la entidad asciende a cerca de $765,6 millones mensuales . El mandatario consideró que esos pagos no corresponden con la política de austeridad que ha impartido a su Gobierno. LEA TAMBIÉN Hablemos de los primeros 100 días del gobierno de Abelardo De La Espriella | Participa en la charla con suscriptores, con el análisis de Thierry Ways Elim Alonso Dorado",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Más de 1.000 marcas colombianas se movilizan para entregar ropa a damnificados por el terremoto en Risaralda",
-      "url": "https://www.eltiempo.com/economia/mas-de-1-000-marcas-colombianas-se-movilizan-para-entregar-ropa-a-damnificados-por-el-terremoto-en-risaralda-3598835",
-      "fecha": "2026-11-05",
+      "titulo": "Los millonarios sueldos de los funcionarios del Fondo Milagro que el presidente Abelardo De La Espriella ordenó frenar: ganaban más de $30 millones",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-millonarios-sueldos-de-los-funcionarios-del-fondo-milagro-que-el-presidente-abelardo-de-la-espriella-ordeno-frenar-ganaban-mas-de-30-millones-3600749",
+      "fecha": "2026-11-13",
       "resumen_feed": "",
-      "cuerpo": "Noticia Más de 1.000 marcas colombianas se movilizan para entregar ropa a damnificados por el terremoto en Risaralda La iniciativa espera atender a 15.000 personas de Pereira y Dosquebradas entre el 20 de noviembre y el 5 de diciembre. A las donaciones en Risaralda, se suman más de 1.000 marcas aportando ropa. Foto: Suministrada Link María Alejandra Moreno Flórez 05.11.2026 16:23 Actualizado: 05.11.2026 16:23 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Quince mil personas que perdieron sus viviendas o no pueden regresar a ellas por riesgo de colapso podrán escoger ropa y calzado nuevos en una jornada que reunirá a marcas colombianas en Risaralda. La iniciativa busca apoyar a las familias afectadas por el terremoto del pasado 10 de agosto y tendrá como punto de atención el Parque Metropolitano del Café , en Pereira. La actividad se realizará entre el 20 de noviembre y el 5 de diciembre de 2026. Durante esas dos semanas, el parque funcionará como una tienda multimarca en la que cada beneficiario podrá seleccionar cinco prendas gratuitas , de acuerdo con sus necesidades, gustos y tallas. La jornada, denominada Vístete de Esperanza , es impulsada por Vístete de Colombia , en alianza con la Corporación El Minuto de Dios y ProRisaralda, y cuenta con el respaldo de las alcaldías de Pereira y Dosquebradas . También se articula con Colombia, Un Solo Corazón , iniciativa de la primera dama de la Nación. LEA TAMBIÉN 'No necesitamos los pilotos': GeoPark asegura q",
+      "cuerpo": "Noticia Los millonarios sueldos de los funcionarios del Fondo Milagro que el presidente Abelardo De La Espriella ordenó frenar: ganaban más de $30 millones Gerente supera sueldo ministerial, nómina asciende a $765.641.454 mensuales, todos laboran en Pereira y Fiducoldex figura como empleadora. De la Espriella frenó sueldos de funcionarios del Fondo Milagro. Foto: EL TIEMPO/iStock Link María Alejandra Mesa Munévar PERIODISTA DE BREAKING NEWS 13.11.2026 07:35 Actualizado: 13.11.2026 07:37 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El presidente Abelardo De La Espriella ordenó reversar los salarios del Fondo Milagro, entidad creada para reconstruir las zonas afectadas por el terremoto del 10 de agosto. Lo anunció el jueves 12 de noviembre en su cuenta de X, luego de conocerse que la nómina mensual del Fondo supera los $765 millones. Según el mandatario, esas asignaciones no se compadecen con su directiva de austeridad y aseguró que no las autoriza. Las cifras salieron de la respuesta del Fondo a un derecho de petición de la senadora del Pacto Histórico Kamelia Zuluaga. Con corte al 9 de noviembre, hay 27 cargos, todos en Pereira y con contrato indefinido. NOTICIA EN DESARROLLO... Sigue toda la información de Política en Facebook y Twitter , o en nuestra newsletter semanal . Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Así es como la empresa privada se coordina con el Fondo Milagro",
+      "url": "https://www.elcolombiano.com/colombia/fundacion-santo-domingo-alianza-empresarial-fondo-milagro-130000-millones-KB43537805",
+      "fecha": "2026-11-13",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "Semana",
+      "titulo": "Estos son los millonarios salarios del Fondo Milagro que provocaron la desautorización y molestia del presidente De La Espriella",
+      "url": "https://www.semana.com/politica/articulo/estos-son-los-millonarios-salarios-del-fondo-milagro-que-provocaron-la-desautorizacion-y-molestia-del-presidente-de-la-espriella/202616/",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Política A 41 años de la tragedia de Armero, solo una de las 23 recomendaciones para reparar a las víctimas se ha cumplido",
+      "http_ok": true
+    },
+    {
+      "fuente": "Semana",
+      "titulo": "Presidente Abelardo De La Espriella ordena frenar los sueldos del Fondo Milagro: “¡No los autorizo!”",
+      "url": "https://www.semana.com/politica/articulo/presidente-abelardo-de-la-espriella-ordena-frenar-sueldos-del-fondo-milagro-no-los-autorizo/202627/",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Política A 41 años de la tragedia de Armero, solo una de las 23 recomendaciones para reparar a las víctimas se ha cumplido",
+      "http_ok": true
+    },
+    {
+      "fuente": "Semana",
+      "titulo": "Fútbol por una causa: Colombia jugará contra Chile y la taquilla ayudará a los damnificados por el terremoto en Cali",
+      "url": "https://www.semana.com/mejor-colombia/articulo/futbol-por-una-causa-colombia-jugara-contra-chile-y-la-taquilla-ayudara-a-los-damnificados-por-el-terremoto-en-cali/202625/",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Mejor Colombia Cerrejón fue reconocida como la empresa minera con mejor reputación en Colombia",
+      "http_ok": true
+    },
+    {
+      "fuente": "Semana",
+      "titulo": "Damnificados del terremoto en Cali recibirán bonos de $50 millones para comprar vivienda",
+      "url": "https://www.semana.com/mejor-colombia/articulo/damnificados-del-terremoto-en-cali-recibiran-bonos-de-50-millones-para-comprar-vivienda/202626/",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Mejor Colombia Fútbol por una causa: Colombia jugará contra Chile y la taquilla ayudará a los damnificados por el terremoto en Cali",
+      "http_ok": true
+    },
+    {
+      "fuente": "Infobae",
+      "titulo": "Cathy Juvinao cuestionó los $380.000 millones reportados y apenas $7.000 millones en ejecución del Fondo Milagro: solo con “TikToks haciendo show”",
+      "url": "https://www.infobae.com/colombia/2026/11/12/cathy-juvinao-cuestiono-los-380000-millones-reportados-y-apenas-7000-millones-en-ejecucion-del-fondo-milagro-solo-con-tiktoks-haciendo-show/",
+      "fecha": "2026-11-12",
+      "resumen_feed": "A tres meses del terremoto del 10 de agosto, las preguntas sobre la inversión para las víctimas siguen sin despejarse, por lo que la congresista lanzó varios cuestionamientos al Gobierno nacional",
+      "cuerpo": "Escuchar Puntos clave Resumen Cathy Juvinao denunció la presunta corrupción y falta de transparencia en el manejo de fondos destinados a la reconstrucción tras el terremoto y para subsidios de vivienda (@CathyJuvinao/X) 12 Nov, 2026 04:24 p. m. EST Guardar La representante a la Cámara Catherine “Cathy” Juvinao cuestionó en el Congreso de la República la ejecución y transparencia del Fondo Milagro, mecanismo creado por el Gobierno del presidente Abelardo de la Espriella para atender a los damnificados del terremoto ocurrido el 10 de agosto de 2026, al exigir explicaciones sobre el destino de los recursos públicos. Durante un debate de control político en la plenaria de la corporación y a través de sus canales digitales oficiales, la legisladora señaló la ausencia de los responsables directos de la reconstrucción, el gerente del fondo, Jaime Uribe, y el ministro de Vivienda, Jaime Beltrán, al señalar que “el verdadero milagro será que el Gobierno dé la cara y rinda cuentas”. PUBLICIDAD En su pronunciamiento escrito en la red social X, Juvinao expuso sus reparos frente a las prioridades comunicativas del Ejecutivo y la falta de entregas materiales en las zonas afectadas: “ Muy valientes para hacer videos justicieros en TikTok, pero incapaces de dar la cara ante el Congreso y responderles a las víctimas del terremoto”. Catherine Juvinao cuestionó ante el Congreso la ejecución de los recursos destinados a atender a los damnificados del terremoto del 10 de agosto (@CathyJuvinao/X) “A tres meses de la tragedia, siguen creciendo los cuestionamientos sobre el Fondo Milagro. ¿Dónde está la plata? ¿Qué se ha hecho con ella? ¿Cuándo llegarán las soluciones a los damnificados? ”, cuestionó Cathy Juvinao en la red social. Junto a estas palabras, la congresista compartió un video de s",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Banquete del Millón destinará su edición 66 a la reconstrucción de las zonas afectadas por el terremoto",
-      "url": "https://www.eltiempo.com/vida/banquete-del-millon-destinara-su-edicion-66-a-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto-3598834",
-      "fecha": "2026-11-05",
+      "titulo": "Presidente Abelardo De La Espriella ordenó frenar la nómina del Fondo Milagro por los altos salarios de sus funcionarios: 'No los autorizo'",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-frenar-la-nomina-del-fondo-milagro-por-los-altos-salarios-de-sus-funcionarios-no-los-autorizo-3600682",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
-      "cuerpo": "Noticia Banquete del Millón destinará su edición 66 a la reconstrucción de las zonas afectadas por el terremoto A dos meses de la emergencia, la Corporación Organización Minuto de Dios reporta la movilización de 307,9 toneladas de ayuda. Banquete del millón. Foto: Cortesía. Link Angie Tatiana Rodríguez Bernal PERIODISTA 05.11.2026 16:15 Actualizado: 05.11.2026 16:15 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La reconstrucción de los territorios afectados por el terremoto del pasado 10 de agosto será el propósito de la edición número 66 del Banquete del Millón, que realizará la Corporación Organización Minuto de Dios el próximo 19 de noviembre, a las 7 p. m., en el Salón Rojo del Hotel Tequendama, en Bogotá. La iniciativa busca contribuir a la recuperación de las zonas afectadas y avanzar hacia una nueva etapa de atención a las familias damnificadas, luego de las labores de asistencia humanitaria desplegadas durante los últimos dos meses. De acuerdo con el balance de la Corporación, con corte al 10 de octubre de 2026, se habían movilizado 307,9 toneladas de ayuda a través de 46 envíos. De este total, 148,9 toneladas fueron destinadas al Chocó, 76,6 a Risaralda, 67,4 al Valle del Cauca, 10 a Caldas y cinco a Quindío. La ayuda ha incluido 12.548 mercados, 11.563 kits de aseo y 74.071 prendas de vestir. A estas acciones se suman 3.754 participaciones de voluntarios, que han registrado 22.524 horas de trabajo. Con el Banquete del Millón, la organización bu",
+      "cuerpo": "Noticia Presidente Abelardo De La Espriella ordenó frenar la nómina del Fondo Milagro por los altos salarios de sus funcionarios: 'No los autorizo' El mandatario también se refirió a los avances en la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto. El presidente Abelardo De La Espriella ordenó reversar la nómina del Fondo Milagro. Foto: Presidencia Link Andrés Felipe Bejarano Bejarano PERIODISTA DE BREAKING NEWS 12.11.2026 20:19 Actualizado: 13.11.2026 06:09 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El presidente Abelardo De La Espriella ordenó reversar la nómina mensual del Fondo Milagro , que tiene un costo estimado de 765 millones de pesos , tras considerar que los salarios de sus funcionarios contradicen la política de austeridad de su Gobierno. El anuncio lo hizo este jueves 12 de noviembre, mediante una publicación en su cuenta oficial de X, en la que también anticipó la adopción de medidas correctivas. El organismo, dirigido por Jaime Uribe, fue creado para administrar recursos públicos y privados destinados a la reconstrucción de las zonas afectadas por el terremoto de magnitud 7,4 que sacudió al país el pasado 10 de agosto. En su pronunciamiento, el jefe de Estado expresó su rechazo a los salarios establecidos y dejó claro que no había autorizado esos pagos. \"Los salarios que se han anunciado para el Fondo Milagro no se compadecen con mi directiva de austeridad . ¡No los autorizo! He ordenado reversar ese despropósit",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Valle del Cauca impulsa la recuperación turística de los municipios afectados por el terremoto en Colombia",
-      "url": "https://www.eltiempo.com/vida/viajar/valle-del-cauca-impulsa-la-recuperacion-turistica-de-los-municipios-afectados-por-el-terremoto-en-colombia-3598702",
-      "fecha": "2026-11-05",
+      "titulo": "'Se le arruga a uno el corazón': Fabián Vargas lidera un campamento de fútbol que lleva esperanza a los niños de Chiminangos, en Cali",
+      "url": "https://www.eltiempo.com/colombia/cali/se-le-arruga-a-uno-el-corazon-fabian-vargas-lidera-un-campamento-de-futbol-que-lleva-esperanza-a-los-ninos-de-chiminangos-en-cali-3600684",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
-      "cuerpo": "Noticia Valle del Cauca impulsa la recuperación turística de los municipios afectados por el terremoto en Colombia Caravanas turísticas, actividades al aire libre, eventos deportivos y mejoras en la conectividad hacen parte de las iniciativas. Parapente en Roldanillo, Valle del Cauca. Fotos Santiago Saldarriaga Quintero / EL TIEMPO Foto: Santiago Saldarriaga Quintero / EL TIEMPO Link Angie Tatiana Rodríguez Bernal PERIODISTA 05.11.2026 10:54 Actualizado: 05.11.2026 10:54 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El Valle del Cauca adelanta diferentes iniciativas para recuperar la actividad turística de los municipios afectados por el sismo que dejó 1.871 establecimientos turísticos con daños, de los cuales 1.167 fueron clasificados como graves o críticos. LEA TAMBIÉN Informe revela que los colombianos están viajando por más tiempo: sus estancias en el exterior aumentaron 38 % en dos años Angie Rodríguez Bernal",
+      "cuerpo": "Experiencia local Exclusivo suscriptores 'Se le arruga a uno el corazón': Fabián Vargas lidera un campamento de fútbol que lleva esperanza a los niños de Chiminangos, en Cali El exjugador llegó a uno de los barrios afectados por el terremoto del pasado 10 de agosto, con el Campamentos Bancolombia. Entre bloques envejecidos y carpas, Fabián Vargas lidera un campamento de fútbol en el barrio Chiminangos, donde participaron niños y jóvenes del sector. Foto: JOSÉ ANTONIO MINOTA HURTADO / EL TIEMPO Link José Antonio Minota Hurtado PERIODISTA 12.11.2026 20:56 Actualizado: 12.11.2026 22:42 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información En el barrio Chiminangos, a escasos metros de la cancha donde el balón rueda, el paisaje se quiebra. Las sonrisas de los niños, extasiados por tener al frente a un ídolo del fútbol colombiano , contrastan de forma cruda con el panorama de fondo: decenas de carpas improvisadas. https://x.com/ELTIEMPO/status/2121076188244299892?a=aesy8NIGj7jq4nHAJiA&s=20 Han pasado tres meses desde aquel devastador terremoto del 10 de agosto que estremeció al suroccidente del país, y en Cali la herida de la reconstrucción sigue abierta. El fuerte sol no fue impedimento para que niños y jóvenes participaran en el evento. Foto: JOSÉ ANTONIO MINOTA HURTADO / EL TIEMPO En medio de esa fractura social y urbana, aparece Fabián Vargas. El exmediocampista, que durante 20 años labró una carrera deportiva exitosa en clubes como el América de Cali y el Boca Ju",
       "http_ok": true
     },
     {
       "fuente": "El Tiempo",
-      "titulo": "Las alertas de Catherine Juvinao sobre las reglas del Fondo Milagro: sus manuales debilitan los controles, dice la representante",
-      "url": "https://www.eltiempo.com/politica/congreso/las-alertas-de-catherine-juvinao-sobre-las-reglas-del-fondo-milagro-sus-manuales-debilitan-los-controles-dice-la-representante-3598640",
-      "fecha": "2026-11-05",
+      "titulo": "Evelin Trejos, plata en el boxeo de los Juegos Olímpicos de la Juventud, le quiere regalar una casa a su mamá tras el terremoto",
+      "url": "https://www.eltiempo.com/deportes/ciclo-olimpico/evelin-trejos-plata-en-el-boxeo-de-los-juegos-olimpicos-de-la-juventud-le-quiere-regalar-una-casa-a-su-mama-tras-el-terremoto-3600677",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
-      "cuerpo": "Noticia Las alertas de Catherine Juvinao sobre las reglas del Fondo Milagro: sus manuales debilitan los controles, dice la representante Entre los vacíos está la suspensión del control de publicación en Secop II dentro de los 20 días hábiles a la aprobación del manual operativo. Catherine Juvinao, representante a la Cámara. Foto: Redes sociales. Link Juan Pablo Penagos Ramírez PERIODISTA 05.11.2026 08:37 Actualizado: 05.11.2026 08:40 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La representante Catherine Juvinao (Alianza Verde) reveló el manual operativo del patrimonio autónomo del Fondo Milagro, que establece las reglas para administrar los recursos y los procesos de contratación destinados a la reconstrucción tras el terremoto del 10 de agosto. A partir de la revisión del documento , la congresista lanzó varias alertas sobre disposiciones que podrían debilitar los controles sobre el manejo de esos recursos y la contratación. Una de ellas tiene que ver con el artículo 74 del manual, que suspende durante 20 días hábiles, a partir del 28 de octubre, la obligación de verificar que los procesos de contratación estén publicados en el Secop II antes de ejecutar las instrucciones correspondientes. Según advirtió, esto permitiría iniciar contratos sin que la ciudadanía conozca previamente su existencia. ¿Quién es Paola Andrea Onzaga, la persona a la que Abelardo De La Espriella entregará la dirección de la Agencia para la Reincorporación? \"Dentro de los veinte",
+      "cuerpo": "Última hora Evelin Trejos, plata en el boxeo de los Juegos Olímpicos de la Juventud, le quiere regalar una casa a su mamá tras el terremoto Rosa Salas perdió su empleo tras el sismo del pasado 10 de agosto. Evelin con la medalla Foto: Alexander Brand Link Lisandro Abel Rengifo PERIODISTA 12.11.2026 22:37 Actualizado: 12.11.2026 22:37 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La pugilista colombiana Evelin Trejos consiguió la medalla de plata en el combate final de la división de los 54 kilogramos de los Juegos Olímpicos de la Juventud 2026, en Dakar (Senegal), frente a la uzbeka Sabrina Chakomanova. Trejos no pudo conseguir ventaja en ninguno de los asaltos y su rival se impuso con autoridad para derrotarla por 5-0. Entró nerviosa al combate, pero era normal, pues se enfrentaba a una rival mucho más curtida, con más experiencia y zurda, uno de sus dolores de cabeza y un aspecto por mejorar. ( Fallo del TAS sanciona a América de Cali y modifica la tabla de la Liga BetPlay II-2026) Evelin Trejos le quiere regalar una casa a su mamá tras el terremoto “La diferencia estuvo en tener más confianza. Entré nerviosa. Durante el combate traté de controlar eso, pero es muy complicado”, le contó Trejos a EL TIEMPO. De la tragedia a la gloria: Evelin Trejos es medallista olímpica Foto: EL TIEMPO “Se me dificulta pelear contra las zurdas. Este año solo tuve un torneo y ojalá que con esto me puedan dar más oportunidades. Tuvimos un entrenamiento intenso, pero eso n",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "La taquilla del corazón: el histórico regreso de la Selección Colombia para sanar las heridas del terremoto en Cali",
+      "url": "https://www.eltiempo.com/colombia/cali/la-taquilla-del-corazon-el-historico-regreso-de-la-seleccion-colombia-para-sanar-las-heridas-del-terremoto-en-cali-3600664",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Noticia La taquilla del corazón: el histórico regreso de la Selección Colombia para sanar las heridas del terremoto en Cali Juego amistoso contra Chile proyecta un impacto económico de $10.500 millones y un propósito solidario por los damnificados del sismo. La Selección Colombia realizó su último entrenamiento en Cali, antes de recibir a Chile en el estadio Pascual Guerrero, en un ambiente de solidaridad y eventos sociales. Foto: Alcaldía de Cali Link José Antonio Minota Hurtado PERIODISTA 12.11.2026 18:47 Actualizado: 12.11.2026 18:47 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Después de casi tres décadas de ausencia, la Selección Colombia masculina de mayores vuelve a pisar el césped del estadio Olímpico Pascual Guerrero. Su regreso, marcado por el partido amistoso de este viernes 13 de noviembre frente a Chile, trasciende el ámbito deportivo para convertirse en un motor de reconstrucción social y económica tras el devastador terremoto que golpeó a la capital vallecaucana el pasado 10 de agosto. El técnico Néstor Lorenzo destacó la acogida de los caleños y el carácter solidario del juego. Foto: Alcaldía de Cali Durante su encuentro con los medios este jueves, el técnico del combinado nacional, Néstor Lorenzo, enfatizó el propósito profundamente social de esta visita. “El mensaje es que la Selección viene a darles alegría, a que la gente se una. Sé que la reconstrucción lleva mucho tiempo. Decirles que no dejen de ayudar, que no se olviden y que tod",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Gobierno Nacional lanza línea de crédito para apoyar a mipymes turísticas afectadas por el terremoto",
+      "url": "https://www.eltiempo.com/vida/viajar/gobierno-nacional-lanza-linea-de-credito-para-apoyar-a-mipymes-turisticas-afectadas-por-el-terremoto-3600638",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Gobierno Nacional lanza línea de crédito para apoyar a mipymes turísticas afectadas por el terremoto Los créditos tendrán plazos de hasta cinco años y máximo 12 meses de gracia a capital. Para acceder, los empresarios deberán contar con RNT activo. Playas, bosques y montañas hacen parte de la nueva forma de viajar. Foto: Cortesía Booking.com Link Camilo Andrés Peña Castañeda EDITOR VIDA 12.11.2026 17:15 Actualizado: 12.11.2026 17:15 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El Gobierno Nacional presentó la línea de crédito Turismo Milagro, una alianza entre Bancóldex y el Fondo Nacional de Turismo (Fontur), para apoyar la reconstrucción y reactivación de las micro, pequeñas y medianas empresas del sector turístico de los 16 departamentos afectados por el sismo de agosto. La línea dispone de $100.000 millones en cupos de financiación y cuenta con el apoyo del Ministerio de Comercio, Industria y Turismo. Su propósito, explica Fontur en un comunicado, es brindar financiación en condiciones favorables para que los empresarios recuperen su capacidad productiva, fortalezcan sus negocios y se preparen para recibir más viajeros. Los recursos podrán destinarse a capital de trabajo, arreglos locativos, recuperación de infraestructura, compra de equipos, sustitución de pasivos y financiación de inversiones. Los créditos podrán tener plazos de hasta cinco años y un período de gracia a capital de máximo 12 meses, con el propósito de aliviar el flujo de ca",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Entre espectáculos y los estragos del terremoto: el debate que pone bajo la lupa la estrategia turística en Cali",
+      "url": "https://www.eltiempo.com/colombia/cali/entre-ryan-castro-y-los-estragos-del-terremoto-el-debate-que-pone-bajo-la-lupa-la-estrategia-turistica-en-cali-3600382",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Entre espectáculos y los estragos del terremoto: el debate que pone bajo la lupa la estrategia turística en Cali El debate de control político en el Concejo reveló la brecha entre la promoción turística tradicional y la urgencia de los barrios y zonas rurales. En el debate de control político, la Secretaría de Turismo presentó un balance de afectaciones tras el terremoto del pasado 10 de agosto. Foto: Particular Link José Antonio Minota Hurtado PERIODISTA 12.11.2026 04:05 Actualizado: 12.11.2026 17:07 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información El balance real de afectaciones tras el terremoto del pasado 10 de agosto, la efectividad en el manejo de los recursos y el rezago en las metas del Plan de Desarrollo 2024–2027 , fueron los temas centrales de un álgido debate de control político a la Secretaría de Turismo de Cali. La sesión, promovida por los concejales Sergio Mauricio Zamora Betancur y Alexandra Hernández Cedeño, evidenció la preocupación de los cabildantes frente a la brecha existente entre los recursos comprometidos y las obligaciones efectivamente pagadas , así como la concentración del presupuesto en eventos masivos en detrimento del turismo comunitario y rural. La secretaria de Turismo María Fernanda Campuzano presentó estrategia de reactivación turística. Foto: Particular El golpe del sismo: $ 25.000 millones en pérdidas Durante su intervención, la titular de la cartera de Turismo, María Fernanda Campuzano Sánchez, entregó el cons",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "'Encanto' regresa a los cines de Colombia este 12 de noviembre con funciones solidarias para ayudar a los damnificados por el terremoto",
+      "url": "https://www.eltiempo.com/cultura/cine-y-tv/encanto-regresa-a-los-cines-de-colombia-este-12-de-noviembre-con-funciones-solidarias-para-ayudar-a-los-damnificados-por-el-terremoto-3600591",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Explicativo 'Encanto' regresa a los cines de Colombia este 12 de noviembre con funciones solidarias para ayudar a los damnificados por el terremoto Las regalías del reestreno de la película de Disney serán destinadas a la Cruz Roja Bogotá para apoyar a las familias afectadas por el sismo. Encanto. Foto: Walt Disney Animation Studios Link Juan Sebastian Cardona Bernal PERIODISTA DE ALCANCE DIGITAL 12.11.2026 15:44 Actualizado: 12.11.2026 15:44 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Encanto , la película que retrató a Colombia desde la óptica de Disney, vuelve este jueves 12 de noviembre a diferentes salas de cine en funciones solidarias que servirán para recaudar fondos destinados a los damnificados por el terremoto que sacudió al país el pasado 10 de agosto y dejó a cientos de personas sin un hogar donde vivir. La cinta que inmortalizó las tradiciones y los paisajes de Colombia volverá a brillar en las salas de cine a partir de este 12 de noviembre y será la encargada de liderar la iniciativa solidaria que busca ayudar a las víctimas que dejó este fuerte evento sísmico. LEA TAMBIÉN Daddy Yankee regresa a los escenarios tras su retiro y haberse inclinado por la fe cristiana; reveló por qué decidió volver: 'Tengo un equilibrio' Juan Cardona Bernal",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Fuerza Armada de Venezuela anuncia operación en frontera con Colombia para desmantelar campamentos de irregulares",
+      "url": "https://www.eltiempo.com/mundo/venezuela/venezuela-expresa-a-colombia-su-disposicion-a-colaborar-en-la-seguridad-fronteriza-3600447",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Fuerza Armada de Venezuela anuncia operación en frontera con Colombia para desmantelar campamentos de irregulares El comunicado no hace referencia al incidente con el ELN, grupo armado que tiene presencia también en el lado venezolano de la frontera. Operativo militar conjunto entre EE. UU. y Venezuela contra el Ejército de Liberación Nacional (ELN) Foto: Redes Sociales Link Ana María Rodríguez Brazón CORRESPONSAL DE EL TIEMPO EN CARACAS 12.11.2026 08:57 Actualizado: 12.11.2026 11:59 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Este jueves, el gobierno venezolano emitió un comunicado a través de la Cancillería en el expresa su disposición para trabajar con Colombia en materia de seguridad fronteriza, luego de que el ministro de Defensa colombiano, Jorge Eduardo Mora, pidiera a Estados Unidos mediar ante autoridades venezolanas para que colaboren en la búsqueda de una subteniente del Ejército secuestrada por la guerrilla del Ejército de Liberación Nacional (ELN). \"Venezuela reafirma su compromiso con la seguridad fronteriza y regional, la lucha contra la delincuencia organizada transnacional y el fortalecimiento de la cooperación bilateral, sobre la base del respeto mutuo\", se lee en el comunicado publicado en las redes. LEA TAMBIÉN Revelan nuevos detalles del secuestro de Nancy Gómez, esposa de alcalde de Uribia, Jaime Luis Buitrago: 'Le escribieron que la próxima iba a ser ella' Laura Quintero",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Familiares de víctimas del terremoto en Colombia pueden reclamar más de 43 millones de pesos: estos son los requisitos",
+      "url": "https://www.eltiempo.com/economia/finanzas-personales/familiares-de-victimas-del-terremoto-en-colombia-pueden-reclamar-mas-de-43-millones-de-pesos-3600412",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Explicativo Familiares de víctimas del terremoto en Colombia pueden reclamar más de 43 millones de pesos: estos son los requisitos Los beneficiarios podrán realizar la solicitud directamente por internet, sin intermediarios y con una documentación más sencilla. La ADRES habilitó el trámite para reclamar la indemnización por las víctimas del terremoto. Foto: El Tiempo / ISTOCK / en Facebook. @ADRES Link Katherine Shirley Bravo PERIODISTA DE ALCANCE DIGITAL 12.11.2026 08:23 Actualizado: 12.11.2026 08:25 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La indemnización económica está dirigida a los familiares de las personas que fallecieron como consecuencia del terremoto ocurrido el 10 de agosto de 2026 en Colombia. Este reconocimiento busca brindar un apoyo económico a quienes perdieron a sus seres queridos durante la emergencia. De acuerdo con la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (Adres), el valor de este reconocimiento es de $43.772.625 . Además, para facilitar el acceso a estos recursos, la entidad redujo de 12 a 5 los requisitos necesarios para presentar la reclamación. Según el balance publicado por la entidad, la tragedia dejó 336 víctimas mortales y, hasta el 10 de noviembre, se habían recibido solicitudes de indemnización correspondientes a 148 personas fallecidas. Por esta razón, las familias que aún no han iniciado el procedimiento pueden consultar las condiciones para acceder al beneficio. LEA TAMBIÉN ",
       "http_ok": true
     },
     {
       "fuente": "El País (Cali)",
-      "titulo": "Luis Fernando Velasco, exminInterior salpicado en caso de corrupción de la UNGRD, queda en libertad; estas fueron las razones",
-      "url": "https://www.elpais.com.co/judicial/luis-fernando-velasco-exmininterior-salpicado-en-caso-de-corrupcion-de-la-ungrd-queda-en-libertad-estas-fueron-las-razones-0545.html",
-      "fecha": "2026-11-05",
+      "titulo": "Demuelen parte del histórico Colegio San Luis Gonzaga de Cali por daños del terremoto: así avanza la demolición",
+      "url": "https://www.elpais.com.co/cali/demuelen-parte-del-historico-colegio-san-luis-gonzaga-de-cali-por-danos-del-terremoto-asi-avanza-la-demolicion-1204.html",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
-      "cuerpo": "Judicial Luis Fernando Velasco, exminInterior salpicado en caso de corrupción de la UNGRD, queda en libertad; estas fueron las razones A pesar de que Velasco recuperó su libertad, luego de que la Sala Penal del Tribunal Superior de Bogotá fallara una tutela a su favor, él continúa vinculado al proceso penal. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias El exministro del Interior Luis Fernando Velasco no solo habría expuesto en un “cónclave” la forma cómo se estaba comprando a los congresistas. También es señalado de hacer acuerdos oscuros con el senador Julio Elías Chagüi. | Foto: Presidencia Wendy Yoana Mambuscay Giraldo 5 de nov de 2026, 08:05 p. m. Actualizado el 5 de nov de 2026, 09:23 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . ELN confirmó el secuestro de una subteniente del Ejército en Saravena, Arauca 2 . Video: Capturan un hombre que llevaba prendas de la Sijín y dos armas de fuego en una camioneta en el sur Cali 3 . Revelan presunto chat en el que Gustavo Petro habría ordenado mantener contrato de Deicy Jiménez: detalles de la conversación 4 . Preocupación en Popayán, Cauca: vecinos denuncian presuntos robos y actos de violencia atribuidos a alias ‘El Tuerto’ 5 . Gobernadora reaccionó a la muerte de alias Pincher, señalado cabecilla de las disidencias en el Valle: esto dijo Este jueves, el Tribunal Superior de Bogotá ordenó la libertad inmediata del exministro del Interior, Luis Fernando Velasco, quien se encontraba bajo detención domiciliaria, tras ser procesado por el escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo del Desastre (UNGRD). La decisión se produjo luego de que la corporación estudiara los recursos de apelación presentados por la defensa del exfuncio",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Tribunal ordenó la libertad del exministro Luis Fernando Velasco por caso UNGRD",
-      "url": "https://www.elcolombiano.com/colombia/exministro-luis-fernando-velasco-en-libertad-tribunal-lo-ordeno-AG43230563",
-      "fecha": "2026-11-05",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Juez ordenó a fundación de la primera dama rendir cuentas completas sobre donaciones para reconstrucción tras el terremoto",
-      "url": "https://www.elcolombiano.com/colombia/fundacion-de-la-primera-dama-debe-entregar-detalles-sobre-donaciones-para-atender-el-terremoto-PH43229413",
-      "fecha": "2026-11-05",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Tiempo",
-      "titulo": "Empresas podrán destinar hasta el 50 % de su impuesto de renta a obras de reconstrucción tras el sismo",
-      "url": "https://www.eltiempo.com/economia/empresas-podran-destinar-hasta-el-50-de-su-impuesto-de-renta-a-obras-de-reconstruccion-tras-el-sismo-3598528",
-      "fecha": "2026-11-04",
-      "resumen_feed": "",
-      "cuerpo": "Noticia Empresas podrán destinar hasta el 50 % de su impuesto de renta a obras de reconstrucción tras el sismo El mecanismo REXI permitirá financiar proyectos de vivienda, salud y educación en los municipios afectados por el terremoto del 10 de agosto. El evento contó con Carlos Ríos, director del DAPRE, Jaime Beltrán, ministro de Vivienda, Leonidas Tobón, viceministro de Agricultura, miembros de la RedPro y más de 120 empresas del país. Foto: Proantioquia Link María Alejandra Moreno Flórez 04.11.2026 18:02 Actualizado: 04.11.2026 18:02 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Las empresas con ingresos brutos iguales o superiores a 33.610 Unidades de Valor Tributario (UVT), unos $1.800 millones al año, podrán destinar hasta la mitad de su impuesto de renta a ejecutar obras de reconstrucción en los municipios afectados por el sismo del 10 de agosto. La modalidad, denominada Reconstrucción por Impuestos (REXI) , adapta el esquema de Obras por Impuestos, que permite a los contribuyentes financiar y ejecutar proyectos de infraestructura pública como parte del cumplimiento de sus obligaciones tributarias. La iniciativa fue presentada por la Fundación Proantioquia , la Red de Fundaciones y Empresas Pro (RedPRO) y otros aliados, en un encuentro al que asistieron más de 120 empresas y representantes del Gobierno Nacional. El mecanismo contempla proyectos de vivienda, salud, educación y gestión del riesgo en los territorios incluidos en la declaratoria de em",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Tiempo",
-      "titulo": "EE.UU. destina 150.000 dólares para formar a estudiantes venezolanos en ingeniería sísmica",
-      "url": "https://www.eltiempo.com/mundo/venezuela/ee-uu-destina-150-000-dolares-para-formar-a-estudiantes-venezolanos-en-ingenieria-sismica-3598448",
-      "fecha": "2026-11-04",
-      "resumen_feed": "",
-      "cuerpo": "Noticia EE.UU. destina 150.000 dólares para formar a estudiantes venezolanos en ingeniería sísmica La alianza impulsada por Washington complementa la retirada de más de tres millones de toneladas de escombros tras los sismos de junio. Representantes de EEUU en la UCV Foto: Embajada de EEUU Link Agencia EFE AGENCIA DE NOTICIAS 04.11.2026 13:27 Actualizado: 04.11.2026 13:27 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Estados Unidos otorgó una subvención de 150.000 dólares a la empresa global de ingeniería Miyamoto International para apoyar en la preparación de estudiantes venezolanos en ingeniería sísmica, infraestructura y prevención de desastres, informó este miércoles la embajada estadounidense en Caracas. \" El Departamento de Estado otorgó una subvención de $150.000 a Miyamoto Global Disaster Relief para apoyar la colaboración entre la Universidad Central de Venezuela y la Universidad Estatal de Arizona. Este proyecto capacitará a estudiantes venezolanos en ingeniería sísmica , infraestructura resiliente y prevención de desastres\", dijo el encargado de negocios estadounidense, John Barrett , en X. LEA TAMBIÉN 'La cifra de torturados en Venezuela es incalculable': Activista de derechos humanos advierte sobre la magnitud de los crímenes en mandato de Maduro Ana Rodríguez Brazón",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Tiempo",
-      "titulo": "'Encanto' vuelve a salas de cine colombianas para ayudar afectados del terremoto de agosto",
-      "url": "https://www.eltiempo.com/cultura/cine-y-tv/encanto-vuelve-a-salas-de-cine-colombianas-para-ayudar-afectados-del-terremoto-de-agosto-3598357",
-      "fecha": "2026-11-04",
-      "resumen_feed": "",
-      "cuerpo": "Noticia 'Encanto' vuelve a salas de cine colombianas para ayudar afectados del terremoto de agosto La iniciativa, impulsada por The Walt Disney Company en Latinoamérica y Cinecolor Colombia, destinará las regalías a la Cruz Roja Colombiana. Encanto Foto: Walt Disney Animation Studios Link Mateo Chacón Orduz SUBDIRECTOR VIDA 04.11.2026 09:33 Actualizado: 04.11.2026 09:33 Agencia EFE AGENCIA DE NOTICIAS 04.11.2026 09:33 Actualizado: 04.11.2026 09:33 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La magia de 'Encanto', la película de Disney que convirtió los paisajes, la música y las tradiciones colombianas en protagonistas de una historia de animación, regresará a los cines del país el próximo 12 de noviembre con un propósito solidario: recaudar fondos para apoyar a los afectados por el terremoto. LEA TAMBIÉN Las confesiones de Francis Ford Coppola: desde ‘El Padrino’ hasta su próxima película Juan Rios Arbelaez",
+      "cuerpo": "Cali Demuelen parte del histórico Colegio San Luis Gonzaga de Cali por daños del terremoto: así avanza la demolición Directivos del plantel educativo aseguraron que buscan poder terminar con la intervención estructural, para comenzar la etapa de reconstrucción. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Demuelen parcialmente el histórico Colegio San Luis Gonzaga en el oeste de Cali tras daños por terremoto El Colegio San Luis Gonzaga, ubicado en el oeste de Cali, está siendo sometido a una demolición parcial debido a las graves afectaciones estructurales que sufrió a causa del reciente terremoto. La emblemática institución educativa, que cuenta con aproximadamente 129 años de fundación, requirió esta intervención de urgencia para mitigar riesgos y garantizar la seguridad de los habitantes y transeúntes del sector. Para ejecutar estas labores técnicas, la empresa REHIMAC asumió la responsabilidad de los trabajos de demolición. El equipo de especialistas avanza en el desmonte controlado de las áreas comprometidas de la tradicional edificación, la cual ha formado a múltiples generaciones de caleños durante más de un siglo. Las autoridades locales y la comunidad educativa siguen atentas el desarrollo de las obras, a la espera de concluir la etapa de mitigación para evaluar las condiciones finales del plantel y definir los pasos a seguir en su recuperación. | Foto: Jorge Orozco / El País Johana Fiallo 12 de nov de 2026, 01:24 p. m. Actualizado el 12 de nov de 2026, 01:24 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Primeras imágenes de la detonación en los alrededores de la Escuela de Carabineros de Cali 2 . Atentan contra patrulla de la Policía en el barrio Siloé, en la ladera de Cali; explosión se e",
       "http_ok": true
     },
     {
       "fuente": "El País (Cali)",
-      "titulo": "Damnificados por el terremoto en Cali podrán cobrar el auxilio de $1.050.000 en 85 puntos: conozca las fechas y horarios",
-      "url": "https://www.elpais.com.co/cali/damnificados-por-el-terremoto-en-cali-podran-cobrar-el-auxilio-de-1050000-en-85-puntos-conozca-las-fechas-y-horarios-0323.html",
-      "fecha": "2026-11-04",
+      "titulo": "Abelardo de la Espriella ordena frenar los salarios del Fondo Milagro tras revelarse millonaria nómina: “¡No los autorizo!”",
+      "url": "https://www.elpais.com.co/politica/abelardo-de-la-espriella-ordena-frenar-los-salarios-del-fondo-milagro-tras-revelarse-millonaria-nomina-no-los-autorizo-1255.html",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
-      "cuerpo": "Cali Damnificados por el terremoto en Cali podrán cobrar el auxilio de $1.050.000 en 85 puntos: conozca las fechas y horarios Los pagos se realizarán en establecimientos distribuidos por diferentes sectores de la ciudad y en un punto masivo ubicado en Cosmocentro. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Las ayudas económicas están dirigidas a las personas damnificadas por el terremoto registrado en Cali el pasado 10 de agosto. | Foto: Alcaldía de Cali Jhon Warles Erazo Córdoba 4 de nov de 2026, 02:15 a. m. Actualizado el 4 de nov de 2026, 05:41 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Tras inspecciones por el terremoto, GdO anuncia suspensión preventiva del gas natural en torres de Chiminangos II 2 . Clásico América vs. Deportivo Cali tendrá más de 600 policías: estas son las medidas de seguridad 3 . Residentes de edificio en el centro de Cali denuncian aumento de habitantes de calle: “la situación se volvió incontrolable” 4 . Vehículo cayó a un canal de aguas residuales en Cali tras maniobra para evitar atropellar a un perro; esto se sabe 5 . Abre convocatoria para que 10.000 jóvenes aprendan gratis a crear aplicaciones con inteligencia artificial; fechas y requisitos Desde este miércoles 4 de noviembre, las personas afectadas por el terremoto del pasado 10 de agosto que resultaron beneficiarias del apoyo económico de $1.050.000 podrán reclamar el dinero en diferentes sectores de la ciudad de Cali. Así va la reconstrucción tras el terremoto: el Valle ya entrega casas y Cali sigue en evaluación Para facilitar la entrega de los recursos, se habilitarán 85 puntos de Gane-SuperGIROS distribuidos en la capital del Valle del Cauca. También funcionará un punto de atención masivo en el Centro Com",
+      "cuerpo": "Politica Abelardo de la Espriella ordena frenar los salarios del Fondo Milagro tras revelarse millonaria nómina: “¡No los autorizo!” El Presidente ordenó reversar los salarios luego de conocerse que su nómina mensual alcanza los $765,6 millones y que su gerente, Jaime Andrés Uribe, recibe cerca de $39,4 millones. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias El presidente Abelardo de la Espriella ordenó reversar los salarios anunciados para el Fondo Milagro, luego de conocer el costo mensual de su nómina. | Foto: Colprensa - Catalina Olaya Esther Andrea Moreno Mosquera 13 de nov de 2026, 01:48 a. m. Actualizado el 13 de nov de 2026, 01:48 a. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Abelardo frena nómina del Fondo Milagro tras revelarse salarios de hasta $39 millones 2 . La historia de Rosa Amelia Castillo, la primera beneficiaria de las viviendas reconstruidas en Roldanillo 3 . Revelan chat sobre el supuesto celular “envenenado” de Gustavo Petro: esto decía 4 . Canciller Bula habló con su homólogo venezolano para liberación de Nancy Gómez 5 . Petro responde a video de Darcy Quinn sobre Deicy Jiménez y perfiles falsos Una controversia por los salarios de los funcionarios del Fondo Milagro llevó al presidente Abelardo de la Espriella a pronunciarse públicamente y ordenar que se reviertan las remuneraciones anunciadas para el personal de esta entidad, creada para atender la reconstrucción de las zonas afectadas por el terremoto. La reacción del Mandatario se produjo luego de que se revelara que la nómina mensual del Fondo Milagro asciende aproximadamente a $765,6 millones. La información fue conocida a partir de la respuesta de la entidad a un derecho de petición presentado por la senadora Kamelia Zul",
+      "http_ok": true
+    },
+    {
+      "fuente": "El País (Cali)",
+      "titulo": "Cali tendrá un campamento para enseñar a emprendedores a vender por internet en solo tres días; así pueden participar",
+      "url": "https://www.elpais.com.co/valle/cali-tendra-un-campamento-para-ensenar-a-emprendedores-a-vender-por-internet-en-solo-tres-dias-asi-pueden-participar-1239.html",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "Valle Cali tendrá un campamento para enseñar a emprendedores a vender por internet en solo tres días; así pueden participar Con esta apuesta, el Valle del Cauca busca promover el uso de herramientas tecnológicas entre los emprendedores y facilitar su acceso al comercio electrónico. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Ecommerce. | Foto: Creada con IA Gemini Johana Fiallo 12 de nov de 2026, 06:10 p. m. Actualizado el 12 de nov de 2026, 06:10 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Varios muertos y heridos dejó grave accidente de tránsito en la vía a Buenaventura - Cali 2 . Cali tendrá un campamento para enseñar a emprendedores a vender por internet en solo tres días 3 . De transportadores a informadores turísticos: así busca Calima El Darién mejorar el turismo 4 . Golpe al contrabando en el Valle: decomisan más de 10.000 licores y 4,4 millones de cigarrillos en lo que va de 2026 5 . Presidente Abelardo De La Espriella anunció más de $11 mil millones para la reconstrucción del Hospital San Antonio de Roldanillo Crear un negocio desde cero, abrir una tienda virtual y aprender a vender por internet serán algunas de las habilidades que podrán desarrollar 100 emprendedores del Valle del Cauca durante ¡Despega!, el Campamento de E-commerce que comenzará este viernes 13 de noviembre en el Distrito de Innovación e Inteligencia Artificial, NIDO, en Cali. La iniciativa busca acercar a emprendedores y micro, pequeñas y medianas empresas (Mipymes) a las herramientas del comercio electrónico, con el propósito de fortalecer sus modelos de negocio, ampliar su presencia en los canales digitales y generar nuevas oportunidades de crecimiento. Así podrán acceder a créditos los emprendedores del Valle del ",
       "http_ok": true
     },
     {
       "fuente": "El Colombiano",
-      "titulo": "Mezcla desarrollada por Colmayor permite convertir escombros en figuras decorativas y piezas arquitectónicas",
-      "url": "https://www.elcolombiano.com/medellin/patentes-inventos-tecnologia-medellin-colegio-mayor-colmayor-ID43156482",
-      "fecha": "2026-11-04",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Fondo Milagro: Juvinao habla de supuestos vacíos y que manuales permitirían adiciones sin límites a contratos",
-      "url": "https://www.elcolombiano.com/colombia/politica/juvinao-denuncia-vacios-manuales-contratacion-fondo-milagro-PA43160870",
-      "fecha": "2026-11-04",
-      "resumen_feed": "",
-      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
-      "http_ok": true
-    },
-    {
-      "fuente": "El Colombiano",
-      "titulo": "Archivos vacíos, cifrados e imposibles de abrir: el reclamo de Bonilla y Velasco por las pruebas en caso Ungrd",
-      "url": "https://www.elcolombiano.com/colombia/caso-ungrd-bonilla-y-velasco-denuncian-fallas-en-las-pruebas-de-la-fiscalia-LA43167927",
-      "fecha": "2026-11-04",
+      "titulo": "“Mi pálpito es que el Fondo Milagro no tiene recursos, que empiece a operar”: alcalde de Pereira tras el terremoto",
+      "url": "https://www.elcolombiano.com/colombia/reclamo-alcalde-pereira-fondo-milagro-sin-plata-terremoto-JK43499707",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
       "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true
     },
     {
       "fuente": "El Colombiano",
-      "titulo": "Corte Suprema aplazó hasta 2027 audiencia contra Bonilla y Velasco por escándalo de la UNGRD",
-      "url": "https://www.elcolombiano.com/colombia/corte-suprema-aplazo-audiencia-bonilla-velasco-escandalo-ungrd-HF43201530",
-      "fecha": "2026-11-04",
+      "titulo": "Reconstrucción de viviendas y ayudas alimentarias: así es el detalle del plan de la Fundación Santo Domingo por el terremoto",
+      "url": "https://www.elcolombiano.com/colombia/plan-fundacion-santo-domingo-reconstruccion-terremoto-OK43496796",
+      "fecha": "2026-11-12",
       "resumen_feed": "",
       "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true
     },
     {
       "fuente": "El Colombiano",
-      "titulo": "Tribunal define hoy libertad de Luis Fernando Velasco por caso Ungrd: ¿hay riesgo de fuga?",
-      "url": "https://www.elcolombiano.com/colombia/tribunal-define-libertad-luis-fernando-velasco-caso-ungrd-GO43185399",
-      "fecha": "2026-11-04",
+      "titulo": "¿En qué se ha gastado la plata del Fondo Milagro? Esto respondió su gerente, Jaime Uribe",
+      "url": "https://www.elcolombiano.com/colombia/fondo-milagro-gastos-contratos-nomina-jaime-andres-uribe-PC43503783",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "De la Espriella desautoriza salarios del Fondo Milagro: “He ordenado reversar ese despropósito”",
+      "url": "https://www.elcolombiano.com/colombia/de-la-espriella-desautoriza-salarios-fondo-milagro-NB43539141",
+      "fecha": "2026-11-12",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Estas son las bases del Plan Nacional de Desarrollo del gobierno de Abelardo De La Espriella: descentralización y reconstrucción, ente los ejes",
+      "url": "https://www.eltiempo.com/politica/gobierno/estos-son-las-bases-del-plan-nacional-de-desarrollo-del-gobierno-de-abelardo-de-la-espriella-descentralizacion-y-reconstruccion-ente-los-ejes-3600323",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Análisis Exclusivo suscriptores Estas son las bases del Plan Nacional de Desarrollo del gobierno de Abelardo De La Espriella: descentralización y reconstrucción, ente los ejes Se conoció un documento en el que se fijaron los principales criterios con los que se redactará el plan nacional de desarrollo. El presidente Abelardo De La Espriella en Tunja. Link Juan Sebastián Lombo Delgado PERIODISTA 11.11.2026 17:04 Actualizado: 11.11.2026 23:35 Juan Pablo Penagos Ramírez PERIODISTA 11.11.2026 17:04 Actualizado: 11.11.2026 23:35 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Se conoció un borrador del documento que fija las bases del Plan Nacional de Desarrollo del gobierno de Abelardo De La Espriella. Se trata de la primera propuesta, construida con los aportes de los encuentros regionales, y que servirá para la creación de la hoja de ruta final para este gobierno. LEA TAMBIÉN Senado aprueba en segundo debate proyecto de ciclos cortos en nuevas tecnologías para formar a 100.000 jóvenes al año Redacción Tiempo",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Emergencia en Nueva York por el colapso de una vivienda junto a una construcción deja un muerto y 10 heridos: buscan desaparecidos entre escombros",
+      "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/emergencia-en-nueva-york-por-el-colapso-de-una-vivienda-junto-a-una-construccion-buscan-a-trabajadores-que-estarian-desaparecidos-entre-los-escombros-3600319",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Emergencia en Nueva York por el colapso de una vivienda junto a una construcción deja un muerto y 10 heridos: buscan desaparecidos entre escombros El cuerpo de bomberos de la ciudad desplegó equipos especializados en Brooklyn para inspeccionar la estructura y determinar si hay personas atrapadas. El colapso ocurrió en una zona donde hay varios edificios en construcción. Foto: @FDNY Link Camilo A. Castillo SUBEDITOR DE LA SECCIÓN INTERNACIONAL 11.11.2026 16:58 Actualizado: 11.11.2026 19:28 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Una emergencia por el colapso parcial de una vivienda de tres pisos se registró este miércoles 11 de noviembre en Brooklyn, Nueva York (EE. UU.) , donde, hasta el momento se reporta un muerto y otros 10 heridos. Unidades del Departamento de Bomberos de la ciudad (FDNY) adelantan operaciones de búsqueda y rescate de posibles desaparecidos. LEA TAMBIÉN El secretario del Tesoro de Trump deja su mansión de lujo por amenazas de Irán y se instala en una base militar: la historia detrás de su evacuación Camilo Castillo",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Fondo Milagro ha ejecutado 7.440 millones de pesos a la fecha: recursos se han concentrado en demolición de 4 edificaciones y sus interventorías",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/fondo-milagro-solo-ha-ejecutado-7-440-millones-de-pesos-a-la-fecha-recursos-se-han-concentrado-en-demolicion-de-4-edificaciones-3600210",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Investigación Fondo Milagro ha ejecutado 7.440 millones de pesos a la fecha: recursos se han concentrado en demolición de 4 edificaciones y sus interventorías El gerente del fondo respondió un cuestionario en el que aseguró que se está estructurando un plan de compra de vivienda nueva por 35.000 millones. Jaime Uribe, gerente del Fondo Milagro para reconstrucción tras terremoto. Foto: MININTERIOR Link Juan Sebastián Lombo Delgado PERIODISTA 11.11.2026 11:35 Actualizado: 11.11.2026 17:55 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información En el Congreso hubo molestia con el gerente del Fondo Milagro , Jaime Andrés Uribe , pues no asistió al debate de control sobre el avance de la reconstrucción tras el terremoto del 10 de agosto . Presentó excusas debido a que tenía que acompañar al presidente Abelardo De La Espriella a Roldanillo, Valle del Cauca. En su lugar, respondió al cuestionario en el que se le preguntó por el avance de las tareas desde su dependencia. LEA TAMBIÉN ¿Qué dice el nuevo Plan Nacional de Desarrollo, la 'Patria Milagro', sobre la Agencia de Defensa Jurídica del Estado? Jhoan Cote Lozano",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Juvinao habla sobre atención del terremoto: ‘El Fondo Milagro está lleno de perlitas",
+      "url": "https://www.eltiempo.com/politica/congreso/juvinao-habla-sobre-atencion-del-terremoto-el-fondo-milagro-esta-lleno-de-perlitas-3600320",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Catherine Juvinao 04:55 P.M. Juvinao habla sobre atención del terremoto: ‘El Fondo Milagro está lleno de perlitas La representante Catherine Juvinao (Alianza Verde) habla sobre la atención del gobierno de Abelardo De La Espriella a las emergencias por el terremoto. Episodios NOVIEMBRE 5 DE 2026 00:00 Ley anticapuchos: ¿qué viene tras su aprobación en primer debate?",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Corte Constitucional avaló la emergencia económica por el terremoto y puso límites al Gobierno para gastar los recursos",
+      "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-avalo-la-emergencia-economica-por-el-terremoto-y-puso-limites-al-gobierno-para-gastar-los-recursos-3600293",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Corte Constitucional avaló la emergencia económica por el terremoto y puso límites al Gobierno para gastar los recursos La decisión tuvo como ponente al magistrado Juan Carlos Cortés . Corte Constitucional Foto: Cortesía Link Juan Diego Torres Lasso PERIODISTA JUDICIAL 11.11.2026 16:02 Actualizado: 11.11.2026 16:10 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información La Corte Constitucional declaró exequible la emergencia económica , social y ecológica que decretó el Gobierno el 19 de agosto de 2026, tras el terremoto de magnitud 7,4 ocurrido diez días antes. Sin embargo, condicionó su aplicación para impedir que las facultades extraordinarias se utilicen para atender problemas anteriores al desastre o financiar gastos que no estén directamente relacionados con sus consecuencias. El alto tribunal también declaró exequible el Decreto 1348 del 31 de agosto, mediante el cual el Gobierno modificó el ámbito territorial de la emergencia . No obstante, precisó que las medidas solo podrán cobijar a los municipios que registraron afectaciones por el sismo y sus réplicas, según los reportes de la Unidad Nacional para la Gestión del Riesgo de Desastres, o aquellos en los que se demuestre técnicamente una afectación concreta. Tres meses después del terremoto en Cali. Foto: Samir Rojas Uno de los principales límites establecidos por la Corte es que la emergencia no podrá utilizarse para adoptar medidas estructurales ni atender problemas que ya existían antes del ter",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "La historia del caleño que en Estados Unidos movilizó ayudas para los damnificados del terremoto en el país y regresó a su tierra, donde fue exaltado",
+      "url": "https://www.eltiempo.com/colombia/cali/la-historia-del-caleno-que-en-estados-unidos-movilizo-ayudas-para-los-damnificados-del-terremoto-en-el-pais-y-regreso-a-su-tierra-donde-fue-exaltado-3600234",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Noticia La historia del caleño que en Estados Unidos movilizó ayudas para los damnificados del terremoto en el país y regresó a su tierra, donde fue exaltado Cristhian Mancera Mejía recibió un reconocimiento del Concejo de Cali por su gestión humanitaria por fuera del territorio nacional. Elija a EL TIEMPO como su fuente diaria de noticias para que siga bien informado. Cristhian Mancera Mejía recibió una exaltación de honor del Concejo Distrital de Cali. Foto: Archivo particular Link Carolina Bohórquez Ramírez PERIODISTA 11.11.2026 13:11 Actualizado: 11.11.2026 13:13 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Cristhian Mancera Mejía recibió una exaltación de honor del Concejo Distrital de Cali. LEA TAMBIÉN Videos | Así quedó la sede de RCN en Cali tras el atentado de dos hombres en moto, quienes dejaron un paquete con el explosivo a las 3:35 de la mañana Carolina Bohórquez Ramírez",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Llevó ayudas a damnificados por el terremoto, contrajo malaria y pide ayuda para conseguir una prótesis: 'Seguimos tocando puertas'",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/llevo-ayudas-a-damnificados-por-el-terremoto-contrajo-malaria-y-pide-ayuda-para-conseguir-una-protesis-seguimos-tocando-puertas-3600150",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Llevó ayudas a damnificados por el terremoto, contrajo malaria y pide ayuda para conseguir una prótesis: 'Seguimos tocando puertas' Carlos Andrés Ortega fue uno de los jóvenes que ayudó a remover escombros en varios departamentos afectados por el terremoto del 10 de agosto. Carlos estuvo al borde de la muerte tras contraer malaria. Foto: Gobernación del Chocó / iStock Link Wendys Pitre Ariza 11.11.2026 10:22 Actualizado: 11.11.2026 12:50 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Colombia cumple tres meses desde el terremoto de magnitud 7,4 que sacudió el occidente del país el pasado 10 de agosto y dejó más de 300 víctimas mortales y cerca de 260.000 damnificados. LEA TAMBIÉN Dos adultos mayores tienen miedo por el tejado colapsado y aún esperan ayudas en Cali: 'Vivo con el casco puesto por si me caen más pedazos del techo' Carolina Bohórquez Ramírez",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "De La Espriella aparece con réplica de un Gripen mientras su Gobierno renegocia compensaciones del contrato con Saab",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/de-la-espriella-aparece-con-replica-de-un-gripen-mientras-su-gobierno-renegocia-compensaciones-del-contrato-con-saab-3600219",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Noticia De La Espriella aparece con réplica de un Gripen mientras su Gobierno renegocia compensaciones del contrato con Saab El Presidente publicó un video en el que se le ve sosteniendo un modelo del caza. Presidente Abelardo De La Espriella con réplica de un avión Gripen. Foto: Archivo particular Link Jesús Antonio Blanquicet SUBEDITOR DE JUSTICIA 11.11.2026 11:56 Actualizado: 11.11.2026 12:02 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Con una réplica del avión de combate Gripen E en sus manos, el presidente Abelardo De La Espriella apareció en un video publicado en su cuenta de Instagram mientras ingresaba a la sede del Gobierno nacional en Barranquilla . (Le dejamos: Corte Suprema absuelve a hombre condenado por anunciar falsamente una bomba en un peaje) Los caza fabricada por la compañía sueca Saab , hace parte del programa de renovación de la flota de combate de la Fuerza Aeroespacial Colombiana y reemplazará a los aviones Kfir . La publicación del mandatario se produce en medio de las conversaciones que adelanta su Gobierno para modificar las compensaciones contempladas en el contrato de adquisición de 17 aeronaves Gripen , un negocio firmado por 3.100 millones de euros y cuya ejecución se extenderá hasta 2032 . (Le dejamos: Magdalena comprará blindados militares para reforzar operaciones del Ejército) Presidente Abelardo De La Espriella con réplica de un avión Gripen. Foto: Archivo particular “Basado en la confianza y una visión compartida, Ju",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Tiempo",
+      "titulo": "Cali se pone de puntillas: arranca el Festival Internacional de Ballet con un tributo a las víctimas del devastador terremoto del 10 de agosto",
+      "url": "https://www.eltiempo.com/colombia/cali/cali-se-pone-de-puntillas-arranca-el-festival-internacional-de-ballet-con-un-tributo-a-las-victimas-del-devastador-terremoto-del-10-de-agosto-3600156",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Noticia Cali se pone de puntillas: arranca el Festival Internacional de Ballet con un tributo a las víctimas del devastador terremoto del 10 de agosto La gala de apertura, titulada 'Danza la esperanza', estará marcada por un profundo sentido de respeto hacia la ciudad, luego del sismo. Elija a EL TIEMPO como su fuente diaria de noticias para que siga bien informado. Festival Internacional de Ballet de Cali. Foto: Juan Pablo Rueda Bustamante / El Tiempo Link Carolina Bohórquez Ramírez PERIODISTA 11.11.2026 09:52 Actualizado: 11.11.2026 09:58 Compartir Guardar Ingrese o regístrese acá para guardar los artículos en su zona de usuario y leerlos cuando quiera Reportar Resumen Cerrar Este resumen fue construido con ayuda de IA. Escuchar 00:00 00:00 1X Comentar La url ha sido copiada en el portapapeles Añadir EL TIEMPO como fuente preferida de información Añadir EL TIEMPO como fuente preferida de información Con un emotivo mensaje de solidaridad, esperanza y resiliencia tras tres meses del devastador terremoto que golpeó al Valle del Cauca y a Cali, se inaugura este miércoles 11 de noviembre la versión número 15 de la edición del Festival Internacional de Ballet de Cali (FINBA 2026). LEA TAMBIÉN El alcalde Alejandro Eder rechaza atentado contra RCN en la capital del Valle del Cauca: '¡En Cali no nos van a intimidar!' Carolina Bohórquez Ramírez",
+      "http_ok": true
+    },
+    {
+      "fuente": "El País (Cali)",
+      "titulo": "De los 85 edificios aprobados para demolición tras terremoto en Cali, 20 ya han sido intervenidos, según Alcaldía",
+      "url": "https://www.elpais.com.co/cali/de-los-85-edificios-aprobados-para-demolicion-tras-terremoto-en-cali-20-ya-han-sido-intervenidos-segun-alcaldia-1128.html",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Cali De los 85 edificios aprobados para demolición tras terremoto en Cali, 20 ya han sido intervenidos, según Alcaldía Uno de los siguientes pasos de la reconstrucción es brindar alternativas a las familias que perdieron definitivamente sus viviendas, ya sea por colapso de las estructuras o porque fue necesario demolerlas. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Demoliciones de edificios en Cali afectados por el terremoto del 10 de agosto. | Foto: Alcaldía de Cali Fernando José Bejarano Zorrilla 11 de nov de 2026, 06:49 p. m. Actualizado el 11 de nov de 2026, 06:50 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Primeras imágenes de la detonación en los alrededores de la Escuela de Carabineros de Cali 2 . Atentan contra patrulla de la Policía en el barrio Siloé, en la ladera de Cali; explosión se escuchó en varios sectores 3 . Edificio Los Laureles será demolido con explosivos: estas son las etapas del proceso 4 . Investigan a reconocida inmobiliaria y a particulares por irregularidades en contratos de arrendamiento en Cali 5 . Así avanza la demolición del histórico Colegio San Luis Gonzaga de Cali tras el terremoto El alcalde Alejandro Eder, desde el barrio Bretaña, en el centro de Cali, acompañó una nueva demolición como parte de las acciones que adelanta su administración con el objetivo de atender las afectaciones ocasionadas por el terremoto del pasado 10 de agosto. La capital del Valle del Cauca actualmente cuenta con cinco frentes de trabajo públicos activos, liderados por la Alcaldía y el Fondo Milagro del Gobierno Nacional. Culminó la demolición de los edificios afectados por el terremoto en la Calle 9 con Carrera 44; ¿cuándo se habilitará la vía? Y es que de los 85 edificios que tienen ",
+      "http_ok": true
+    },
+    {
+      "fuente": "El País (Cali)",
+      "titulo": "De La Espriella confirma distribución de 65 mil millones de pesos a Cali para víctimas del terremoto; dio cifras de todo el país",
+      "url": "https://www.elpais.com.co/cali/de-la-espriella-confirma-distribucion-de-65-mil-millones-de-pesos-a-cali-para-victimas-del-terremoto-dio-cifras-de-todo-el-pais-1116.html",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "Cali De La Espriella confirma distribución de 65 mil millones de pesos a Cali para víctimas del terremoto; dio cifras de todo el país El Gobierno autorizó más de $347.416 millones para apoyo económico tras el terremoto: $65.000 millones irán a Cali y $4.676 millones a Roldanillo. Siga a EL PAÍS en Google Discover y no se pierda las últimas noticias Visita de Abelardo de la Espriella a Roldanillo, Valle. | Foto: Foto: Raúl Palacios, El País Redacción El País 11 de nov de 2026, 05:22 p. m. Actualizado el 11 de nov de 2026, 05:24 p. m. Sigue el canal de El País Cali en WhatsApp Noticias Destacadas Noticias Destacadas 1 . Primeras imágenes de la detonación en los alrededores de la Escuela de Carabineros de Cali 2 . Atentan contra patrulla de la Policía en el barrio Siloé, en la ladera de Cali; explosión se escuchó en varios sectores 3 . Edificio Los Laureles será demolido con explosivos: estas son las etapas del proceso 4 . Investigan a reconocida inmobiliaria y a particulares por irregularidades en contratos de arrendamiento en Cali 5 . Así avanza la demolición del histórico Colegio San Luis Gonzaga de Cali tras el terremoto Durante su visita a Roldanillo, el presidente Abelardo De La Espriella presentó un balance de los recursos autorizados por el Fondo Milagro para atender a las familias damnificadas por el terremoto. El mandatario aseguró que Cali ha recibido $65.000 millones, mientras Roldanillo contará con una destinación de $4.676 millones. “Lo que queremos es que los colombianos conozcan qué estamos haciendo para atender a las familias damnificadas y avanzar en todos los territorios con la reconstrucción”, afirmó De La Espriella al referirse al trabajo coordinado con la Unidad Nacional para la Gestión del Riesgo de Desastres. Reconstrucción de Roldanillo tras el ter",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Fondo Milagro, seguridad y relaciones exteriores: así analiza The Economist los primeros 100 días de Abelardo",
+      "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-100-dias-the-economist-fondo-milagro-MH43449775",
+      "fecha": "2026-11-11",
+      "resumen_feed": "",
+      "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
+      "http_ok": true
+    },
+    {
+      "fuente": "El Colombiano",
+      "titulo": "Gerente del Fondo Milagro incumple por tercera vez la cita con el Congreso para rendir cuentas: esta fue su excusa",
+      "url": "https://www.elcolombiano.com/colombia/jaime-andres-uribe-gerente-fondo-milagro-no-asiste-congreso-EG43452327",
+      "fecha": "2026-11-11",
       "resumen_feed": "",
       "cuerpo": "pico y placa Pico y Placa Medellín Pico y Placa Medellín viernes 7 y 9 7 y 9",
       "http_ok": true

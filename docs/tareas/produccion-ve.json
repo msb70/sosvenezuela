@@ -1,7 +1,129 @@
 {
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-12",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261111-lapatilla-opinion-laguaira-valor",
+      "fecha": "2026-11-11",
+      "titulo": "Del barril al m²: Por qué La Guaira vale más que un campo petrolero",
+      "resumen": "Columna de opinión que estima el valor actual del estado La Guaira tras el doble terremoto de junio en unos 20.000 millones de dólares, por el costo de reconstruir y el descuento por riesgo e incertidumbre jurídica. El autor sostiene que, con un plan de reconstrucción profesional, podría valer 185.000 millones o más en 15 años, según un modelo basado en 1,2 millones de habitantes, 50 m² construidos por habitante y 2.200 dólares por m².",
+      "fuente": "La Patilla",
+      "autor": "David Morán Bohórquez",
+      "tipoFuente": "medio",
+      "tipo": "opinion",
+      "categoria": "Opinión",
+      "url": "https://lapatilla.com/2026/11/11/del-barril-al-m%c2%b2-por-que-la-guaira-vale-mas-que-un-campo-petrolero-por-david-moran-bohorquez/"
+    },
+    {
+      "id": "ve-20261111-elnacional-63-menores-desaparecidos",
+      "fecha": "2026-11-11",
+      "titulo": "El movimiento «Hasta encontrarlos» registra 63 menores de edad desaparecidos en La Guaira tras los terremotos",
+      "resumen": "Casi cinco meses después de los sismos del 24 de junio, el movimiento de familiares «Hasta encontrarlos», fundado por Francia Salcedo, contabiliza 63 menores desaparecidos en La Guaira: dos permanecen entre los escombros de edificios colapsados en Residencias Caribe y Belo Horizonte (Playa Grande) y 61 no han sido localizados tras la remoción de escombros de sus viviendas. Las familias denuncian que las exhumaciones están suspendidas por falta de herramientas y voluntarios y que las pruebas de ADN siguen sin resultados, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/hasta-encontrarlos-familias-buscan-a-63-menores-en-la-guaira/"
+    },
+    {
+      "id": "ve-20261109-infobae-laguaira-saqueos-edificios",
+      "fecha": "2026-11-09",
+      "titulo": "Vecinos de Playa Grande, en La Guaira, denuncian el saqueo de edificios dañados por los terremotos que aún podrían repararse",
+      "resumen": "La abogada y defensora de derechos humanos Liliana Ortega denunció que edificios de Playa Grande, en La Guaira, afectados por el doblete sísmico del 24 de junio y que podrían ser reparados están siendo desvalijados ante la falta de resguardo. Ortega, que es vecina de la zona, pidió a las autoridades medidas de vigilancia y protección de las viviendas de las familias damnificadas, según recoge Infobae.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.infobae.com/venezuela/2026/11/09/edificios-afectados-por-los-terremotos-en-la-guaira-que-podrian-ser-reparados-estan-siendo-saqueados/"
+    },
+    {
+      "id": "ve-20261109-elnacional-la-paez-carpas-lluvias",
+      "fecha": "2026-11-09",
+      "titulo": "Lluvias y vientos dañan las carpas de familias damnificadas por los terremotos en La Páez, Catia La Mar",
+      "resumen": "Las lluvias y ráfagas de viento de la madrugada del 8 de noviembre desprendieron las lonas y anegaron las carpas de las familias damnificadas por los sismos del 24 de junio instaladas en el estacionamiento del bloque 2 de La Páez, en Catia La Mar (La Guaira). Los afectados calificaron el campamento de inhabitable y pidieron agilizar la adjudicación de viviendas; las lluvias también desbordaron la torrentera de Guanape, según El Nacional citando a La Verdad de Vargas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/familias-damnificadas-en-la-guaira-exigen-viviendas-tras-danos-en-campamentos-por-las-lluvias/"
+    },
+    {
+      "id": "ve-20261108-elnacional-funvisis-68-sismos",
+      "fecha": "2026-11-08",
+      "titulo": "Funvisis contabiliza 68 sismos entre el 30 de octubre y el 5 de noviembre y eleva a 2.328 los acumulados desde el 24 de junio",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 68 sismos en la última semana, con magnitudes entre 1,3 y 4,0; solo uno alcanzó magnitud 4,0. En 3.216 horas de monitoreo, entre el 24 de junio y el 5 de noviembre, el acumulado suma 2.328 eventos, con mayor densidad de epicentros sobre el sistema de fallas de la región norte-costera, según el informe recogido por El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/funvisis-reporto-68-sismos-en-los-ultimos-siete-dias-y-mas-de-2-300-desde-los-terremotos-del-24-de-junio/"
+    },
+    {
+      "id": "ve-20261107-elnacional-maiquetia-140000-octubre",
+      "fecha": "2026-11-07",
+      "titulo": "La terminal transitoria de Maiquetía movilizó más de 140.000 pasajeros en octubre",
+      "resumen": "El ministro de Transporte, Francisco Garcés, informó que más de 140.000 pasajeros usaron en octubre la terminal transitoria del aeropuerto de Maiquetía, instalada tras el doblete sísmico, repartidos a partes iguales entre vuelos nacionales e internacionales. Garcés anunció que próximamente comenzarán a operar algunas áreas de la infraestructura dañada por los terremotos, cuya rehabilitación calificó de avanzada, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Infraestructura y servicios",
+      "url": "https://www.elnacional.com/2026/11/aeropuerto-de-maiquetia-registro-una-movilizacion-de-mas-de-140-mil-pasajeros-en-octubre/"
+    },
+    {
+      "id": "ve-20261107-elnacional-cruz-roja-plan-dos-anos",
+      "fecha": "2026-11-07",
+      "titulo": "La Cruz Roja Venezolana y la Española acuerdan un plan de trabajo de dos años para atender a los afectados por los sismos",
+      "resumen": "La Cruz Roja Venezolana anunció un plan conjunto con la Cruz Roja Española para trabajar durante dos años en la respuesta y la recuperación de las personas afectadas por el doble terremoto del 24 de junio. La clínica de emergencias desplegada por la Cruz Roja Española atendió a más de 10.000 personas y se brindó apoyo psicosocial a otras 4.000 en La Guaira, según El Nacional con información de EFE.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/la-cruz-roja-venezolana-y-espanola-acuerdan-trabajo-por-dos-anos-para-atencion-tras-sismos/"
+    },
+    {
+      "id": "ve-20261106-elnacional-summa-danos-terremoto",
+      "fecha": "2026-11-06",
+      "titulo": "Summa Consulting estima entre 10.500 y 12.500 millones de dólares los daños directos del terremoto",
+      "resumen": "Un informe de la firma Summa Consulting cuantifica las pérdidas directas de los sismos del 24 de junio entre 10.500 y 12.500 millones de dólares y sitúa las necesidades de capital para la reconstrucción entre 12.000 y 15.000 millones. La consultora rebajó por el terremoto su previsión de crecimiento de 2026 del 8,5 % al 6,8 % y proyecta un alza del sector construcción del 15 % en 2026 y del 35 % en 2027, recoge El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/summa-consulting-proyecta-un-crecimiento-economico-de-128-en-venezuela-para-2027-aunque-advierte-sobre-la-brecha-respecto-a-los-niveles-de-2012/"
+    },
+    {
+      "id": "ve-20261106-elnacional-los-cocos-licuefaccion",
+      "fecha": "2026-11-06",
+      "titulo": "La licuefacción del suelo por el doblete sísmico modificó la línea de costa en playa Los Cocos, en La Guaira",
+      "resumen": "Evaluaciones de los nodos técnico y ambiental de la Red de Sobrevivientes, encabezadas por la geóloga Mariela Gómez Abreu, constatan que el mar avanzó sobre zonas que antes ocupaban los prestadores de servicios del balneario de Los Cocos, en Caraballeda, por un proceso de licuefacción del suelo durante los sismos del 24 de junio. Los especialistas piden reevaluar el terreno, cercano a la falla de San Sebastián, para fijar las normas de construcción de futuras infraestructuras, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/doblete-sismico-modifico-la-linea-de-costa-en-playa-los-cocos-tras-registrarse-procesos-de-licuefaccion-del-suelo/"
+    },
+    {
+      "id": "ve-20261106-elnacional-electricidad-800-mw",
+      "fecha": "2026-11-06",
+      "titulo": "Los terremotos del 24 de junio sacaron 800 megavatios del sistema eléctrico nacional, según la Asamblea Nacional",
+      "resumen": "El presidente de la Asamblea Nacional informó en Yaracuy que la oferta de generación eléctrica perdió 800 megavatios a causa de los sismos del 24 de junio, lo que agravó las deficiencias de la red. Añadió que el Parlamento prevé sancionar una ley del servicio eléctrico que permitirá la participación del sector privado, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Infraestructura y servicios",
+      "url": "https://www.elnacional.com/2026/11/jorge-rodriguez-admite-la-crisis-del-servicio-electrico-en-venezuela/"
+    },
+    {
+      "id": "ve-20261106-cronicauno-hospital-coche-quirofanos",
+      "fecha": "2026-11-06",
+      "titulo": "El Hospital Periférico de Coche sigue con los quirófanos inhabilitados desde el doblete sísmico del 24 de junio",
+      "resumen": "Los quirófanos del Hospital Leopoldo Manrique Terrero, en Coche (Caracas), permanecen fuera de servicio desde los terremotos del 24 de junio, y el dirigente sindical Mauro Zambrano afirma que la afectación superó el 70 % de su operatividad. Los pacientes remitidos a otros centros deben repetir citas y exámenes, lo que según Médicos Unidos por Venezuela rompe la continuidad del tratamiento, recoge Crónica.Uno.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://cronica.uno/paralizacion-del-hospital-de-coche-frena-cirugias-y-deja-en-el-limbo-a-los-pacientes/"
+    },
     {
       "id": "ve-20261104-lapatilla-miyamoto-ingenieria-sismica",
       "fecha": "2026-11-04",
