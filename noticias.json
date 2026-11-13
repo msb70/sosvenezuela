@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-13",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261113-elnacional-festival-miami-ninos",
+      "fecha": "2026-11-13",
+      "titulo": "Un festival benéfico en Miami destinará parte de lo recaudado a niños afectados por los terremotos en Venezuela",
+      "resumen": "El festival Rastrillo 305, que se celebra el 14 de noviembre en el parque Historic Virginia Key Beach de Miami, donará parte de lo recaudado con las entradas a We Love Foundation, organización que atiende a niños de las zonas afectadas por los sismos del 24 de junio. Según Unicef, en esas zonas viven alrededor de 3,9 millones de menores. El resto se destinará a los programas educativos de la fundación organizadora, International Studies Foundation, informa El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/festival-en-miami-destinara-fondos-a-ninos-afectados-por-los-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20261113-elnacional-exclusion-escolar-terremotos",
+      "fecha": "2026-11-13",
+      "titulo": "Fe y Alegría advierte de que los terremotos agravaron la exclusión escolar: 200.000 estudiantes más, en riesgo de dejar las aulas",
+      "resumen": "La directora nacional de Fe y Alegría, Noelbis Aguilar, advirtió que la falta de infraestructura, las dificultades económicas de las familias y la imposibilidad de garantizar jornadas regulares tras los sismos del 24 de junio pueden aumentar la deserción en Distrito Capital, Miranda, La Guaira, Aragua y Carabobo. La Fundación Unidos en la Misión estima que unos 200.000 estudiantes adicionales están en riesgo de quedar fuera del sistema educativo, que se suman a 1,2 millones de menores ya excluidos según la Encovi 2025. Escuelas habilitadas como refugios temporales también suspendieron actividades, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Educación",
+      "url": "https://www.elnacional.com/2026/11/la-exclusion-escolar-en-venezuela-se-agravo-tras-los-terremotos/"
+    },
     {
       "id": "ve-20261111-lapatilla-opinion-laguaira-valor",
       "fecha": "2026-11-11",
