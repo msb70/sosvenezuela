@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-13",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261113-infobae-fondo-milagro-salarios",
+      "fecha": "2026-11-13",
+      "titulo": "El Gobierno ordena reversar los salarios del Fondo Milagro tras conocerse una nómina de $765,6 millones mensuales",
+      "resumen": "La Presidencia desautorizó la escala de remuneraciones del Fondo Milagro, la entidad creada para la reconstrucción tras el terremoto del 10 de agosto, por considerarla contraria a su directiva de austeridad, y ordenó revertirla de inmediato. Los datos salieron de la respuesta a un derecho de petición, según la cual la nómina mensual del personal, contratado a término indefinido en Pereira, ronda los $765,6 millones. Lo publica Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/13/de-la-espriella-ordeno-reversar-salarios-de-hasta-765-millones-mensuales-en-el-fondo-milagro-en-medio-de-su-politica-de-austeridad-no-los-autorizo/"
+    },
     {
       "id": "co-20261112-infobae-recursos-valle-fondo-milagro",
       "fecha": "2026-11-12",
@@ -23,6 +34,39 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/11/12/alcalde-eder-compartio-balance-sobre-demolicion-de-edificios-afectados-por-el-sismo-del-10-de-agosto-y-la-entrega-de-50-millones-a-700-familias-calenas/"
+    },
+    {
+      "id": "co-20261112-eltiempo-encanto-funciones-solidarias",
+      "fecha": "2026-11-12",
+      "titulo": "«Encanto» vuelve a los cines de Colombia con funciones solidarias para los damnificados del terremoto",
+      "resumen": "La película de Disney se reestrena desde el 12 de noviembre en salas del país en funciones solidarias cuyas regalías se destinarán a la Cruz Roja Bogotá para apoyar a las familias afectadas por el sismo del 10 de agosto. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/cultura/cine-y-tv/encanto-regresa-a-los-cines-de-colombia-este-12-de-noviembre-con-funciones-solidarias-para-ayudar-a-los-damnificados-por-el-terremoto-3600591"
+    },
+    {
+      "id": "co-20261112-eltiempo-credito-turismo-milagro",
+      "fecha": "2026-11-12",
+      "titulo": "Lanzan «Turismo Milagro», una línea de crédito de $100.000 millones para mipymes turísticas afectadas por el terremoto",
+      "resumen": "El Gobierno nacional, Bancóldex y Fontur presentaron la línea Turismo Milagro, con $100.000 millones en cupos para micro, pequeñas y medianas empresas turísticas de los 16 departamentos afectados por el sismo. Los créditos, para capital de trabajo, arreglos locativos, equipos o sustitución de pasivos, tendrán plazos de hasta cinco años y hasta 12 meses de gracia a capital; se exige RNT activo. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/viajar/gobierno-nacional-lanza-linea-de-credito-para-apoyar-a-mipymes-turisticas-afectadas-por-el-terremoto-3600638"
+    },
+    {
+      "id": "co-20261112-eltiempo-cali-turismo-perdidas",
+      "fecha": "2026-11-12",
+      "titulo": "La Secretaría de Turismo de Cali cifra en $25.000 millones las pérdidas del sector por el terremoto",
+      "resumen": "En un debate de control político en el Concejo de Cali, la secretaria de Turismo presentó el balance de afectaciones del sector tras el sismo del 10 de agosto, con pérdidas estimadas en $25.000 millones. Los concejales cuestionaron la brecha entre recursos comprometidos y pagos efectivos y la concentración del presupuesto en eventos masivos frente al turismo comunitario y rural. Lo publica El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/entre-ryan-castro-y-los-estragos-del-terremoto-el-debate-que-pone-bajo-la-lupa-la-estrategia-turistica-en-cali-3600382"
     },
     {
       "id": "co-20261112-eltiempo-adres-indemnizacion",
