@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261113-infobae-renuncia-gerente-fondo-milagro",
+      "fecha": "2026-11-13",
+      "titulo": "Renuncia el gerente del Fondo Milagro, Jaime Andrés Uribe, tras la polémica por la nómina de la entidad",
+      "resumen": "Jaime Andrés Uribe Tamayo dejó la gerencia del Fondo Milagro el 13 de noviembre, tras 84 días en el cargo y después de que el Gobierno desautorizara los salarios de la nómina inicial, que sumaba cerca de $765 millones mensuales para 27 personas (el suyo, $39,4 millones). La salida se produce mientras el Gobierno calcula pérdidas materiales cercanas a $50 billones por el sismo y estima que las donaciones anunciadas cubren menos del 10 % de lo necesario. Lo informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/13/renuncio-jaime-uribe-a-la-gerencia-del-fondo-milagro-tras-fuerte-regano-de-abelardo-de-la-espriella-sobre-millonarios-salarios/"
+    },
     {
       "id": "co-20261113-infobae-fondo-milagro-salarios",
       "fecha": "2026-11-13",
@@ -12,6 +23,72 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/11/13/de-la-espriella-ordeno-reversar-salarios-de-hasta-765-millones-mensuales-en-el-fondo-milagro-en-medio-de-su-politica-de-austeridad-no-los-autorizo/"
+    },
+    {
+      "id": "co-20261113-eltiempo-sarmiento-proyectos",
+      "fecha": "2026-11-13",
+      "titulo": "La Fundación Sarmiento Angulo concreta en qué obras se invertirán los $200.000 millones donados para Valle, Risaralda y Chocó",
+      "resumen": "Los mandatarios de Valle del Cauca, Risaralda y Chocó presentaron los proyectos que financiará la donación de $200.000 millones anunciada tras el terremoto del 10 de agosto: una torre para niños con cáncer en Pereira, la recuperación de cuidados intensivos del Hospital Universitario del Valle, un colegio para 803 estudiantes en Buenaventura y tres corredores viales para sacar al Chocó del aislamiento, además de redes de aguas lluvias y equipos oncológicos. Del total, $87.000 millones irán al Valle del Cauca. Lo informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/asi-se-convertiran-en-obras-los-recursos-donados-por-la-fundacion-sarmiento-angulo-para-reconstruir-valle-risaralda-y-choco-3600972"
+    },
+    {
+      "id": "co-20261113-eltiempo-roldanillo-fachadas",
+      "fecha": "2026-11-13",
+      "titulo": "Roldanillo recupera con arte las fachadas de su plazoleta principal para reactivar el comercio y el turismo",
+      "resumen": "Una iniciativa liderada por la Gobernación del Valle del Cauca recuperó, con una propuesta artística y arquitectónica, las fachadas de la plazoleta principal de Roldanillo, cuyo parque y casas coloridas quedaron reducidos a escombros por el sismo del 10 de agosto. El objetivo es mantener el carácter turístico del municipio, reconocido como Pueblo Mágico, y reactivar su comercio. Lo cuenta El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/arte-contra-la-tragedia-la-ingeniosa-apuesta-de-roldanillo-para-revivir-sus-fachadas-y-rescatar-el-comercio-y-el-turismo-3601038"
+    },
+    {
+      "id": "co-20261113-eltiempo-fondo-milagro-secop",
+      "fecha": "2026-11-13",
+      "titulo": "El Fondo Milagro solo tiene un contrato en el Secop tres meses después del terremoto",
+      "resumen": "El único contrato del Fondo Milagro registrado en el Secop es la fiducia con la que Hacienda constituyó el fondo y designó a Fiducoldex como administradora, por un valor de cero pesos. El fondo reportó al Congreso nueve procesos por $7.440 millones, ninguno publicado todavía; su manual de contratación le da plazo hasta el 20 de noviembre para hacerlo. Lo revela El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/datos/este-es-el-unico-contrato-del-fondo-milagro-que-figura-en-secop-despues-de-tres-meses-del-terremoto-3600945"
+    },
+    {
+      "id": "co-20261113-elpais-ungrd-sin-contratos",
+      "fecha": "2026-11-13",
+      "titulo": "La UNGRD confirma que aún no ha firmado contratos para las obras de reconstrucción tras el terremoto",
+      "resumen": "En respuesta a derechos de petición de la representante a la Cámara Laura Daniela Beltrán, la Unidad Nacional para la Gestión del Riesgo de Desastres confirmó que todavía no ha suscrito contratos para las obras en las zonas afectadas por el sismo del 10 de agosto. Según la UNGRD, 19.142 viviendas quedaron destruidas, con las afectaciones concentradas en Cali y Pereira. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/ungrd-no-ha-firmado-contratos-para-reconstruir-las-zonas-afectadas-por-el-terremoto-denuncia-representante-1352.html"
+    },
+    {
+      "id": "co-20261113-elpais-re-buenaventura-icesi",
+      "fecha": "2026-11-13",
+      "titulo": "Un encuentro académico en Cali analiza los retos de la reconstrucción de Buenaventura",
+      "resumen": "RE Buenaventura 2026 reúne este sábado 14 de noviembre en la Universidad Icesi, de 9:00 a. m. a 12:30 p. m., a 20 expertos de universidades, empresas e instituciones públicas para analizar cinco asuntos clave en la reconstrucción del Distrito tras el terremoto. La jornada está abierta a profesionales y estudiantes bonaverenses y a empresas caleñas con operaciones en el puerto. Lo informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/buenaventura-analizara-los-retos-de-su-reconstruccion-en-encuentro-academico-en-cali-asi-podra-participar-1315.html"
+    },
+    {
+      "id": "co-20261113-elpais-henao-gerente-fondo-milagro",
+      "fecha": "2026-11-13",
+      "titulo": "El Gobierno designa al exministro de Vivienda Luis Felipe Henao como nuevo gerente del Fondo Milagro",
+      "resumen": "La Presidencia nombró a Luis Felipe Henao, exministro de Vivienda, al frente del Fondo Milagro, la entidad que gestiona la recuperación de las zonas afectadas por el sismo del 10 de agosto, con el encargo de acelerar la reconstrucción. El relevo llega tras la renuncia de Jaime Uribe, precedida por la polémica sobre los salarios de los directivos de la entidad. Lo publica El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/luis-felipe-henao-asume-como-nuevo-gerente-del-fondo-milagro-para-acelerar-la-reconstruccion-tras-el-terremoto-1345.html"
     },
     {
       "id": "co-20261112-infobae-recursos-valle-fondo-milagro",
