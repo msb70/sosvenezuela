@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261114-elnacional-rescate-madre-hija-caraballeda",
+      "fecha": "2026-11-14",
+      "titulo": "Voluntarios recuperan los cuerpos de una madre y su hija en Residencias Caribe, en Caraballeda",
+      "resumen": "La brigada de voluntarios «Máquina de Hierro» rescató el viernes 13 de noviembre, de entre los escombros de la Torre C de Residencias Caribe (Caraballeda, La Guaira), los cuerpos de María Delia Peña de Solórzano y su hija Dayana Solórzano Peña, cuatro meses y medio después de los sismos del 24 de junio. Al menos tres grupos de rescatistas voluntarios siguen trabajando en el complejo y familiares denuncian que aún hay personas sin localizar, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/11/rescatan-los-cuerpos-de-un-mujer-y-su-hija-en-caraballeda-tras-cuatro-meses-del-terremoto/"
+    },
+    {
+      "id": "ve-20261114-elnacional-concierto-gurrufio-la-guaira",
+      "fecha": "2026-11-14",
+      "titulo": "Un concierto en el Aula Magna de la UCV recaudará fondos para los afectados por los terremotos en La Guaira",
+      "resumen": "El Ensamble Gurrufío y la Orquesta Sinfónica Venezuela ofrecerán el domingo 15 de noviembre en el Aula Magna de la Universidad Central de Venezuela el concierto «Así suena Venezuela», organizado por Amigos Sinfónicos, para recaudar fondos destinados a los damnificados de La Guaira por los sismos del 24 de junio. El recital recorre las regiones del país con merengues, joropos y tambores, informa El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/el-ensamble-gurrufio-quiere-ayudar-a-sanar-con-un-viaje-sonoro-por-venezuela/"
+    },
     {
       "id": "ve-20261113-elnacional-festival-miami-ninos",
       "fecha": "2026-11-13",
