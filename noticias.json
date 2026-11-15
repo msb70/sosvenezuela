@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
     {
@@ -12,6 +12,28 @@
       "tipo": "noticia",
       "categoria": "Balance y cifras",
       "url": "https://www.elnacional.com/2026/11/rescatan-los-cuerpos-de-un-mujer-y-su-hija-en-caraballeda-tras-cuatro-meses-del-terremoto/"
+    },
+    {
+      "id": "ve-20261114-elnacional-quibdo-reconstruccion",
+      "fecha": "2026-11-14",
+      "titulo": "Quibdó estima en cerca de 3 billones de pesos la reconstrucción tras el terremoto del 10 de agosto en Colombia",
+      "resumen": "A tres meses del terremoto de magnitud 7,4 en el oeste de Colombia, la respuesta pasa de la emergencia a la reconstrucción. El alcalde de Quibdó, Rafael Bolaños, estima que las obras costarán cerca de 3 billones de pesos colombianos y que solo estabilizar la ciudad superará los 200.000 millones; la alcaldía aclara que son necesidades, no fondos comprometidos. La financiación depende del Fondo Milagro, fideicomiso creado por decreto el 9 de septiembre, según El Nacional con datos de The Bogotá Post.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Colombia",
+      "url": "https://www.elnacional.com/2026/11/terremoto-en-colombia-quibdo-enfrenta-el-desafio-de-reconstruir-viviendas-e-infraestructura/"
+    },
+    {
+      "id": "ve-20261114-elnacional-funvisis-80-sismos",
+      "fecha": "2026-11-14",
+      "titulo": "Funvisis contabiliza 80 sismos entre el 6 y el 12 de noviembre; la región central concentró 39",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 80 sismos entre el 6 y el 12 de noviembre, con magnitudes de entre 1,5 y 3,3, según su boletín semanal recogido por El Nacional. La región central concentró 39 eventos, la occidental 30 y la oriental 11. Funvisis recordó que los terremotos no se pueden predecir e insistió en la planificación preventiva.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/funvisis-registro-80-sismos-en-el-territorio-nacional-durante-la-ultima-semana/"
     },
     {
       "id": "ve-20261114-elnacional-concierto-gurrufio-la-guaira",
