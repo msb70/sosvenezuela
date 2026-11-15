@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261114-infobae-henao-austeridad-fondo-milagro",
+      "fecha": "2026-11-14",
+      "titulo": "El nuevo gerente del Fondo Milagro, Luis Felipe Henao, asume el cargo y promete una nómina «modesta y austera»",
+      "resumen": "El exministro de Vivienda Luis Felipe Henao asumió la gerencia del Fondo Milagro, el patrimonio creado para administrar los recursos públicos y privados de la reconstrucción tras el terremoto del 10 de agosto, y aseguró que el equipo tendrá «sueldos modestos y austeros» y que trabajará con transparencia para que los recursos lleguen rápido a los damnificados. Llega tras la renuncia de Jaime Andrés Uribe, cuestionado por una nómina inicial de unos $765 millones mensuales para 27 funcionarios, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/14/luis-felipe-henao-se-pronuncio-tras-asumir-la-gerencia-del-fondo-milagro-prometio-una-nomina-modesta-y-austera/"
+    },
+    {
+      "id": "co-20261114-eltiempo-bibliotecas-publicas",
+      "fecha": "2026-11-14",
+      "titulo": "Tres meses después del terremoto, 14 de 99 bibliotecas públicas evaluadas siguen cerradas por daños",
+      "resumen": "Un informe de la Red Nacional de Bibliotecas Públicas y la Biblioteca Nacional, con corte al 12 de noviembre, indica que 14 de las 99 bibliotecas reportadas en las zonas afectadas permanecen cerradas al público por daños estructurales y que cinco sufrieron colapso total o parcial. La Biblioteca Nacional anunció el 13 de noviembre un plan de contingencia con tres líneas de acción, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/cultura/musica-y-libros/las-bibliotecas-publicas-siguen-sin-recuperarse-del-terremoto-del-pasado-10-de-agosto-3601143"
+    },
     {
       "id": "co-20261113-infobae-renuncia-gerente-fondo-milagro",
       "fecha": "2026-11-13",
@@ -89,6 +111,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/colombia/luis-felipe-henao-asume-como-nuevo-gerente-del-fondo-milagro-para-acelerar-la-reconstruccion-tras-el-terremoto-1345.html"
+    },
+    {
+      "id": "co-20261113-elpais-festival-modo-ascenso-emprendedores",
+      "fecha": "2026-11-13",
+      "titulo": "Cali celebrará el Festival Modo Ascenso para apoyar a emprendedores afectados por el terremoto",
+      "resumen": "Más de 70 expertos nacionales e internacionales asesorarán a emprendedores caleños cuyos negocios sufrieron daños materiales y emocionales por el sismo, en el Festival Modo Ascenso. Se celebrará el 28 de noviembre en la Universidad Icesi, de 8:00 a. m. a 6:00 p. m., según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/emprendedores-de-cali-recibiran-guia-de-expertos-internacionales-para-impulsar-sus-negocios-luego-del-terremoto-1339.html"
     },
     {
       "id": "co-20261112-infobae-recursos-valle-fondo-milagro",
