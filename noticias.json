@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261115-elnacional-traslado-familias-la-paez-ciudad-caribia",
+      "fecha": "2026-11-15",
+      "titulo": "Trasladan a Ciudad Caribia a 17 familias damnificadas que vivían en carpas en La Páez, Catia La Mar",
+      "resumen": "Diecisiete familias damnificadas por los sismos del 24 de junio que permanecían en el campamento del estacionamiento del bloque 2 de La Páez, en Catia La Mar (La Guaira), fueron trasladadas el sábado 14 de noviembre a viviendas temporales en Ciudad Caribia, según El Nacional citando a El Pitazo. Las familias aceptaron tras rechazar la propuesta varias veces, después de que las lluvias y vientos del 8 de noviembre dañaran sus carpas, y esperan que la reubicación sea temporal hasta recibir una vivienda definitiva. La Comisión Presidencial de Habitabilidad y Vivienda plantea implosionar los bloques dañados, sin fecha anunciada.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/trasladaron-a-17-familias-damnificadas-por-los-terremotos-desde-un-campamento-en-catia-la-mar-a-ciudad-caribia/"
+    },
     {
       "id": "ve-20261114-elnacional-rescate-madre-hija-caraballeda",
       "fecha": "2026-11-14",
