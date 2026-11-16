@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261116-infobae-icetex-gente-milagro-2027",
+      "fecha": "2026-11-16",
+      "titulo": "El Icetex abre la línea de crédito Gente Milagro 2027 para damnificados del terremoto: la convocatoria cierra el 20 de noviembre",
+      "resumen": "La línea Gente Milagro 30% del Icetex financia matrículas de pregrado técnico, tecnológico y universitario para 2027 a quienes figuren en el Registro Único de Damnificados de la UNGRD o hayan sido admitidos en una institución de los cinco departamentos más afectados por el sismo del 10 de agosto. La convocatoria 2027-1 cierra el 20 de noviembre, sujeta a disponibilidad de recursos, y el Icetex advierte que la solicitud puede anularse si el aspirante no está en el censo, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/16/gente-milagro-2027-estos-son-los-dos-requisitos-para-acceder-al-nuevo-credito-del-icetex-con-financiacion-de-hasta-el-100/"
+    },
+    {
+      "id": "co-20261116-eltiempo-buenaventura-turismo",
+      "fecha": "2026-11-16",
+      "titulo": "Buenaventura apuesta por la reactivación económica y turística tras los daños del terremoto",
+      "resumen": "Tres meses después del sismo, edificaciones como el antiguo supermercado Maxitienda, frente al barrio La Transformación, siguen mostrando las huellas del terremoto en Buenaventura. Mientras reconstruyen sus viviendas, los habitantes del puerto buscan reactivar la economía con el turismo hacia destinos como las playas de Bahía Málaga, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/buenaventura-le-apuesta-a-la-reconstruccion-economica-y-turistica-tras-las-huellas-del-terremoto-y-la-violencia-3601396"
+    },
+    {
+      "id": "co-20261115-eltiempo-marsella-fiestas-amistad",
+      "fecha": "2026-11-15",
+      "titulo": "Marsella (Risaralda), con una cuarta parte de su población damnificada, busca reactivar el turismo con sus Fiestas de la Amistad",
+      "resumen": "Más de 4.500 de los cerca de 17.000 habitantes de Marsella, en Risaralda, resultaron afectados por el terremoto del 10 de agosto, que también dañó la parroquia Inmaculada Concepción. Tres meses después, el municipio celebra este fin de semana sus Fiestas de la Amistad con el propósito de generar ingresos y reactivar la economía local, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/este-es-el-municipio-con-la-cuarta-parte-de-su-poblacion-damnificada-por-el-terremoto-que-busca-reactivar-el-turismo-con-sus-fiestas-de-la-amistad-3601320"
+    },
+    {
+      "id": "co-20261115-elpais-cali-plazo-cobro-gane",
+      "fecha": "2026-11-15",
+      "titulo": "Los damnificados del terremoto en Cali tienen hasta el 17 de noviembre para cobrar el apoyo de 1.050.000 pesos en Gane",
+      "resumen": "La Alcaldía de Cali recordó que los hogares damnificados por el sismo del 10 de agosto incluidos en los listados de beneficiarios tienen plazo hasta el martes 17 de noviembre para reclamar el apoyo económico de $1.050.000 en los puntos autorizados de Gane-SuperGIROS, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/damnificados-por-el-sismo-en-cali-tienen-hasta-el-17-de-noviembre-para-cobrar-apoyo-economico-en-gane-asi-lo-puede-hacer-1513.html"
+    },
     {
       "id": "co-20261114-infobae-henao-austeridad-fondo-milagro",
       "fecha": "2026-11-14",
