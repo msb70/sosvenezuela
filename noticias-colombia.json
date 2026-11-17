@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-16",
+  "actualizado": "2026-11-17",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261117-infobae-henao-censos-rurales",
+      "fecha": "2026-11-17",
+      "titulo": "El nuevo gerente del Fondo Milagro revisará los censos de damnificados en zonas rurales y plantea esquemas diferenciados de vivienda",
+      "resumen": "Luis Felipe Henao, exministro de Vivienda y nuevo gerente del Fondo Milagro, anunció que revisará los censos en zonas rurales que han quedado rezagadas y que buscará esquemas diferenciados para reparar viviendas deterioradas o levantar nuevas con apoyo técnico de otras entidades. Asume tras la renuncia de Jaime Uribe el 13 de noviembre, en medio de la polémica por una nómina de más de $765 millones, y promete salarios austeros, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/17/luis-felipe-henao-nuevo-gerente-del-fondo-milagro-aclaro-de-cuanto-seria-su-sueldo-su-antecesor-salio-tras-conocerse-que-se-puso-un-salario-de-casi-40-millones/"
+    },
     {
       "id": "co-20261116-infobae-icetex-gente-milagro-2027",
       "fecha": "2026-11-16",
@@ -34,6 +45,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/este-es-el-municipio-con-la-cuarta-parte-de-su-poblacion-damnificada-por-el-terremoto-que-busca-reactivar-el-turismo-con-sus-fiestas-de-la-amistad-3601320"
+    },
+    {
+      "id": "co-20261115-eltiempo-balance-100-dias-ayudas",
+      "fecha": "2026-11-15",
+      "titulo": "El Gobierno presenta un balance de las ayudas y programas de vivienda para los damnificados del terremoto",
+      "resumen": "En la alocución por los primeros 100 días de Gobierno, el Ejecutivo hizo balance de las ayudas económicas autorizadas, los programas de vivienda y las medidas para recuperar las regiones afectadas por el sismo del 10 de agosto, ocurrido tres días después de la posesión presidencial. Aseguró que seguirá trabajando hasta completar la reconstrucción, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-envia-mensaje-a-damnificados-por-el-terremoto-y-presenta-balance-de-ayudas-para-la-reconstruccion-no-voy-a-descansar-3601354"
     },
     {
       "id": "co-20261115-elpais-cali-plazo-cobro-gane",
