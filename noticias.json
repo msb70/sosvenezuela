@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-16",
+  "actualizado": "2026-11-17",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261117-elnacional-identificacion-victimas-senamecf-laya",
+      "fecha": "2026-11-17",
+      "titulo": "Una familia de Caraballeda relata la incertidumbre por la identificación de sus víctimas del terremoto mediante pruebas de ADN del Senamecf",
+      "resumen": "Lorena Laya perdió a su madrastra y a su hermana de 6 años en el derrumbe de las torres de la OPPPE 27, en Caraballeda (La Guaira), y el 20 de julio denunció como desaparecidos a su hermano Diego y a su padre Henry ante la policía científica, según un reportaje de BBC Mundo reproducido por El Nacional. La familia entregó muestras de sangre al Servicio Nacional de Medicina y Ciencias Forenses (Senamecf), el organismo que gestiona la identificación de víctimas de los sismos del 24 de junio, y casi cinco meses después Laya dice no tener certeza de si el cuerpo entregado como el de su hermano es el suyo.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/11/vi-decenas-de-cadaveres-para-reconocer-a-mi-hermano-de-14-anos-tras-los-terremotos-de-venezuela-y-aun-no-se-si-esta-enterrado-o-desaparecido/"
+    },
     {
       "id": "ve-20261115-elnacional-traslado-familias-la-paez-ciudad-caribia",
       "fecha": "2026-11-15",
