@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261118-infobae-escombros-143-millones",
+      "fecha": "2026-11-18",
+      "titulo": "Obras Públicas cifra en 1,43 millones de toneladas los escombros retirados en La Guaira, el 68 % del total estimado",
+      "resumen": "El ministro de Obras Públicas, Juan José Ramírez, informó que se han retirado 1,43 millones de toneladas de escombros en La Guaira tras los terremotos del 24 de junio, el 68 % de un estimado de 2,10 millones de toneladas, y que se han demolido 282 edificios con daños estructurales graves, según recoge Infobae a partir de una nota de prensa oficial. En el estado hay 75 frentes de trabajo dedicados a demolición, recolección y despeje de escombros.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.infobae.com/venezuela/2026/11/18/venezuela-ya-retiro-mas-de-un-millon-de-toneladas-de-escombros-tras-los-sismos-de-junio/"
+    },
+    {
+      "id": "ve-20261117-elnacional-seismic-record-caraballeda",
+      "fecha": "2026-11-17",
+      "titulo": "Un estudio en The Seismic Record estima en 202 cm/s la velocidad del suelo en Caraballeda durante los terremotos, uno de los tres registros más intensos del mundo",
+      "resumen": "Un estudio publicado en The Seismic Record, revista de la Sociedad Sismológica de América, calcula que el suelo de Caraballeda (La Guaira) se movió a una velocidad máxima de 202 centímetros por segundo durante los sismos del 24 de junio, uno de los tres registros más intensos a escala mundial, según El Nacional. Los 14 investigadores (universidades de Chile, Concepción, City St George's y Stanford, y la empresa Inelectra) reconstruyeron la sacudida a partir de videos de seguridad que muestran un separador de tránsito deslizándose y una farola balanceándose, ya que ningún instrumento registró el movimiento a menos de 10 km de la ruptura.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/doblete-sismico-de-junio-en-venezuela-genero-uno-de-los-tres-movimientos-de-suelo-mas-intensos-registrados/"
+    },
+    {
+      "id": "ve-20261117-elnacional-laguaira-comercios-645",
+      "fecha": "2026-11-17",
+      "titulo": "La Gobernación de La Guaira afirma que el 64,5 % de los comercios del estado ya opera tras los terremotos",
+      "resumen": "El gobernador de La Guaira, Alejandro Terán, informó que el 64,5 % de los establecimientos comerciales del estado está operativo y que el empleo formal se ha recuperado en un 68,2 %, casi cinco meses después de los sismos del 24 de junio, según El Nacional citando un boletín del Ministerio de Información. Terán atribuyó la reactivación a la normalización de los servicios básicos y a la recuperación de la conectividad aérea y portuaria.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/645-de-los-comercios-ya-opera-en-la-guaira-tras-la-devastacion-causada-por-los-terremotos-de-junio/"
+    },
     {
       "id": "ve-20261117-elnacional-identificacion-victimas-senamecf-laya",
       "fecha": "2026-11-17",
@@ -12,6 +45,17 @@
       "tipo": "noticia",
       "categoria": "Balance y cifras",
       "url": "https://www.elnacional.com/2026/11/vi-decenas-de-cadaveres-para-reconocer-a-mi-hermano-de-14-anos-tras-los-terremotos-de-venezuela-y-aun-no-se-si-esta-enterrado-o-desaparecido/"
+    },
+    {
+      "id": "ve-20261116-oim-cata-fact-sheet-alojamiento",
+      "fecha": "2026-11-16",
+      "titulo": "Los clústeres de alojamiento y gestión de campamentos publican su hoja informativa actualizada al 11 de noviembre",
+      "resumen": "Los clústeres de Alojamiento y CCCM, con OIM y ACNUR, publicaron en ReliefWeb una actualización (11 de noviembre) de la respuesta en alojamiento, enseres básicos, gestión de campamentos, vivienda, tierra y propiedad (HLP) y energía. El documento señala que las familias desplazadas por los terremotos siguen en campamentos transitorios, itinerantes o en hogares solidarios, y que el clúster CATA, activado en agosto, coordina cuatro grupos técnicos: reparación de viviendas, enseres básicos, gestión de campamentos y HLP.",
+      "fuente": "OIM · ReliefWeb",
+      "tipoFuente": "oficial",
+      "tipo": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-respuesta-de-alojamiento-enseres-basicos-cccm-hlp-energia-fact-sheet-actualizacion-11-de-noviembre-de-2026"
     },
     {
       "id": "ve-20261115-elnacional-traslado-familias-la-paez-ciudad-caribia",
