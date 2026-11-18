@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261118-eltiempo-voluntario-malaria-choco",
+      "fecha": "2026-11-18",
+      "titulo": "Recibe el alta el voluntario que contrajo malaria tras llevar ayudas a damnificados del terremoto en el Chocó",
+      "resumen": "Carlos Andrés Ortega, que puso su propia buseta para transportar donaciones a comunidades del Chocó afectadas por el sismo del 10 de agosto y contrajo allí malaria, recibió el alta médica en Palmira y volvió con su familia a Pradera (Valle). Tras graves complicaciones se moviliza en silla de ruedas y necesita apoyo para acceder a las prótesis que requiere, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/carlos-andres-ortega-recibio-el-alta-medica-tras-contraer-malaria-mientras-ayudaba-a-damnificados-del-choco-3602002"
+    },
+    {
+      "id": "co-20261118-eltiempo-fashion-weekend-coleccion-solidaria",
+      "fecha": "2026-11-18",
+      "titulo": "El Bogotá Fashion Weekend destinará una colección solidaria de 27 diseñadores a la reconstrucción de las zonas afectadas por el terremoto",
+      "resumen": "La tercera edición del Bogotá Fashion Weekend, organizada por la Cámara de Comercio de Bogotá del 20 al 22 de noviembre, incluirá una colección en la que 27 diseñadores nacionales intervendrán prendas existentes para venderlas y destinar lo recaudado a la reconstrucción de las zonas afectadas por el sismo del 10 de agosto. El evento reunirá a 715 marcas, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/vida/tendencias/bogota-fashion-weekend-reunira-a-715-marcas-y-destinara-una-coleccion-de-disenadores-a-apoyar-la-reconstruccion-del-pais-3602033"
+    },
+    {
+      "id": "co-20261118-elpais-cali-la-rosa-cierre-dosquebradas",
+      "fecha": "2026-11-18",
+      "titulo": "Comestibles La Rosa cierra su planta de Dosquebradas: el terremoto dañó el 70 % de la infraestructura",
+      "resumen": "La empresa Comestibles La Rosa, filial del grupo Nestlé, anunció el cierre de su fábrica de Dosquebradas (Risaralda) porque el sismo del 10 de agosto afectó el 70 % de su infraestructura e inhabilitó la operación. La compañía afirma que las condiciones de la planta no permiten mantener una operación sostenible y ofrece un esquema de retiro a sus trabajadores, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/comestibles-la-rosa-cierra-su-planta-en-dosquebradas-tras-graves-danos-por-el-sismo-de-agosto-1837.html"
+    },
     {
       "id": "co-20261117-infobae-henao-censos-rurales",
       "fecha": "2026-11-17",
@@ -12,6 +45,39 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/11/17/luis-felipe-henao-nuevo-gerente-del-fondo-milagro-aclaro-de-cuanto-seria-su-sueldo-su-antecesor-salio-tras-conocerse-que-se-puso-un-salario-de-casi-40-millones/"
+    },
+    {
+      "id": "co-20261117-eltiempo-parque-industrial-molinos-7",
+      "fecha": "2026-11-17",
+      "titulo": "Anuncian un parque industrial de hasta $500.000 millones en el corredor Cali-Palmira para recuperar empresas tras el sismo",
+      "resumen": "La empresa vallecaucana Drim Duit anunció Molinos 7, un parque industrial para plantas, bodegas y centros de distribución en el corredor Cali-Palmira, con una inversión proyectada de entre $350.000 y $500.000 millones. Llega cuando el Valle busca recuperar actividad productiva: según el Comité Intergremial y Empresarial del Valle (CIEV), el terremoto dejó pérdidas por 19,5 billones de pesos y afectó a más de 16.000 empresas de 42 municipios, recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/empresas/valle-del-cauca-tendra-nuevo-parque-industrial-invertira-500-000-millones-para-atraer-empresas-tras-el-sismo-3601760"
+    },
+    {
+      "id": "co-20261117-eltiempo-alumbrado-navideno-cali-pesebres",
+      "fecha": "2026-11-17",
+      "titulo": "Cali prepara un alumbrado navideño con 22 pesebres por comuna para reactivar la economía y homenajear a las víctimas del terremoto",
+      "resumen": "La comisión de presupuesto del Concejo de Cali aprobó en primer debate una adición de recursos para el Alumbrado Navideño 2026, que instalará un pesebre en cada una de las 22 comunas y rendirá homenaje a las víctimas del sismo del 10 de agosto. El proyecto busca reactivar el comercio afectado por el terremoto y espera hasta 100.000 visitantes diarios desde el 7 de diciembre, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/alumbrado-navideno-2026-cali-apuesta-por-22-pesebres-reactivacion-economica-y-un-homenaje-a-las-victimas-del-terremoto-3601815"
+    },
+    {
+      "id": "co-20261117-elpais-cali-hospital-roldanillo-15600-millones",
+      "fecha": "2026-11-17",
+      "titulo": "El Hospital San Antonio de Roldanillo será reconstruido en 12 meses con una inversión de más de $15.600 millones",
+      "resumen": "El Hospital Departamental San Antonio de Roldanillo, con el 80 % de su infraestructura comprometida por el sismo del 10 de agosto, iniciará su reconstrucción y modernización con más de $15.600 millones y un plazo estimado de 12 meses. Las obras se harán sin suspender la atención a unos 37.000 usuarios de Roldanillo y municipios vecinos del norte del Valle, informa El País (Cali) con datos de la Gobernación del Valle.",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/con-mas-de-15600-millones-el-hospital-san-antonio-de-roldanillo-sera-reconstruido-en-12-meses-tras-el-sismo-1757.html"
     },
     {
       "id": "co-20261116-infobae-icetex-gente-milagro-2027",
