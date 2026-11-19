@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261119-infobae-fondo-milagro-contratos-demoliciones",
+      "fecha": "2026-11-19",
+      "titulo": "El Fondo Milagro ha adjudicado nueve contratos de demolición e interventoría por $7.440 millones en Pereira y Cali",
+      "resumen": "Según una comunicación del 11 de noviembre dirigida a la comisión del Congreso que sigue la atención a damnificados, el Fondo Milagro había adjudicado nueve contratos a ocho empresas para demoler edificios con daños estructurales por el sismo y supervisar los trabajos: $4.624 millones para Pereira y $2.815 millones para Cali, de un presupuesto disponible de $624.656 millones. En Cali, la demolición por implosión se contrató con Voladuras Controladas de Colombia por $949 millones, recoge Infobae a partir de un documento conocido por El Tiempo.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/19/salen-a-la-luz-los-contratos-que-dejo-firmados-jaime-uribe-antes-de-su-polemica-salida-de-la-gerencia-del-fondo-milagro-hay-casi-8-mil-millones-comprometidos/"
+    },
+    {
+      "id": "co-20261119-elpais-cali-comedor-altos-santa-elena",
+      "fecha": "2026-11-19",
+      "titulo": "Empresas y fundaciones equipan el comedor comunitario de Altos de Santa Elena (Cali) para alimentar a familias afectadas por el terremoto",
+      "resumen": "Mondelēz Colombia, Hanson, el Club Campestre y la Fundación Alvaralice, entre otras organizaciones, entregaron el 15 de octubre elementos de cocina y alimentos básicos al comedor comunitario CIDES, en Altos de Santa Elena (Cali), para que siga atendiendo a las familias afectadas por el sismo del 10 de agosto. Lo cuenta El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/tras-el-terremoto-en-cali-empresas-se-unieron-para-respaldar-la-alimentacion-de-familias-de-altos-de-santa-elena-cali-1813.html"
+    },
+    {
+      "id": "co-20261119-elpais-cali-casa-mia-subsidio-50-millones",
+      "fecha": "2026-11-19",
+      "titulo": "Cali abre la primera feria de vivienda de Casa Mía: subsidios de hasta $50 millones para unas 700 familias damnificadas por el terremoto",
+      "resumen": "Del 19 al 22 de noviembre se celebra en el Centro Cultural de Cali la primera feria de vivienda de Casa Mía, el programa de la Alcaldía que otorga bonos de hasta $50 millones para comprar vivienda VIS o VIP a familias afectadas por el sismo del 10 de agosto. Según la Alcaldía, unas 700 familias podrían beneficiarse y se priorizará a las que tienen ingresos de hasta cuatro salarios mínimos, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/damnificados-por-el-terremoto-en-cali-podrian-acceder-a-subsidio-de-50-millones-para-vivienda-nueva-conozca-el-programa-casa-mia-1940.html"
+    },
     {
       "id": "co-20261118-eltiempo-voluntario-malaria-choco",
       "fecha": "2026-11-18",
@@ -14,6 +47,17 @@
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/carlos-andres-ortega-recibio-el-alta-medica-tras-contraer-malaria-mientras-ayudaba-a-damnificados-del-choco-3602002"
     },
     {
+      "id": "co-20261118-eltiempo-superfinanciera-aseguradoras-indemnizaciones",
+      "fecha": "2026-11-18",
+      "titulo": "La Superfinanciera advierte a las aseguradoras de sanciones por poner trabas al pago de indemnizaciones por el terremoto",
+      "resumen": "La Superintendencia Financiera recordó a las aseguradoras que tienen un mes para pagar desde que se acredita el derecho y que esperar la visita o el informe del ajustador no amplía ese plazo. Exigir documentos ajenos al siniestro es una práctica abusiva y no se puede condicionar la indemnización de bienes comunes a un acta de asamblea sobre la reconstrucción; las trabas injustificadas pueden costar sanciones e incluso la autorización para operar en el ramo, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sector-financiero/jalon-de-orejas-de-la-superfinanciera-a-aseguradoras-por-trabas-en-pagos-de-indemnizaciones-les-advierte-sobre-sanciones-3602227"
+    },
+    {
       "id": "co-20261118-eltiempo-fashion-weekend-coleccion-solidaria",
       "fecha": "2026-11-18",
       "titulo": "El Bogotá Fashion Weekend destinará una colección solidaria de 27 diseñadores a la reconstrucción de las zonas afectadas por el terremoto",
@@ -23,6 +67,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/vida/tendencias/bogota-fashion-weekend-reunira-a-715-marcas-y-destinara-una-coleccion-de-disenadores-a-apoyar-la-reconstruccion-del-pais-3602033"
+    },
+    {
+      "id": "co-20261118-eltiempo-edificio-bachue-familias-enseres",
+      "fecha": "2026-11-18",
+      "titulo": "Familias del edificio Bachué, en el sur de Cali, entran a la fuerza para rescatar sus enseres tras más de tres meses de espera",
+      "resumen": "Unas 19 familias que vivían en el edificio Bachué, en la carrera 39 con avenida Roosevelt, cuyas paredes colapsaron en el terremoto del 10 de agosto, entraron por la fuerza al inmueble para sacar sus pertenencias. Tras más de tres meses de espera denuncian que no tienen ropa ni dónde dormir y piden respuestas sobre su futuro, recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/familias-del-edificio-bachue-con-paredes-colapsadas-por-terremoto-rescatan-sus-enseres-a-la-fuerza-en-sur-de-cali-no-tenemos-ropa-ni-donde-dormir-3602205"
     },
     {
       "id": "co-20261118-elpais-cali-la-rosa-cierre-dosquebradas",
