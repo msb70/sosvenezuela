@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261119-elnacional-civ-aerotropolis-la-guaira",
+      "fecha": "2026-11-19",
+      "titulo": "El Colegio de Ingenieros propone reconstruir La Guaira como una «aerotrópolis litoral» que integre el aeropuerto de Maiquetía y el puerto",
+      "resumen": "El Colegio de Ingenieros de Venezuela (CIV) planteó el 18 de noviembre, en una nota de prensa, que la reconstrucción de La Guaira tras los terremotos del 24 de junio no se limite a reponer las estructuras con los criterios previos y que se articule el Aeropuerto de Maiquetía con el Puerto de La Guaira bajo un modelo urbano resiliente, según El Nacional. La propuesta incluye un cinturón verde de amortiguación costera, zonas francas y servicios inteligentes, mientras continúa la remoción de escombros en Caraballeda y Catia La Mar, donde las obras de reconstrucción aún no han comenzado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/colegio-de-ingenieros-propone-transformar-la-guaira-en-una-aerotropolis-litoral-durante-la-reconstruccion/"
+    },
     {
       "id": "ve-20261118-infobae-escombros-143-millones",
       "fecha": "2026-11-18",
