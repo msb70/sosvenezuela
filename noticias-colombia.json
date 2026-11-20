@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261120-infobae-colegios-unicef-6012-sedes",
+      "fecha": "2026-11-20",
+      "titulo": "Unicef cifra en 6.012 las sedes educativas con daños en Buenaventura y Chocó y en $19,2 billones el costo de reconstruirlas",
+      "resumen": "A 100 días del terremoto del 10 de agosto, cerca de 6.012 establecimientos educativos de Buenaventura y Chocó presentan daños y su reconstrucción costaría unos 19,2 billones de pesos, según cifras de Unicef. Mientras se define la financiación, unos 5.000 niños, niñas y adolescentes reciben clases en 46 espacios educativos temporales (Etapis) con energía solar y capacidad para 80 alumnos, informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/20/reconstruir-los-colegios-afectados-por-el-terremoto-en-buenaventura-y-choco-costaria-192-billones-hay-6012-sedes-con-danos/"
+    },
     {
       "id": "co-20261119-infobae-fondo-milagro-contratos-demoliciones",
       "fecha": "2026-11-19",
@@ -12,6 +23,39 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/11/19/salen-a-la-luz-los-contratos-que-dejo-firmados-jaime-uribe-antes-de-su-polemica-salida-de-la-gerencia-del-fondo-milagro-hay-casi-8-mil-millones-comprometidos/"
+    },
+    {
+      "id": "co-20261119-eltiempo-obras-reconstruccion-crecimiento",
+      "fecha": "2026-11-19",
+      "titulo": "Analistas ven en las obras civiles y la reconstrucción tras el sismo el principal alivio para la economía al cierre de 2026",
+      "resumen": "El PIB colombiano pasó de crecer 3,6 % en el segundo trimestre a 0,5 % en el tercero, según el Dane, con contracción de la industria (-1,2 %) y del agro (-6,7 %). Los analistas consultados por El Tiempo señalan que el repunte más inmediato vendría de las obras en ejecución y de la normalización de la actividad en las regiones golpeadas por el terremoto.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/obras-civiles-y-reconstruccion-las-opciones-para-impulsar-el-crecimiento-economico-en-el-cierre-de-3602163"
+    },
+    {
+      "id": "co-20261119-eltiempo-bombero-mellizo-vivienda",
+      "fecha": "2026-11-19",
+      "titulo": "El Gobierno entrega una vivienda a la familia del bombero William Mellizo, que perdió su casa en Cali mientras rescataba víctimas del terremoto",
+      "resumen": "William Mellizo lideró labores de búsqueda y rescate entre los escombros de Cali mientras su propio hogar quedaba en ruinas por el sismo del 10 de agosto. Su familia recibió una vivienda en cumplimiento de un compromiso adquirido a finales de agosto, durante un acto público en Cali, con su hija Elena, de 4 años, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/el-presidente-de-la-espriella-cumple-promesa-a-nina-de-4-anos-y-le-entrega-vivienda-a-su-familia-su-padre-es-el-bombero-damnificado-por-el-terremoto-3602486"
+    },
+    {
+      "id": "co-20261119-elpais-cali-correr-con-causa-tres-cruces",
+      "fecha": "2026-11-19",
+      "titulo": "Diez atletas subirán sin parar el cerro de las Tres Cruces de Cali para recaudar ayudas para niños damnificados por el terremoto",
+      "resumen": "La iniciativa Correr con Causa 2026 – Double Everesting reunirá a 10 atletas del 10 al 12 de diciembre, que subirán y bajarán el cerro de las Tres Cruces (sector Normandía) hasta acumular 17.696 metros de desnivel positivo. Lo recaudado se destinará a ayudas humanitarias y regalos navideños para niños y familias afectados por el sismo del 10 de agosto, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/entretenimiento/correr-con-causa-2026-diez-atletas-enfrentaran-double-everesting-en-las-tres-cruces-por-ninos-afectados-por-el-sismo-1909.html"
     },
     {
       "id": "co-20261119-elpais-cali-comedor-altos-santa-elena",
