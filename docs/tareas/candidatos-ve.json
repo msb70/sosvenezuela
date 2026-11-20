@@ -1,17 +1,26 @@
 {
-  "generado": "2026-11-20T13:55:27+00:00",
+  "generado": "2026-11-20T15:20:44+00:00",
   "pais": "ve",
-  "dias": 3,
+  "dias": 2,
   "fuentes_leidas": 6,
   "fuentes_totales": 8,
   "candidatos": [
     {
       "fuente": "La Patilla",
-      "titulo": "La construcción repunta en Venezuela, pero el bolívar encarece las reparaciones",
-      "url": "https://lapatilla.com/2026/11/20/la-construccion-repunta-en-venezuela-pero-el-bolivar-encarece-las-reparaciones/",
+      "titulo": "El sur de California sufre un sismo de magnitud 4,4 esta madrugada",
+      "url": "https://lapatilla.com/2026/11/20/el-sur-de-california-sufre-un-sismo-de-magnitud-44-esta-madrugada/",
       "fecha": "2026-11-20",
-      "resumen_feed": "La reconstrucción de viviendas y edificaciones después del doble terremoto que sacudió a Venezuela el 24 de junio impulsó la actividad de la construcción, […]",
-      "cuerpo": "La construcción repunta en Venezuela, pero el bolívar encarece las reparaciones Lapatilla noviembre 20 2026, 7:46 am Posteado en: Destacados , Economía , Nacionales Compártelo: Compartir en WhatsApp (Se abre en una ventana nueva) WhatsApp Compartir en Telegram (Se abre en una ventana nueva) Telegram Comparte en Facebook (Se abre en una ventana nueva) Facebook Compartir en X (Se abre en una ventana nueva) X Enviar un enlace a un amigo por correo electrónico (Se abre en una ventana nueva) Correo electrónico Compartir en LinkedIn (Se abre en una ventana nueva) LinkedIn Una toma aérea muestra a rescatistas y voluntarios buscando entre los escombros tras los terremotos del 24 de junio en Los Cocos, La Guaira, Venezuela, el 11 de julio de 2026. REUTERS/Leonardo Fernández Viloria/Foto de archivo La reconstrucción de viviendas y edificaciones después del doble terremoto que sacudió a Venezuela el 24 de junio impulsó la actividad de la construcción, pero el repunte del sector no ha venido acompañado de un aumento generalizado de los precios de los materiales ni de las tarifas de los trabajadores en dólares. Por Raylí Luján / bloomberglinea.com Sigue la transición venezolana minuto a minuto desde nuestro boletín diario La presión económica se manifiesta en otro frente: el dinero que necesitan desembolsar propietarios y comunidades para reparar sus inmuebles en un país donde el bolívar continúa perdiendo valor frente a la moneda estadounidense. La construcción venezolana pasó de una contracción de 14,2% en el primer trimestre de 2026 a crecer 41,8% en el segundo y 35,8% en el tercero, según la serie revisada del Banco Central de Venezuela (BCV), actualizada el 12 de noviembre. El cambio de tendencia coincide con los terremotos del 24 de junio y el inicio de las reparaciones de las",
+      "resumen_feed": "Un sismo de magnitud 4,4 sacudió el área metropolitana de Los Ángeles, en California, este viernes de madrugada, según informó el Servicio Geológico de Estados […]",
+      "cuerpo": "",
+      "http_ok": false
+    },
+    {
+      "fuente": "El Nacional",
+      "titulo": "Sismo de magnitud 4,4 sacudió el sur de California",
+      "url": "https://www.elnacional.com/2026/11/sismo-de-magnitud-44-sacudio-el-sur-de-california/",
+      "fecha": "2026-11-20",
+      "resumen_feed": "El epicentro del temblor, que se localizó cerca de Commerce, al sureste de Los Ángeles, se produjo en torno a las 3:25 de la madrugada (hora local), y se reportó a una profundidad de 17,1 kilómetros, destacó la USGS. The",
+      "cuerpo": "Un terremoto de magnitud 4,4 sacudió el área metropolitana de Los Ángeles, en California, este viernes de madrugada, según informó el Servicio Geológico de Estados Unidos (USGS). El epicentro del temblor, que se localizó cerca de Commerce, al sureste de Los Ángeles, se produjo en torno a las 3:25 de la madrugada (hora local), y se reportó a una profundidad de 17,1 kilómetros, destacó la USGS. Según los primeros informes de los servicios de Emergencias no se aprecian daños estructurales o heridos, aunque algunos ciudadanos mostraron su sorpresa por el sismo en redes sociales. El Departamento de Bomberos de Los Ángeles activó el \"modo terremoto\" y anunció que realizará inspecciones de la infraestructura crítica en busca de daños, según informó en una alerta. California es una zona especialmente peligrosa por terremotos porque está atravesada por un sistema muy amplio de fallas geológicas activas. Entre ellas destaca la falla de San Andrés, pero no es la única: hay cientos de fallas en el Estado y unas 200 están consideradas potencialmente peligrosas por su actividad geológica reciente.",
       "http_ok": true
     },
     {
