@@ -1,7 +1,150 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-19",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261119-elnacional-civ-aerotropolis-la-guaira",
+      "fecha": "2026-11-19",
+      "titulo": "El Colegio de Ingenieros propone reconstruir La Guaira como una «aerotrópolis litoral» que integre el aeropuerto de Maiquetía y el puerto",
+      "resumen": "El Colegio de Ingenieros de Venezuela (CIV) planteó el 18 de noviembre, en una nota de prensa, que la reconstrucción de La Guaira tras los terremotos del 24 de junio no se limite a reponer las estructuras con los criterios previos y que se articule el Aeropuerto de Maiquetía con el Puerto de La Guaira bajo un modelo urbano resiliente, según El Nacional. La propuesta incluye un cinturón verde de amortiguación costera, zonas francas y servicios inteligentes, mientras continúa la remoción de escombros en Caraballeda y Catia La Mar, donde las obras de reconstrucción aún no han comenzado.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/colegio-de-ingenieros-propone-transformar-la-guaira-en-una-aerotropolis-litoral-durante-la-reconstruccion/"
+    },
+    {
+      "id": "ve-20261118-infobae-escombros-143-millones",
+      "fecha": "2026-11-18",
+      "titulo": "Obras Públicas cifra en 1,43 millones de toneladas los escombros retirados en La Guaira, el 68 % del total estimado",
+      "resumen": "El ministro de Obras Públicas, Juan José Ramírez, informó que se han retirado 1,43 millones de toneladas de escombros en La Guaira tras los terremotos del 24 de junio, el 68 % de un estimado de 2,10 millones de toneladas, y que se han demolido 282 edificios con daños estructurales graves, según recoge Infobae a partir de una nota de prensa oficial. En el estado hay 75 frentes de trabajo dedicados a demolición, recolección y despeje de escombros.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.infobae.com/venezuela/2026/11/18/venezuela-ya-retiro-mas-de-un-millon-de-toneladas-de-escombros-tras-los-sismos-de-junio/"
+    },
+    {
+      "id": "ve-20261117-elnacional-seismic-record-caraballeda",
+      "fecha": "2026-11-17",
+      "titulo": "Un estudio en The Seismic Record estima en 202 cm/s la velocidad del suelo en Caraballeda durante los terremotos, uno de los tres registros más intensos del mundo",
+      "resumen": "Un estudio publicado en The Seismic Record, revista de la Sociedad Sismológica de América, calcula que el suelo de Caraballeda (La Guaira) se movió a una velocidad máxima de 202 centímetros por segundo durante los sismos del 24 de junio, uno de los tres registros más intensos a escala mundial, según El Nacional. Los 14 investigadores (universidades de Chile, Concepción, City St George's y Stanford, y la empresa Inelectra) reconstruyeron la sacudida a partir de videos de seguridad que muestran un separador de tránsito deslizándose y una farola balanceándose, ya que ningún instrumento registró el movimiento a menos de 10 km de la ruptura.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/doblete-sismico-de-junio-en-venezuela-genero-uno-de-los-tres-movimientos-de-suelo-mas-intensos-registrados/"
+    },
+    {
+      "id": "ve-20261117-elnacional-laguaira-comercios-645",
+      "fecha": "2026-11-17",
+      "titulo": "La Gobernación de La Guaira afirma que el 64,5 % de los comercios del estado ya opera tras los terremotos",
+      "resumen": "El gobernador de La Guaira, Alejandro Terán, informó que el 64,5 % de los establecimientos comerciales del estado está operativo y que el empleo formal se ha recuperado en un 68,2 %, casi cinco meses después de los sismos del 24 de junio, según El Nacional citando un boletín del Ministerio de Información. Terán atribuyó la reactivación a la normalización de los servicios básicos y a la recuperación de la conectividad aérea y portuaria.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/645-de-los-comercios-ya-opera-en-la-guaira-tras-la-devastacion-causada-por-los-terremotos-de-junio/"
+    },
+    {
+      "id": "ve-20261117-elnacional-identificacion-victimas-senamecf-laya",
+      "fecha": "2026-11-17",
+      "titulo": "Una familia de Caraballeda relata la incertidumbre por la identificación de sus víctimas del terremoto mediante pruebas de ADN del Senamecf",
+      "resumen": "Lorena Laya perdió a su madrastra y a su hermana de 6 años en el derrumbe de las torres de la OPPPE 27, en Caraballeda (La Guaira), y el 20 de julio denunció como desaparecidos a su hermano Diego y a su padre Henry ante la policía científica, según un reportaje de BBC Mundo reproducido por El Nacional. La familia entregó muestras de sangre al Servicio Nacional de Medicina y Ciencias Forenses (Senamecf), el organismo que gestiona la identificación de víctimas de los sismos del 24 de junio, y casi cinco meses después Laya dice no tener certeza de si el cuerpo entregado como el de su hermano es el suyo.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/11/vi-decenas-de-cadaveres-para-reconocer-a-mi-hermano-de-14-anos-tras-los-terremotos-de-venezuela-y-aun-no-se-si-esta-enterrado-o-desaparecido/"
+    },
+    {
+      "id": "ve-20261116-oim-cata-fact-sheet-alojamiento",
+      "fecha": "2026-11-16",
+      "titulo": "Los clústeres de alojamiento y gestión de campamentos publican su hoja informativa actualizada al 11 de noviembre",
+      "resumen": "Los clústeres de Alojamiento y CCCM, con OIM y ACNUR, publicaron en ReliefWeb una actualización (11 de noviembre) de la respuesta en alojamiento, enseres básicos, gestión de campamentos, vivienda, tierra y propiedad (HLP) y energía. El documento señala que las familias desplazadas por los terremotos siguen en campamentos transitorios, itinerantes o en hogares solidarios, y que el clúster CATA, activado en agosto, coordina cuatro grupos técnicos: reparación de viviendas, enseres básicos, gestión de campamentos y HLP.",
+      "fuente": "OIM · ReliefWeb",
+      "tipoFuente": "oficial",
+      "tipo": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-respuesta-de-alojamiento-enseres-basicos-cccm-hlp-energia-fact-sheet-actualizacion-11-de-noviembre-de-2026"
+    },
+    {
+      "id": "ve-20261115-elnacional-traslado-familias-la-paez-ciudad-caribia",
+      "fecha": "2026-11-15",
+      "titulo": "Trasladan a Ciudad Caribia a 17 familias damnificadas que vivían en carpas en La Páez, Catia La Mar",
+      "resumen": "Diecisiete familias damnificadas por los sismos del 24 de junio que permanecían en el campamento del estacionamiento del bloque 2 de La Páez, en Catia La Mar (La Guaira), fueron trasladadas el sábado 14 de noviembre a viviendas temporales en Ciudad Caribia, según El Nacional citando a El Pitazo. Las familias aceptaron tras rechazar la propuesta varias veces, después de que las lluvias y vientos del 8 de noviembre dañaran sus carpas, y esperan que la reubicación sea temporal hasta recibir una vivienda definitiva. La Comisión Presidencial de Habitabilidad y Vivienda plantea implosionar los bloques dañados, sin fecha anunciada.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/trasladaron-a-17-familias-damnificadas-por-los-terremotos-desde-un-campamento-en-catia-la-mar-a-ciudad-caribia/"
+    },
+    {
+      "id": "ve-20261114-elnacional-rescate-madre-hija-caraballeda",
+      "fecha": "2026-11-14",
+      "titulo": "Voluntarios recuperan los cuerpos de una madre y su hija en Residencias Caribe, en Caraballeda",
+      "resumen": "La brigada de voluntarios «Máquina de Hierro» rescató el viernes 13 de noviembre, de entre los escombros de la Torre C de Residencias Caribe (Caraballeda, La Guaira), los cuerpos de María Delia Peña de Solórzano y su hija Dayana Solórzano Peña, cuatro meses y medio después de los sismos del 24 de junio. Al menos tres grupos de rescatistas voluntarios siguen trabajando en el complejo y familiares denuncian que aún hay personas sin localizar, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://www.elnacional.com/2026/11/rescatan-los-cuerpos-de-un-mujer-y-su-hija-en-caraballeda-tras-cuatro-meses-del-terremoto/"
+    },
+    {
+      "id": "ve-20261114-elnacional-quibdo-reconstruccion",
+      "fecha": "2026-11-14",
+      "titulo": "Quibdó estima en cerca de 3 billones de pesos la reconstrucción tras el terremoto del 10 de agosto en Colombia",
+      "resumen": "A tres meses del terremoto de magnitud 7,4 en el oeste de Colombia, la respuesta pasa de la emergencia a la reconstrucción. El alcalde de Quibdó, Rafael Bolaños, estima que las obras costarán cerca de 3 billones de pesos colombianos y que solo estabilizar la ciudad superará los 200.000 millones; la alcaldía aclara que son necesidades, no fondos comprometidos. La financiación depende del Fondo Milagro, fideicomiso creado por decreto el 9 de septiembre, según El Nacional con datos de The Bogotá Post.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Colombia",
+      "url": "https://www.elnacional.com/2026/11/terremoto-en-colombia-quibdo-enfrenta-el-desafio-de-reconstruir-viviendas-e-infraestructura/"
+    },
+    {
+      "id": "ve-20261114-elnacional-funvisis-80-sismos",
+      "fecha": "2026-11-14",
+      "titulo": "Funvisis contabiliza 80 sismos entre el 6 y el 12 de noviembre; la región central concentró 39",
+      "resumen": "La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) registró 80 sismos entre el 6 y el 12 de noviembre, con magnitudes de entre 1,5 y 3,3, según su boletín semanal recogido por El Nacional. La región central concentró 39 eventos, la occidental 30 y la oriental 11. Funvisis recordó que los terremotos no se pueden predecir e insistió en la planificación preventiva.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/funvisis-registro-80-sismos-en-el-territorio-nacional-durante-la-ultima-semana/"
+    },
+    {
+      "id": "ve-20261114-elnacional-concierto-gurrufio-la-guaira",
+      "fecha": "2026-11-14",
+      "titulo": "Un concierto en el Aula Magna de la UCV recaudará fondos para los afectados por los terremotos en La Guaira",
+      "resumen": "El Ensamble Gurrufío y la Orquesta Sinfónica Venezuela ofrecerán el domingo 15 de noviembre en el Aula Magna de la Universidad Central de Venezuela el concierto «Así suena Venezuela», organizado por Amigos Sinfónicos, para recaudar fondos destinados a los damnificados de La Guaira por los sismos del 24 de junio. El recital recorre las regiones del país con merengues, joropos y tambores, informa El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/el-ensamble-gurrufio-quiere-ayudar-a-sanar-con-un-viaje-sonoro-por-venezuela/"
+    },
+    {
+      "id": "ve-20261113-elnacional-festival-miami-ninos",
+      "fecha": "2026-11-13",
+      "titulo": "Un festival benéfico en Miami destinará parte de lo recaudado a niños afectados por los terremotos en Venezuela",
+      "resumen": "El festival Rastrillo 305, que se celebra el 14 de noviembre en el parque Historic Virginia Key Beach de Miami, donará parte de lo recaudado con las entradas a We Love Foundation, organización que atiende a niños de las zonas afectadas por los sismos del 24 de junio. Según Unicef, en esas zonas viven alrededor de 3,9 millones de menores. El resto se destinará a los programas educativos de la fundación organizadora, International Studies Foundation, informa El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/festival-en-miami-destinara-fondos-a-ninos-afectados-por-los-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20261113-elnacional-exclusion-escolar-terremotos",
+      "fecha": "2026-11-13",
+      "titulo": "Fe y Alegría advierte de que los terremotos agravaron la exclusión escolar: 200.000 estudiantes más, en riesgo de dejar las aulas",
+      "resumen": "La directora nacional de Fe y Alegría, Noelbis Aguilar, advirtió que la falta de infraestructura, las dificultades económicas de las familias y la imposibilidad de garantizar jornadas regulares tras los sismos del 24 de junio pueden aumentar la deserción en Distrito Capital, Miranda, La Guaira, Aragua y Carabobo. La Fundación Unidos en la Misión estima que unos 200.000 estudiantes adicionales están en riesgo de quedar fuera del sistema educativo, que se suman a 1,2 millones de menores ya excluidos según la Encovi 2025. Escuelas habilitadas como refugios temporales también suspendieron actividades, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Educación",
+      "url": "https://www.elnacional.com/2026/11/la-exclusion-escolar-en-venezuela-se-agravo-tras-los-terremotos/"
+    },
     {
       "id": "ve-20261111-lapatilla-opinion-laguaira-valor",
       "fecha": "2026-11-11",
