@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261119-elnacional-implosion-la-llovizna-urimare",
+      "fecha": "2026-11-19",
+      "titulo": "Demuelen con implosión controlada dos edificios del conjunto La Llovizna en Urimare (La Guaira) dañados por los terremotos",
+      "resumen": "La Dirección General de Armas y Explosivos (DAEX) ejecutó el 19 de noviembre la implosión controlada de los bloques A y B de la Torre 3 del conjunto residencial La Llovizna, en el sector Playa Grande de la parroquia Urimare (La Guaira), cuyas bases y columnas sufrieron daños estructurales severos en los sismos del 24 de junio, según El Nacional. La demolición forma parte del plan de saneamiento de estructuras afectadas y busca evitar colapsos imprevistos y liberar terrenos para las fases posteriores de recuperación urbana.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/realizan-la-implosion-controlada-de-dos-edificios-de-la-residencia-la-llovizna-en-la-guaira/"
+    },
     {
       "id": "ve-20261119-elnacional-civ-aerotropolis-la-guaira",
       "fecha": "2026-11-19",
