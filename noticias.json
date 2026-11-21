@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-21",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261120-infobae-camara-comercio-creditos-la-guaira",
+      "fecha": "2026-11-20",
+      "titulo": "La Cámara de Comercio de La Guaira afirma que no hay datos oficiales sobre los créditos otorgados a los comerciantes afectados por los terremotos",
+      "resumen": "A cinco meses de los sismos del 24 de junio, la primera vicepresidenta de la Cámara de Comercio de La Guaira, Cipriana Ramos, señaló que en un sondeo del gremio pocos comerciantes informaron haber recibido créditos y que no hay datos de cuántos resultaron beneficiados ni del monto otorgado, según Infobae. De manera extraoficial, entidades del Estado indicaron a la Cámara que se habrían aprobado cerca de 1.900 millones de bolívares (poco más de 2 millones de dólares al cambio oficial), una cifra que el gremio considera poco creíble porque no se ha comunicado por canales oficiales.",
+      "fuente": "Infobae",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.infobae.com/venezuela/2026/11/20/falta-de-transparencia-impide-precisar-numero-y-monto-de-creditos-otorgados-a-comerciantes-de-la-guaira/"
+    },
+    {
+      "id": "ve-20261120-elnacional-funvisis-76-sismos",
+      "fecha": "2026-11-20",
+      "titulo": "Funvisis contabiliza 76 sismos entre el 13 y el 19 de noviembre; el occidente concentró 32",
+      "resumen": "El Servicio Sismológico y de Alerta de Tsunami Venezolano registró 76 eventos telúricos en Venezuela entre el 13 y el 19 de noviembre, según el reporte semanal de Funvisis recogido por El Nacional. El occidente concentró 32 movimientos, la región central 28 (todos menores a magnitud 3,0) y el oriente 16; solo uno alcanzó entre 4,0 y 4,9 de magnitud.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/funvisis-reporto-76-sismos-en-venezuela-entre-el-13-y-el-19-de-noviembre/"
+    },
+    {
+      "id": "ve-20261120-elnacional-dudamel-dona-caf-fondo-reconstruccion",
+      "fecha": "2026-11-20",
+      "titulo": "Gustavo Dudamel dona los 75.000 dólares del Premio Howland al fondo de la CAF para la reconstrucción de Venezuela",
+      "resumen": "El director de orquesta Gustavo Dudamel anunció que donará la totalidad de los 75.000 dólares del Premio Henry E. Howland Memorial 2026, que concede la Universidad de Yale, al Fondo para la Recuperación y Reconstrucción de Venezuela de la CAF tras los terremotos de junio, según El Nacional. La CAF y El Sistema prevén poner en marcha en 2027 nuevos proyectos para recuperar sus capacidades artísticas dentro del Programa de Educación Musical Inclusiva.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/gustavo-dudamel-donara-75-000-dolares-para-recuperacion-tras-terremotos-en-venezuela/"
+    },
+    {
+      "id": "ve-20261119-lapatilla-rescatistas-cuerpos-edificio-jurel",
+      "fecha": "2026-11-19",
+      "titulo": "Rescatistas voluntarios recuperan dos cuerpos entre los escombros del edificio Jurel en Playa Grande (La Guaira)",
+      "resumen": "El equipo de rescatistas voluntarios «Máquina de Hierro» localizó y extrajo el 18 de noviembre los cuerpos de Yulida Verdú y uno de sus familiares en el edificio Jurel de Playa Grande, colapsado en los terremotos del 24 de junio, según La Patilla. Su representante, Leo Bruzual, informó que el operativo superó las 24 horas de trabajo continuo y que la extracción final tomó más de 15 horas; los familiares llevaban meses pidiendo apoyo logístico y maquinaria para la búsqueda.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Balance y cifras",
+      "url": "https://lapatilla.com/2026/11/19/rescatistas-recuperaron-dos-cuerpos-abrazados-entre-los-escombros-del-edificio-jurel-en-playa-grande/"
+    },
     {
       "id": "ve-20261119-elnacional-implosion-la-llovizna-urimare",
       "fecha": "2026-11-19",
