@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-21",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261121-infobae-icetex-gente-milagro-prorroga",
+      "fecha": "2026-11-21",
+      "titulo": "El Icetex amplía hasta el 19 de febrero de 2027 el plazo de la línea de crédito Gente Milagro para estudiantes damnificados",
+      "resumen": "El Icetex extendió hasta el 19 de febrero de 2027 la postulación a la línea especial Gente Milagro, dirigida a estudiantes de pregrado afectados por el terremoto del 10 de agosto, para acceder o permanecer en la educación superior en el primer semestre de 2027; la convocatoria anterior cerraba el 20 de noviembre. Pueden postularse residentes de Chocó, Caldas, Quindío, Risaralda o Valle del Cauca afectados por el sismo o inscritos en los censos de damnificados de la UNGRD, informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/21/el-icetex-amplio-hasta-febrero-de-2027-las-solicitudes-de-creditos-para-estudiantes-damnificados-por-el-terremoto/"
+    },
+    {
+      "id": "co-20261121-eltiempo-henao-dona-salario-fondo-milagro",
+      "fecha": "2026-11-21",
+      "titulo": "El gerente del Fondo Milagro, Luis Felipe Henao, anuncia que donará su salario a la reconstrucción de Risaralda",
+      "resumen": "Tras la polémica por los sueldos del Fondo Milagro, su nuevo gerente, Luis Felipe Henao, anunció en X que donará la totalidad de su salario a la reconstrucción de Risaralda, aunque aclaró que debe percibirlo para poder viajar y tener cobertura de riesgos laborales. En el mismo video expuso las prioridades de su gestión, recoge El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/gobierno/luis-felipe-henao-donara-su-salario-como-gerente-del-fondo-milagro-para-la-reconstruccion-de-risaralda-3602981"
+    },
+    {
+      "id": "co-20261120-infobae-resolucion-869-subsidios-vivienda",
+      "fecha": "2026-11-20",
+      "titulo": "El Gobierno habilita subsidios de arriendo temporal, vivienda nueva y mejoramiento para los damnificados del terremoto",
+      "resumen": "La Resolución 869 de 2026, expedida por los ministerios de Vivienda y Trabajo y la Superintendencia del Subsidio Familiar, crea subsidios de arriendo temporal de hasta medio salario mínimo mensual, compra de vivienda nueva y mejoramiento de viviendas dañadas, que asignarán las cajas de compensación familiar con apoyo de Fonvivienda para los no afiliados. La atención se concentra en Valle del Cauca, Risaralda, Chocó, Quindío, Caldas, Cauca y Antioquia, que reúnen el 98 % de los hogares damnificados; aún no hay fecha de inscripciones, según Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/20/el-gobierno-habilito-subsidios-de-arriendo-vivienda-nueva-y-mejoramientos-para-damnificados-del-terremoto-del-10-de-agosto/"
+    },
     {
       "id": "co-20261120-infobae-colegios-unicef-6012-sedes",
       "fecha": "2026-11-20",
@@ -12,6 +45,50 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/11/20/reconstruir-los-colegios-afectados-por-el-terremoto-en-buenaventura-y-choco-costaria-192-billones-hay-6012-sedes-con-danos/"
+    },
+    {
+      "id": "co-20261120-eltiempo-reactivacion-867-negocios-cali",
+      "fecha": "2026-11-20",
+      "titulo": "Comienza en Cali la entrega de apoyos productivos para reactivar 867 negocios afectados por el terremoto",
+      "resumen": "Una alianza entre la Alcaldía de Cali, la Cámara de Comercio de Cali y la Fundación WWB Colombia, con una inversión de 10.300 millones de pesos, empezó a entregar apoyos productivos —como maquinaria y enseres— a 867 micronegocios afectados por el sismo del 10 de agosto, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/arranca-la-reactivacion-de-867-negocios-afectados-por-el-terremoto-en-cali-con-la-entrega-de-apoyos-productivos-3602888"
+    },
+    {
+      "id": "co-20261120-eltiempo-cali-293081-millones-predial-demoliciones",
+      "fecha": "2026-11-20",
+      "titulo": "Cali destina $293.081 millones a la emergencia, anuncia alivios en el predial para damnificados y reporta 26 edificaciones demolidas",
+      "resumen": "Al cumplirse 100 días del terremoto del 10 de agosto, la Alcaldía de Cali presentó el balance financiero y operativo de la emergencia: 293.081 millones de pesos destinados a la atención, beneficios en el impuesto predial para los damnificados y 26 edificaciones en riesgo ya demolidas, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/cali-destina-293-081-millones-de-pesos-tras-el-terremoto-anuncia-alivios-a-damnificados-en-el-pago-del-predial-y-reporta-26-edificaciones-demolidas-3602797"
+    },
+    {
+      "id": "co-20261120-elpais-valle-938-toneladas-ayudas",
+      "fecha": "2026-11-20",
+      "titulo": "La Gobernación del Valle cifra en 938 toneladas las ayudas recogidas para los damnificados en tres meses",
+      "resumen": "A tres meses del terremoto, la gobernadora del Valle del Cauca, Dilian Francisca Toro, informó que el departamento ha recogido 938 toneladas de alimentos, kits y suministros básicos para los damnificados, además de apoyos internacionales como las carpas donadas por Japón y China. El balance se presentó en el Consejo Fundacional de ProPacífico, con el alcalde de Cali, gremios y fundaciones, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/luego-de-tres-meses-del-terremoto-el-valle-del-cauca-celebra-las-938-toneladas-de-ayudas-que-han-llegado-a-los-damnificados-2038.html"
+    },
+    {
+      "id": "co-20261120-elpais-caminata-oracion-por-cali",
+      "fecha": "2026-11-20",
+      "titulo": "«Una oración por Cali»: caminata de solidaridad con los afectados por el terremoto este sábado 21 de noviembre",
+      "resumen": "La comunidad de la Iglesia Adventista del Séptimo Día de la Asociación del Pacífico organiza el sábado 21 de noviembre la caminata «Una oración por Cali» en apoyo a las familias afectadas por el sismo del 10 de agosto. Saldrá a la 1:00 p. m. desde la Plaza de Toros y terminará en la carpa de la calle 66, con programación religiosa y de acompañamiento, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/una-oracion-por-cali-asi-sera-la-caminata-para-acompanar-a-los-afectados-por-el-terremoto-2022.html"
     },
     {
       "id": "co-20261119-infobae-fondo-milagro-contratos-demoliciones",
