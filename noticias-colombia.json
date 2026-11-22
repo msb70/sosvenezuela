@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-22",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261122-infobae-observatorio-fiscal-trazabilidad-fondo-milagro",
+      "fecha": "2026-11-22",
+      "titulo": "El Observatorio Fiscal de la Javeriana advierte que no se puede rastrear cuánto de los $624.656 millones del Fondo Milagro ha llegado a los territorios",
+      "resumen": "Según el Observatorio Fiscal de la Pontificia Universidad Javeriana, con los registros disponibles al 5 de noviembre no es posible establecer plenamente la trazabilidad de los $624.656 millones comprometidos para el Fondo Milagro, incorporados al Presupuesto General de la Nación el 17 de septiembre. Los recursos iniciales proceden de un crédito contingente con el Banco Mundial contratado en 2025 y el 7 de octubre Hacienda registró el compromiso a favor de Fiducoldex, que administra el patrimonio autónomo creado por el Decreto 1379 de 2026, informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/22/advierten-falta-de-datos-para-conocer-la-destinacion-de-recursos-del-fondo-milagro-no-se-sabe-cuanto-ha-llegado-a-los-territorios-segun-observatorio-fiscal/"
+    },
     {
       "id": "co-20261121-infobae-icetex-gente-milagro-prorroga",
       "fecha": "2026-11-21",
@@ -89,6 +100,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/una-oracion-por-cali-asi-sera-la-caminata-para-acompanar-a-los-afectados-por-el-terremoto-2022.html"
+    },
+    {
+      "id": "co-20261120-elpais-cali-navidad-modo-esperanza",
+      "fecha": "2026-11-20",
+      "titulo": "«Navidad en Modo Esperanza»: el alumbrado navideño de Cali rendirá homenaje a las víctimas y damnificados del terremoto",
+      "resumen": "La Alcaldía de Cali presentó el concepto del alumbrado navideño 2026, «Navidad en Modo Esperanza», dedicado a la memoria de las víctimas y a las familias damnificadas por el sismo del 10 de agosto. La programación llegará a las 22 comunas y los 15 corregimientos con el objetivo de impulsar la reactivación económica de la ciudad, recoge El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/navidad-en-modo-esperanza-asi-sera-el-alumbrado-navideno-con-el-que-cali-homenajeara-a-las-victimas-del-terremoto-2020.html"
     },
     {
       "id": "co-20261119-infobae-fondo-milagro-contratos-demoliciones",
