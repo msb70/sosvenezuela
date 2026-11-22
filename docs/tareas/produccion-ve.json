@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-22",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261122-elnacional-sismo-falcon-dabajuro",
+      "fecha": "2026-11-22",
+      "titulo": "Un sismo sentido en Falcón, con epicentro cerca de Dabajuro, no deja daños reportados",
+      "resumen": "Un sismo sacudió el occidente de Venezuela a las 3:12 de la madrugada del 22 de noviembre, con epicentro cerca de Dabajuro (Falcón). El USGS le asignó magnitud 4,8 y 10 km de profundidad; Funvisis lo registró como sentido, con magnitud 4,1 y 2,4 km de profundidad, a 43 km al sur de Pedregal. Protección Civil y las autoridades regionales no han informado de afectaciones, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Réplicas y sismología",
+      "url": "https://www.elnacional.com/2026/11/funvisis-y-usgs-registraron-sismo-de-al-menos-4-0-de-magnitud-con-epicentro-en-falcon-durante-la-madrugada-del-domingo/"
+    },
+    {
+      "id": "ve-20261121-elnacional-fao-medios-de-vida",
+      "fecha": "2026-11-21",
+      "titulo": "La FAO entregará semillas, herramientas y kits de pesca a 2.800 hogares afectados por los terremotos",
+      "resumen": "La FAO estima que al menos 36.400 personas que dependen de la agricultura y la pesca vieron severamente afectados sus medios de vida y su acceso a los alimentos por los terremotos del 24 de junio. Su proyecto, con los ministerios de Pesca y Acuicultura y de Agricultura Productiva y Tierras, entregará insumos a 2.800 hogares (800 de pescadores artesanales y 2.000 de pequeños agricultores) y reparará sistemas de riego e infraestructura pesquera en beneficio de 100 hogares, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/la-fao-sigue-apoyando-la-seguridad-alimentaria-y-los-medios-de-vida-de-las-familias-afectadas-por-los-terremotos/"
+    },
+    {
+      "id": "ve-20261121-elnacional-calidad-aire-la-guaira",
+      "fecha": "2026-11-21",
+      "titulo": "Instalan estaciones para monitorear la calidad del aire en La Guaira por el polvo de las demoliciones tras los terremotos",
+      "resumen": "La Fundación Instituto de Ingeniería (Fiiidt) y el Ministerio de Ecosocialismo instalaron estaciones para medir la calidad del aire y caracterizar las partículas en suspensión generadas por los derrumbes y las demoliciones controladas tras los sismos del 24 de junio. El primer punto de muestreo está en Caraballeda y se extenderá a Naiguatá y Catia la Mar, con datos que se cruzarán con los registros de centros de salud locales. Los especialistas ordenaron el uso obligatorio de mascarillas de alta eficiencia en las zonas de trabajo, según El Nacional con información de La Verdad de Vargas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://www.elnacional.com/2026/11/instalaron-estaciones-para-monitorear-la-calidad-del-aire-en-la-guaira-tras-los-terremotos/"
+    },
     {
       "id": "ve-20261120-infobae-camara-comercio-creditos-la-guaira",
       "fecha": "2026-11-20",
