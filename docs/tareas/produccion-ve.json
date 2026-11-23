@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-22",
+  "actualizado": "2026-11-23",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261123-elnacional-caf-foro-reconstruccion",
+      "fecha": "2026-11-23",
+      "titulo": "La CAF destinará los patrocinios de su Foro Económico 2027 a la reconstrucción tras los terremotos",
+      "resumen": "El Banco de Desarrollo de América Latina y el Caribe (CAF) anunció que todos los recursos de los patrocinios del Foro Económico Internacional América Latina y el Caribe 2027, previsto para el 27 y 28 de enero en Ciudad de Panamá, financiarán programas de asistencia y reconstrucción en las zonas afectadas por los terremotos en Venezuela, Colombia y Panamá. Según El Nacional, la iniciativa complementa el Fondo para la Recuperación y Reconstrucción de Venezuela y el memorando de entendimiento firmado con Fedecámaras.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/caf-destinara-patrocinios-de-su-foro-economico-2027-a-la-reconstruccion-de-zonas-afectadas-por-los-terremotos-en-venezuela-colombia-y-panama/"
+    },
     {
       "id": "ve-20261122-elnacional-sismo-falcon-dabajuro",
       "fecha": "2026-11-22",
