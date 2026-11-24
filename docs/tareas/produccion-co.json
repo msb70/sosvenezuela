@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-11-22",
+  "actualizado": "2026-11-23",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261123-infobae-denuncia-fondo-milagro-demolicion-arabico",
+      "fecha": "2026-11-23",
+      "titulo": "Denuncian ante Fiscalía, Procuraduría y Contraloría presuntas irregularidades del Fondo Milagro en la demolición del edificio Arábico de Cali",
+      "resumen": "El vicepresidente del Senado, Alejandro Ocampo, denunció ante la Fiscalía, la Procuraduría, la Contraloría y la Superintendencia de Industria y Comercio a directivos del Fondo Milagro y de Fiducoldex por presuntas anomalías en la demolición del edificio Arábico de Cali y en la contratación de su interventoría. Según la denuncia, el inmueble estaba bajo administración de la SAE y no alojaba damnificados, y la demolición —del 22 de octubre al 12 de noviembre— se inició sin contrato de ejecución, informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/23/denunciaron-a-directivos-del-fondo-milagro-por-presunta-corrupcion-y-un-carrusel-de-contratacion-vicepresidente-del-senado-presento-demandas-ante-la-fiscalia-la-procuraduria-y-la-contraloria/"
+    },
+    {
+      "id": "co-20261123-eltiempo-oim-informe-damnificados",
+      "fecha": "2026-11-23",
+      "titulo": "La OIM constata que muchas familias damnificadas por el terremoto siguen sin recibir ayuda y se desplazaron sobre todo dentro de sus municipios",
+      "resumen": "La Organización Internacional para las Migraciones publicó un informe de seguimiento a la situación humanitaria de las víctimas del terremoto del 10 de agosto, basado en entrevistas a 160 hogares (550 personas) realizadas entre agosto y noviembre en Antioquia, Arauca, Cauca, Chocó, La Guajira, Nariño, Norte de Santander, Valle del Cauca y Bogotá. Su principal conclusión es que para centenares de familias la vida sigue en pausa porque no han recibido ningún tipo de ayuda, y que los desplazamientos se produjeron principalmente dentro de los propios municipios, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/justicia/investigacion/victimas-del-terremoto-buscan-salir-del-pais-tras-no-recibir-ayuda-organizacion-internacional-para-las-migraciones-3603325"
+    },
+    {
+      "id": "co-20261123-eltiempo-henao-campamentos-31-diciembre",
+      "fecha": "2026-11-23",
+      "titulo": "El Fondo Milagro se fija como meta que no quede ningún damnificado en campamentos al 31 de diciembre",
+      "resumen": "El nuevo gerente del Fondo Milagro, Luis Felipe Henao, afirmó en entrevista con El Tiempo que el compromiso es que al 31 de diciembre no haya ninguna persona en los campamentos de damnificados del terremoto del 10 de agosto. Anunció ferias de vivienda en varias regiones y confirmó que todas las contrataciones públicas del fondo se publicarán en SECOP II, en un intento de acelerar la ejecución y recuperar la confianza en la entidad.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/politica/gobierno/el-compromiso-es-que-al-31-de-diciembre-no-exista-ninguna-persona-en-los-campamentos-gerente-del-fondo-milagro-sobre-damnificados-por-el-terremoto-3603296"
+    },
+    {
+      "id": "co-20261123-elpais-huv-500-millones-ilv",
+      "fecha": "2026-11-23",
+      "titulo": "La Gobernación del Valle y la Industria de Licores entregan $500 millones al HUV para reponer equipos dañados por el terremoto",
+      "resumen": "La Gobernación del Valle del Cauca y la Industria de Licores del Valle entregaron un aporte inicial de $500 millones al Hospital Universitario del Valle, procedente de la campaña ‘Al Valle lo reconstruimos juntos’, que destina $1.000 por cada botella de Aguardiente Blanco del Valle vendida; entre septiembre y octubre se vendieron 500.000. Es el tercer aporte institucional que recibe el hospital y se destinará a cámaras de calor radiante, incubadoras y monitores para la atención materno-infantil, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Salud",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/gobernacion-del-valle-e-industria-de-licores-entregan-500-millones-al-huv-para-su-recuperacion-tras-el-terremoto-2314.html"
+    },
     {
       "id": "co-20261122-infobae-observatorio-fiscal-trazabilidad-fondo-milagro",
       "fecha": "2026-11-22",
@@ -12,6 +56,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.infobae.com/colombia/2026/11/22/advierten-falta-de-datos-para-conocer-la-destinacion-de-recursos-del-fondo-milagro-no-se-sabe-cuanto-ha-llegado-a-los-territorios-segun-observatorio-fiscal/"
+    },
+    {
+      "id": "co-20261122-eltiempo-henao-predios-pereira",
+      "fecha": "2026-11-22",
+      "titulo": "El Fondo Milagro asegura que los damnificados de Pereira no tendrán que vender sus predios",
+      "resumen": "Ante las denuncias de propietarios de predios colapsados en Pereira (sector La Lorena), que afirman recibir presiones para vender y no poder asumir los costos de las demoliciones, el gerente del Fondo Milagro, Luis Felipe Henao, aseguró que se respetará la voluntad de los propietarios. Anunció además ferias de vivienda con distintas constructoras, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/luis-felipe-henao-gerente-del-fondo-milagro-senala-que-los-damnificados-no-tendran-que-vender-sus-predios-3603193"
+    },
+    {
+      "id": "co-20261122-elpais-buenaventura-143-viviendas-900-mejoras",
+      "fecha": "2026-11-22",
+      "titulo": "Buenaventura tendrá 143 viviendas nuevas y 900 hogares reparados con materiales y maestros de obra tras el terremoto",
+      "resumen": "La Gobernación del Valle presentó el domingo 22 de noviembre al equipo de maestros de obra, oficiales y ayudantes que acompañará la intervención de cerca de 900 viviendas de Buenaventura afectadas por el terremoto del 10 de agosto, con entrega de materiales de construcción. Para otros 143 hogares se proyecta la construcción de viviendas nuevas en la zona urbana y rural del distrito, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/buenaventura-tendra-143-viviendas-nuevas-y-otras-900-seran-intervenidas-tras-el-terremoto-del-10-de-agosto-2211.html"
     },
     {
       "id": "co-20261121-infobae-icetex-gente-milagro-prorroga",
