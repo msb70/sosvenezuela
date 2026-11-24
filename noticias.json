@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261123-elnacional-cruz-roja-40000-atendidos",
+      "fecha": "2026-11-23",
+      "titulo": "La Cruz Roja Venezolana reporta unas 40.000 personas atendidas a casi cinco meses de los terremotos",
+      "resumen": "La Cruz Roja Venezolana informó el 23 de noviembre que ha asistido a cerca de 10.000 familias, unas 40.000 personas, damnificadas por los terremotos del 24 de junio, con más de 1.600 voluntarios en 37 comunidades. Su balance incluye 26.920 consultas médicas, 10.807 intervenciones de salud mental y apoyo psicosocial y agua segura para 20.387 personas. La organización anunció una nueva etapa centrada en la recuperación económica de las familias que perdieron vivienda o medios de sustento, según El Nacional.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/a-casi-cinco-meses-de-los-terremotos-del-24-de-junio-la-cruz-roja-venezolana-reporta-mas-de-40-000-personas-atendidas/"
+    },
     {
       "id": "ve-20261123-elnacional-caf-foro-reconstruccion",
       "fecha": "2026-11-23",
