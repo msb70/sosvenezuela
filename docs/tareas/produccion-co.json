@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261124-eltiempo-petronio-alvarez-diciembre",
+      "fecha": "2026-11-24",
+      "titulo": "El Festival Petronio Álvarez, aplazado por el terremoto, se celebrará en Cali del 11 al 13 de diciembre",
+      "resumen": "El Festival de Música del Pacífico Petronio Álvarez, que tuvo que suspenderse tras el terremoto del 10 de agosto, tendrá una edición especial del 11 al 13 de diciembre de 2026 en Cali. Los principales eventos se trasladan al Parque de la Caña, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/la-navidad-en-cali-sonara-a-marimba-y-musica-del-pacifico-el-festival-petronio-alvarez-regresara-mas-alegre-tras-el-terremoto-de-agosto-3603810"
+    },
+    {
+      "id": "co-20261124-eltiempo-dian-recaudo-alivio-sanciones",
+      "fecha": "2026-11-24",
+      "titulo": "La Dian recauda $3,17 billones con la rebaja de sanciones e intereses abierta tras el terremoto para financiar la emergencia",
+      "resumen": "La Dirección de Impuestos y Aduanas Nacionales recaudó $3,17 billones en los dos meses en que permitió a los contribuyentes ponerse al día con una rebaja del 85 % en las sanciones y un interés de mora del 4,5 % anual; más de 161.000 contribuyentes se acogieron a la medida. La cifra supera en $465.518 millones la meta de $2,7 billones (117,2 % de cumplimiento) y, según la entidad, se destina a atender la emergencia y financiar la reconstrucción de las zonas golpeadas por el terremoto del 10 de agosto, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/dian-recaudo-3-17-billones-con-la-rebaja-de-sanciones-e-intereses-que-abrio-el-gobierno-tras-el-terremoto-3603849"
+    },
+    {
+      "id": "co-20261124-elpais-nutresa-avances-choco",
+      "fecha": "2026-11-24",
+      "titulo": "Grupo Nutresa tiene en marcha cinco de sus ocho compromisos de ayuda al Chocó tras el terremoto",
+      "resumen": "El Grupo Nutresa informó que ya están en marcha cinco de los ocho compromisos de apoyo al Chocó anunciados el 7 de septiembre en Quibdó, centrados en educación y asistencia humanitaria. Entre ellos, la Fundación Nutresa instaló dos generadores atmosféricos de agua en Quibdó —en la Institución Educativa Antonio Ricaurte y en el Hospital San Francisco de Asís—, cada uno capaz de producir unos 1.000 litros diarios de agua potable, según El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/grupo-nutresa-reporta-avances-en-las-iniciativas-para-la-reconstruccion-del-choco-posterior-al-terremoto-2434.html"
+    },
     {
       "id": "co-20261123-infobae-denuncia-fondo-milagro-demolicion-arabico",
       "fecha": "2026-11-23",
@@ -45,6 +78,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/gobernacion-del-valle-e-industria-de-licores-entregan-500-millones-al-huv-para-su-recuperacion-tras-el-terremoto-2314.html"
+    },
+    {
+      "id": "co-20261123-elpais-fasecolda-pagos-1-7-billones",
+      "fecha": "2026-11-23",
+      "titulo": "Las aseguradoras elevan a $1,7 billones los pagos por el terremoto tras desembolsar $351.000 millones adicionales",
+      "resumen": "Según el más reciente balance de la Federación de Aseguradores Colombianos (Fasecolda), las compañías de seguros han desembolsado $1,7 billones a hogares y empresas afectados por el terremoto del 10 de agosto, tras pagar $351.000 millones adicionales en las últimas semanas. Cali y Pereira tendrán jornadas especiales para orientar a los damnificados en sus procesos de reclamación, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/sector-asegurador-desembolso-351-mil-millones-adicionales-para-atender-danos-causados-por-el-terremoto-2343.html"
     },
     {
       "id": "co-20261122-infobae-observatorio-fiscal-trazabilidad-fondo-milagro",
