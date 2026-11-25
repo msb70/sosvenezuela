@@ -1,7 +1,73 @@
 {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261125-infobae-senado-adicion-presupuestal",
+      "fecha": "2026-11-25",
+      "titulo": "El Senado aprueba una adición presupuestal de $3,8 billones, con $2,7 billones para el Fondo Milagro; falta la Cámara",
+      "resumen": "La plenaria del Senado aprobó el 24 de noviembre, con 53 votos, el proyecto de adición al Presupuesto General de 2026 por $3,8 billones presentado por el Gobierno: $2,7 billones irán al Fondo Milagro para atender a los damnificados del terremoto del 10 de agosto y financiar la reconstrucción, y $1,1 billones al programa Colombia Mayor. La Cámara de Representantes no pudo votarlo por falta de quórum y retomará el debate el 25 de noviembre, informa Infobae.",
+      "fuente": "Infobae",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.infobae.com/colombia/2026/11/25/senado-aprueba-adicion-presupuestal-de-38-billones-para-adultos-mayores-y-damnificados-falta-la-camara/"
+    },
+    {
+      "id": "co-20261125-eltiempo-sae-inmuebles-cali",
+      "fecha": "2026-11-25",
+      "titulo": "La SAE adjudica 24 inmuebles a la Alcaldía de Cali para familias damnificadas por el terremoto",
+      "resumen": "La Sociedad de Activos Especiales adjudicó 24 inmuebles urbanos a la Alcaldía de Cali mediante la Resolución 1247 de 2026; la administración los recibirá antes del 20 de diciembre para entregarlos a hogares damnificados. Para elegirlos, la SAE hizo 512 visitas técnicas en Caldas, Chocó, Quindío, Risaralda y Valle del Cauca: 294 inmuebles resultaron habitables, 188 habitables condicionados y 30 no viables, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/la-sae-entrego-24-inmuebles-a-cali-para-damnificados-del-terremoto-3604118"
+    },
+    {
+      "id": "co-20261125-eltiempo-fondo-milagro-hoja-ruta",
+      "fecha": "2026-11-25",
+      "titulo": "El Fondo Milagro advierte que solo tiene uno de cada cuatro pesos necesarios para la reconstrucción y denuncia irregularidades",
+      "resumen": "El gerente del Fondo Milagro, Luis Felipe Henao, presentó en el XXIII Congreso Nacional de la Infraestructura la hoja de ruta para invertir $2,7 billones y advirtió que, de cada cuatro pesos que requiere la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto, la entidad solo cuenta con uno. También denunció irregularidades en el proceso de reconstrucción, según El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/gerente-del-fondo-milagro-detalla-en-que-gastara-2-7-billones-y-denuncia-irregularidades-en-la-reconstruccion-3604168"
+    },
+    {
+      "id": "co-20261125-elpais-mujeres-victimas-cali",
+      "fecha": "2026-11-25",
+      "titulo": "El 63 % de las víctimas mortales del terremoto en Cali fueron mujeres, según un estudio",
+      "resumen": "Un análisis del Observatorio para la Equidad de las Mujeres, la Fundación WWB Colombia y Cali Cómo Vamos concluye que el 63 % de las víctimas fatales del terremoto en Cali fueron mujeres. El estudio señala además una sobrecarga de trabajo de cuidado asociada a la emergencia y el cierre o la caída de ingresos de muchos emprendimientos liderados por mujeres, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Balance y cifras",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/el-63-de-las-victimas-del-terremoto-en-cali-fueron-mujeres-analisis-de-lo-que-dejo-la-tragedia-para-este-genero-2520.html"
+    },
+    {
+      "id": "co-20261125-elpais-gobernacion-valle-1-billon",
+      "fecha": "2026-11-25",
+      "titulo": "La Gobernación del Valle aportará $1 billón a la reconstrucción, el 16 % de los $19 billones que necesita el departamento",
+      "resumen": "La gobernadora del Valle, Dilian Francisca Toro, anunció en el Congreso Nacional de la Infraestructura de la CCI que el departamento aportará $1 billón a la reconstrucción tras el terremoto del 10 de agosto. Según cálculos del Fondo Milagro, el Valle necesita $19 billones, por lo que pidió apoyo al Gobierno Nacional y al sector privado para estructurar proyectos y acelerar las obras, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/gobernacion-del-valle-aportara-1-billon-a-la-reconstruccion-regional-dilian-francisca-toro-pide-apoyo-para-estructurar-proyectos-2555.html"
+    },
+    {
+      "id": "co-20261125-elpais-feria-vivienda-50000-millones",
+      "fecha": "2026-11-25",
+      "titulo": "El Gobierno destina $50.000 millones a la feria de vivienda de Cali y comprará inventario para los damnificados",
+      "resumen": "El gerente del Fondo Milagro, Luis Felipe Henao, anunció que el Gobierno Nacional comprará inventario de vivienda en las zonas afectadas por el terremoto para facilitar que los damnificados adquieran casa o apartamento. Hay tres ferias de vivienda programadas; la de Cali, en curso, cuenta con $50.000 millones desbloqueados con el Ministerio de Hacienda, la UNGRD y la Alcaldía, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/feria-de-vivienda-en-cali-para-damnificados-del-terremoto-gobierno-destina-50000-millones-2503.html"
+    },
     {
       "id": "co-20261124-eltiempo-petronio-alvarez-diciembre",
       "fecha": "2026-11-24",
