@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261124-elnacional-voluntarios-busqueda-cuerpos-caraballeda",
+      "fecha": "2026-11-24",
+      "titulo": "Familias y voluntarios siguen buscando cuerpos en Residencias Caribe, en Caraballeda, cinco meses después del doble terremoto",
+      "resumen": "Cinco meses después de los sismos del 24 de junio, familiares de víctimas continúan con voluntarios la búsqueda de cuerpos bajo los escombros en La Guaira, según un reportaje de France 24 recogido por El Nacional. Marlon Paz busca casi a diario a su hijo Isaac, de 8 años, y a su esposa, Kinger Correa, de 45, atrapados en el Conjunto Residencial Caribe, en Caraballeda. Los voluntarios relatan que remueven escombros a mano por falta de herramientas.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/voluntarios-se-resisten-a-dejar-la-busqueda-de-cuerpos-en-la-guaira-tras-cinco-meses-del-doble-terremoto/"
+    },
     {
       "id": "ve-20261123-elnacional-cruz-roja-40000-atendidos",
       "fecha": "2026-11-23",
