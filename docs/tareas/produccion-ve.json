@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261126-elnacional-playas-la-guaira-abiertas-diario-diciembre",
+      "fecha": "2026-11-26",
+      "titulo": "Las playas de La Guaira abrirán todos los días a partir del 1 de diciembre tras la recuperación de posadas y hoteles",
+      "resumen": "Las playas de La Guaira abrirán de lunes a domingo desde el 1 de diciembre, tras constatarse que el abastecimiento, los servicios públicos y los locales turísticos pueden atender a los visitantes, informó el gobernador José Alejandro Terán, según El Nacional. Más del 68 % de las posadas y hoteles del litoral se ha recuperado; los balnearios reabrieron el 31 de octubre solo los fines de semana tras más de cuatro meses de cierre por los terremotos. Hasta el 20 de noviembre había 55 playas operativas, según Fedecámaras La Guaira.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Reconstrucción",
+      "url": "https://www.elnacional.com/2026/11/playas-de-la-guaira-estaran-abiertas-de-lunes-a-domingo-a-partir-del-1-de-diciembre/"
+    },
+    {
+      "id": "ve-20261125-cronicauno-familias-63-menores-desaparecidos-busqueda",
+      "fecha": "2026-11-25",
+      "titulo": "Familiares de 63 menores desaparecidos tras los terremotos en La Guaira piden investigaciones y denuncian retrasos en las pruebas de ADN",
+      "resumen": "A cinco meses de los sismos del 24 de junio, el movimiento Hasta Encontrarlos, que agrupa a familiares de 63 niños, niñas y adolescentes desaparecidos en La Guaira, denunció retrasos en las pruebas de ADN y la suspensión de las exhumaciones de 104 personas enterradas sin identificar, según Crónica.Uno. En una rueda de prensa en la sede de Cecodap el 25 de noviembre, las familias pidieron a las autoridades investigaciones para ubicar o identificar a los menores. Familiares relatan que recorren por su cuenta morgues, iglesias y refugios de varios estados.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://cronica.uno/familiares-de-63-menores-de-edad-desaparecidos-tras-los-sismos-denuncian-falta-de-apoyo-en-la-busqueda/"
+    },
     {
       "id": "ve-20261124-elnacional-voluntarios-busqueda-cuerpos-caraballeda",
       "fecha": "2026-11-24",
