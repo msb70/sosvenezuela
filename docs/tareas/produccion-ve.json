@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261127-oim-lineamientos-kits-enseres-ehi",
+      "fecha": "2026-11-27",
+      "titulo": "Los clústeres de Alojamiento y CCCM publican lineamientos técnicos para los kits de enseres esenciales del hogar",
+      "resumen": "Los clústeres de Alojamiento y de Gestión de Campamentos (CCCM), con OIM y ACNUR, publicaron en ReliefWeb los lineamientos técnicos (versión 1.0, noviembre de 2026) para la entrega de kits de enseres esenciales para el hogar (EHI) a las familias afectadas por los terremotos en siete estados. El documento señala que la pérdida de estos artículos limita funciones básicas como dormir, cocinar, almacenar agua y alimentos o la higiene personal. Junto a él se publicó una guía para armonizar la terminología de campamentos y alojamientos colectivos.",
+      "fuente": "OIM · ReliefWeb",
+      "tipoFuente": "oficial",
+      "tipo": "oficial",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-terremoto-lineamientos-tecnicos-kits-de-enseres-esenciales-para-el-hogar-ehi-noviembre-2026-version-10"
+    },
+    {
+      "id": "ve-20261127-elnacional-rescatista-fallece-residencias-caribe",
+      "fecha": "2026-11-27",
+      "titulo": "Fallece un rescatista voluntario tras sufrir un infarto durante la búsqueda de cuerpos en Residencias Caribe, en La Guaira",
+      "resumen": "Luis Enrique Zabatti, de 28 años e integrante del equipo de topos voluntarios Máquina de Hierro, falleció el miércoles tras sufrir dos paros cardíacos mientras excavaba un túnel en Residencias Caribe, en La Guaira, según El Nacional. Protección Civil le prestó primeros auxilios y lo trasladó a un centro asistencial. Los voluntarios buscan en ese conjunto los cuerpos de personas aún desaparecidas desde los terremotos del 24 de junio.",
+      "fuente": "El Nacional",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://www.elnacional.com/2026/11/joven-rescatista-fallece-tras-sufrir-un-infarto-durante-labores-de-busqueda-en-la-guaira/"
+    },
     {
       "id": "ve-20261126-elnacional-playas-la-guaira-abiertas-diario-diciembre",
       "fecha": "2026-11-26",
@@ -12,6 +34,17 @@
       "tipo": "noticia",
       "categoria": "Reconstrucción",
       "url": "https://www.elnacional.com/2026/11/playas-de-la-guaira-estaran-abiertas-de-lunes-a-domingo-a-partir-del-1-de-diciembre/"
+    },
+    {
+      "id": "ve-20261126-cronicauno-la-guaira-carencias-agua-posterremoto",
+      "fecha": "2026-11-26",
+      "titulo": "Cinco meses después de los terremotos, vecinos de viviendas en pie en La Guaira siguen sin agua por tubería",
+      "resumen": "Familias que conservaron sus casas en la zona más afectada de La Guaira siguen dependiendo de organizaciones humanitarias y del Gobierno para abastecerse de agua, cinco meses después de los sismos del 24 de junio, según Crónica.Uno. En el complejo OPPP24 de Tanaguarenas, las tuberías se rompieron con el terremoto y el servicio no se ha restablecido; los vecinos llenan depósitos que duran unos dos días. El reportaje recoge además la falta de empleo y las demoliciones en curso en la zona.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Infraestructura y servicios",
+      "url": "https://cronica.uno/en-la-guaira-las-carencias-posterremotos-quebraron-tambien-el-hogar-de-muchos/"
     },
     {
       "id": "ve-20261125-cronicauno-familias-63-menores-desaparecidos-busqueda",
