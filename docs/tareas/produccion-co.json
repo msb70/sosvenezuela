@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261126-elpais-minvivienda-plan-4700-casas",
+      "fecha": "2026-11-26",
+      "titulo": "El Ministerio de Vivienda presenta su plan de reconstrucción: el primer paso será comprar 4.700 casas para damnificados del terremoto",
+      "resumen": "En el Congreso Nacional de Infraestructura de la CCI, en Cartagena, el ministro de Vivienda expuso el plan de su cartera para las zonas afectadas por el terremoto del 10 de agosto, que arranca con la compra de 4.700 viviendas para familias damnificadas. El plan suma proyectos por $20,1 billones en el cuatrienio, repartidos en nueve líneas de vivienda, agua potable y saneamiento, y el 26 de noviembre se firma un convenio de $1,7 billones entre Fonvivienda y el Fondo Milagro, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/economia/ministro-de-vivienda-presento-plan-para-la-reconstruccion-primer-paso-sera-la-compra-de-4700-casas-para-damnificados-2614.html"
+    },
     {
       "id": "co-20261125-infobae-senado-adicion-presupuestal",
       "fecha": "2026-11-25",
@@ -14,6 +25,17 @@
       "url": "https://www.infobae.com/colombia/2026/11/25/senado-aprueba-adicion-presupuestal-de-38-billones-para-adultos-mayores-y-damnificados-falta-la-camara/"
     },
     {
+      "id": "co-20261125-eltiempo-vistete-esperanza-pereira",
+      "fecha": "2026-11-25",
+      "titulo": "La campaña Vístete de Esperanza reparte ropa nueva a damnificados del terremoto en Pereira y Dosquebradas",
+      "resumen": "Después de entregar prendas a 8.244 damnificados en Cali, la campaña Vístete de Esperanza llegó a Risaralda para atender a unas 15.000 personas afectadas por el terremoto del 10 de agosto en Pereira y Dosquebradas. Desde el 20 de noviembre, en el Parque Metropolitano del Café, quienes perdieron su vivienda o no pudieron recuperar sus pertenencias pueden elegir gratis hasta cinco prendas nuevas, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Ayuda humanitaria",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/de-servicio-campana-vistete-de-esperanza-entregara-mas-de-15-000-prendas-a-damnificados-del-terremoto-en-pereira-y-dosquebradas-3604204"
+    },
+    {
       "id": "co-20261125-eltiempo-sae-inmuebles-cali",
       "fecha": "2026-11-25",
       "titulo": "La SAE adjudica 24 inmuebles a la Alcaldía de Cali para familias damnificadas por el terremoto",
@@ -23,6 +45,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/la-sae-entrego-24-inmuebles-a-cali-para-damnificados-del-terremoto-3604118"
+    },
+    {
+      "id": "co-20261125-eltiempo-petronio-expositores-perdidas",
+      "fecha": "2026-11-25",
+      "titulo": "Los expositores del Petronio Álvarez, endeudados por la suspensión del festival tras el terremoto, ven un alivio en la edición de diciembre",
+      "resumen": "La suspensión del Festival Petronio Álvarez por el terremoto del 10 de agosto dejó a portadores de tradición y emprendedores del Pacífico con pérdidas y deudas con bancos y prestamistas «gota a gota». La edición especial del 11 al 13 de diciembre en Cali es para ellos «un respiro bastante grande», y algunos tendrán además un espacio en la Feria del Hogar de Bogotá, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/cali/es-un-respiro-bastante-grande-el-renacer-de-los-expositores-del-petronio-alvarez-tras-las-perdidas-economicas-generadas-por-el-terremoto-3604035"
     },
     {
       "id": "co-20261125-eltiempo-fondo-milagro-hoja-ruta",
@@ -67,6 +100,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/economia/feria-de-vivienda-en-cali-para-damnificados-del-terremoto-gobierno-destina-50000-millones-2503.html"
+    },
+    {
+      "id": "co-20261125-elpais-aecid-escuela-taller-quibdo",
+      "fecha": "2026-11-25",
+      "titulo": "La cooperación española financia la formación de jóvenes de Quibdó y Buenaventura en oficios de construcción para la reconstrucción",
+      "resumen": "El Ministerio de Cultura confirmó una donación de la Agencia Española de Cooperación Internacional para el Desarrollo (Aecid) a la Fundación Escuela Taller de Quibdó para formar a 65 jóvenes en oficios de construcción, que trabajarán en la reconstrucción de infraestructuras públicas de uso social en Chocó y Buenaventura dañadas por el sismo del 10 de agosto. El titular de la nota de Colprensa publicada por El País (Cali) habla de 600.000 euros, pero el texto cita 60.000 euros.",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/colombia/agencia-espanola-donara-600-mil-euros-para-la-reconstruccion-de-buenaventura-y-quibdo-tras-el-terremoto-2553.html"
     },
     {
       "id": "co-20261124-eltiempo-petronio-alvarez-diciembre",
