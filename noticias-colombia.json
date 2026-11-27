@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261127-elpais-fondo-milagro-postulaciones-vivienda-valle",
+      "fecha": "2026-11-27",
+      "titulo": "El Fondo Milagro abre las postulaciones a subsidios de vivienda para los damnificados del terremoto en el Valle del Cauca",
+      "resumen": "Tras reunirse con el Bloque Parlamentario del Valle, el gerente del Fondo Milagro, Luis Felipe Henao, anunció el inicio de las postulaciones a subsidios de vivienda para los afectados por el terremoto del 10 de agosto en el departamento, especialmente las familias de Cali que lo perdieron todo. Los subsidios se financiarán con recursos conjuntos del Gobierno nacional, la Gobernación y las alcaldías, y el 27 de noviembre se firma un convenio con el Ministerio de Vivienda para adquirir más de 1.000 viviendas, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/fondo-milagro-anuncio-el-inicio-de-las-postulaciones-a-subsidios-de-vivienda-para-los-afectados-por-el-terremoto-en-el-valle-2756.html"
+    },
     {
       "id": "co-20261126-elpais-minvivienda-plan-4700-casas",
       "fecha": "2026-11-26",
@@ -12,6 +23,17 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/economia/ministro-de-vivienda-presento-plan-para-la-reconstruccion-primer-paso-sera-la-compra-de-4700-casas-para-damnificados-2614.html"
+    },
+    {
+      "id": "co-20261126-elpais-gobernacion-tecnologia-colegios-afectados",
+      "fecha": "2026-11-26",
+      "titulo": "La Gobernación del Valle y el sector privado entregan dotación tecnológica a instituciones educativas afectadas por el terremoto",
+      "resumen": "La Gobernación del Valle del Cauca presentó el 26 de noviembre, junto con aliados del sector privado, iniciativas para apoyar la recuperación de las instituciones educativas afectadas por el terremoto del 10 de agosto, empezando por la entrega de dotación tecnológica. En la misma jornada se reconoció a las instituciones Ateneo, de Pradera, y La Consolita, de Caicedonia, por sus resultados en las Olimpiadas STEM+ 2026, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Educación",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/gobernacion-del-valle-y-sector-privado-entregan-tecnologia-a-instituciones-educativas-afectadas-por-el-terremoto-2614.html"
     },
     {
       "id": "co-20261125-infobae-senado-adicion-presupuestal",
