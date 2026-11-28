@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-27",
+  "actualizado": "2026-11-28",
   "nota": "Selección editorial de la Fundación Eugenio Mendoza sobre el terremoto de Colombia del 10 de agosto de 2026. Se actualiza a diario. Los enlaces llevan al medio original.",
   "items": [
+    {
+      "id": "co-20261128-eltiempo-implosion-invico-pereira",
+      "fecha": "2026-11-28",
+      "titulo": "Pereira implosionará el domingo 29 de noviembre el edificio Invico, gravemente averiado por el terremoto",
+      "resumen": "La torre de 15 pisos del edificio Invico, cuyo piso 12 desapareció casi por completo tras el colapso parcial causado por el terremoto del 10 de agosto, será derribada a las 11:00 del domingo 29 de noviembre con más de 180 kilos de explosivos a cargo de la empresa Demoliciones Atila. Será la primera implosión realizada en Colombia tras un sismo y busca eliminar el riesgo de desplome sobre la avenida Circunvalar, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Infraestructura y servicios",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/pereira-despedira-a-su-emblematico-edificio-invico-tras-quedar-afectado-por-el-terremoto-la-implosion-de-esta-estructura-es-inedita-en-colombia-3605093"
+    },
+    {
+      "id": "co-20261127-eltiempo-costo-reconstruccion-58-billones",
+      "fecha": "2026-11-27",
+      "titulo": "El Gobierno eleva a 58 billones de pesos el costo estimado de la reconstrucción tras el terremoto",
+      "resumen": "El costo de la reconstrucción del occidente colombiano tras el terremoto del 10 de agosto asciende ahora a 58 billones de pesos, 4 billones más que los 54 billones calculados inicialmente. El director del DNP, Julián Buitrago, explicó las razones del incremento durante el XXIII Congreso Nacional de la Infraestructura, informa El Tiempo.",
+      "fuente": "El Tiempo",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.eltiempo.com/economia/sectores/costo-de-la-reconstruccion-tras-el-terremoto-subio-en-4-billones-calculo-del-gobierno-ahora-llega-a-58-billones-3605012"
+    },
     {
       "id": "co-20261127-elpais-fondo-milagro-postulaciones-vivienda-valle",
       "fecha": "2026-11-27",
@@ -12,6 +34,28 @@
       "tipo": "noticia",
       "tipoFuente": "medio",
       "url": "https://www.elpais.com.co/cali/fondo-milagro-anuncio-el-inicio-de-las-postulaciones-a-subsidios-de-vivienda-para-los-afectados-por-el-terremoto-en-el-valle-2756.html"
+    },
+    {
+      "id": "co-20261127-elpais-fondo-milagro-escoger-vivienda-cali",
+      "fecha": "2026-11-27",
+      "titulo": "Las familias damnificadas por el terremoto en Cali podrán escoger su vivienda: el Fondo Milagro abre una convocatoria",
+      "resumen": "El gerente del Fondo Milagro, Luis Felipe Henao, anunció en un foro con la comunidad la apertura de una convocatoria de proyectos de vivienda nueva de interés social que permitirá a los damnificados de Cali acceder a viviendas terminadas o en construcción, según sus condiciones económicas y el inmueble que perdieron. También se estudian alternativas para las familias de clase media, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/cali/familias-afectadas-por-el-terremoto-en-cali-podran-escoger-su-vivienda-asi-funcionara-el-acceso-a-las-soluciones-habitacionales-2719.html"
+    },
+    {
+      "id": "co-20261127-elpais-dagua-obras-por-impuestos-55-viviendas",
+      "fecha": "2026-11-27",
+      "titulo": "Arranca en Dagua (Valle) el primer proyecto de vivienda para damnificados del terremoto financiado con obras por impuestos",
+      "resumen": "El Ministerio de Vivienda puso el 27 de noviembre la primera piedra de 55 casas en zona rural de Dagua, el primer proyecto de vivienda para damnificados del terremoto del 10 de agosto financiado mediante el mecanismo de Obras por Impuestos en el Valle del Cauca. El proyecto cuenta con el respaldo del Grupo Argos, informa El País (Cali).",
+      "fuente": "El País (Cali)",
+      "categoria": "Reconstrucción",
+      "tipo": "noticia",
+      "tipoFuente": "medio",
+      "url": "https://www.elpais.com.co/valle/en-el-valle-se-realiza-el-primer-proyecto-de-vivienda-para-damnificados-del-terremoto-mediante-obras-por-impuestos-2721.html"
     },
     {
       "id": "co-20261126-elpais-minvivienda-plan-4700-casas",
