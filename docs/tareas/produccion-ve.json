@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-27",
+  "actualizado": "2026-11-28",
   "nota": "Selección editorial de la FEM a partir de varias fuentes: prensa venezolana e internacional y reportes de organismos oficiales. Solo se incluyen contenidos relacionados con el terremoto del 24 de junio de 2026, la reconstrucción y la respuesta humanitaria. El enlace principal apunta al medio original; el enlace 'espejo', cuando existe, sirve si el sitio está bloqueado dentro de Venezuela.",
   "items": [
+    {
+      "id": "ve-20261128-lapatilla-oms-tedros-sistema-salud",
+      "fecha": "2026-11-28",
+      "titulo": "El director de la OMS recorre La Guaira y advierte que los terremotos debilitaron el sistema de salud venezolano",
+      "resumen": "Tedros Adhanom Ghebreyesus, director general de la OMS, recorrió el 27 de noviembre zonas de La Guaira afectadas por los terremotos del 24 de junio, al cierre de su primera visita oficial a Venezuela. Según las evaluaciones que citó, en 26 centros de salud del área metropolitana de Caracas solo opera el 60 % de las camas y el 59 % de los quirófanos, recoge La Patilla.",
+      "fuente": "La Patilla",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Salud",
+      "url": "https://lapatilla.com/2026/11/28/director-oms-tedros-terremotos-sistema-salud-venezuela-la-guaira/"
+    },
     {
       "id": "ve-20261127-oim-lineamientos-kits-enseres-ehi",
       "fecha": "2026-11-27",
@@ -23,6 +34,17 @@
       "tipo": "noticia",
       "categoria": "Ayuda humanitaria",
       "url": "https://www.elnacional.com/2026/11/joven-rescatista-fallece-tras-sufrir-un-infarto-durante-labores-de-busqueda-en-la-guaira/"
+    },
+    {
+      "id": "ve-20261127-cronicauno-fundacion-flor-esperanza-la-guaira",
+      "fecha": "2026-11-27",
+      "titulo": "La Fundación Flor de Esperanza atiende a unas 5.000 familias afectadas por los terremotos en La Guaira",
+      "resumen": "Fabiana Abreu, de 22 años, y su madre, Andreína Suárez, llegaron a La Guaira tras los terremotos del 24 de junio y, con la Fundación Flor de Esperanza, coordinan proyectos de atención humanitaria que alcanzan a al menos 5.000 familias, según Crónica.Uno. Abreu contará la experiencia el 28 de noviembre en TEDx Caracas.",
+      "fuente": "Crónica.Uno",
+      "tipoFuente": "medio",
+      "tipo": "noticia",
+      "categoria": "Ayuda humanitaria",
+      "url": "https://cronica.uno/disenadora-fabiana-abreu-de-las-pasarelas-a-llevar-esperanza-a-familias-en-la-guaira-tras-los-sismos/"
     },
     {
       "id": "ve-20261126-elnacional-playas-la-guaira-abiertas-diario-diciembre",
